@@ -251,8 +251,35 @@
         <p>
           <pc ana="#pilcrow"/>3o contra 
           <lb ed="#B"/>eandem conclusionem Si conclusio est vera sequitur quod 
-          <lb ed="#B"/>esse per 
+          <lb ed="#B"/>esse per <unclear>factissimum</unclear> intellectus quod est esse perceptivum 
+          <lb ed="#B"/>sic esse activum formaliter vel igitur realiter in 
+          <lb ed="#B"/>esse producitur quod est falsum si in esse inten<lb ed="#B"/>tionale 
+          praecise contraquodlibet esse activum 
+          <lb ed="#B"/>reale maiorem ponit ponit perfecti<lb ed="#B"/>onem 
+          in re qua esse activum intentio<lb ed="#B"/>nale 
+          sed non quodlibet esse activum rea<lb ed="#B"/>le 
+          est maioris perfectionis formaliter <unclear>qaum</unclear>
+          <lb ed="#B"/>esse perceptivum igitur esse perceptivum non 
+          <lb ed="#B"/>est esse activum formaliter intentiona<lb ed="#B"/>liter 
+          nec etiam realiter ut probatum 
+          <lb ed="#B"/>est igitur nullo modo
         </p>
+        <p>
+          <note type="marginal-note" place="margin-left">responsio</note>
+          <pc ana="#pilcrow"/>ad istas rationes respon<lb ed="#B"/>deo 
+          praemitto primo quod secundum bona <choice><orig>loyica</orig><reg>logica</reg></choice> 
+          <lb ed="#B"/>aliud est dicere <c>a</c> est neutrorum istorum forma<lb ed="#B"/>liter 
+          et formaliter est neutrorum istorum 
+          <lb ed="#B"/>patet hoc satis faciliter ex hoc possem 
+          <lb ed="#B"/>dicere quod rationes non concludunt sed etiam 
+          <lb ed="#B"/>intendunt non plus includunt 
+          <lb ed="#B"/>nisi quod esse perceptivum non esset aliquod 
+          <lb ed="#B"/>istorum <subst><del rend="expunctated">faciliter</del> <add>formaliter</add></subst> sed ex hoc concludere 
+          <cb ed="#B" n="b"/>
+          <lb ed="#B"/>quod formaliter est nullum istorum consequentia non 
+          <lb ed="#B"/>valet
+        </p>
+        
       </div>
     </body>
   </text>
