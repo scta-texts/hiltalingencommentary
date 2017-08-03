@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Librum 1, Quaestio 5 [Clm 26711 Transcription]</title>
+        <author>John Hiltalingen of Basel</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Librum 1, Quaestio 5 [Clm 26711 Transcription]</title>
+          <date when="2017-08-02">August 8, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="clm26711">Bayerishce StaatsBibliothek, Clm 26711</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-02" who="#JW" status="draft" n="0.0.0-dev">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="include-list">
+        <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/workscited.xml" xpointer="worksCited"/>
+        <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/Prosopography.xml" xpointer="prosopography"/>
+      </div>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="60-v"/>
+        <cb ed="#B" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jhb-l1q5">
+        <head>Librum 1, Quaestio 5 [Clm 26711 Transcription]</head>
+        <p>
+          <lb ed="#B"/>Apostolus namque etc ista est 3a distinc<lb ed="#B"/>tio 
+          istius libri primi quae potest ad 
+          <lb ed="#B"/>praecedentem sic <unclear>continu??</unclear> post<lb ed="#B"/>quam 
+          in praecedenti dicit <name ref="#Lombard">magister</name> probavit 
+          naturae divinae unitatem et personarum trinitatem 
+          per auctoritates sacrae scripturae nunc in ista inten<lb ed="#B"/>dit 
+          hoc idem probare rationibus congru<lb ed="#B"/>is 
+          et similitudinibus creaturae et divi<lb ed="#B"/>ditur 
+          in tres partes principales secundum quod tripliciter 
+          <lb ed="#B"/>probat hoc ratione essentiae unitatem et perso<lb ed="#B"/>narum 
+          trinitatem nam primo probat hoc 
+          <lb ed="#B"/>ratione et argumento 2o similitudine 
+          <lb ed="#B"/>et vestigio 3 ymagine fundatae in 
+          <lb ed="#B"/>animae fundamento tunc 2a pars incipit ibi 
+          <quote>nunc restat ostendere</quote> 3a ibi <quote>nunc vero ad 
+          <lb ed="#B"/>eam</quote> prima dividitur in quatuor partes 
+          <lb ed="#B"/>secundum quod ponit quatuor rationes per quas 
+          <lb ed="#B"/>probat suam conclusionem nam in prima arguitur 
+          <lb ed="#B"/>ex dei causalitate effectiva 2o arguitur ex <seg type="correction">crea<subst><del>toris</del><lb ed="#B"/><add>turarum</add></subst></seg> 
+          mutabilitate et dei stabili per<lb ed="#B"/>serverantia 
+          omnimoda <pc ana="#pilcrow"/>3o perfectio excel<lb ed="#B"/>lentia 
+          <pc ana="#pilcrow"/>4o ex speciosioris exemplaris con<lb ed="#B"/>tinentia 
+          tunc 2a pars <quote>alio <sic>etiam</sic> modo</quote> 
+          <lb ed="#B"/>3a ibi <quote>consideraverunt etiam</quote> <pc ana="#pilcrow"/>4ta ibi 
+          <quote>intellexerunt</quote> etc corporis species et tunc 
+          <lb ed="#B"/>sequitur 2a principalis nunc restat quae 
+          <lb ed="#B"/>dividitur in 3 partes nam primo ostendit 
+          <lb ed="#B"/>qualiter vestigium <sic>cuctis</sic> rebus a 
+          <lb ed="#B"/>prima arte inprimitur 2o qualiter hoc 
+          <lb ed="#B"/>vestigium a rationali mente cognoscitur 
+          3o qualiter hoc vestigium trinitatis sine
+          <pb ed="#B" n="61-r"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B"/>fide non perficitur tunc 2a pars est ibi 
+          <lb ed="#B"/><quote>in illa enim trinitate summa</quote> 3a ibi <quote>ecce nunc 
+          <lb ed="#B"/>ostensum est</quote>
+        </p>
+        <p>
+          <lb ed="#B"/>Utrum anima intellectiva ex eo 
+          <lb ed="#B"/>quod est suorum activum formaliter 
+          <lb ed="#B"/>active perceptiva sit ymago
+          <lb ed="#B"/>divinae trinitatis proprie repraesentativa
+        </p>
+        <p>
+          et arguitur 
+          <lb ed="#B"/>primo quod non quia intellectiva non est 
+          <lb ed="#B"/>formaliter activa erog quaestio falsa tenet consequentia antecedens probatur 
+          <lb ed="#B"/>per <name>Iohannem de marchia</name> quaestione 2a suarum de<lb ed="#B"/>terminationem 
+          conclusione 4a ubi dicit nulla 
+          <lb ed="#B"/>potentia vitalis intellectualis substantiae 
+          in creaturis est activa formaliter 
+          <lb ed="#B"/>vel passiva sed neutra
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>2o sic non 
+          <lb ed="#B"/>quaelibet res est dei vestigium nec ipsius 
+          <lb ed="#B"/>repraesentativa igitur nec anima erit eius 
+          <lb ed="#B"/>ymago propria consequentia videtu nota quia qua<lb ed="#B"/>lem 
+          proportionalem <unclear>habet <!-- habent --></unclear> anima adesse ymaginis 
+          <lb ed="#B"/>talem <unclear>habet <!-- habent --></unclear> quaelibet res creata adesse ve<lb ed="#B"/>stigii 
+          <pc ana="#pilcrow"/>antecedens arguitur quia aliter quilibet 
+          <lb ed="#B"/>concipiens aliquod creatum conciperet unum 
+          <lb ed="#B"/>conceptum deo proprium quod non videtur
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>3o 
+          <lb ed="#B"/>sic anima suorum actuum non est activa 
+          <lb ed="#B"/>sed solum receptiva igitur quaestio falsa probatur quam 
+          <lb ed="#B"/>quia divina trinitas suos actus effi<lb ed="#B"/>cit 
+          et non suscipit igitur si anima suos 
+          <lb ed="#B"/>actus solum suscipit et non officit sequitur 
+          <lb ed="#B"/>quod non proprie trinitatem repraesentat antecedens 
+          <lb ed="#B"/>primum patet quia materia et efficiens non 
+          <lb ed="#B"/>coincidunt
+        </p>
+        <p>
+          <note type="marginal-note" place="margin-left">oppositum</note>
+          <pc ana="#pilcrow"/>In oppositum est <name ref="#Lombard">magister</name> in 
+          <lb ed="#B"/>littera probans quaestionem esse veram per dicta 
+          <lb ed="#B"/><name>augustinus</name> in multis locis
+        </p>
+        <p>
+          <note type="marginal-note" place="margin-left">prima conclusio</note>
+          <lb ed="#B"/>Prima conclusio 
+          <lb ed="#B"/>omnis potentia vitalis substantiae intellectualis 
+          <lb ed="#B"/>creata est formaliter activa probatur 
+          <lb ed="#B"/>nam omnis talis est alicuius actus 
+          <lb ed="#B"/>activa igitur omnis talis est activa sed quod 
+          <lb ed="#B"/>sit activa formaliter probo sic quia 
+          <lb ed="#B"/>si non hoc vel est ex eo quia non est 
+          <lb ed="#B"/>activa ut vitalis aut quia vel 
+          <lb ed="#B"/>sic est perceptiva aut quia activum 
+          <lb ed="#B"/>est ex eo Superius adesse intellectualiter 
+          <lb ed="#B"/>vitale primum non inpedit quia 2m 
+          <lb ed="#B"/><name ref="#Aristotle">philosophum</name> ideo anima est activa actum 
+          <cb ed="#B" n="b"/>
+          <lb ed="#B"/>vitalium quia est vita corporis
+        </p>
+        <p>
+          <lb ed="#B"/><pc ana="#pilcrow"/>2m non quia licet anima in quantum 
+          <lb ed="#B"/>potentia vitalis substantiae intllectualis sit perce<lb ed="#B"/>ptiva 
+          tum sit perceptiva sit <unclear>quoddam</unclear> in<lb ed="#B"/>tellectuale 
+          agere stat ipsam esse formaliter 
+          <lb ed="#B"/>activam
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>3m non inpedit quia 
+          <lb ed="#B"/>similiter <unclear>haberes</unclear> dicere quod aliquid esset for<lb ed="#B"/>maliter 
+          albedinem et tamen non esset formaliter 
+          <lb ed="#B"/>coloratum quod est falsum igitur conclusio vera quae 
+          <lb ed="#B"/>est in forma contra conclusionem 4am superius 
+          <lb ed="#B"/>dictam
+        </p>
+        <p>
+          <note type="marginal-note" place="margin-right">primum corollarium</note>
+          <pc ana="#pilcrow"/>primum corollarium contra 2am suam 
+          <lb ed="#B"/>conclusionem simul et tertiam potentia divina vi<lb ed="#B"/>talis 
+          perceptiva est formaliter 
+          <lb ed="#B"/>activa arguitur corollarium sic omnis deus 
+          <lb ed="#B"/>est formaliter virtus activa potentia vel omnis 
+          <lb ed="#B"/>potentia vitalis divina perceptiva est deus 
+          <lb ed="#B"/>igitur omnis talis est virtus formaliter 
+          <lb ed="#B"/>activa</p>
+        <p>
+          <note type="marginal-note" place="margin-right">2m</note>
+          <!-- unclear if this shoudl be a new paragraph --> <pc ana="#pilcrow"/>2o sic potentia perceptiva 
+          <lb ed="#B"/>divina formaliter est potentia activa di<lb ed="#B"/>vina 
+          realiter igitur et formaliter consequentia patet 
+          <lb ed="#B"/>quia aliter staret deum esse ali<lb ed="#B"/>quid 
+          realiter quod non esset formaliter 
+          <lb ed="#B"/>vel etiam aliquid foret deus realiter 
+          <lb ed="#B"/>quod non esset deus formaliter
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>2m corollarium 
+          <lb ed="#B"/>nulla potentia vitalis substantiae intellectualis 
+          <lb ed="#B"/>est inter activum et passivum formaliter 
+          <lb ed="#B"/>neutrum contra eundem ibidem probatur 
+          <lb ed="#B"/>sic <sic>quida</sic> oppositum arguo sic omnis potentia 
+          <lb ed="#B"/>intellectualis substantiae vitalis est 
+          <lb ed="#B"/>forma 
+          <lb ed="#B"/>neuter potentia divina intellectualis est huius 
+          <lb ed="#B"/>igitur est formaliter neutra tunc sic potentia 
+          <lb ed="#B"/>divina est formaliter netura igitur est formaliter 
+          <lb ed="#B"/>non activa igitur nullo modo est activa
+          <lb ed="#B"/>quod est falsum
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>3m corollarium contra eundem omnis 
+          <lb ed="#B"/>potentia perceptiva vitalis substantiae intellectua<lb ed="#B"/>lis 
+          est formaliter activa causalis patet 
+          <lb ed="#B"/>arguo corollario quia omnis potentia est vitalis 
+          <lb ed="#B"/>et nulla est neutra igitur corollarium verum
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>contra 
+          <lb ed="#B"/>conclusionem arguitur sic intellectus divinus non 
+          <lb ed="#B"/>est formaliter activus igitur nec intellectus 
+          <lb ed="#B"/>creatus patet consequentia antecedens probatur quia si 
+          <lb ed="#B"/>datur oppositum sequitur quod in deo idem est 
+          <lb ed="#B"/>formaliter posse agere et posse percipere 
+          <lb ed="#B"/>a consequens falsum quia tunc vel deus est
+          <pb ed="#B" n="61-v"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B"/>sui ipsius activus vel deus non est sui 
+          <lb ed="#B"/>perceptivus vel utraque simul quodlibet illorum 
+          <lb ed="#B"/>est falsum
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>2o sic posse perceptivum 
+          est proprietas potentiae in eo quod vita seu vi<lb ed="#B"/>talis 
+          essentia posse activum est proprietas 
+          <lb ed="#B"/>communis tam esse vitali quam esse non 
+          <lb ed="#B"/>vitali igitur una non est formaliter a<lb ed="#B"/>lia 
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>Confirmatur quod quodlibet posse perceptivum 
+          <lb ed="#B"/>creaturae est formaliter actum et non 
+          <lb ed="#B"/>econverso non enim quodlibet esse activum est perceptivum 
+          <lb ed="#B"/>igitur esse perceptivum adesse actum aliquid 
+          <lb ed="#B"/>super addit vel igitur tale esse est formaliter ac<lb ed="#B"/>tum 
+          et sequitur quod posse perceptivum est magis 
+          <lb ed="#B"/>posse perceptivum quam quodcumque posse activum 
+          <lb ed="#B"/>non perceptivum quod notum est esse falsum 
+          <lb ed="#B"/>vel non est formaliter activum illud 
+          <lb ed="#B"/>superadditum sed illud additum quo 
+          <lb ed="#B"/>aliquid est formaliter perceptivum igitur esse 
+          <lb ed="#B"/>perceptivum non est ut sic esse activum 
+          <lb ed="#B"/>et per consequens corollarium falsum vel etiam conclusio
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>3o contra 
+          <lb ed="#B"/>eandem conclusionem Si conclusio est vera sequitur quod 
+          <lb ed="#B"/>esse per 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
