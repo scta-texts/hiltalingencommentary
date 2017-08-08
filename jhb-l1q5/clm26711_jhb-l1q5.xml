@@ -600,9 +600,64 @@
           suarum acitonem antecedens est augustini 
           <lb ed="#B"/>libro primo <title>retractioneum</title> capitulo 90 nichil cau<lb ed="#B"/>sa 
           est in potestate voluntatis sicut ipsa 
-          <lb ed="#B"/>
+          <pb ed="#B" n="63-r"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B"/>voluntas sed consequentia probatur quia voluntas 
+          <lb ed="#B"/>est una mens una substantia una 
+          <lb ed="#B"/>vita sed <name>augustinus</name> ut habetur in littera 
+          <lb ed="#B"/>distinctionis 3o primi sententiarum qua 
+          <lb ed="#B"/>re conclusio videtur vera sed quod sit receptiva 
+          <lb ed="#B"/>communiter tenetur non indiget <unclear>magna</unclear>
+          <lb ed="#B"/>probatione potest tamen probari primo 
+          <lb ed="#B"/>ex textu evvangelii lucis 16 <quote ana="#lc16_25"><sic>filii</sic> re<lb ed="#B"/>cordare</quote> 
+          ubi loquitur ad animam sed hoc non fuit solum parabala sed 
+          <lb ed="#B"/>etiam hystoria secundum <name>augustinum</name> 8 <title>super genesem</title> 
+          <lb ed="#B"/>capitulo 7 ad idem est <name>venerabilis anselmus</name> <title>de con<lb ed="#B"/>ceptu 
+          virginali</title> capitulo 4o in membris 
+          <lb ed="#B"/>corporis nichil delete nihchil de<lb ed="#B"/>lectatur nisi anima et voluntas rationalis
         </p>
-          
+        <p>
+          <lb ed="#B"/>
+          <note type="marginal-note" place="margin-left">primum corollarium</note> 
+          <pc ana="#pilcrow"/>primum corollarium nullus actus animae 
+          <lb ed="#B"/>effective habet solum unum principium 
+          <lb ed="#B"/>et unam causam praecise probatur nam 
+          <lb ed="#B"/>obiectum talis actus est principium effecti<lb ed="#B"/>vum 
+          <seg type="correction">par<subst><del>tila</del><add>tiale</add></subst></seg> secundum quod parvi in quaestio<lb ed="#B"/>ne 
+          primae distinctionis et probatur 
+          <lb ed="#B"/>9 <title>de trinitate</title> capitulo 13 ubi <name>augustinus</name> omnis 
+          <lb ed="#B"/>res quam cognoscimus <unclear>cong?at</unclear> in 
+          <lb ed="#B"/>nobis notitiam sui sed cum hoc habet 
+          ipsam anima principium et causam 
+          <lb ed="#B"/>igitur corollarium verum
+        </p>
+        <p>
+          <note type="marginal-note" place="margin-left">2m</note>
+          <pc ana="#pilcrow"/>2m corollarium causam natura<lb ed="#B"/>lem 
+          ad effectum liberem concurrere non 
+          <lb ed="#B"/>est simpliciter inpossible probatur quia 
+          <lb ed="#B"/>obiectum causat naturaliter naturali influxu 
+          <lb ed="#B"/>causativo et cum concurrit effective
+          <lb ed="#B"/>ad actus <unclear>liberi causationi <!-- case endings unclear --></unclear> igitur corollarium 
+          <lb ed="#B"/>verum
+        </p>
+        <p>
+          <note type="marginal-note" place="margin-left">3m</note>
+          <pc ana="#pilcrow"/>3m corollarium quod anima intellecti<lb ed="#B"/>va 
+          suorum actuum libere causativa 
+          <lb ed="#B"/>diviniae trinitatis est ymago proprie 
+          <lb ed="#B"/>repraesentativa probatur quia est ibi 
+          <lb ed="#B"/>essentialis unitas et causalis trinitas 
+          <lb ed="#B"/>igitur corollarium verum consequentia et antecedens patent 
+          <lb ed="#B"/>ex dictis <name>augustinis</name> et <name>magistri</name> in littera 
+          <lb ed="#B"/>praesentis distinctionis 3ae primi <choice><sic>li<lb ed="#B"/>beri</sic><corr>li<lb ed="#B"/>bri</corr></choice>
+        </p>
+        <p>
+          <pc ana="#dbslash"/>contra conclusionem sequitur quod idem esset 
+          <lb ed="#B"/>movens et motum agens et 
+          <cb ed="#B" n="b"/> <!-- 63rb -->
+          <lb ed="#B"/>passum
+        </p>
       </div>
     </body>
   </text>
