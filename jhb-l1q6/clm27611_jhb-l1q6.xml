@@ -5,14 +5,14 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Librum 1, Quaestio 5 [Clm 26711 Transcription]</title>
+        <title>Librum 1, Quaestio 6 [Clm 26711 Transcription]</title>
         <author>John Hiltalingen of Basel</author>
         <editor>Jeffrey C. Witt</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Librum 1, Quaestio 5 [Clm 26711 Transcription]</title>
-          <date when="2017-08-02">August 8, 2017</date>
+          <title>Librum 1, Quaestio 6 [Clm 26711 Transcription]</title>
+          <date when="2017-08-10">August 10, 2017</date>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -37,7 +37,7 @@
     </encodingDesc>
     <revisionDesc status="draft">
       <listChange>
-        <change when="2017-08-02" who="#JW" status="draft" n="0.0.0-dev">
+        <change when="2017-08-10" who="#JW" status="draft" n="0.0.0-dev">
           <p>Created file for the first time.</p>
         </change>
       </listChange>
@@ -50,707 +50,99 @@
         <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/Prosopography.xml" xpointer="prosopography"/>
       </div>
       <div xml:id="starts-on">
-        <pb ed="#B" n="60-v"/>
-        <cb ed="#B" n="b"/>
+        <pb ed="#B" n="63-v"/>
+        <cb ed="#B" n="a"/>
       </div>
     </front>
     <body>
-      <div xml:id="jhb-l1q5">
-        <head>Librum 1, Quaestio 5 [Clm 26711 Transcription]</head>
+      <div xml:id="jhb-l1q6">
+        <head>Librum 1, Quaestio 6 [Clm 26711 Transcription]</head>
         <p>
-          <lb ed="#B"/>Apostolus namque etc ista est 3a distinc<lb ed="#B"/>tio 
-          istius libri primi quae potest ad 
-          <lb ed="#B"/>praecedentem sic <unclear>continu??</unclear> post<lb ed="#B"/>quam 
-          in praecedenti dicit <name ref="#Lombard">magister</name> probavit 
-          naturae divinae unitatem et personarum trinitatem 
-          per auctoritates sacrae scripturae nunc in ista inten<lb ed="#B"/>dit 
-          hoc idem probare rationibus congru<lb ed="#B"/>is 
-          et similitudinibus creaturae et divi<lb ed="#B"/>ditur 
-          in tres partes principales secundum quod tripliciter 
-          <lb ed="#B"/>probat hoc ratione essentiae unitatem et perso<lb ed="#B"/>narum 
-          trinitatem nam primo probat hoc 
-          <lb ed="#B"/>ratione et argumento 2o similitudine 
-          <lb ed="#B"/>et vestigio 3 ymagine fundatae in 
-          <lb ed="#B"/>animae fundamento tunc 2a pars incipit ibi 
-          <quote>nunc restat ostendere</quote> 3a ibi <quote>nunc vero ad 
-          <lb ed="#B"/>eam</quote> prima dividitur in quatuor partes 
-          <lb ed="#B"/>secundum quod ponit quatuor rationes per quas 
-          <lb ed="#B"/>probat suam conclusionem nam in prima arguitur 
-          <lb ed="#B"/>ex dei causalitate effectiva 2o arguitur ex <seg type="correction">crea<subst><del>toris</del><lb ed="#B"/><add>turarum</add></subst></seg> 
-          mutabilitate et dei stabili per<lb ed="#B"/>serverantia 
-          omnimoda <pc ana="#pilcrow"/>3o perfectio excel<lb ed="#B"/>lentia 
-          <pc ana="#pilcrow"/>4o ex speciosioris exemplaris con<lb ed="#B"/>tinentia 
-          tunc 2a pars <quote>alio <sic>etiam</sic> modo</quote> 
-          <lb ed="#B"/>3a ibi <quote>consideraverunt etiam</quote> <pc ana="#pilcrow"/>4ta ibi 
-          <quote>intellexerunt</quote> etc corporis species et tunc 
-          <lb ed="#B"/>sequitur 2a principalis nunc restat quae 
-          <lb ed="#B"/>dividitur in 3 partes nam primo ostendit 
-          <lb ed="#B"/>qualiter vestigium <sic>cuctis</sic> rebus a 
-          <lb ed="#B"/>prima arte inprimitur 2o qualiter hoc 
-          <lb ed="#B"/>vestigium a rationali mente cognoscitur 
-          3o qualiter hoc vestigium trinitatis sine
-          <pb ed="#B" n="61-r"/>
-          <cb ed="#B" n="a"/>
-          <lb ed="#B"/>fide non perficitur tunc 2a pars est ibi 
-          <lb ed="#B"/><quote>in illa enim trinitate summa</quote> 3a ibi <quote>ecce nunc 
-          <lb ed="#B"/>ostensum est</quote>
+          <lb ed="#B"/>Hic oritur quaestio etc hoc est 4ta 
+          <lb ed="#B"/>distinctio istius primi libri 
+          <lb ed="#B"/>quae potest ad praecedentem sic 
+          <lb ed="#B"/>continuari postquam <name>magister</name> determinavit 
+          <lb ed="#B"/>de essentiae unitate et personarum trinitate 
+          <lb ed="#B"/>nunc in ista parte tractat dearum 
+          <lb ed="#B"/>scilicet personarum origine a <unclear>2 alie?te</unclear> et 
+          <lb ed="#B"/>dividitur in quatuor partes nam 
+          <lb ed="#B"/>primo movet quaestionem 2o arguo per ratio<lb ed="#B"/>nem 
+          <pc ana="#pilcrow"/>3o respondet ad dubitationem 
+          <lb ed="#B"/>4o ponit argumenti solutionem tunc 2a 
+          <lb ed="#B"/>pars incipit ibi si enim deus genu<lb ed="#B"/>it 
+          deum 3a ibi <unclear>adquid</unclear> respondentes 4a 
+          <lb ed="#B"/>ibi nunc ad praemissam quaestionem
         </p>
         <p>
-          <lb ed="#B"/>Utrum anima intellectiva ex eo 
-          <lb ed="#B"/>quod est suorum activum formaliter 
-          <lb ed="#B"/>active perceptiva sit ymago
-          <lb ed="#B"/>divinae trinitatis proprie repraesentativa
+          <lb ed="#B"/>Utrum sine motu et successi<lb ed="#B"/>one 
+          deus generet deum 
+          <lb ed="#B"/>aeterna et vera generatione arguitur 
+          <lb ed="#B"/>primo quod non quia filius incipit et 
+          <lb ed="#B"/>incipit esse igitur non est aeternaliter 
+          <lb ed="#B"/>productus sine motu et successione 
+          <lb ed="#B"/>consequentia est evidens et assumptum probatur 
+          <lb ed="#B"/>cum primo quia deus est in aliquo 
+          <cb ed="#B" n="b"/>
+          <lb ed="#B"/>instanti <unclear>sine filius</unclear> et nunquam ante illud fuit 
+          <lb ed="#B"/>igitur in illo esse incipit
         </p>
         <p>
-          et arguitur 
-          <lb ed="#B"/>primo quod non quia intellectiva non est 
-          <lb ed="#B"/>formaliter activa erog quaestio falsa tenet consequentia antecedens probatur 
-          <lb ed="#B"/>per <name>Iohannem de marchia</name> quaestione 2a suarum de<lb ed="#B"/>terminationem 
-          conclusione 4a ubi dicit nulla 
-          <lb ed="#B"/>potentia vitalis intellectualis substantiae 
-          in creaturis est activa formaliter 
-          <lb ed="#B"/>vel passiva sed neutra
+          <pc ana="#pilcrow"/>2o quia deus 
+          <lb ed="#B"/>incipit esse in hoc instanti igitur deus inci<lb ed="#B"/>pit 
+          esse in aliquo instanti probatur consequentia
+          <lb ed="#B"/>quia si deus non incipit esse in hoc 
+          <lb ed="#B"/>instanti
         </p>
         <p>
-          <pc ana="#pilcrow"/>2o sic non 
-          <lb ed="#B"/>quaelibet res est dei vestigium nec ipsius 
-          <lb ed="#B"/>repraesentativa igitur nec anima erit eius 
-          <lb ed="#B"/>ymago propria consequentia videtu nota quia qua<lb ed="#B"/>lem 
-          proportionalem <unclear>habet <!-- habent --></unclear> anima adesse ymaginis 
-          <lb ed="#B"/>talem <unclear>habet <!-- habent --></unclear> quaelibet res creata adesse ve<lb ed="#B"/>stigii 
-          <pc ana="#pilcrow"/>antecedens arguitur quia aliter quilibet 
-          <lb ed="#B"/>concipiens aliquod creatum conciperet unum 
-          <lb ed="#B"/>conceptum deo proprium quod non videtur
+          <pc ana="#dbslash"/>3o quia filius creatur et produ<lb ed="#B"/>citur 
+          de nichilo sicut patet <ref>ecclesiasticus 24</ref> ante 
+          <lb ed="#B"/>omnia secula creata sum Et con<lb ed="#B"/>firmatur 
+          nam si de aliquo illud esset 
+          <lb ed="#B"/>idem quod pater et sic agens et materia 
+          <lb ed="#B"/>coinciderent
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>2o sic deus non 
+          <lb ed="#B"/>generat alium a se deum igitur non generat 
+          <lb ed="#B"/>aliquod deum consequentia patet quia non potest 
+          <lb ed="#B"/>se ipsum generare igitur si generabit et 
+          <lb ed="#B"/>generet tunc alium et si non alium igitur 
+          <lb ed="#B"/>nullum antecedens arguitur cum primo quia essentia 
+          <lb ed="#B"/>divinia esset triplicata et sic posset 
+          <lb ed="#B"/>dici triplicata inpersonis cuius oppositum 
+          <lb ed="#B"/>probat <name>Egidius</name> in tractatu de 
+          <lb ed="#B"/>reprobatione erroris petri iohannis er<lb ed="#B"/>rore 
+          3o per <name>augustinum</name> a de trinitate c 6 cum 2o 
+          <lb ed="#B"/>quia nulla videtur ratio quare po<lb ed="#B"/>tius 
+          unde alium a se generet quam alterum 
+          <lb ed="#B"/>igitur vel nullum generat vel infinitos 
+          <lb ed="#B"/>generat quorum utrumque est falsum
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>3o in 
+          <lb ed="#B"/>divinis nulla est propria et vera generatio 
+          <lb ed="#B"/>igitur quaestio falsa consequentia nota antecedens 
+          <lb ed="#B"/>arguitur primo quia sequitur quod motus esset 
+          <lb ed="#B"/>in deo cum generatio sit motus <unclear>tum</unclear> 2o 
+          <lb ed="#B"/>aut esset equiovca aut univo<lb ed="#B"/>ca 
+          quorum neutrum potest esse non uni<lb ed="#B"/>voca 
+          quia producens et productum 
+          <lb ed="#B"/>non sunt eius dem speciei nec aequivo<lb ed="#B"/>ca 
+          cum filius sit aequalis patri
         </p>
         <p>
           <pc ana="#pilcrow"/>3o 
-          <lb ed="#B"/>sic anima suorum actuum non est activa 
-          <lb ed="#B"/>sed solum receptiva igitur quaestio falsa probatur quam 
-          <lb ed="#B"/>quia divina trinitas suos actus effi<lb ed="#B"/>cit 
-          et non suscipit igitur si anima suos 
-          <lb ed="#B"/>actus solum suscipit et non officit sequitur 
-          <lb ed="#B"/>quod non proprie trinitatem repraesentat antecedens 
-          <lb ed="#B"/>primum patet quia materia et efficiens non 
-          <lb ed="#B"/>coincidunt
-        </p>
-        <p>
-          <note type="marginal-note" place="margin-left">oppositum</note>
-          <pc ana="#pilcrow"/>In oppositum est <name ref="#Lombard">magister</name> in 
-          <lb ed="#B"/>littera probans quaestionem esse veram per dicta 
-          <lb ed="#B"/><name>augustinus</name> in multis locis
-        </p>
-        <p>
-          <note type="marginal-note" place="margin-left">prima conclusio</note>
-          <lb ed="#B"/>Prima conclusio 
-          <lb ed="#B"/>omnis potentia vitalis substantiae intellectualis 
-          <lb ed="#B"/>creata est formaliter activa probatur 
-          <lb ed="#B"/>nam omnis talis est alicuius actus 
-          <lb ed="#B"/>activa igitur omnis talis est activa sed quod 
-          <lb ed="#B"/>sit activa formaliter probo sic quia 
-          <lb ed="#B"/>si non hoc vel est ex eo quia non est 
-          <lb ed="#B"/>activa ut vitalis aut quia vel 
-          <lb ed="#B"/>sic est perceptiva aut quia activum 
-          <lb ed="#B"/>est ex eo Superius adesse intellectualiter 
-          <lb ed="#B"/>vitale primum non inpedit quia 2m 
-          <lb ed="#B"/><name ref="#Aristotle">philosophum</name> ideo anima est activa actum 
-          <cb ed="#B" n="b"/>
-          <lb ed="#B"/>vitalium quia est vita corporis
-        </p>
-        <p>
-          <lb ed="#B"/><pc ana="#pilcrow"/>2m non quia licet anima in quantum 
-          <lb ed="#B"/>potentia vitalis substantiae intllectualis sit perce<lb ed="#B"/>ptiva 
-          tum sit perceptiva sit <unclear>quoddam</unclear> in<lb ed="#B"/>tellectuale 
-          agere stat ipsam esse formaliter 
-          <lb ed="#B"/>activam
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>3m non inpedit quia 
-          <lb ed="#B"/>similiter <unclear>haberes</unclear> dicere quod aliquid esset for<lb ed="#B"/>maliter 
-          albedinem et tamen non esset formaliter 
-          <lb ed="#B"/>coloratum quod est falsum igitur conclusio vera quae 
-          <lb ed="#B"/>est in forma contra conclusionem 4am superius 
-          <lb ed="#B"/>dictam
-        </p>
-        <p>
-          <note type="marginal-note" place="margin-right">primum corollarium</note>
-          <pc ana="#pilcrow"/>primum corollarium contra 2am suam 
-          <lb ed="#B"/>conclusionem simul et tertiam potentia divina vi<lb ed="#B"/>talis 
-          perceptiva est formaliter 
-          <lb ed="#B"/>activa arguitur corollarium sic omnis deus 
-          <lb ed="#B"/>est formaliter virtus activa potentia vel omnis 
-          <lb ed="#B"/>potentia vitalis divina perceptiva est deus 
-          <lb ed="#B"/>igitur omnis talis est virtus formaliter 
-          <lb ed="#B"/>activa</p>
-        <p>
-          <note type="marginal-note" place="margin-right">2m</note>
-          <!-- unclear if this shoudl be a new paragraph --> <pc ana="#pilcrow"/>2o sic potentia perceptiva 
-          <lb ed="#B"/>divina formaliter est potentia activa di<lb ed="#B"/>vina 
-          realiter igitur et formaliter consequentia patet 
-          <lb ed="#B"/>quia aliter staret deum esse ali<lb ed="#B"/>quid 
-          realiter quod non esset formaliter 
-          <lb ed="#B"/>vel etiam aliquid foret deus realiter 
-          <lb ed="#B"/>quod non esset deus formaliter
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>2m corollarium 
-          <lb ed="#B"/>nulla potentia vitalis substantiae intellectualis 
-          <lb ed="#B"/>est inter activum et passivum formaliter 
-          <lb ed="#B"/>neutrum contra eundem ibidem probatur 
-          <lb ed="#B"/>sic <sic>quida</sic> oppositum arguo sic omnis potentia 
-          <lb ed="#B"/>intellectualis substantiae vitalis est 
-          <lb ed="#B"/>forma 
-          <lb ed="#B"/>neuter potentia divina intellectualis est huius 
-          <lb ed="#B"/>igitur est formaliter neutra tunc sic potentia 
-          <lb ed="#B"/>divina est formaliter netura igitur est formaliter 
-          <lb ed="#B"/>non activa igitur nullo modo est activa
-          <lb ed="#B"/>quod est falsum
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>3m corollarium contra eundem omnis 
-          <lb ed="#B"/>potentia perceptiva vitalis substantiae intellectua<lb ed="#B"/>lis 
-          est formaliter activa causalis patet 
-          <lb ed="#B"/>arguo corollario quia omnis potentia est vitalis 
-          <lb ed="#B"/>et nulla est neutra igitur corollarium verum
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>contra 
-          <lb ed="#B"/>conclusionem arguitur sic intellectus divinus non 
-          <lb ed="#B"/>est formaliter activus igitur nec intellectus 
-          <lb ed="#B"/>creatus patet consequentia antecedens probatur quia si 
-          <lb ed="#B"/>datur oppositum sequitur quod in deo idem est 
-          <lb ed="#B"/>formaliter posse agere et posse percipere 
-          <lb ed="#B"/>a consequens falsum quia tunc vel deus est
-          <pb ed="#B" n="61-v"/>
-          <cb ed="#B" n="a"/>
-          <lb ed="#B"/>sui ipsius activus vel deus non est sui 
-          <lb ed="#B"/>perceptivus vel utraque simul quodlibet illorum 
-          <lb ed="#B"/>est falsum
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>2o sic posse perceptivum 
-          est proprietas potentiae in eo quod vita seu vi<lb ed="#B"/>talis 
-          essentia posse activum est proprietas 
-          <lb ed="#B"/>communis tam esse vitali quam esse non 
-          <lb ed="#B"/>vitali igitur una non est formaliter a<lb ed="#B"/>lia 
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>Confirmatur quod quodlibet posse perceptivum 
-          <lb ed="#B"/>creaturae est formaliter actum et non 
-          <lb ed="#B"/>econverso non enim quodlibet esse activum est perceptivum 
-          <lb ed="#B"/>igitur esse perceptivum adesse actum aliquid 
-          <lb ed="#B"/>super addit vel igitur tale esse est formaliter ac<lb ed="#B"/>tum 
-          et sequitur quod posse perceptivum est magis 
-          <lb ed="#B"/>posse perceptivum quam quodcumque posse activum 
-          <lb ed="#B"/>non perceptivum quod notum est esse falsum 
-          <lb ed="#B"/>vel non est formaliter activum illud 
-          <lb ed="#B"/>superadditum sed illud additum quo 
-          <lb ed="#B"/>aliquid est formaliter perceptivum igitur esse 
-          <lb ed="#B"/>perceptivum non est ut sic esse activum 
-          <lb ed="#B"/>et per consequens corollarium falsum vel etiam conclusio
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>3o contra 
-          <lb ed="#B"/>eandem conclusionem Si conclusio est vera sequitur quod 
-          <lb ed="#B"/>esse per <unclear>factissimum</unclear> intellectus quod est esse perceptivum 
-          <lb ed="#B"/>sic esse activum formaliter vel igitur realiter in 
-          <lb ed="#B"/>esse producitur quod est falsum si in esse inten<lb ed="#B"/>tionale 
-          praecise contraquodlibet esse activum 
-          <lb ed="#B"/>reale maiorem ponit ponit perfecti<lb ed="#B"/>onem 
-          in re qua esse activum intentio<lb ed="#B"/>nale 
-          sed non quodlibet esse activum rea<lb ed="#B"/>le 
-          est maioris perfectionis formaliter <unclear>qaum</unclear>
-          <lb ed="#B"/>esse perceptivum igitur esse perceptivum non 
-          <lb ed="#B"/>est esse activum formaliter intentiona<lb ed="#B"/>liter 
-          nec etiam realiter ut probatum 
-          <lb ed="#B"/>est igitur nullo modo
-        </p>
-        <p>
-          <note type="marginal-note" place="margin-left">responsio</note>
-          <pc ana="#pilcrow"/>ad istas rationes respon<lb ed="#B"/>deo 
-          praemitto primo quod secundum bona <choice><orig>loyica</orig><reg>logica</reg></choice> 
-          <lb ed="#B"/>aliud est dicere <c>a</c> est neutrorum istorum forma<lb ed="#B"/>liter 
-          et formaliter est neutrorum istorum 
-          <lb ed="#B"/>patet hoc satis faciliter ex hoc possem 
-          <lb ed="#B"/>dicere quod rationes non concludunt sed etiam 
-          <lb ed="#B"/>intendunt non plus includunt 
-          <lb ed="#B"/>nisi quod esse perceptivum non esset aliquod 
-          <lb ed="#B"/>istorum <subst><del rend="expunctated">faciliter</del> <add>formaliter</add></subst> sed ex hoc concludere 
-          <cb ed="#B" n="b"/>
-          <lb ed="#B"/>quod formaliter est nullum istorum consequentia non 
-          <lb ed="#B"/>valet
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>
-          <lb ed="#B"/>2o praemitto quod aliud est dicere
-          <lb ed="#B"/>agere non est formaliter percipere vel perci<lb ed="#B"/>pere 
-          non est formaliter agere Et a<lb ed="#B"/>liud 
-          est ponere potentia perceptiva non 
-          <lb ed="#B"/>est formaliter activa patet etiam satis 
-          <lb ed="#B"/>Ex hoc possent solvi rationes quia 
-          <lb ed="#B"/>solum nituntur probare quod percipere non sic 
-          <lb ed="#B"/>formaliter agere et ex hoc non sequitur quod potentia 
-          <lb ed="#B"/>perceptiva non sit activa formaliter 
-          <lb ed="#B"/>aliter concludere quod nulla potentia intellectiva 
-          <lb ed="#B"/>ipse ponit eodem arguo conclusione prima 
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>
-          <lb ed="#B"/>3o dico quod in ista positione sequitur destructio 
-          <lb ed="#B"/>sui fundamenti principalis quasi in omnibus 
-          <lb ed="#B"/>suis dictis patet nam certum est quod deus 
-          <lb ed="#B"/>est potentia activa intrinsice <pc ana="#virgula"/> si igitur perceptivum 
-          <lb ed="#B"/>ut sic in maiorem ponit perfectionem 
-          <lb ed="#B"/>in deo quam activum ut sic igitur non omnis 
-          <lb ed="#B"/>gradualitas excluditur a deo Cuius o<lb ed="#B"/>ppositum 
-          <unclear>nititur</unclear> in omnibus dictis su<lb ed="#B"/>is 
-          probare sicut patet prologis primi sententiarum 
-          <lb ed="#B"/>et quaestione prima sententiarum determinationem
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>hoc 
-          <lb ed="#B"/>3m dictum confirmatur per eum quaestione prima 
-          <lb ed="#B"/>determinationem argo primo solutione primi 
-          <lb ed="#B"/>argumenti contra conclusionem 2am ubi dicit 
-          <lb ed="#B"/>deus est inmense perfectus <unclear>etc</unclear> inde 
-          <lb ed="#B"/>ibi
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>respondeo igitur quamvis non oporteret 
-          <lb ed="#B"/>ad rationem informa bene cum arguitur in<lb ed="#B"/>tellectus 
-          divinis non est formaliter 
-          <lb ed="#B"/>activus dico primo negando consequentiam 
-          <lb ed="#B"/>quia arguitur ab una particulari vel singu<lb ed="#B"/>lari 
-          negativa ad universalem
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>2o 
-          <lb ed="#B"/>nego assumptum et cum dicitur vel igitur deus 
-          <lb ed="#B"/>erit sui activus etc nego dico quod nullum 
-          <lb ed="#B"/>istorum sequitur sicut patet
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>ad 2m concedo antecedens 
-          <lb ed="#B"/>et nego consequentiam nam per similem rationem 
-          <lb ed="#B"/>probarem quod esse <unclear>respondibile</unclear> est neutrum 
-          <lb ed="#B"/>formaliter inter ens et non ens probatur 
-          <lb ed="#B"/>secundum eum quia respondibile est proprietas asi<lb ed="#B"/>ni 
-          in eo quod vitalis ens non est proprietas 
-          <lb ed="#B"/>communis
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>2o quia non sequitur non est formaliter 
-          <lb ed="#B"/>altorum istorum igitur formaliter est neutrum 
-          <lb ed="#B"/>istorum
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>ad 3m cum confirmatur si quodlibet 
-          <pb ed="#B" n="62-r"/>
-          <cb ed="#B" n="a"/>
-          <lb ed="#B"/>posse perceptivum est activum etc igitur esse per<lb ed="#B"/>ceptivum 
-          etc posset uno modo concedi antecedens scilicet 
-          <lb ed="#B"/>quod perceptivum posse aliquid adderet 
-          <lb ed="#B"/>super posse actum nec tamen sequitur quod illud 
-          <lb ed="#B"/>super additum esset magis activum quam 
-          <lb ed="#B"/>quocumque activum
-        </p>
-        <p>
-          <pc ana="#pilcrow"/><lb ed="#B"/>2o potest dici aliter 
-          <lb ed="#B"/>ad consequens quod ipsum potest intelligi dupliciter 
-          <lb ed="#B"/>vel ex parte rei vel ex parte signi Si ex 
-          <lb ed="#B"/>parte rei negatur saltem in eadem re 
-          <lb ed="#B"/>si ex parte signi vel significatione vel diffinitione 
-          <lb ed="#B"/>si significative consequentia non vlet si 
-          <lb ed="#B"/>diffinitive concederem consequens nec per hoc 
-          <lb ed="#B"/>aliquid concluditur
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>3o potest simpliciter 
-          <lb ed="#B"/>dici nego consequentiam nam nullum inferius 
-          <lb ed="#B"/>addit aliquid super illud quod significatur 
-          <lb ed="#B"/>per genus
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>4o dico quod per totam rationem 
-          <lb ed="#B"/>non concluditur plus nisi quod posse ac<lb ed="#B"/>tivum 
-          non est formaliter posse perceptivum 
-          <lb ed="#B"/>quod si concederetur non haberetur propositum scilicet quod nullum 
-          <lb ed="#B"/>posse perceptivum esset formaliter activum
-        </p>
-        <p>
-          <lb ed="#B"/><pc ana="#pilcrow"/>ad 4am dico primo quod tota ratio nich<pc ana="#pilcrow"/>il 
-          plus concludit nisi quod intellectus 
-          <lb ed="#B"/>illius universaliter <unclear>activus</unclear> cuius est formaliter 
-          <lb ed="#B"/>vel vitaliter perceptivus sed ex hoc conclu<lb ed="#B"/>dere 
-          quod non sic formaliter activus patet quod est 
-          <unclear>praeva</unclear> falsa
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>2o dico quod ad modum <unclear>loquendi</unclear>
-          <lb ed="#B"/>multorum intellectus causat suum obiectum 
-          <lb ed="#B"/>in esse intentionali et cum dicitur contra quodlibet 
-          <lb ed="#B"/>activum reale maiorem perfectionem 
-          <lb ed="#B"/>ponit quam activum intentionale hoc 
-          <lb ed="#B"/>simpliciter est falsum nam rosa est activa 
-          <lb ed="#B"/>odoris realiter et homo intentionaliter 
-          <lb ed="#B"/>et tamen certum est quod homo est perfectior 
-          <lb ed="#B"/>in eo quod illud <unclear>accidens</unclear> potest sic causa 
-          <lb ed="#B"/>re in esse intentionali qua rosa in eo 
-          <lb ed="#B"/>quod ponit ipsum in esse reali et sic patet 
-          <lb ed="#B"/>quid dicendum ad rationes omnes fac<lb ed="#B"/>tas 
-          contra conclusionem istam primam
-        </p>
-        <p>
-          <note type="marginal-note" place="margin-left">2o conclusio</note>
-          <pc ana="#pilcrow"/>2a conclusio
-          <lb ed="#B"/>omnis divinus ternarius in creaturis suum 
-          <lb ed="#B"/>proprium habet vestigium ista conclusio quantum ad eius 
-          <lb ed="#B"/>materiam deducitur a quodam veniali 
-          <lb ed="#B"/><unclear>vio</unclear> licet non magistro <name>micahe de massa</name>
-          <cb ed="#B" n="b"/>
-          <lb ed="#B"/>quaestione prima distinctione 4 sui primi sententiarum nam 
-          <lb ed="#B"/>in deo est ternarius secundum proprietatem continue
-        </p>
-        <p>
-          <lb ed="#B"/><pc ana="#dbslash"/>2o essentialis existentiae <pc ana="#pilcrow"/> 3o notionalis 
-          <lb ed="#B"/>substantiae <pc ana="#pilcrow"/> 4o causalis efficientiae <pc ana="#virgula"/> 5o cordi<pc ana="#virgula"/>alis 
-          benivolentiae <pc ana="#pilcrow"/>6o regalis clemen<lb ed="#B"/>tiae 
-          <pc ana="#virgula"/> 7o finalis primiative iustitiae 
-        </p>
-        <p>
-          <lb ed="#B"/><pc ana="#pilcrow"/>pro primo <unclear>monum</unclear> creatura est substantia 
-          <lb ed="#B"/>virtus et operatio
-          <pc ana="#pilcrow"/>pro 2o unitas species 
-          <lb ed="#B"/>et ordo pro 3o aliquod movens est motum 
-          <lb ed="#B"/>ut pater movens motum ut filius 
-          <lb ed="#B"/>non movens ut spiritus sanctus <pc ana="#pilcrow"/>pro 4o 
-          <lb ed="#B"/>in actione artificis concurrit ar<lb ed="#B"/>tifex 
-          ars et finis <pc ana="#pilcrow"/>de 5o ait iohannes 
-          <quote ana="#Iio5_7">tres sunt qui testimonium</quote> etc spiritus 
-          <lb ed="#B"/>sanctus ignis et aqua <!-- this could be a mistaken reference to Iio5_8 --> <pc ana="#pilcrow"/> pro 6o <quote ana="#sap11_21">omnia facta sunt 
-          <lb ed="#B"/>in numero pondere et mensura</quote> sapientia 9 c
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>In alio concurrunt plenitudo 
-          <lb ed="#B"/>satiens pulchri delectans fortitudo 
-          <lb ed="#B"/>confirmans pro hiis multa dicta sanctorum et 
-          <lb ed="#B"/>doctorum possent adduci quae dimit<lb ed="#B"/>to 
-          causa brevitatis quia sunt 
-          <lb ed="#B"/>communia
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>primum corollarium nihil tam <unclear>obiecto</unclear> 
-          <lb ed="#B"/>est in universo quam reali creaturae 
-          <lb ed="#B"/>ad divina non possit manudctio ista 
-          <lb ed="#B"/>est in forma <name>ysidorus</name> primo de summo 
-          <lb ed="#B"/>bono <unclear>t</unclear>
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>4o ubi dicit dixerunt anti<lb ed="#B"/>qui 
-          quod nihil tam obiectum est quod non 
-          <lb ed="#B"/>habeat sensus in divina pro hoc est <name>hugo</name>
-          <lb ed="#B"/>libro primo et 2o de tribus diebus vel 
-          <lb ed="#B"/>de tribus invisibilibus ad idem est 
-          <lb ed="#B"/>magister in illa 3a distinctio probans hoc per tex<lb ed="#B"/>tum 
-          apostoli et augustini scitis diffuse et dominus 
-          <lb ed="#B"/><name>aegidius</name> etiam prolixe hoc dedu<lb ed="#B"/>cit
-        </p>
-        <p>
-          <pc ana="#pilcrow"/><lb ed="#B"/>3m corollarium quaelibet creatura 
-          <lb ed="#B"/>perfecte et <unclear>intuit??</unclear> visa secundum eius 
-          <lb ed="#B"/>perfectionis gradum perfectius repraesenta<lb ed="#B"/>ret 
-          deum patet ex conclusione et corollario primo 
-          <lb ed="#B"/>sed quod perfecitus probo quia se sicut ef<lb ed="#B"/>fectum 
-          divinum sicut tamen igitur igitur etc sed quod 2m 
-          <lb ed="#B"/>gradum suae perfectionis patet quia aliter 
-          <lb ed="#B"/>non videretur differentia inter vestigium y<lb ed="#B"/>maginem 
-          et similitudinem quod est contra 
-          <pb ed="#B" n="62-v"/>
-          <cb ed="#B" n="a"/>
-          modum loquendi sanctorum et doctorum
-        </p>
-        <p>
-          <lb ed="#B"/><pc ana="#pilcrow"/>3m corollarium omnis intellectus concipi<lb ed="#B"/>ens 
-          aliquod creatum format con<lb ed="#B"/>ceptum 
-          soli deo proprium probatur per auctoritates <name>augustinus</name> 9 <title>de trinitatis</title> capitulo <unclear>1</unclear> dico 
-          <lb ed="#B"/>bonus animus duo dico scilicet bonus 
-          <lb ed="#B"/>et animus igitur format conceptum bonitatis 
-          <lb ed="#B"/>sed iste non potest esse deo et creaturae 
-          <lb ed="#B"/>univocus ut videbitur igitur deo 
-          <lb ed="#B"/>propriis
-        </p>
-        <p>
-          <pc ana="#pilcrow"/><lb ed="#B"/>2o sic non minus dependet 
-          <lb ed="#B"/>ens creatum a deo quam accidens a 
-          <lb ed="#B"/>suo subiecto sed concipiens accidens format 
-          <lb ed="#B"/>conceptum substantiae proprium igitur corollarium verum Ex 
-          hiis patet responsio ad secundam principa<lb ed="#B"/>lem 
-          rationem
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>contra conclusionem est <name>apostolus</name>
-          <lb ed="#B"/>roma 11 <quote ana="#rom11_33">incomprehensibilia sunt iu<lb ed="#B"/>dicia 
-          eius et investigabiles viae 
-          <lb ed="#B"/>eius</quote>
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>contra primum intellectum finitum ma<lb ed="#B"/>nuducit 
-          ad aliquod inmensum sed quod<lb ed="#B"/>libet 
-          creatum est finitum igitur non 
-          <lb ed="#B"/>quodlibet manuducit in deum aliter 
-          <lb ed="#B"/>posseumus dicere quod sub ratione opposita 
-          <lb ed="#B"/>duceret quod non est verum quia sic non 
-          <lb ed="#B"/>duceret in deum Sed eius oppositum antecedens 
-          <lb ed="#B"/>patet quia ratione infinti ratio finiti 
-          <lb ed="#B"/><sic>tottaliter</sic> excludit
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>contra secundum corollarium sequitur
-          <lb ed="#B"/>quod quilbiet cognoscens creaturam 
-          <lb ed="#B"/>intutive perfectius cognosceret deum 
-          <lb ed="#B"/>creatura sed hoc est falsum igitur et corollarium 
-        </p>
-        <p>
-          <lb ed="#B"/>contra 3m corollarium sequitur quod possemus talem concep<lb ed="#B"/>tum 
-          discernere quod est falsum Confirmatur 
-          <lb ed="#B"/>nam nullus experitur de tali conceptu 
-          <lb ed="#B"/>igitur <sic>frusta</sic> ipsum ponis
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>ad ista 
-          <lb ed="#B"/>respondeo ad dictum pauli dico pro nunc quod 
-          <lb ed="#B"/>verum est omnimode perfecte sed hoc non 
-          <lb ed="#B"/>impedit propositum istius conclusionis alio modo 
-          <lb ed="#B"/>posset dici quod verum est de omnibus 
-          <lb ed="#B"/>viis simul
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>3o modo posset dici quod vie 
-          <lb ed="#B"/>eius sunt investigabiles sed non sequitur 
-          <lb ed="#B"/>propter hoc quin aliqua possint 
-          <lb ed="#B"/>investigari
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>ad 2m dico quod consequens 
-          <lb ed="#B"/>potest dupliciter accipi uno modo quantum 
-          <lb ed="#B"/>ad obiectum cognitum sic dico concedendo
-          <cb ed="#B" n="b"/> <!--  62v-b -->
-          <lb ed="#B"/>aliomodo quantum ad actum evidentem 
-          <lb ed="#B"/>cognitionis sic negatur assumptum 
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>ad 
-          <lb ed="#B"/>3m nullum finitum etc nego assumptum 
-          <lb ed="#B"/>aliter possemus concedere antecedens si intelli<lb ed="#B"/>geretur 
-          sub ratione finita positive sed 
-          <lb ed="#B"/>non remotive sed tunc nichil contra conclusionem 
-          <lb ed="#B"/>vel corollarium
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>ad rationem contra 3m corollarium pono 
-          <lb ed="#B"/>aliquas distinctiones ex quibus 
-          <lb ed="#B"/>patebit intentio et veritas corollarii primo 
-          <lb ed="#B"/>quod conceptum deo esse proprium dupliciter 
-          <lb ed="#B"/>potest esse uno modo quod res concepta eo 
-          <lb ed="#B"/>de minimo subsistit conceptui quo est 
-          <lb ed="#B"/>in se ipsa alio modo quia per illum 
-          <lb ed="#B"/>conceptum significatur haec res et 
-          <lb ed="#B"/>nulla alia de 2o conceptu intelligo 
-          <lb ed="#B"/>non de primo
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>alia distinctio <unclear>fore</unclear> 
-          <lb ed="#B"/>conceptum contingit dupliciter virtualiter 
-          <lb ed="#B"/>et formaliter virtualiter noto virtute 
-          cuius potest quis informalem ve<lb ed="#B"/>nire
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>3a distinctio quod fore concipere 
-          <lb ed="#B"/>contingit dupliciter perceptibiliter vel 
-          <lb ed="#B"/>imperceptibiliter <del>d <!-- unclear --></del> patet per <name>augustinum</name> in <title>de trinitate</title> 
-          <lb ed="#B"/>c 8
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>4a distinctio quod talis perceptio 
-          <lb ed="#B"/>est duplex quia quandoque percipitur tam 
-          <lb ed="#B"/>actus percipiendi quam intentio con<lb ed="#B"/>cepta
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>2a quod quandoque sic percipitur actus 
-          <lb ed="#B"/>concipiendi quod tamen non quaelibet inten<lb ed="#B"/>tio 
-          percepta modo intelligo de formatione 
-          <lb ed="#B"/>formalis vel inperceptiva vel perceptibi<lb ed="#B"/>liter
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>2o modo ex hiis patet quid dicendum ad ratio<lb ed="#B"/>nes 
-        </p>
-        <p>
-          <note type="marginal-note" place="margin-right">3a conclusio</note>
-          <pc ana="#pilcrow"/>3a conclusio anima intellectiva per se 
-          est suorum actuum causaliter effectiva 
-          <lb ed="#B"/>et subiectaliter receptiva probatur prima 
-          <lb ed="#B"/>pars nam quodlibet causatum habet aliquod 
-          <lb ed="#B"/>formalem principium ipsius effectivum 
-          <lb ed="#B"/>principale igitur et actus animae principium 
-          <lb ed="#B"/>huius habent sed nullum talem praeter 
-          <lb ed="#B"/>animam videtur igitur conclusio vera
-        </p>
-        <p>
-          Confirmatur 
-          <lb ed="#B"/>voluntas est causa volitione igitur et a<lb ed="#B"/>nima 
-          suarum acitonem antecedens est augustini 
-          <lb ed="#B"/>libro primo <title>retractioneum</title> capitulo 90 nichil cau<lb ed="#B"/>sa 
-          est in potestate voluntatis sicut ipsa 
-          <pb ed="#B" n="63-r"/>
-          <cb ed="#B" n="a"/>
-          <lb ed="#B"/>voluntas sed consequentia probatur quia voluntas 
-          <lb ed="#B"/>est una mens una substantia una 
-          <lb ed="#B"/>vita sed <name>augustinus</name> ut habetur in littera 
-          <lb ed="#B"/>distinctionis 3o primi sententiarum qua 
-          <lb ed="#B"/>re conclusio videtur vera sed quod sit receptiva 
-          <lb ed="#B"/>communiter tenetur non indiget <unclear>magna</unclear>
-          <lb ed="#B"/>probatione potest tamen probari primo 
-          <lb ed="#B"/>ex textu evvangelii lucis 16 <quote ana="#lc16_25"><sic>filii</sic> re<lb ed="#B"/>cordare</quote> 
-          ubi loquitur ad animam sed hoc non fuit solum parabala sed 
-          <lb ed="#B"/>etiam hystoria secundum <name>augustinum</name> 8 <title>super genesem</title> 
-          <lb ed="#B"/>capitulo 7 ad idem est <name>venerabilis anselmus</name> <title>de con<lb ed="#B"/>ceptu 
-          virginali</title> capitulo 4o in membris 
-          <lb ed="#B"/>corporis nichil delete nihchil de<lb ed="#B"/>lectatur nisi anima et voluntas rationalis
-        </p>
-        <p>
-          <lb ed="#B"/>
-          <note type="marginal-note" place="margin-left">primum corollarium</note> 
-          <pc ana="#pilcrow"/>primum corollarium nullus actus animae 
-          <lb ed="#B"/>effective habet solum unum principium 
-          <lb ed="#B"/>et unam causam praecise probatur nam 
-          <lb ed="#B"/>obiectum talis actus est principium effecti<lb ed="#B"/>vum 
-          <seg type="correction">par<subst><del>tila</del><add>tiale</add></subst></seg> secundum quod parvi in quaestio<lb ed="#B"/>ne 
-          primae distinctionis et probatur 
-          <lb ed="#B"/>9 <title>de trinitate</title> capitulo 13 ubi <name>augustinus</name> omnis 
-          <lb ed="#B"/>res quam cognoscimus <unclear>cong?at</unclear> in 
-          <lb ed="#B"/>nobis notitiam sui sed cum hoc habet 
-          ipsam anima principium et causam 
-          <lb ed="#B"/>igitur corollarium verum
-        </p>
-        <p>
-          <note type="marginal-note" place="margin-left">2m</note>
-          <pc ana="#pilcrow"/>2m corollarium causam natura<lb ed="#B"/>lem 
-          ad effectum liberem concurrere non 
-          <lb ed="#B"/>est simpliciter inpossible probatur quia 
-          <lb ed="#B"/>obiectum causat naturaliter naturali influxu 
-          <lb ed="#B"/>causativo et cum concurrit effective
-          <lb ed="#B"/>ad actus <unclear>liberi causationi <!-- case endings unclear --></unclear> igitur corollarium 
-          <lb ed="#B"/>verum
-        </p>
-        <p>
-          <note type="marginal-note" place="margin-left">3m</note>
-          <pc ana="#pilcrow"/>3m corollarium quod anima intellecti<lb ed="#B"/>va 
-          suorum actuum libere causativa 
-          <lb ed="#B"/>diviniae trinitatis est ymago proprie 
-          <lb ed="#B"/>repraesentativa probatur quia est ibi 
-          <lb ed="#B"/>essentialis unitas et causalis trinitas 
-          <lb ed="#B"/>igitur corollarium verum consequentia et antecedens patent 
-          <lb ed="#B"/>ex dictis <name>augustinis</name> et <name>magistri</name> in littera 
-          <lb ed="#B"/>praesentis distinctionis 3ae primi <choice><sic>li<lb ed="#B"/>beri</sic><corr>li<lb ed="#B"/>bri</corr></choice>
-        </p>
-        <p>
-          <pc ana="#dbslash"/>contra conclusionem sequitur quod idem esset 
-          <lb ed="#B"/>movens et motum agens et 
-          <cb ed="#B" n="b"/> <!-- 63rb -->
-          <lb ed="#B"/>passum
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>2o esset infinitae vir<lb ed="#B"/>tutis 
-          quia infinitae receptibilitatis
-        </p>
-        <p>
-          <lb ed="#B"/><pc ana="#dbslash"/>3o si esset activa intrinsece posset 
-          <lb ed="#B"/>agere sine sensibus quod est falsum et 
-          <lb ed="#B"/>ita posset caecus <unclear>au??ctitate</unclear> silo<lb ed="#B"/>gizare 
-          de coloribus
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>contra primum 
-          <lb ed="#B"/>corollarium sequitur quod idem agens praecise eo<lb ed="#B"/>dem 
-          modo posset esse causa oppositorum 
-          <lb ed="#B"/>patet quia stante tali cognitione 
-          <lb ed="#B"/>voluntas libere potest habere velle vel 
-          <lb ed="#B"/>nolle et tunc cognitio obiecti aequaliter 
-          <lb ed="#B"/>est causa utriusque quod videtur falsum
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>
-          <lb ed="#B"/>contra 2m 
-          <lb ed="#B"/>corollarium quia tunc obiectum posset esse 
-          <lb ed="#B"/>causa dilectionis sed contra quia tunc 
-          <lb ed="#B"/>obiecto intenso <sic>intuderetur</sic> dilectio 
-          <lb ed="#B"/>quod est falsum
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>contra 3m essentia animae nuda
-          <lb ed="#B"/>est dei ymago vera igitur non in eo 
-          <lb ed="#B"/>quod suorum actuum effectiva vel rece<lb ed="#B"/>ptiva 
-          ad ista respondeo concedo consequens 
-          <lb ed="#B"/>de agente partiali et receptivo 
-          <lb ed="#B"/>totali sicut est anima suorum activum 
-          <lb ed="#B"/>et loquendo de passione quae 
-          <lb ed="#B"/>non est <unclear>abiectio</unclear> sed salus et perfectio
-        </p>
-        <p>
-          <lb ed="#B"/><pc ana="#pilcrow"/>ad 2m nego quia esse receptivum 
-          <lb ed="#B"/>non est perfectionis simpliciter saltem 
-        </p>
-        <p>
-          <lb ed="#B"/><pc ana="#dbslash"/>ad 3m nego consequentiam quia anima 
-          <lb ed="#B"/>non est totalis causa ad alium
-        </p>
-        <p>
-          <lb ed="#B"/>contra primum corollarium concedendo consequens nec est 
-          <lb ed="#B"/>inconveniens de causa partiali non 
-          <lb ed="#B"/>elicitive sed solum inquisitive 
-          <lb ed="#B"/>concurrente quemadmocum est obiectum 
-          <lb ed="#B"/>vel etiam cognitio ipsius obiecti
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>ad 
-          <lb ed="#B"/>2m potest dupliciter responderi primo ne<lb ed="#B"/>gando 
-          consequentiam quia non oportet quod <unclear>sper<lb ed="#B"/>mt?u?sa</unclear> 
-          causa partaili intendatur ef<lb ed="#B"/>fectus 
-          aliter potest dici concedo consequens scilicet 
-          <lb ed="#B"/>quod ad perceptibilem intensionem cog<lb ed="#B"/>nitionis 
-          sequatur intensio <del rend="expunctuation">cogni<lb ed="#B"/>tionis</del> 
-          dilectionis etiam secundum aliquos 
-          <lb ed="#B"/>stante praecise eadem nolle quo 
-          <lb ed="#B"/>prius sed tamen hanc responsionem
-          <pb ed="#B" n="63-v"/>
-          <cb ed="#B" n="a"/>
-          minus veram puto ideo sto in prima
-        </p>
-        <p>
-          <lb ed="#B"/><pc ana="#pilcrow"/>ad 3m dico secundum quod dicit <name>thomas 
-          <lb ed="#B"/>de argentis</name> ista distinctione 3a articulo 
-          <lb ed="#B"/>primo quaestione 2a Et <name>bonsilant</name> quaestione 3 articulo 
-          <lb ed="#B"/>2 ymago tripliciter sumitur uno modo 
-          <lb ed="#B"/>penes ipsam anima et eius potentias 
-          <lb ed="#B"/>praecise sic <name ref="#Augustine">augstinus</name> 14 <title>de trinitate</title> capitulo 3o <unclear>abs?t</unclear> 
-          ut cum animae natura sit inmor<lb ed="#B"/>talis 
-          ut ab initio quo creata 
-          <lb ed="#B"/>est umqum de esse desistat illud 
-          <lb ed="#B"/>quo nichil melius habet
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>2o modo sumitur 
-          <lb ed="#B"/>ymago non solum pro potentiis 
-          <lb ed="#B"/>secundum pro potentia actibus informatis 
-          <lb ed="#B"/>et sic loquitur de ymagine <name>augustinus</name> 
-          <lb ed="#B"/>eodem modo 14 capitulo 8
-        </p>
-        <p>
-          <pc ana="#pilcrow"/>3o modo sumitur pro<lb ed="#B"/>prissime 
-          cum tales actus et habitus 
-          <lb ed="#B"/>habet respectu divini obiecti aeterni et inmensi 
-          <lb ed="#B"/>creatoris et factoris sui et et sic loquitur 
-          <lb ed="#B"/><name ref="#Augustine">augustinus</name> capitulo 13 ibidem et sic patet quid 
-          <lb ed="#B"/>dicendum ad totam quaestionem
+          <lb ed="#B"/>quia <unclear>q?</unclear> quid esset vel sic illa genera<lb ed="#B"/>tio 
+          aeterna et quidquid dicitur esse vi<lb ed="#B"/>detur 
+          posse inprobari
+        </p>
+        <p>
+          <pc ana="#dbslash"/>In oppositum est 
+          <name>magister</name> in littera et prima diffinitio 24 <unclear>ph?orum</unclear> 
+          <lb ed="#B"/>qua dicitur deus est monas mo<lb ed="#B"/>nadensis 
+          gigens et a earum dens 
+          <lb ed="#B"/>est principium sine principio processus sine
+          
         </p>
       </div>
     </body>
