@@ -184,11 +184,11 @@
           <lb ed="#B"/>tota est filius vel essentia divina igitur tri<lb ed="#B"/>nitas 
           generatur maior est vera et similis 
           <lb ed="#B"/>minor et forma bona ut videtur igitur sequitur 
-          <lb ed="#B"/>conclusio
+          <lb ed="#B"/>conclusio Confirmatur aliquod generat in divinis 
+          <lb ed="#B"/>et nichil ab essentia igitur essentia generat
         </p> 
-        <p>Confirmatur aliquod generat in divinis 
-          <lb ed="#B"/>et nichil ab essentia igitur essentia generat</p> 
-        <p>2o 
+        <p>
+          2o 
           <lb ed="#B"/>sic hic pater generat hic pater est essentia 
           <pb ed="#B" n="67-r"/>
           <cb ed="#B" n="a"/>
@@ -199,8 +199,60 @@
         </p>
         <p>
           <lb ed="#B"/>3o generans est 
-          <lb ed="#B"/>essentia divina igitur 
+          <lb ed="#B"/>essentia divina igitur essentia divina est generans 
+          <lb ed="#B"/>consequentia tenet per conversionem simpli<lb ed="#B"/>cem 
+          antecedens faciliter potest probari quia 
+          <lb ed="#B"/>pater generans est essentia igitur generans 
+          <lb ed="#B"/>est essentia Confirmatur tam convertibiliter 
+          <lb ed="#B"/>pater se habet ad essentiam quam si solum su<lb ed="#B"/>ppositum 
+          patris esset sed tunc quidquid 
+          <lb ed="#B"/>diceretur de patre diceretur de essentia divina 
+          <lb ed="#B"/>igitur nunc ita est
         </p>
+        <p>
+          <pc ana="#pilcrow"/>4o sic essentia divina 
+          <lb ed="#B"/>non est non generans et est igitur essentia 
+          <lb ed="#B"/>divina est generans consequentia videtur nota ex 
+          <lb ed="#B"/>dictis philosophi circa finem primi priorum
+          <lb ed="#B"/>et primo peryermenias antecedens arguitur nam 
+          <lb ed="#B"/>quidquid est in divinis aute est generans 
+          <lb ed="#B"/>aut genitum aut procedens vel igitur 
+          <lb ed="#B"/>essentia divina est generans vel genitum 
+          <lb ed="#B"/>vel procedens sed quodcumque detur idem 
+          <lb ed="#B"/>sequitur igitur etc
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>5o sic essentia divina est pater 
+          <lb ed="#B"/>filii igitur essentia divina habet filium sed nullum nisi 
+          <lb ed="#B"/>quam generat vel genuit igitur conclusio falsa antecedens 
+          <lb ed="#B"/>patet quia essentia divina est pater et pater 
+          <lb ed="#B"/>est pater filii igitur essentia divina est pater filii
+        </p>
+        <p>
+          <lb ed="#B"/><pc ana="#pilcrow"/>Ad istas responsiones respondeo 
+          <lb ed="#B"/>cum dicitur omnis essentia divina vel fi<lb ed="#B"/>lius 
+          est deus trinitas negatur hoc 
+          <lb ed="#B"/>unde similes si formarentur omnis 
+          <lb ed="#B"/>leo vel homo est risibilis et hiis 
+          <lb ed="#B"/>similes solent negari et si probantur 
+          <lb ed="#B"/>per inductiones suarum singularium 
+          <lb ed="#B"/>iste leo vel homo est homo dicitur 
+          <lb ed="#B"/>quod non valet quia apta nata est 
+          <lb ed="#B"/>habere plures singulares quare non 
+          <lb ed="#B"/>sufficit inductio illa ad confirma<lb ed="#B"/>tionem 
+          aliquid generat et nichil 
+          <lb ed="#B"/>aliud igitur essentia etc negatur consequentia quia 
+          <lb ed="#B"/>hoc non sufficit
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>ad 2m dicit <name>oc<lb ed="#B"/>kam</name> 
+          quod <unclear>silogismi</unclear> tales non concludunt in
+          <cb ed="#B" n="b"/> <!-- 67rb -->
+          <lb ed="#B"/>divinis quia una res est tres res 
+          <lb ed="#B"/>et tres res sunt una simplex res
+          <lb ed="#B"/>sed istam responsio
+        </p>
+        
       </div>
     </body>
   </text>
