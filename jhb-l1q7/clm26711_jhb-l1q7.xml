@@ -300,7 +300,55 @@
           <lb ed="#B"/>Item non possemus sufficienter rationes 
           <lb ed="#B"/>solvere factas contra fidem Item hoc 
           <lb ed="#B"/>est se exponere totaliter infidelium 
-          <lb ed="#B"/>derisioni
+          <lb ed="#B"/>derisioni 
+          <note type="marginal-note" place="margin-left">Responsio propria</note>
+          ideo dico aliter quod omnes 
+          <lb ed="#B"/>tales propositiones sicut non sufficienter re<lb ed="#B"/>gulant
+          <add place="above-line">26</add> de omni <add place="above-line">a</add> perditi sic etiam 
+          <lb ed="#B"/>non sunt sufficienter universales licet forte 
+          <lb ed="#B"/>nominaliter ita videatur et hoc potest patere 
+          <lb ed="#B"/>ex duobus primo quia contingit a<lb ed="#B"/>liquid 
+          summere sub subiecto de quo non 
+          <lb ed="#B"/>dicitur praedicatum
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>2o quia omnis propositio 
+          <lb ed="#B"/>sufficienter universalis debet inferre de terminis 
+          <lb ed="#B"/>transpositis suam exclusivam quod in 
+          <lb ed="#B"/>hiis non contingit bene cum dicitur 
+          <lb ed="#B"/>omnis essentia divina consequentia non valet
+        </p>
+        <p>
+          <lb ed="#B"/><pc ana="#pilcrow"/>Iste modus concordat cum illis qui 
+          <lb ed="#B"/>dicunt quod in quolibet sillogismo <unclear>tenente</unclear> gratia 
+          <lb ed="#B"/>formae requiritur circumlocutio ut sufficienter 
+          <lb ed="#B"/>simul regulatus de perditi de omni vel 
+          <lb ed="#B"/>dici de nullo et si quaeritur qualis 
+          <lb ed="#B"/>debeat esset talis circumlocutio dicunt 
+          <lb ed="#B"/>quod talis modus circumloquendi est 
+          <lb ed="#B"/>ponendus per quem magis illa prima 
+          <lb ed="#B"/>figura reddatur sufficienter universalis sic 
+          <lb ed="#B"/>scilicet quod subiectum nullius neminat quoniam prae<lb ed="#B"/>dicatum 
+          conveniat eidem
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>ratio 
+          <lb ed="#B"/>est quia tunc sufficienter regulatur 
+          <lb ed="#B"/>sillogismus perditi de omni vel dici de nullo 
+          <lb ed="#B"/>ex quo patet quod non sufficit circumlocutio 
+          <lb ed="#B"/>quae sic per illud quod est est si praecise ad<lb ed="#B"/>datur 
+          subiecto patet quia in pluribus de<lb ed="#B"/>ficit 
+          patet arguendo sic omne illud 
+          <lb ed="#B"/>quod est pater est pater filius est illud 
+          <lb ed="#B"/>quod est pater igitur filius est pater patet quod consequentia 
+          <lb ed="#B"/>non valet et cum taliter circumloquitur ideo
+          <lb ed="#B"/>iste modus est insufficiens dicunt 
+          <lb ed="#B"/>igitur quod circumlocuitio <name>aristotelis</name> in libro primorum suf<lb ed="#B"/>ficit 
+          et ibi dicit in <unclear>conclusio</unclear> a in <unclear>conclusio</unclear> b a 
+          <lb ed="#B"/>igitur in quo causa quo b similiter est si 
+          <lb ed="#B"/>circumlocutio fiat sic idem a idem 
+          <cb ed="#B" n="b"/> <!-- 67vb-->
+          <lb ed="#B"/>b etc
         </p>
         
       </div>
