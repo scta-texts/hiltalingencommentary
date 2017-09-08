@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Librum 1, Quaestio 8 [Clm 26711 Transcription]</title>
+        <author>John Hiltalingen of Basel</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Librum 1, Quaestio 8 [Clm 26711 Transcription]</title>
+          <date when="2017-09-07">September 07, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="clm26711">Bayerishce StaatsBibliothek, Clm 26711</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-09-07" who="#JW" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="include-list">
+        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/workscited.xml" xpointer="worksCited"/>
+        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/Prosopography.xml" xpointer="prosopography"/>
+      </div>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="69-r"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jhb-l1q8">
+        <head>Librum 1, Quaestio 8 [Clm 26711 Transcription]</head>
+        <p>
+          <lb ed="#B"/><pc ana="#pilcrow"/>Praeterea quaeri solet etc Ista est 
+          <lb ed="#B"/>6a distinctio huius primi libri 
+          <lb ed="#B"/>quae ad praecedentia sic continuatur 
+          <lb ed="#B"/>postquam <name ref="#Lombard">magister</name> tractavit numerum generationis 
+          <lb ed="#B"/>quantum ad generans et genitum nunc 
+          <lb ed="#B"/>in ista parte incipit tractare quantum 
+          <lb ed="#B"/>ad generationis modum ad dividitur in tres 
+          <lb ed="#B"/>partes nam prius quaestionem proponit 2o 
+          <lb ed="#B"/><unclear>respositionem</unclear> ad eam ponit 3o de<lb ed="#B"/>clarationem 
+          suae responsionis adiungit 
+          <lb ed="#B"/>vel apponit tunc 2a pars est ibi circa 
+          <lb ed="#B"/>principium dicens nec voluntate nec necessitate
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>3a 
+          <lb ed="#B"/>pars est ibi praedicta tamen verba 2a 
+          <lb ed="#B"/>pars dividitur in duas partes nam primo 
+          <lb ed="#B"/>ponit responsionem veram 2o obicit 
+          <lb ed="#B"/>et solvit instantiam tunc pars est ibi 
+          <lb ed="#B"/>sed circa hoc opponitur tunc sequitur 3a pars principalis 
+          <lb ed="#B"/>quae essentiam dividitur in duas partes 
+          <lb ed="#B"/>nam <name>magister</name> circa declarationem ponit 
+          <lb ed="#B"/>intentionem suam 2o concludit de<lb ed="#B"/>clarationem 
+          esse veram tunc 2a pars est 
+          <lb ed="#B"/>ibi dicamus quia pater sicut sapi<lb ed="#B"/>ens 
+          etc et haec est sententia etc
+        </p>
+        <p>
+          <lb ed="#B"/>Utrum nemo patris libere et 
+          <lb ed="#B"/><sic>conplacenter</sic> fecunda ad pro<lb ed="#B"/>ductionem 
+          verbi intrinsice 
+          <lb ed="#B"/>ac naturaliter sic determinata quod non quia 
+          <lb ed="#B"/>memoria non libere nec complacenter 
+          <lb ed="#B"/>est fecunda igitur quaestio falsa consequentia 
+          <lb ed="#B"/>plana assumptum arguitur cum primo quia 
+          <lb ed="#B"/>naturaliter est per modum naturae est fecunda 
+          <lb ed="#B"/>2m <name>damascenus</name> libro primo capitulo 8 quia generatio 
+          <lb ed="#B"/>est opus naturae et <name>richardus</name> 6 <title>de 
+          <lb ed="#B"/>trinitate</title> capitulo nichil itaque ubi est iuxta 
+          <lb ed="#B"/>donum largiens gratiae Sed totum iuxta 
+          <lb ed="#B"/>proprietatem exigentis naturae cum 2o quia 
+          <lb ed="#B"/>verbi productio non est voluntatis operatio 
+          <lb ed="#B"/>sed conplacere est actus voluntatis 
+          <cb ed="#B" n="b"/>
+          <lb ed="#B"/>secundum <name ref="#Anselm">anselmum</name> <title>de conceptu virginali</title> capitulo 10 
+          <lb ed="#B"/>cum 3o causa naturaliter est actu 
+          <lb ed="#B"/>producens quam ipse potest esse producens 
+          <lb ed="#B"/>vel etiam memoria creata sed hoc 
+          <lb ed="#B"/>est simpliciter <choice><orig>neccessario</orig><reg>necessario</reg></choice> igitur non libere 2o 
+          <lb ed="#B"/>principaliter sic generatio ubi non est patri 
+          <lb ed="#B"/>intrinseca igitur nec eius memoria 
+          <lb ed="#B"/>naturaliter ad eam est determinata <unclear>contra</unclear> 
+          <lb ed="#B"/>satis nota antecedens arguitur sic nam omnis 
+          <lb ed="#B"/>actus patris intrinsecus est actus 
+          <lb ed="#B"/>immanens essentialis et toti trinitati 
+          <lb ed="#B"/>communis sed taliter non est ipsa generatio igitur etc
+        </p>
+        <p>
+          <lb ed="#B"/><pc ana="#pilcrow"/>3o sic memoria nec est libere nec 
+          <lb ed="#B"/>naturaliter determinata igitur quaestio falsa consequentia 
+          <lb ed="#B"/>tenet antecedens arguitur primo per <name ref="#Augustine">augustinum</name> <title>>ad 
+          <lb ed="#B"/>orosium</title> quaestione 8 2a auctoritate <name>hylari</name> libro 
+          <lb ed="#B"/>2o <title>de synodum</title> capitulo 2o si quis dicat quod 
+          <lb ed="#B"/>pater naturali necessitate ductus genuit 
+          <lb ed="#B"/>filium anathema sic 2o quia de<lb ed="#B"/>terminari 
+          dicit in<lb ed="#B"/>perfectionem igitur non 
+          <lb ed="#B"/>debet attribui patri consequentia nota 
+          <lb ed="#B"/>assumptum probatur quia respectu cuius ali<lb ed="#B"/>qua 
+          potentia determinatur respectu illius prius 
+          <lb ed="#B"/>fuit potentia essentialis quam actus actualis
+        </p>
+        <p>
+          <lb ed="#B"/>2o in potestate talis potentiae non est 
+          <lb ed="#B"/>agere vel non agere sed statim habi<lb ed="#B"/>ta 
+          determinatione necesse est eam agere 
+          <lb ed="#B"/>nisi inpedimento impediatur quod 
+          <lb ed="#B"/>ipsa tollere non sufficit
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>3o quia 
+          <lb ed="#B"/>a quocumque potentia est determinata ab illo 
+          <lb ed="#B"/>est effective causata vel producta 
+          <lb ed="#B"/>sed ista sonant inperfectionem igitur etc.
+        </p>
+        <p>
+          <lb ed="#B"/><pc ana="#pilcrow"/>In oppositum videtur <name>beatus augustinus</name> 15 <title>de trinitate</title> 
+          capitulo 2o pater generat et est pater natura 
+          <lb ed="#B"/>et 9 <title>de trinitate</title> capitulo ultimo partum mentis praecedit 
+          <lb ed="#B"/>appetitus quidam Item 9 <title>de trinitate<!-- dbcheck against de civitate --></title> 
+          <lb ed="#B"/>capitulo 11o verbum est cum amore noti<lb ed="#B"/>tia 
+          et eodem libro capitulo 8 verbum amo<lb ed="#B"/>re 
+          concipitur
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>Ad idem videtur esse 
+          <lb ed="#B"/>determinatio <name ref="#Lombard">magistri</name> et significanter in fine 
+          <lb ed="#B"/>destinationis allegans verba <name ref="#Augustine">augustini</name> 
+          <lb ed="#B"/>super <title ref="#eph">epistola ad ephesios</title>
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>Primo conclusio pater
+          <pb ed="#B" n="69-v"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B"/>sine inperfectione libere complacenter 
+          <lb ed="#B"/>voluntarie generat suum verbum incom<lb ed="#B"/>mutabile 
+          illa conclusio videtur in forma 
+          <lb ed="#B"/><title>richardus</title> 6 <title>de trinitate</title> capitulo 7 dicentis inge<lb ed="#B"/>nitum 
+          velle de se habere conformem 
+          <lb ed="#B"/>atque condignum idem videtur mihi quod 
+          <lb ed="#B"/>gignere ad idem videtur esse <name ref="#Dionysius">dy<lb ed="#B"/>onisius</name> 
+          de divinis nominibus dicens 
+          <lb ed="#B"/>amore divinus non dimisit <unclear>deum</unclear>
+          <lb ed="#B"/><seg type="correction"><metamark>b</metamark>sine <metamark>a</metamark>esse</seg> <unclear>germine</unclear> huic conclusioni videtur 
+          <lb ed="#B"/>pater consentire in 3o dicens 
+          <lb ed="#B"/>hic est filius mens dilectus 
+          <lb ed="#B"/>in quo michi bene conplacui
+        </p>
+        <p>
+          <lb ed="#B"/><pc ana="#pilcrow"/>primum corollarium pater sine frecundi<lb ed="#B"/>tas 
+          memoriae cum nuda specie essentiae 
+          <lb ed="#B"/>divinae non est principium <sic>suficiens</sic> 
+          <lb ed="#B"/>ubi secluso amore patet hoc corollarium 
+          <lb ed="#B"/>ex conclusione cum ex argumentis adduc<lb ed="#B"/>tis 
+          pro parte affirmativa quaestionis quia 
+          <lb ed="#B"/>pater complacenter ipsum principiat
+        </p>
+        <p>
+          <lb ed="#B"/><pc ana="#pilcrow"/>2m corollarium quam necessariam verbum divinum 
+          <lb ed="#B"/>concurrit ad spiritum productum causa 
+          <lb ed="#B"/>necessario concurrit amor essentialis 
+          <lb ed="#B"/>ad genitum verbum patet ex conlusione et 
+          <lb ed="#B"/>corollario primo quia si non posset me<lb ed="#B"/>moria 
+          cum speciei essentiae divinae nuda 
+          <lb ed="#B"/>sufficere ad productionem verbi ad 
+          <lb ed="#B"/>intra
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>3m corollarium quod pater aeternus su<lb ed="#B"/>um 
+          incommutabile verbum nullo modo 
+          <lb ed="#B"/>prius producere voluit quam ipsum 
+          <lb ed="#B"/>producit vel produxit patet quia tunc 
+          <lb ed="#B"/>voluntate antecedente contra <name ref="#Augustine">augustinum</name> <title>ad oro<lb ed="#B"/>sium</title> 
+          <lb ed="#B"/>quaestione 8 2 <name>magistrum</name> in littera et conclusionem 
+          <lb ed="#B"/>hic positam quia hoc diceret 
+          <lb ed="#B"/>imperfectionem
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>Contra ista dicta arguitur 
+          <lb ed="#B"/>et primo contra conclusionem sic nostros tantummodo 
+          <lb ed="#B"/>est principium eorum quae possunt esse 
+          <lb ed="#B"/>et non esse sed si libere pater verbum pro<lb ed="#B"/>duxit 
+          sequitur quod <unclear>voluntas</unclear> eius erit principium 
+          <lb ed="#B"/>productivum et per consquens verbum poterit 
+          <cb ed="#B" n="b"/>
+          <lb ed="#B"/>esse indifferenter vel non esse quod est 
+          <lb ed="#B"/>falsum ratio est <name ref="#Aquinas">sancti thomae</name> parte prima 
+          <lb ed="#B"/>quaestione 41 articulo 2o
+        </p>
+        <p>
+          Et inducit <name>thomas 
+          <lb ed="#B"/>de argentis</name> eam contra eum quia 
+          <lb ed="#B"/>tunc sequitur quod spiritus sanctus posset aliter 
+          <lb ed="#B"/>esse cum voluntas eius sic principium pro<lb ed="#B"/>ductivum 
+          sed sine dubio <name>doctor sanctus</name> 
+          <lb ed="#B"/>in ista parte non fuit a <name>thomam</name> 
+          <lb ed="#B"/>bene intellectus sicut patet per totum 2m 
+          <lb ed="#B"/>articulum 2m
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>2o contra primum et 2m 
+          <lb ed="#B"/>corollarium arguitur auctoritate una <name>richardus</name> 6 <title>de 
+          <lb ed="#B"/>trinitate</title> capitulo 7 in fine ubi dicit quamvis 
+          <lb ed="#B"/>utrique filius scilicet et spiritus sanctus a patre 
+          <lb ed="#B"/>sit est tamen alius et alius modus 
+          <lb ed="#B"/>procedendi in uno et in alio modo 
+          <lb ed="#B"/>certum est quod si filius procedit 
+          <lb ed="#B"/>libere et voluntarie et sic etiam spiritus 
+          <lb ed="#B"/>sanctus quod non erit alius et alius 
+          <lb ed="#B"/>modus procedendi unius et alterius <pc type="virgula">/</pc><pc type="virgula">/</pc>
+        </p>
+        <p>
+          Contra 3m corollarium est sententia <name>doctoris 
+          <lb ed="#B"/>subtilis</name> in ista 6 distinctione 
+          <lb ed="#B"/>quaestione unica et confirmatur <unclear>voluntas</unclear> secundum 
+          <name ref="#Augustine">augustinum</name> 
+          <lb ed="#B"/>11 <title>de trinitate</title> capitulo 8 copulant actionem cogitantis 
+          <lb ed="#B"/>cum memoria adhuc quod proles gignatur 
+          <lb ed="#B"/>sed sic complacere est perfectius igitur debet 
+          <lb ed="#B"/>attribui deo
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>ad idem videtur facere 
+          <lb ed="#B"/>dictum <name>augustini</name> supra in pede quaestionis 
+          <lb ed="#B"/>allegatum partum mentis praecedit 
+          <lb ed="#B"/>appetitus
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>ad ista dico quod vo<lb ed="#B"/>luntatem 
+          concurrere ad verbi productionem 
+          <lb ed="#B"/>potest intelligi dupliciter uno modo 
+          <lb ed="#B"/>aut <sic>principiatem</sic> alio modo cum <unclear>del?tantis</unclear> 
+          <lb ed="#B"/>coexigentiae modo si antecedens primae ratio<lb ed="#B"/>nis 
+          intelligitur primo modo sic est vera 
+          <lb ed="#B"/>et alia pars antecedentis falsa Si 2o modo si prima 
+          <lb ed="#B"/>pars est falsa et 2a vera Et sic si<lb ed="#B"/>militer 
+          respondeo ad 2m quod autem <name>richardus</name> 
+          <lb ed="#B"/>sic intellexit patet per eum in principio 
+          <lb ed="#B"/>illius cui ubi dicit quod utriusque per<lb ed="#B"/>sonae 
+          productio procedit de voluntate
+          <pb ed="#B" n="70-r"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B"/>aeterna modo certum est quod hoc non 
+          <lb ed="#B"/><unclear>intelligentur</unclear> principare secundum quod dictum est igitur 
+          <lb ed="#B"/>complacenter et coexigitive qua<lb ed="#B"/>liter 
+          autem ista differant satis pu<lb ed="#B"/>lchre 
+          ostendit <name>doctor subtilis</name> 
+          <lb ed="#B"/>dicens hac 6 quaestione unica articulo 2o
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>ad 
+          <lb ed="#B"/>3m non credo auctoritati doctoris in 
+          <lb ed="#B"/>ista parte sed oppositum credo sicut 
+          <lb ed="#B"/>satis sufficienter ostendit <name ref="#Rimini">gregorius</name> 
+          in ista 6 distinctione quaestione unica 
+          <lb ed="#B"/>articulo 2o ad rationem igitur cum arguitur vo<lb ed="#B"/>luntas 
+          <lb ed="#B"/>copulat etc concedo et cum 
+          <lb ed="#B"/>dicitur hoc est perfectionis <pc type="virgula">/</pc> nota 
+          <lb ed="#B"/>quod duplex est actus elicitus 
+          <lb ed="#B"/>et perceptus patet per <name>augustinum</name> 11 <title>de trinitate</title> capitulo 
+          13 prius potest esse in nobis sine <unclear>com<lb ed="#B"/>placione</unclear> 
+          voluntatis sed non <unclear>2s</unclear> talis igitur 
+          <lb ed="#B"/>conplacentia contingit propter obiec<lb ed="#B"/>talem 
+          distantiam obiecti a potentia percepti<lb ed="#B"/>va 
+          Sed quia in deo unicus et 
+          <lb ed="#B"/>simplex est actus intellectus nec 
+          <lb ed="#B"/>potest ibi esse tlais distnatia obiec<lb ed="#B"/>talis 
+          quare complacentia in deo non 
+          <lb ed="#B"/>habet locum per istum modum sed tunc 
+          <lb ed="#B"/>adhuc videtur stare dictum <name>augustini</name> partum 
+          <lb ed="#B"/>mentis <unclear>c</unclear> dico quod loquitur de partu 
+          <lb ed="#B"/>mentis nostrae sicut patet ex textu se<lb ed="#B"/>quenti
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>aliam responsionem ponit 
+          <lb ed="#B"/><name ref="#BonsemblantesBaduarius">bonsimblant</name> in ista distinctione 
+          <lb ed="#B"/>quam dimitto etc
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>2a conclusio non 
+          <lb ed="#B"/>omnis actus patris aeternalis est 
+          <lb ed="#B"/>actus <unclear>notionalis</unclear> probatur quia aliter 
+          <lb ed="#B"/>sequitur quod actus praedestinationis 
+          <lb ed="#B"/><name ref="#Peter">petri</name> esset actus notionalis quod 
+          <lb ed="#B"/>dicere est frustra dicere nec verum
+        </p>
+        <p>
+          <lb ed="#B"/><pc ana="#pilcrow"/>primum corollarium non omnis actus 
+          <lb ed="#B"/>patris aeternis est <unclear>alio?mus</unclear> terminum pro<lb ed="#B"/>ductivus 
+          probatur quia aliter produceret 
+          <lb ed="#B"/>infinita et produxisset ab aeterno 
+          <lb ed="#B"/>quod est falsum patet consequentia cum infinitas 
+          <lb ed="#B"/>denominationes vitales activas 
+          <cb ed="#B" n="b"/>
+          <lb ed="#B"/>per plenitudinem unitive aeternaliter 
+          <lb ed="#B"/>includat
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>2m corollarium nullus actus 
+          <lb ed="#B"/>non productus <unclear>termini demonstralis</unclear> est proprie 
+          <lb ed="#B"/>notionalis patet cum omnis causalis actus 
+          <lb ed="#B"/>sit tribus personis communis et ydempti<lb ed="#B"/>cus
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>3m corollarium quod inseparabilia 
+          <lb ed="#B"/>sunt opera trinitatis adextra tam in<lb ed="#B"/>divisa 
+          sunt opera essentialia ad intra 
+          <lb ed="#B"/>probatur quam inpossibile est separare 
+          <lb ed="#B"/>actus imperatos divinarum personarum tam 
+          <lb ed="#B"/>inpossible et plus est seperare actus 
+          <lb ed="#B"/>immanentes earum intrinsecos igitur corollarium 
+          <lb ed="#B"/>verum ex quo patet quod actus notionalis 
+          <lb ed="#B"/>sit personae agenti intrinsecus non tamen 
+          <lb ed="#B"/>proprie dicitur actus immanens vel prius 
+          <lb ed="#B"/>nolo tamen ponere aliquam intrinsecam 
+          <lb ed="#B"/>distinctionem
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>Contra ista dicta arguo 
+          <lb ed="#B"/>sic sequitur quod plures essent actus in 
+          <lb ed="#B"/>divinis non notionales sed hoc videtur 
+          <lb ed="#B"/>falsum quia quilibet actus est ipsemet 
+          <lb ed="#B"/>deus igitur sicut non sunt plures dii ita 
+          <lb ed="#B"/>non essent actus multi consequentia patet 
+          <lb ed="#B"/>quia erit ibi scire et intelligere 
+          <lb ed="#B"/>vellet hiis similia
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>Contra primum 
+          <lb ed="#B"/>corollarium ab actio ad passivum est bona 
+          <lb ed="#B"/>consequentia igitur si deus aliter agit ad intra 
+          <lb ed="#B"/>actu essentiali igitur agitur aliquid non 
+          <lb ed="#B"/>notionale sed hoc est falsum contra 2m corollarium 
+          <lb ed="#B"/>nam eodem modo spiritus sanctus amat 
+          <lb ed="#B"/>se igitur pater et filius amant ipsum sed 
+          <lb ed="#B"/>ille actus amoris est in eis notionalis 
+          <lb ed="#B"/>igitur et in ipso maior probatur quia ipse 
+          <lb ed="#B"/>est amore sui ipsius et est amor 
+          <lb ed="#B"/>amborum duorum sicut dicit infra 
+          <lb ed="#B"/><name>magister</name> in isto primo et minor esset nota 
+          <lb ed="#B"/>igitur etc
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>Contra 3m corollarium si opera trinitatis 
+          <lb ed="#B"/>immanentia sunt in diversa vel igitur aeque 
+          <lb ed="#B"/>primo sunt in diversa sicut opera <unclear>trans?</unclear> 
+          <lb ed="#B"/>divisa et separata vel non si aeque 
+          <lb ed="#B"/>primo sequitur quod spiritus sanctus ita bene 
+          <lb ed="#B"/>dicat filium sicut <del rend="expunctuation">filiu</del> pater Si non 
+          <lb ed="#B"/>aequae primo igitur prioritas erit in divinis
+          <pb ed="#B" n="70-v"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B"/>et sic erit successio danda contra prae<lb ed="#B"/>dicta 
+          in distinctione 4 2 habetur plus distinctione in<lb ed="#B"/>fra 
+          <unclear>9a</unclear>
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>Ad ista respondeo et quia 
+          <lb ed="#B"/>difficilia sunt <unclear>appodiabo</unclear> me ad 
+          <lb ed="#B"/>dicta doctoris unde <name ref="#Anselm">venerabilis anselmus</name> <title>monologion</title>
+          <lb ed="#B"/>62 capitulo usque ad 65 haec plane 
+          <lb ed="#B"/>tractat et solvit bene in principio 
+          <lb ed="#B"/>62i dubii in esse non debet quod pater 
+          <lb ed="#B"/>et filius et eorum unusquisque se ipsum 
+          <lb ed="#B"/>et alios ambos dicit se et alios 
+          <lb ed="#B"/>intelligit quod si ita quomodo non 
+          <lb ed="#B"/>sunt in summa essentia tot verba quod sunt 
+          <lb ed="#B"/>dicentes et quod qui dicuntur Et sub<lb ed="#B"/>dit 
+          infra 63 capitulo singulis eorum est 
+          <lb ed="#B"/>sciens et intelligens ita singulus 
+          <lb ed="#B"/>quisque dicens nec tamen simul tres 
+          <lb ed="#B"/>dicentes sed unus solus dicens 
+          <lb ed="#B"/>hic illud quoque cognosci potest quia 
+          <lb ed="#B"/>tamen hii tres dicuntur vel a se ipsis vel a 
+          <lb ed="#B"/>se invicem non sunt plura quae dicuntur 
+          <lb ed="#B"/>quid namque ibi dicitur nisi eorum 
+          <lb ed="#B"/>essentia <pc type="virgula">/</pc> si igitur illa et una sola est unum 
+          <lb ed="#B"/>solum est quod dicitur igitur si unum est in 
+          <lb ed="#B"/>illis quod dicit et unum quod dicitur 
+          <lb ed="#B"/>una quippe essentia quae in illis dicit 
+          <lb ed="#B"/>et una substantia quae dicitur consequitur non 
+          <lb ed="#B"/>ibi esse plura verba sed unum dedu<lb ed="#B"/>cit 
+          hoc usque ad 65 capitulo <unclear>??</unclear> idem est 
+          <name ref="#HenryOfGhent">doctor sollempnis</name> parte prima articulo 39o 
+          <lb ed="#B"/>quaestione 8 ubi quaerit utrum in deo sit 
+          <lb ed="#B"/>aliqua actio manens intra non 
+          <lb ed="#B"/>terminata ad extra ubi ponit differentiam 
+          <lb ed="#B"/>inter motionem mutationem factionem pro<lb ed="#B"/>ductionem 
+          actionem operationem Et respondeo 
+          <lb ed="#B"/>ad quaestionem dicit actio quae est 2m propriam 
+          <lb ed="#B"/>rationem <del rend="expunctuation">opinionis</del> operationis et communissima 
+          <lb ed="#B"/>rationem actionis consistit in acti<lb ed="#B"/>onibus 
+          essentialibus personarum quae sunt 
+          <lb ed="#B"/>velle et intelligere Ad idem est pro<lb ed="#B"/>cessus 
+          suus articulo 4o quaestione 7 qua quae<lb ed="#B"/>rit 
+          utrum intelligere dei quod non 
+          <lb ed="#B"/>est nisi enunciale correspondeat in 
+          <cb ed="#B" n="b"/>
+          <lb ed="#B"/>deo aliquod verbum essentiale et ostendit 
+          <lb ed="#B"/>diffusive quod non ad argumenta satis patet ex 
+          <lb ed="#B"/>dictis nec aliter pro nunc respondeo quia 
+          <lb ed="#B"/>visis horum doctorum dictis nullius 
+          <lb ed="#B"/>sunt valoris
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>pro solutione tamen eorum 
+          <lb ed="#B"/>est etiam notandum illud quod <del rend="expunctuation">acc</del> 
+          <lb ed="#B"/>ait <name ref="#Aquinas">sanctus thomas</name> quaestione 4 <title>de veritate</title> 
+          <lb ed="#B"/>articulo 2o dicens in divinis invenimus 
+          <lb ed="#B"/>quaedam quae originem impor<lb ed="#B"/>tant 
+          non 2m rem sed 2m rationem tantum 
+          <lb ed="#B"/>sicut hoc nomen operatio quae procul dubio 
+          <lb ed="#B"/>inportat aliquod procedens ab operate 
+          <lb ed="#B"/>et tamen ille processus non est nisi 2m 
+          <lb ed="#B"/>rationem tantum unde opus in divinis non 
+          <lb ed="#B"/>personaliter sed essentialiter datur quia 
+          <lb ed="#B"/>in deo non differt essentia veritus et operatio
+        </p>
+        <p>
+          <lb ed="#B"/><pc ana="#pilcrow"/>3a conclusio quamvis memoria paterna compla<lb ed="#B"/>center 
+          sit secunda ex intrinseca divina natura non 
+          <lb ed="#B"/>tamen proprie sed inproprie ad generationem est de<lb ed="#B"/>terminata 
+          prima pars patet ex prima ratione 
+          <lb ed="#B"/>principali 2a ex 3a ratione principali 
+          <lb ed="#B"/>igitur conclusio vera
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>primum corollarium tam inpossibile 
+          <lb ed="#B"/>est patrem suum <choice><orig>in commutabile</orig><reg>incommutabile</reg></choice> verbum 
+          <lb ed="#B"/>non sibi aequale procedere quam inpossibile 
+          <lb ed="#B"/>est ipsum non plena beatitudine gaudere 
+          <lb ed="#B"/>probatur quia placenter producit igitur 
+          <lb ed="#B"/>tantum complacet in verbo quantum in se ipso 
+          <lb ed="#B"/>unde <unclear>m?c?et</unclear> notanter non dixit in quo con<lb ed="#B"/>placuit 
+          sed in quo michi compla<lb ed="#B"/>cui
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>2m corollarium prima productio sive 
+          <lb ed="#B"/>productiva actio simpliciter est adaequa<lb ed="#B"/>ta 
+          immense proportionaliter patet quia fi<lb ed="#B"/>lius 
+          est splendor gloriae paternae et 
+          <lb ed="#B"/>figuratur substantiae eius ad hebraeos primo 
+          <lb ed="#B"/>capitulo
+        </p>
+        <p>
+          <pc type="virgula">/</pc><pc type="virgula">/</pc>3m corollarium quam inpossibile est patrem 
+          <lb ed="#B"/>esse et non esse tam inpossibile est ipsum 
+          <lb ed="#B"/>esse et non agere probatur qquia si minus 
+          <lb ed="#B"/>staret ipsum esse et non agere quod est 
+          <lb ed="#B"/>contra conclusionem etiam tunc actio sua non 
+          <lb ed="#B"/>foret sibi naturalis
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>Contra istam conclusionem 
+          <lb ed="#B"/>et corollaria arguitur si conclusio est vera sequitur 
+          <lb ed="#B"/>quod pater neccessario suum verbum producit
+          <pb ed="#B" n="71-r"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B"/>vel produxit contra <name>augustinum</name> <title>ad orosium</title> quaestione 8 
+          <lb ed="#B"/>ut supra in quovis pede fuit ad<lb ed="#B"/>uctum 
+          patet consequentia quia non est possibile 
+          <lb ed="#B"/>non producere ipsum igitur neccesse quia haec 
+          <lb ed="#B"/>in eodem ordine modalium <unclear>repo<lb ed="#B"/>nium</unclear>
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>Contra primum corollarium si hoc esset 
+          <lb ed="#B"/>verum sequeretur quod pater aliqualiter in<lb ed="#B"/>digeret 
+          filio quod est falsum sicut probat 
+          <lb ed="#B"/><name ref="#Rimini">gregorius</name> distinctione <del rend="expunctuation">6</del> hac 6 quaestione unica articulo primo 
+          <lb ed="#B"/>sed tamen ipsum concedit <name ref="#Aureoli">aureolus</name> distinctione 
+          <lb ed="#B"/>6 quaestione prima articulo primo propositione 2a <pc type="virgula">/</pc><pc type="virgula">/</pc>
+        </p>
+        <p>
+          contra 
+          <lb ed="#B"/>2m proportio et aequalitas non debet 
+          <lb ed="#B"/>poni in non <unclear>quantitas</unclear> sed illa non sunt 
+          <lb ed="#B"/>quanta igitur etc.
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>Contra 3m quod inpli<lb ed="#B"/>cat 
+          contradictionem nunc esse actionem in di<lb ed="#B"/>vinis 
+          quod est falsum quia tunc talis 
+          <lb ed="#B"/>actio posset evidenter ostendi evi<lb ed="#B"/>dentia 
+          ad primum principium reducta patet 
+          <lb ed="#B"/>consequentia quia tam inpossibile est patrem 
+          <lb ed="#B"/>esse et non esse quia inplicat forma<lb ed="#B"/>liter 
+          virtus et oppositio
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>Ad idem proce<lb ed="#B"/>ssus 
+          <name>doctoris inventini Iacobi de 
+            <lb ed="#B"/>viterbo</name> quaestione 16 de divinis praedicamentis 
+          <lb ed="#B"/>puncto primo et 2o 5 principalis 
+          <lb ed="#B"/>ubi <sic>ubi</sic> in primo puncto ostendit quod in 
+          <lb ed="#B"/>deo est actio inmanens quia ratio 
+          <lb ed="#B"/>talis actionis absolute recepta 
+          <lb ed="#B"/><unclear>communiter</unclear> non dicit inperfectionem et in 
+          2o puncto ostendit quod actio transiens qui 
+          <lb ed="#B"/>non dicit inperfectionem proprie dicitur de 
+          <lb ed="#B"/>deo sicut creare gubernare sed qui 
+          <lb ed="#B"/>dicunt inperfectionem dicuntur de deo 
+          <lb ed="#B"/>non proprie in primo etiam puncto ostendit 
+          <lb ed="#B"/>quod in actione inmanente dei non 
+          <lb ed="#B"/>inquitur <sic>alietas</sic> principii actionis et 
+          <lb ed="#B"/>eius quod agitur nec requitur quod a<lb ed="#B"/>lietas 
+          sit inter actum qui est terminus 
+          <lb ed="#B"/>et principium actionis
+        </p>
+        <p>
+          Ex hiis patet quid 
+          <lb ed="#B"/>dicendum sit ad rationes etc
+        </p>
+        <p>
+          <pc type="virgula">/</pc><pc type="virgula">/</pc>Ad ista 
+          <lb ed="#B"/>respondeo ad primum concedo consequens ad <name ref="#Augustine">augustinum</name> 
+          <lb ed="#B"/><name ref="#HilaryOfPoitiers">hilarium</name> dico quod intelligunt de <choice><orig>neccessitate</orig><reg>necessitate</reg></choice> 
+          <cb ed="#B" n="b"/> <!-- 71rb -->
+          <lb ed="#B"/>coactionis vel indigentiae sed non ine<lb ed="#B"/>vitabiliter 
+          vel indigentiae summendo 
+          <lb ed="#B"/>hos modos sine inperfectione
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>Ad 
+          <lb ed="#B"/>2m nego consequens rationes solvuntur 
+          <lb ed="#B"/>per <name ref="#Rimini">gregorium</name> ubi est dictum et etiam per <name ref="#BonsemblantesBaduarius">bon<lb ed="#B"/>simlantem</name> 
+          in ista 6 distinctione satis sufficienter 
+          <lb ed="#B"/>ideo nec eas recito nec solvo
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>
+          <lb ed="#B"/>Ad 3m dico quod verum est de proportione 
+          <lb ed="#B"/>adaequationis molis <sic>molis</sic> non 
+          <lb ed="#B"/>autem aequaliter perfectionis
+        </p>
+        <p>
+          <pc ana="#pilcrow"/>Ad ultimum 
+          <lb ed="#B"/>dico quod inplicant unum tantum sicut 
+          <lb ed="#B"/><sic>reliqum</sic> et per hoc patet quid dicen<lb ed="#B"/>dum 
+          ad totam quaestionem quia pars 
+          <lb ed="#B"/>negativa est tenenda quia me<lb ed="#B"/>moria 
+          est determinata ut dictum est improprie 
+        </p>
+        <p>
+          <lb ed="#B"/>Ideo rationes non concludunt quia non 
+          <lb ed="#B"/>est determinato extrinsica sed intrinseca ratio<lb ed="#B"/>nes 
+          autem verum concludunt de extrinseca 
+          <lb ed="#B"/>et non de intrinseca
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
