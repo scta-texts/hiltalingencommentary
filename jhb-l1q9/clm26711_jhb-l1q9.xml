@@ -57,7 +57,33 @@
     <body>
       <div xml:id="jhb-l1q9">
         <head>Librum 1, Quaestio 9 [Clm 26711 Transcription]</head>
-        <p>α ξ ÿ</p>
+        <p>
+          <lb ed="#B"/>Hic quaeri solet etc ista 7a 
+          <lb ed="#B"/>distinctio ad <seg type="correction">praece<del>n</del>dentem</seg> 
+          <lb ed="#B"/>continuatur quia <name>magister</name> tractavit 
+          <lb ed="#B"/>divina et aeterna generatione quantum ad modum 
+          <lb ed="#B"/>et formam nunc incipit tractare de 
+          <lb ed="#B"/>ea quantum ad generandi potentiam et dividitur 
+          <lb ed="#B"/>in duas partes 2m quod <name>magister</name> de ista 
+          <lb ed="#B"/>potentia generandi duas movet quaestiones 
+          <lb ed="#B"/>nam primo quaerit <name>magister</name> an potentia generan<lb ed="#B"/>di 
+          conveniat patri aeterno 2o an haec 
+          <lb ed="#B"/>reperiatur in filio tunc 2a pars incipit 
+          <lb ed="#B"/>ibi <pc type="virgula"/> item quaeritur a quibusdam prima 
+          <lb ed="#B"/>dividutr in tres partes quia primo <name>magister</name> 
+          <lb ed="#B"/>movet quaestionem 2o ponit suam 
+          <lb ed="#B"/>determinationem 3o ex dictis <name>augustini</name> recitat 
+          <lb ed="#B"/>cuiusdam obiectionis evadationem tunc 
+          <lb ed="#B"/>2a pars est ibi Cui <unclear>v?sucie</unclear> 3a ibi 
+          <lb ed="#B"/>sed vehementer 2a pars principalis dividitur 
+          <lb ed="#B"/>in duas partes quia <name>magister</name> movet 
+          <lb ed="#B"/>quaestionem et ponit eius responsionem 2o 
+          <lb ed="#B"/>suae responsionis ostendit explanationem 
+          <pb ed="#B" n="71-v"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B"/>2a pars incipit ibi ita etiam cum 
+          <lb ed="#B"/>dicitur et haec est sententia etc <pc type="pilcrow"/>
+        </p>
       </div>
     </body>
   </text>
