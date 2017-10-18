@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -45,10 +45,7 @@
   </teiHeader>
   <text xml:lang="la">
     <front>
-      <div xml:id="include-list">
-        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/workscited.xml" xpointer="worksCited"/>
-        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/Prosopography.xml" xpointer="prosopography"/>
-      </div>
+      
       <div xml:id="starts-on">
         <pb ed="#B" n="69-r"/>
         <cb ed="#B" n="a"/>
@@ -56,8 +53,8 @@
     </front>
     <body>
       <div xml:id="jhb-l1q9">
-        <head>Librum 1, Quaestio 9 [Clm 26711 Transcription]</head>
-        <p>
+        <head xml:id="jhb-l1q9-Hd1e3848">Librum 1, Quaestio 9 [Clm 26711 Transcription]</head>
+        <p xml:id="jhb-l1q9-d1e3851">
           <lb ed="#B"/>Hic quaeri solet etc ista 7a 
           <lb ed="#B"/>distinctio ad <seg type="correction">praece<del>n</del>dentem</seg> 
           <lb ed="#B"/>continuatur quia <name>magister</name> tractavit 
@@ -84,7 +81,7 @@
           <lb ed="#B"/>2a pars incipit ibi ita etiam cum 
           <lb ed="#B"/>dicitur et haec est sententia etc <pc type="pilcrow"/>
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e3940">
           <lb ed="#B"/>utrum patrem aeternum generativa 
           <lb ed="#B"/>potentia verbum divinum producere 
           <lb ed="#B"/>personaliter sit perfectio immen<lb ed="#B"/>sa 
@@ -99,7 +96,7 @@
           <lb ed="#B"/>sit quo magis cogitari non possit 
           <lb ed="#B"/>2m <name>venerabilis anselmus</name> <title>proslogion</title> pluribus capitulis
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e3977">
           <lb ed="#B"/><pc type="pilcrow"/>2o sic ratio suppositalis nullam 
           <lb ed="#B"/>dicit perfecitonem igitur nec producere vel 
           <lb ed="#B"/>dicere verbum consequentia patet assumptum probatur 
@@ -107,7 +104,7 @@
           <lb ed="#B"/>bonitas quam essentialis cuius oppositum te<lb ed="#B"/>net 
           <name>doctor sollempnis</name> primo capitulo quaestione prima
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e3997">
           <lb ed="#B"/><pc type="pilcrow"/>2o quia tunc non producere augeret 
           <lb ed="#B"/>inperfectionem et sic intrinsece nichil 
           <lb ed="#B"/>foret simpliciter perfectum nisi pater et fi<lb ed="#B"/>lius 
@@ -116,7 +113,7 @@
           patet consequentia quia culibet aliqua 
           <lb ed="#B"/>ratio suppositibilis deficit
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4017">
           <pc type="pilcrow"/>3o nulla est 
           <lb ed="#B"/>potentia generativa in deo igitur quaestio falsa antecedens 
           <lb ed="#B"/>probatur primo rationibus <sic>verronis</sic> quas 
@@ -127,7 +124,7 @@
           <lb ed="#B"/>antecedens argui rationibus quas recitat 
           <lb ed="#B"/><name>gregorius</name> ubi supra
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4053">
           <lb ed="#B"/>In oppositum arguitur 
           <lb ed="#B"/>deus est summe et super simpliciter per<lb ed="#B"/>fectus 
           igitur quidquid naturaliter inest sibi et 
@@ -139,7 +136,7 @@
           <cb ed="#B" n="b"/>
           <lb ed="#B"/>foret inmense perfectus igitur etc.
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4080">
           <lb ed="#B"/><pc type="pilcrow"/>prima 
           <lb ed="#B"/>conclusio quamvis non sit efficaciter probabbile patrem 
           <lb ed="#B"/>producere verbum incommutabile hoc 
@@ -148,7 +145,7 @@
           <lb ed="#B"/>tota trinitas efficaciter probari quod est 
           <lb ed="#B"/>contradicta <del>est</del> <unclear>d</unclear> supra 2a
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4108">
           <pc type="pilcrow"/>2a pars probatur
           <lb ed="#B"/>nam producere verbum est perfectionis me<lb ed="#B"/>moriae 
           creatae igitur producere vel posse produ<lb ed="#B"/>cere 
@@ -158,13 +155,13 @@
           est perfectionis Immense formaliter 
           <lb ed="#B"/>igitur est dicere
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4128">
           <pc type="pilcrow"/>3o sic omnis actus <unclear>in</unclear>
           <lb ed="#B"/><unclear>talis <!-- could this be mentalis --></unclear> perceptibilis obiecti est perfectio sed 
           <lb ed="#B"/>talis actus dicendi patris est actus 
           <lb ed="#B"/><unclear>in talis <!-- mentalis?? --></unclear> ergo conclusio vera
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4149">
           <pc type="pilcrow"/>4o arguo pro conclusione omnis 
           <lb ed="#B"/>modus perfectus adquem non sequitur 
           inconveniens ne inperfection in deo debet 
@@ -178,7 +175,7 @@
           <lb ed="#B"/>et nullum deo repugnans sequitur 
           <lb ed="#B"/>ex hoc igitur hoc erit et est ponendum
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4180">
           <lb ed="#B"/><pc type="pilcrow"/>primum corollarium contra <name>doctorem sub<lb ed="#B"/>tilem</name> 
           6 de libro primo tantae perfectionis 
           <lb ed="#B"/>et patris dicere quantae est suae essentiale 
@@ -186,7 +183,7 @@
           <lb ed="#B"/>perfectionis et intelligere non est maioris 
           <lb ed="#B"/>igitur corollarium verum
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4200">
           <pc type="pilcrow"/>2m contra eundem ibidem 
           <lb ed="#B"/>tam formaliter pater est beatus suo 
           <lb ed="#B"/>dicere quam inmense est beatus suo in<lb ed="#B"/>telligere 
@@ -195,14 +192,14 @@
           <lb ed="#B"/>quod hoc perfectione inmensa sufficienter 
           <lb ed="#B"/>beatificetur
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4218">
           <pc type="virgula"/><pc type="virgula"/>3m corollarium quamvis generare 
           <lb ed="#B"/>verbum incommutabile antecedat ad 
           <lb ed="#B"/>inmensam perfecitonem eius tamen negatio 
           <lb ed="#B"/>non ponit cuilibet dignitas <unclear>prae?vationem</unclear>
           <pb ed="#B" n="72-r"/>
           <cb ed="#B" n="a"/>
-          <lb ed="#B"/>illud corollarium est expressa sententia <ref><name>A<lb ed="#B"/>gidii 
+          <lb ed="#B"/>illud corollarium est expressa sententia <ref xml:id="jhb-l1q9-Rd1e4239"><name>A<lb ed="#B"/>gidii 
           doctoris nostri</name> in libro primo distinctione 4 par<lb ed="#B"/>te 
           prima quaestioen 2 in solutione primi
           <lb ed="#B"/>argumenti principalis</ref> ubi dicit aliquid 
@@ -212,7 +209,7 @@
           <lb ed="#B"/>etiam hoc corollarium ex conclusione et corolariis prae<lb ed="#B"/>missis 
           igitur etc.
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4265">
           <pc type="pilcrow"/>Contra haec dicta arguitur 
           <lb ed="#B"/>et prmo contra primam partem conclusionis et primo 
           <lb ed="#B"/>quod sic ibi dicere sic ex quatuor primo 
@@ -223,7 +220,7 @@
           est summe communicabile sic arguitur 
           <lb ed="#B"/>de simplicitate
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4287">
           Ex hiis mediis 
           <lb ed="#B"/>videtur arguere <name>magister iohannes de bracl</name> 
           <lb ed="#B"/>articulo 2o sui symboli quia ex hiis 
@@ -235,7 +232,7 @@
           <lb ed="#B"/>igitur aequalem sibi deum et habetur 
           <lb ed="#B"/>propositum
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4312">
           <pc type="pilcrow"/>2o contra istam partem arguitur 
           <lb ed="#B"/>rationibus prioris generalis <name>nostri magistri 
           <lb ed="#B"/>hugolini</name> quaestione prima circa distinctionem 4am 6am 
@@ -260,7 +257,7 @@
           <lb ed="#B"/>verbi formativus et non per creationem 
           <lb ed="#B"/>igitur per generationem
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4378">
           <pc type="pilcrow"/>3o potest argui 
           <lb ed="#B"/>ex dictis doctoris subtilis primo sententiarum 
           <lb ed="#B"/>distinctione 2a parte 2a quaestione 4 <unclear>et</unclear> est a in tota 
@@ -277,7 +274,7 @@
           <lb ed="#B"/>sequitur propositum scilicet quod ibi erit notitia 
           <lb ed="#B"/>genita quod erit probandum
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4416">
           <pc type="pilcrow"/>Contra 
           <lb ed="#B"/>2am partem simul cum corollariis arguitur ex 
           <lb ed="#B"/>dictis suis primo sententiarum distinctione 6 quia 
@@ -287,7 +284,7 @@
           <lb ed="#B"/>quod est falsum consequentia patet cum non producat 
           <lb ed="#B"/>aliquid ad intra
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4436">
           <pc type="pilcrow"/>2o contra idem ex 
           <lb ed="#B"/>dictis philosophis <unclear>de marchia</unclear> sequitur quod ratio sup<lb ed="#B"/>positionalis 
           equaliter esset ratio beatifica<lb ed="#B"/>tiva 
@@ -306,7 +303,7 @@
           Johannem de braculis</name> nichil 
           <lb ed="#B"/>concludere omnino
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4482">
           <pc type="pilcrow"/>2a ratio ita modicum 
           <pb ed="#B" n="72-v"/>
           <cb ed="#B" n="a"/>
@@ -333,7 +330,7 @@
           absit aliqualiter esse in mente 
           <lb ed="#B"/>increata non tamen hoc evidenter osten<lb ed="#B"/>dit 
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4547">
           <pc type="pilcrow"/>ad 3m patet quod non est evidens 
           <lb ed="#B"/>sicut patet ex dictis philosophi 12 metaphysicae in 
           <lb ed="#B"/>illa littera <unclear>sententia</unclear> pactum quo respondet 
@@ -346,12 +343,12 @@
           <lb ed="#B"/>inde est quod verba simplicium sanctorum 
           <lb ed="#B"/>in gravem efficatiam in fide habue<lb ed="#B"/>reunt 
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4587">
           <pc type="virgula"/>ad prima rationem contra 2am 
           <lb ed="#B"/>partem neganda est consequentia secundum quod patet ex 
           <lb ed="#B"/>dictis <name>domini aegidii</name> corollario 3o conclusionis 
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e4600">
           <pc type="virgula"/><pc type="virgula"/>ad 
           <lb ed="#B"/>2m concedo consequens simpliciter nec hoc falsum 
           <lb ed="#B"/>esse puto nec tamen ex hoc sequitur 
@@ -364,8 +361,28 @@
           <cb ed="#B" n="b"/>
           <lb ed="#B"/><unclear>domino</unclear> concedente
         </p>
-        <p>
-          <pc type="pilcrow"/>
+        <p xml:id="jhb-l1q9-d1e4632">
+          <pc type="pilcrow"/>2a conclusio tam perfecte 
+          <lb ed="#B"/>verbum a patre procedit quod ab ipso non 
+          <lb ed="#B"/>dependet neque eum praeexigit probatur 
+          <lb ed="#B"/>conclusio primo quo ad primam partem 
+          <lb ed="#B"/>quia 
+          <lb ed="#B"/>verbum est eiusdem naturae cum patre igitur 
+          <lb ed="#B"/>ab eo non dependet
+        </p>
+        <p xml:id="jhb-l1q9-d1e4650">
+          <pc ana="#pilcrow"/>2a quia si ver<lb ed="#B"/>bum 
+          patrem praeexigeret cum signo men<lb ed="#B"/>surae 
+          praesupponeret et eo indigeret quod 
+          <lb ed="#B"/>est falsum patet consequentia virtute istius propositio<lb ed="#B"/>nis 
+          <unclear>prae</unclear> falsitatem aut consequenter expresse ponit 
+          <lb ed="#B"/><name ref="#Augustine">augustinus</name> in libro de vera innocentia circa 
+          <lb ed="#B"/>finem ubi dicit quibusdam aeter<lb ed="#B"/>nis 
+          potest esse aliqua distantia ipsa aut 
+          <lb ed="#B"/>aeternitas absque diversitate naturae est 
+          <lb ed="#B"/>pro 2a parte conclusionis istius est <name ref="#Lombard">magister</name> in<lb ed="#B"/>fra 
+          distinctione 43 capitulo 3o dicens <quote xml:id="jhb-l1q9-Qd1e4684" source="http://scta.info/resource/pll1d43c1-d1e3525">exactionis 
+            <lb ed="#B"/>verbum non proprie dicitur de deo</quote>
         </p>
       </div>
     </body>
