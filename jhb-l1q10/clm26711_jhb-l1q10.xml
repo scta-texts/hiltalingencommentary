@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -45,7 +45,10 @@
   </teiHeader>
   <text xml:lang="la">
     <front>
-      
+      <div xml:id="include-list">
+        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/workscited.xml" xpointer="worksCited"/>
+        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/Prosopography.xml" xpointer="prosopography"/>
+      </div>
       <div xml:id="starts-on">
         <pb ed="#B" n="74-v"/>
         <cb ed="#B" n="b"/>
@@ -163,7 +166,7 @@
           <lb ed="#B"/><quote source="http://scta.info/resource/adt-l5">solus deus non mutatur nec potest mutari</quote>
         </p>
         <p>
-          Primo conclusio <subst><sic>solus est</sic><corr>est solus</corr></subst> deus 
+          Primo conclusio <choice><sic>solus est</sic><corr>est solus</corr></choice> deus 
           <lb ed="#B"/>simpliciter necessario existens et ipse esse non 
           <lb ed="#B"/>ipsum est dependenter indigens 
           <lb ed="#B"/>probatur quo ad primam partem quia 
@@ -233,8 +236,120 @@
           <lb ed="#B"/><unclear>praenomi</unclear> igitur non possunt non esse consequentia 
           <lb ed="#B"/>patet cum haec sit ratio contingentiae et 
           <cb ed="#B" n="b"/>
-          <lb ed="#B"/>
+          <lb ed="#B"/>corrumptionis in creaturis igitur <add place="above-line">conclusio</add> videtur 
+          <lb ed="#B"/>falsa
         </p>
+        <p>
+          <pc type="virgula">/</pc><pc type="virgula">/</pc> Contra primum corollarium latitudo contin<lb ed="#B"/>gentiae 
+          est intensibilis et remissibilis 
+          <lb ed="#B"/>igitur est dare latitudinem necessitatis vel impossibilitatis 
+          <lb ed="#B"/>per quarum admixtionem et deprivationem latitudo 
+          <lb ed="#B"/>contingentiae intendatur vel remittatur 
+          <lb ed="#B"/>assumptum patet et probatur infra
+        </p>
+        <p>
+          <pc type="virgula">/</pc><pc type="virgula">/</pc>contra 
+          <lb ed="#B"/>2m corollarum et consequentia tenet ex dictis commentatoris 
+          <lb ed="#B"/>5 philosophorum commento 19 dicentis quod <unclear>albedinem</unclear> non 
+          <lb ed="#B"/>sit minus <unclear>albedinem</unclear> nisi ex commixtione contrarii 
+          <lb ed="#B"/>et eodem libro commento 45 dei intellectum in omni 
+          <lb ed="#B"/>genere est <unclear>di??mtrum</unclear> ex contrarie commixtione 
+          <lb ed="#B"/>igitur si contingentia intendatur fit 
+          <lb ed="#B"/>per commixtionem neccessitatis et non neccessitatis in 
+          summo igitur in aliquo eius gradu et per consequens 
+          <lb ed="#B"/>eius est latitudo
+        </p>
+        <p>
+          <pc type="virgula">/</pc><pc type="virgula">/</pc> Contra 2m corollarium arguo 
+          <lb ed="#B"/>sic aut esse neccessario correspondet esse 
+          <lb ed="#B"/>praecise punctuale aut esse quantum 
+          <lb ed="#B"/>si esse praecise punctuale igitur non immense 
+          tale Si <unclear>quanti?m</unclear> igitur sicut omni 
+          <lb ed="#B"/>quanto dat minus quantum si neccessitati po<lb ed="#B"/>terit 
+          minor dari
+        </p>
+        <p>
+          Confirmatur sic si 
+          <lb ed="#B"/>corollarium esset verum sequeretur totam la<lb ed="#B"/>titudinem 
+          possibilium fore contingentem 
+          <lb ed="#B"/>et si aequaliter staret ipsam esse sicud 
+          <lb ed="#B"/>non esse et per consequens poterit tota poni 
+          <lb ed="#B"/>in esse quod est falsum
+        </p>
+        <p>
+          Contra 3m corollarium 
+          <lb ed="#B"/>si ipsum esset verum sequeretur quod unum 
+          <lb ed="#B"/>contingens non est magis nec minus 
+          <lb ed="#B"/>contingens quam aliud et quodlibet in<lb ed="#B"/>finite 
+          contingens sed consequens falsum quia 
+          <lb ed="#B"/><unclear>hos</unclear> est magis contingens quam ma<lb ed="#B"/>teria 
+          prima et lapis quam caelum igitur 
+          <lb ed="#B"/>primum consequens falsum sed consequens falsum probatur 
+          <lb ed="#B"/>etiam quia tota latitudo possibilitatis 
+          <lb ed="#B"/>et contingentiae in utroque extremo <unclear>terminatur</unclear> 
+          <lb ed="#B"/>patet quia qualis est eius distantia 
+          <lb ed="#B"/>ab inpossibile sicut a neccessitati vel igitur 
+          <lb ed="#B"/>terminatur ad ista vel ad contingentiam 
+          <lb ed="#B"/>non ad contingentiam quia tunc non 
+          <pb ed="#B" n="76-r"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B"/>fuisset tota contingentia significata 
+          <lb ed="#B"/>cum supra eam foret contingentia 
+          <lb ed="#B"/>et infra eam foret contingentia igitur 
+          <lb ed="#B"/>sequitur quod sic terminata quod erat probandum
+        </p>
+        <p>
+          <lb ed="#B"/>ad istas rationes respondeo et primo 
+          <lb ed="#B"/>ad rationes doctoris ubi nota quod non 
+          <lb ed="#B"/>videtur consequenter fuisse locutus in <title ref="#SummaContraGentiles">sum<lb ed="#B"/>ma 
+          contra gentiles</title> ubi est dictum et 
+          <lb ed="#B"/>in prima parte quaestione 19 articulo 3 et 9 
+          <lb ed="#B"/>quia in <title ref="#SummaContraGentiles">summa contra gentiles</title> dicit 
+          <lb ed="#B"/>res huius esse necessitatis absoluta 
+          <lb ed="#B"/>hic vero dicit eas neccessarias non 
+          <lb ed="#B"/>absolute sed solum ex suppositione cre<lb ed="#B"/>do 
+          tamen bene quod intellectus suus fuerit 
+          <lb ed="#B"/>bonus et verus utrobique satis 
+          <lb ed="#B"/>posset collegi ex dictis suis ibidem
+        </p>
+        <p>
+          <lb ed="#B"/>Sed tamen quia rationes contra me 
+          <lb ed="#B"/>sunt dico ad primam cum arguitur divina 
+          <lb ed="#B"/>bonitas vel perfectio exigit ut produ<lb ed="#B"/>catur 
+          sibi simile consequenter etc <pc type="virgula">/</pc> ad istam 
+          <lb ed="#B"/>simpliciter nego causa maiorem quam 
+          <lb ed="#B"/>minorem <!-- possible hand shift --> <handShift/> Cum primo quia maior est 
+          <lb ed="#B"/>falsa cum 2o qui est simpliciter inpossibilis cum 3o 
+          <lb ed="#B"/>quia est minor etiam falsa et cum probatur quia 
+          <lb ed="#B"/>si neccesse esse repugnaret creatae etc dico 
+          <lb ed="#B"/>quod non solum sibi repugnat ex eo quod est 
+          <lb ed="#B"/>ex alio Sed ex eo quod est contingenter et libere 
+          <lb ed="#B"/>de nullo et non esse ex aliquo alio quid a se 
+          <lb ed="#B"/>ipso quod ipsum ad esse producit
+        </p>
+        <p>
+          ad 2am <unclear>rationem</unclear> 
+          <lb ed="#B"/>concedo maiorem et nego simpliciter minorem 
+          <lb ed="#B"/>quia non solum est falsa ut sonat Sed nec 
+          <lb ed="#B"/>est <unclear>tu??</unclear> quia eadem ratione probaretur quod omne 
+          <lb ed="#B"/>futurum neccessario eveniret Et cum arguitur quod 
+          <lb ed="#B"/>divina bonos mutaretur nego simpliciter consequentiam
+        </p>
+        <p>
+          <lb ed="#B"/>Ad 3am rationem dicitur cum arguitur quia non habent 
+          <lb ed="#B"/>materiam etc negatur consequentia nec in philosopho nec 
+          <lb ed="#B"/>theologo est formalis non quid philosopho patet de 
+          <lb ed="#B"/>accidentibus et lumine producto in aliquo numero 
+          <lb ed="#B"/>communis autem katholicus habet simpliciter eam 
+          <lb ed="#B"/>negare ut patet
+        </p>
+        <p>
+          2o dico et si non hunc 
+          <lb ed="#B"/>materiam habent cum nichil suum possibile 
+          <cb ed="#B" n="b"/> <!-- 76rb -->
+          <lb ed="#B"/>quasi numerum et hoc sufficit
+        </p>
+        <p></p>
       </div>
     </body>
   </text>
