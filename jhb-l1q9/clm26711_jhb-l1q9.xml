@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -67,7 +64,7 @@
           conveniat patri aeterno 2o an haec 
           <lb ed="#B"/>reperiatur in filio tunc 2a pars incipit 
           <lb ed="#B"/>ibi <pc type="virgula"/> item quaeritur a quibusdam prima 
-          <lb ed="#B"/>dividutr in tres partes quia primo <name>magister</name> 
+          <lb ed="#B"/>dividitur in tres partes quia primo <name>magister</name> 
           <lb ed="#B"/>movet quaestionem 2o ponit suam 
           <lb ed="#B"/>determinationem 3o ex dictis <name>augustini</name> recitat 
           <lb ed="#B"/>cuiusdam obiectionis evadationem tunc 
@@ -384,7 +381,7 @@
           distinctione 43 capitulo 3o dicens <quote xml:id="jhb-l1q9-Qd1e4684" source="http://scta.info/resource/pll1d43c1-d1e3525">exactionis 
           <lb ed="#B"/>verbum non proprie dicitur de deo</quote>
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e939">
           primum 
           <lb ed="#B"/>corollarium contra <name>scotum</name> in conclusione ubi supra distinc<lb ed="#B"/>tione 
           2a quam repugngnat verbo intrinseca 
@@ -392,14 +389,14 @@
           <lb ed="#B"/>est ei alicuius praeexigentia patet quia 
           <lb ed="#B"/>utraque inperfectionem in eo
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e956">
           2m corollarium quam<lb ed="#B"/>vis 
           verbum a patre capiat esse non 
           <lb ed="#B"/>tamen privatur suo proprio et libero agere patet 
           <lb ed="#B"/>quia non praedeterminat a patre aliqua 
           <lb ed="#B"/>naturali neccessitate
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e967">
           <pc ana="#pilcrow"/>3m corollarium verbum non 
           <lb ed="#B"/>minus libere sive filius spiritum producit 
           <lb ed="#B"/>quam pater verbum naturaliter libere hoc esset ex 
@@ -410,7 +407,7 @@
           <lb ed="#B"/>talia sibi attribuere esset eius perfectio<lb ed="#B"/>ni 
           multum derogare
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e990">
           <pc ana="#pilcrow"/>Contra ista 
           <lb ed="#B"/>arguitur et primo contra conclusionem sic sequitur 
           <lb ed="#B"/>quod non plus praeexigeret productum ad 
@@ -419,7 +416,7 @@
           <lb ed="#B"/>naturam producentis igitur conclusio vero et consequentia 
           <lb ed="#B"/>satis nota est ut videtur
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1008">
           <pc ana="#pilcrow"/>2o sic fi<lb ed="#B"/>lius 
           a se non potest facere quidquam nisi 
           <pb ed="#B" n="73-r"/>
@@ -430,7 +427,7 @@
           <lb ed="#B"/>etiam videtur evidens igitur sequitur quod fi<lb ed="#B"/>lius 
           a patre dependet igitur conclusio falsa
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1030">
           <pc ana="#pilcrow"/>3o 
           <lb ed="#B"/>sic principiatum principium suum prae<lb ed="#B"/>exigit 
           igitur conclusio falsa consequentia nota ex dic<lb ed="#B"/>tis 
@@ -445,14 +442,14 @@
           <lb ed="#B"/>sed inesse  absoluto et simpliciter igitur conclusio 
           <lb ed="#B"/>falsa
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1072">
           <pc ana="#pilcrow"/>contra corollarium tam perfecte verbum ori<lb ed="#B"/>ginatur 
           a patre indistincta ab eo per<lb ed="#B"/>sona 
           quam si originaretur distinctum 
           <lb ed="#B"/>in persona et natura Sed tunc ipsum prae<lb ed="#B"/>exigeret 
           igitur et nunc 
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1085">
           <pc ana="#pilcrow"/>Confirmatur 
           <lb ed="#B"/>non minus prima persona est potens 
           <lb ed="#B"/>respectu 2ae quam foret si filius deus di<lb ed="#B"/>stinctus 
@@ -461,14 +458,14 @@
           <lb ed="#B"/>ultimo pater posset facere eum nulli 
           <lb ed="#B"/>potentem igitur et nunc
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1109">
           contra 2m corollarium est 
-          <lb ed="#B"/>dictum lucis 2o <quote ana="#lc2_49">in hiis quae patris 
+          <lb ed="#B"/>dictum lucis 2o <quote xml:id="jhb-l1q9-Qd1e1113" ana="#lc2_49">in hiis quae patris 
           <lb ed="#B"/>mei sunt opportet me</quote> igitur sed haec distinctio 
           <lb ed="#B"/>oportet necessitatem inportat igitur non libere 
           <lb ed="#B"/>agit verbum ut videtur
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1124">
           <pc ana="#pilcrow"/>Contra 3m corollarium 
           <lb ed="#B"/>minorem gradum libertatis <unclear>dicit esse</unclear> li<lb ed="#B"/>berum 
           per se solum et non ex se vel a 
@@ -478,7 +475,7 @@
           <lb ed="#B"/>libertatis correspondet filio sicut patri 
           <lb ed="#B"/>et per consequens corollarium falsum
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1147">
           <pc ana="#pilcrow"/>ad ista respondeo 
           <lb ed="#B"/>et primo ad primum cum arguitur non plus 
           <lb ed="#B"/>praexigeret productum etiam dico quod loquen<lb ed="#B"/>do 
@@ -491,7 +488,7 @@
           ratione ydemptitatis naturae ac illationis 
           <lb ed="#B"/>correlatae sed hoc sufficiant pro praesenti
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1177">
           <lb ed="#B"/><pc ana="#pilcrow"/>ad 2m filius non potest quidquam etc 
           <lb ed="#B"/>concedo et cum dicitur hoc est dependere 
           <lb ed="#B"/>nego maxime nisi est ydemptitas 
@@ -506,13 +503,13 @@
           <lb ed="#B"/>aliter propositum suum causale influere non pos<lb ed="#B"/>set 
           dici agere quod tamen est falsum
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1214">
           <pc ana="#pilcrow"/>ad 3m 
           <lb ed="#B"/>quando arguitur principium principiatum etc possem 
           <lb ed="#B"/>primo negare consequentiam quia antecedens est 
           <lb ed="#B"/>una <unclear>particularis</unclear>
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1228">
           <pc ana="#pilcrow"/>2o dico si antecedens formetur 
           <lb ed="#B"/>universaliter tunc nego assumptum quia non 
           <lb ed="#B"/>omne principiatum principium suum praeexigit 
@@ -522,11 +519,11 @@
           <lb ed="#B"/>de agere vel coexigere factio mentionem 
           <lb ed="#B"/>in scriptis
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1248">
           <pc ana="#pilcrow"/>ad rationem contra primum corollarium 
           <lb ed="#B"/>tam perfecte originatur etc
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1256">
           <pc ana="#pilcrow"/>possem da<lb ed="#B"/>re 
           multiplicere sensum sed nego simpliciter 
           <lb ed="#B"/>consequentiam ad confirmationem cum dicitur 
@@ -540,18 +537,18 @@
           <lb ed="#B"/>valet pro hoc nec etiam declaratio doctoris 
           <lb ed="#B"/>subtilis distinctione 2a primi sententiarum
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1288">
           2o dico quod 
           <lb ed="#B"/>consequentia non valet nec est similis ratio utrobique 
           <lb ed="#B"/>sicut etiam satis declarat doctor 
           <lb ed="#B"/>subtilis primo sententiarum distinctione 20 respondendo 
           <lb ed="#B"/>ad rationes principales
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1299">
           <pc ana="#pilcrow"/>ad ratione contra 
           <pb ed="#B" n="73-v"/>
           <cb ed="#B" n="a"/>
-          <lb ed="#B"/>2m corollarium cum arguit per illud <title>lucis</title> 2o <quote ana="#lc2_49">in 
+          <lb ed="#B"/>2m corollarium cum arguit per illud <title>lucis</title> 2o <quote xml:id="jhb-l1q9-Qd1e1313" ana="#lc2_49">in 
           <lb ed="#B"/>hiis quae patris</quote> etc dico primo quod ly 
           <lb ed="#B"/><mentioned>oportet</mentioned> non notat neccessitatem sed congru<lb ed="#B"/>itatem 
           2o dico quod si notat neccesi<lb ed="#B"/>tatem 
@@ -559,7 +556,7 @@
           <lb ed="#B"/>per hoc arguitur contra conclusionem quia <unclear>t</unclear> neccessitas 
           <lb ed="#B"/>libertati non repungnat
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1335">
           <pc ana="#pilcrow"/>Ad rationem 
           <lb ed="#B"/>contra 3m corollarium dico primo cum <name>hylario</name> 
           <lb ed="#B"/>quod filius est per se et non a se 2o di<lb ed="#B"/>co 
@@ -571,13 +568,13 @@
           per se et tamen solus deus 
           <lb ed="#B"/>pater et essentia divina dicuntur a se
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1366">
           <pc ana="#pilcrow"/>3o 
           <lb ed="#B"/>dico quod non minoris gradus libertatis 
           <lb ed="#B"/>est filius propter ydemptitatem naturae 
           <lb ed="#B"/>causa patris quam filii
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1377">
           <pc ana="#pilcrow"/>3a conclusio quamvis patris 
           <lb ed="#B"/>generativa potentia sit simpliciter et immen<lb ed="#B"/>sa 
           tamen tenendum fide quod non 
@@ -587,13 +584,13 @@
           ab hac distincta infini<lb ed="#B"/>te 
           est minus potentia seu perfecta
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1398">
           2o quia 
           <lb ed="#B"/>nullus terminus nobilioris generis quam <unclear>sic</unclear> 
           <lb ed="#B"/>terminus huius potentiae potest per aliquam potentiam produ<lb ed="#B"/>ci 
           in esse
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1410">
           <pc ana="#pilcrow"/>3o quia quam <unclear>intense</unclear> haec 
           <lb ed="#B"/>potentia potest esse potentia tam intense est potentia ac<lb ed="#B"/>tualiter 
           ita quod nichil iipsum potest esse 
@@ -603,7 +600,7 @@
           sacrae scripturae et determinatione 
           <lb ed="#B"/>ecclesiae
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1433">
           <pc ana="#pilcrow"/>primum corollarium potentia generandi filium 
           <lb ed="#B"/>aeternum non est mere relativum probatur 
           <lb ed="#B"/>quia relatio non est patri tota ratio 
@@ -611,7 +608,7 @@
           <lb ed="#B"/>consequentia satis est manifesta et assumptum etiam 
           <lb ed="#B"/>patet igitur etc
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1449">
           <pc ana="#pilcrow"/>2m corollarium potentia generandi 
           <cb ed="#B" n="b"/>
           <lb ed="#B"/>non dicitur potentia respectu generationis activae re<lb ed="#B"/>spectu 
@@ -620,7 +617,7 @@
           terminum quod non est elicitiva ge<lb ed="#B"/>nerationis 
           active igitur corollarium verum
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1467">
           <pc ana="#pilcrow"/>3m corollarium nulla ratio sine fide vel cla<lb ed="#B"/>ra 
           visione certificat intellectum de 
           <lb ed="#B"/>communi lege quare pater non plures 
@@ -635,7 +632,7 @@
           <lb ed="#B"/>non est ibi igitur non possunt plures filia<lb ed="#B"/>tiones 
           et per consequens non plures filii
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1504">
           <pc ana="#pilcrow"/>2o contra 
           <lb ed="#B"/>idem est ratio <name>aureoli</name> in ista distinctione quaestione 2a 
           <lb ed="#B"/>articulo 3 praecisa ratio quare pater non potest alium 
@@ -645,7 +642,7 @@
           <lb ed="#B"/>quidditas subsistens quare mu<lb ed="#B"/>ltiplicari 
           non potest
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1528">
           <pc ana="#pilcrow"/>3o contra idem est ratio 
           <name>ockam</name> distinctione ista <unclear>a</unclear> quaestione 3 articulo 2 quia
           <lb ed="#B"/>non possunt esse plures relationes eius<lb ed="#B"/>dem 
@@ -654,7 +651,7 @@
           <lb ed="#B"/>deo non sunt diversa absoluta igitur nec 
           <lb ed="#B"/>tales relationes plures igitur etc
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1550">
           <pc ana="#pilcrow"/>4o contra 
           <lb ed="#B"/>idem est ratio <name>doctoris sollempnis</name> 6 quoli<lb ed="#B"/>bet 
           quaestione prima quia actus adaequatus 
@@ -663,7 +660,7 @@
           <lb ed="#B"/>rationis ab eodem principio sed sic est 
           <lb ed="#B"/>actus generationis paternae igitur corollarium falsum
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1571">
           <lb ed="#B"/><pc ana="#pilcrow"/>5o contra idem est ratio <name>doctoris subtilis</name> 
           <lb ed="#B"/>in suo quolibet quaestione 2aquia si possunt 
           <lb ed="#B"/>esse plures productiones eiusdem rationis 
@@ -672,7 +669,7 @@
           <cb ed="#B" n="a"/>
           <lb ed="#B"/>ibi est igitur infinite ibi forent generatio<lb ed="#B"/>nes
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1595">
           <pc ana="#virgula"/><pc ana="#virgula"/>6o contra hoc est ratio <name>doctoris 
           <lb ed="#B"/>nostri hugolini</name> in ista <unclear>a</unclear> distinctione quaestione 2 conclusione 
           <lb ed="#B"/>2 quia producere plures notitias 
@@ -685,7 +682,7 @@
           <lb ed="#B"/>verbi igitur videtur quod sit ratio assignabilis 
           <lb ed="#B"/>et non sola fide hoc teneatur
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1629">
           <pc ana="#virgula"/><pc ana="#virgula"/>alia 
           <lb ed="#B"/>contra idem est ratio <name>bonsilantis</name> hoc suo 
           <lb ed="#B"/>primo in illa quaestione qua quaerit utrum potentia 
@@ -697,22 +694,25 @@
           antecedens probatur cum primo quia 
           <lb ed="#B"/>pater nunc infinitissime novit se 
           <lb ed="#B"/>tanta sapientia quanta est ipsa sua 
-          <lb ed="#B"/>essentia ut probatur per <ref target="http://scta.info/resource/adt-l15"><name>augustinum</name> 15 de trinitate 
+          <lb ed="#B"/>essentia ut probatur per <ref xml:id="jhb-l1q9-Rd1e1661" target="http://scta.info/resource/adt-l15"><name>augustinum</name> 15 de trinitate 
           <lb ed="#B"/>capitulo 14o</ref>
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1669">
           <pc ana="#virgula"/><pc ana="#virgula"/>2o quia <add>a</add> aliud verbum perfecti<lb ed="#B"/>us 
-          aute minus perfectus aut aeque 
+          aut minus perfectus aut aeque 
           <lb ed="#B"/>perfectum sed nullum istorum igitur etc
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1683">
           <pc ana="#virgula"/><pc ana="#virgula"/>3o 
           <lb ed="#B"/>si aliud verbum producere posset 
           <lb ed="#B"/>non perfecte se pater dixisset ista 
           <lb ed="#B"/>ratio inter ceteras maiorem apparen<lb ed="#B"/>tiam 
           iudicio in eo habet et maxime 
           <lb ed="#B"/>cum formatur extrinsice <!-- dbcheck "intense" above; perhaps it should be "intrinsice" --> cum suis suppositionibus 
-          <lb ed="#B"/>sicut ipse eam format Istud 
+          <lb ed="#B"/>sicut ipse eam format
+        </p>
+        <p xml:id="jhb-l1q9-d1e1704">
+          Istud 
           <lb ed="#B"/>idem posset esse processus <name>aegidii</name> 
           <lb ed="#B"/>libro primo distinctione 7 quaestione ultimo ubi dat 
           <lb ed="#B"/>differentiam inter verbum nostrum et divinum 
@@ -729,11 +729,11 @@
           <lb ed="#B"/>ex hiis <unclear>qt conclu?r</unclear> unitas divini ver<lb ed="#B"/>bi 
           et pluralitas nostri
         </p>
-        <p>Sed haec omnia 
+        <p xml:id="jhb-l1q9-d1e1746">Sed haec omnia 
             <note type="marginal-note" place="margin-left">ad ista responsio et quod haec omnia</note>
           <lb ed="#B"/>non convincunt evidenter
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1754">
           non quidem 
           <lb ed="#B"/>prima quia fundatur super falso quod 
           <lb ed="#B"/>patet ex tribus articulis condempnatis primus 
@@ -745,7 +745,7 @@
           divisionem sine materia 
           <lb ed="#B"/>error 
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1778">
           2a non valet quia eadem ratione 
           <lb ed="#B"/>concluderet quod non esset plures per<lb ed="#B"/>sonae 
           quia quaelibet persona et 
@@ -754,19 +754,19 @@
           catholica tenet Si igitur valet pro te 
           <lb ed="#B"/>et pro me 
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1794">
           3a ratio non concludit tamen 
           <lb ed="#B"/>primo propter maiorem quae forte et 
           <lb ed="#B"/>sive <sic>et sive</sic> forte a pluribus ne<lb ed="#B"/>garetur 
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1806">
           tum 2o propter minorem quam ne<lb ed="#B"/>gareret 
           sibi <name>doctor noster inventius 
           <lb ed="#B"/>iacobus de viterbio</name> qui ponetur 
           <lb ed="#B"/>plura absoluta in divinis scilicet modos 
           <lb ed="#B"/>absolutos
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1821">
           Tum 3o quia 2m quod di<lb ed="#B"/>cit 
           <name>dominus alphonsus</name> non videntur 
           <lb ed="#B"/>magis incompossibiles tales plures re<lb ed="#B"/>lationes 
@@ -775,7 +775,7 @@
           <lb ed="#B"/>subiecto sed hoc concedit <name>ockam</name> in ea<lb ed="#B"/>dem 
           quaestione igitur etc
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1843">
           Solutio 4ae 
           <lb ed="#B"/>rationis quae est <name>doctoris sollempnis</name> 
           <lb ed="#B"/>de actu adaequato dico quod non 
@@ -794,7 +794,7 @@
           removeretur illa inperfcectio a 
           <lb ed="#B"/>patre et per consequens prius ab actu
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1883">
           5a 
           <lb ed="#B"/>ratio <name>doctoris subtilis</name> non concludit 
           <lb ed="#B"/>quia ista consequentia non est formalis 
@@ -805,7 +805,7 @@
           igitur infinite igitur videtur quod ratio 
           <lb ed="#B"/>non concludit
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1909">
           6o simliiter non 
           <lb ed="#B"/>valet quia tota latitudo perfectionis quae 
           <lb ed="#B"/>est in rationibus tribus est in patre 
@@ -815,7 +815,7 @@
           <lb ed="#B"/>essent plura supposita quam suppositum 
           <lb ed="#B"/>paternum
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1927">
           Sed adhuc instatur quia 
           <lb ed="#B"/>ex quo dicitur in solutione quod plura<lb ed="#B"/>litas 
           productorum eiusdem rationis 
@@ -827,13 +827,13 @@
           <lb ed="#B"/>patet parte prima <name>sancti thomae</name> quod 41 
           <lb ed="#B"/>articulo 64o ratione 
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1955">
           2o dico quod supposito 
           <lb ed="#B"/>quod ita esset ratio non concludit quia 
           <lb ed="#B"/>aequaliter concluderem quod solus pater 
           <lb ed="#B"/>esset in divinis
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1965">
           Ad rationes <name>bonsiml<lb ed="#B"/>antes</name> 
           quae 7o loco sunt posita 
           <lb ed="#B"/>potest dici ad primam cum dicit pater 
@@ -846,14 +846,14 @@
           <lb ed="#B"/>inplicatione quod ab eadem notitia 
           <lb ed="#B"/>quae est pater posset esse aliud verbum
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e1992">
           <unclear>2o<!-- also looks like 3o --></unclear>
           <lb ed="#B"/>posset dici quod et si rationes suae probant 
           <lb ed="#B"/>quod pater non poset aliud verbum ge<lb ed="#B"/>nerare
           non tamen ostendunt quod filius 
           <lb ed="#B"/>non possit
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e2007">
           3o dicitur quod si sumitur 
           <lb ed="#B"/>antecedens pro notitia in qua et non solum 
           <lb ed="#B"/>etiam proponit quod deberet probare 
@@ -868,19 +868,19 @@
           <lb ed="#B"/>potest sine contradictione consequentia ibidem prius 
           <lb ed="#B"/>facta
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e2039">
           Ad dicta <name>domini Aegidii</name> potest primo 
           <lb ed="#B"/>dici quod ibi non intendit probare nisi 
           <lb ed="#B"/>differentiam verbi dei et nostri et sufficienter haec 
           <lb ed="#B"/>ostendit
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e2051">
           2o potest dici quod non probat 
           <lb ed="#B"/>istis rationibus quare filius non 
           <lb ed="#B"/>possit generare alium filium vel aliud 
           <lb ed="#B"/>verbum
         </p>
-        <p>
+        <p xml:id="jhb-l1q9-d1e2060">
           3o potest dici quod non probant quin 
           <lb ed="#B"/>pater possit adhuc alium filum genera<lb ed="#B"/>re 
           sicut et istis non obstantibus 
