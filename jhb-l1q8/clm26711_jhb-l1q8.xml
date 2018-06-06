@@ -5,13 +5,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Librum 1, Quaestio 8 [Clm 26711 Transcription]</title>
+        <title>Liber 1, Quaestio 8 [Clm 26711 Transcription]</title>
         <author>John Hiltalingen of Basel</author>
         <editor>Jeffrey C. Witt</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Librum 1, Quaestio 8 [Clm 26711 Transcription]</title>
+          <title>Liber 1, Quaestio 8 [Clm 26711 Transcription]</title>
           <date when="2017-09-07">September 07, 2017</date>
         </edition>
       </editionStmt>
@@ -56,7 +56,7 @@
     </front>
     <body>
       <div xml:id="jhb-l1q8">
-        <head>Librum 1, Quaestio 8 [Clm 26711 Transcription]</head>
+        <head>Liber 1, Quaestio 8 [Clm 26711 Transcription]</head>
         <p>
           <lb ed="#B"/>ü Praeterea quaeri solet etc Ista est 
           <lb ed="#B"/>6a distinctio huius primi libri 

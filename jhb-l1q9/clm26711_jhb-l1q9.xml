@@ -44,13 +44,13 @@
     <front>
       
       <div xml:id="starts-on">
-        <pb ed="#B" n="69-r"/>
-        <cb ed="#B" n="a"/>
+        <pb ed="#B" n="71-r"/>
+        <cb ed="#B" n="b"/>
       </div>
     </front>
     <body>
       <div xml:id="jhb-l1q9">
-        <head xml:id="jhb-l1q9-Hd1e3848">Librum 1, Quaestio 9 [Clm 26711 Transcription]</head>
+        <head xml:id="jhb-l1q9-Hd1e3848">Liber 1, Quaestio 9 [Clm 26711 Transcription]</head>
         <p xml:id="jhb-l1q9-d1e3851">
           <lb ed="#B"/>Hic quaeri solet etc ista 7a 
           <lb ed="#B"/>distinctio ad <seg type="correction">praece<del>n</del>dentem</seg> 
