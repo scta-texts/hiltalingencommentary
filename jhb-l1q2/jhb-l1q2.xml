@@ -1252,61 +1252,104 @@
               <p xml:id="jhbl1q2-d1e5022">
                 Nota tamen ulterius circa hunc terminem sicut 
                 notat 
-                <ref xml:id="jhb-l1q2-Rd1e1633">
-                  <name>hostiensus</name> 
+                <ref xml:id="jhb-l1q2-Rd1e1633" corresp="#jhb-l1q2-Qd1e1639">
+                  <name ref="#Hostiensis">Hostiensus</name> 
                   parte prima de summa 
-                  <unclear>t<!-- trinitatis ? --></unclear>
+                  trinitate et fide catholica
                 </ref> 
-                et si catholica quod fides ponitur quandoque 
-                  pro sacro baptismi et 
-                <ref xml:id="jhb-l1q2-Rd1e1643">
-                  45 de dividis
-                </ref> 
-                et 
-                <ref xml:id="jhb-l1q2-Rd1e1646">
-                  <title>extra</title> 
-                  de baptismo debitum
-                </ref>
+                quod 
+                <cit>
+                  <quote xml:id="jhb-l1q2-Qd1e1639" source="http://scta.info/resource/nbht7y-d1e60-d1e551">
+                    fides ponitur quandoque 
+                    pro sacro baptismi et 45 de dividis
+                    et <title>extra</title>
+                    de baptismo debitum
+                  </quote>
+                </cit>.
               </p>
               <p xml:id="jhbl1q2-d1e5044">
-                Secundo 
-                pro castitate thori ut habetur 
-                <ref xml:id="jhb-l1q2-Rd1e1655">secunda quaestione secunda 
-                Coniuges</ref>
+                <cit>
+                  <quote xml:id="jhb-l1q2-Qd1e1653" source="http://scta.info/resource/nbht7y-d1e60-d1e551">
+                    Secundo pro castitate thori ut habetur 
+                    <ref xml:id="jhb-l1q2-Rd1e1655">secunda quaestione secunda 
+                    Coniuges</ref>
+                  </quote>
+                </cit>
               </p>
               <p xml:id="jhbl1q2-d1e5050">
-                Tertio, pro conventionali securitate 
-                quo etiam <unclear>servanda</unclear> est <ref xml:id="jhb-l1q2-Rd1e1664"><name>hosti</name> 
-                23 quaestione 1 noli</ref>
+                <cit>
+                  <quote xml:id="jhb-l1q2-Qd1e1665" source="http://scta.info/resource/nbht7y-d1e60-d1e551">
+                    Tertio, pro conventionali securitate 
+                    quo etiam <unclear>servanda</unclear> est 
+                    <ref xml:id="jhb-l1q2-Rd1e1664">
+                      <name>hosti</name> 23 quaestione 1 noli
+                    </ref>
+                  </quote>
+                </cit>
               </p>
               <p xml:id="jhbl1q2-d1e5061">
-                Quarto pro conscientia extra de testibus 
-                secundum litteras paragrapho porio 
-                Et de praescriptionibus quoniam omne et 
-                <unclear>pe</unclear> distinctione 3
+                <cit>
+                  <quote xml:id="jhb-l1q2-Qd1e1683" source="http://scta.info/resource/nbht7y-d1e60-d1e551">
+                    Quarto pro conscientia extra de testibus 
+                    secundum litteras paragrapho porio 
+                    Et de praescriptionibus quoniam omne et 
+                    <unclear>pe</unclear> distinctione 3
+                  </quote>
+                </cit>
               </p>
               <p xml:id="jhbl1q2-d1e5067">
-                Quinto pro credulitate secundum quam credimus 
-                respectu quod non vidimus iuxta illud <name ref="#Rimini">gregorii <!-- not 100% sure about this identification --></name> fides 
-                non habet meritum.
+                <cit>
+                  <quote xml:id="jhb-l1q2-Qd1e1695" source="http://scta.info/resource/nbht7y-d1e60-d1e551">
+                    Quinto pro credulitate secundum quam credimus 
+                    respectu quod non vidimus iuxta illud <name>Gregorii</name> fides 
+                    non habet meritum
+                  </quote>
+                </cit>
               </p>
               <p xml:id="jhbl1q2-d1e5074">
-                Sexto pro collatione 
-                articulorum ut <ref xml:id="jhb-l1q2-Rd1e1685"><title>extra</title> summa trinitate et fide 
-                catholica 24 quaestione 1</ref> hoc est fides et 
-                describitur ad <name ref="#Paul">apostolo</name> sic <title ref="#hebr">ad hebraeos</title> quod 
-                <quote xml:id="jhbl1q2-Qd1e5087" source="http://scta.info/resource/hebr11_1">est substantia sperandarum rerum argumentum 
-                non apparentium</quote> quam descriptionem 
-                <name>Hostiensus <!-- spelling unclear --></name> ubi supra probat 
-                dupliciter esse insufficientem primo convenit 
-                etiam speciei pro isto primo motivo <name>hostiensus</name> 
-                vide <ref xml:id="jhb-l1q2-Rd1e1707"><name ref="#Lombard">magistrum</name> 3 distinctione 24 capitulo <seg type="incipit">si 
-                vero quaeritur</seg></ref> <!-- not sure what the best encoding of an incipit in a reference is -->
+                <cit>
+                  <quote source="http://scta.info/resource/nbht7y-d1e60-d1e551">
+                    Sexto<!--possibly number 11 in above quoted passage from hostiensis"--> pro collatione 
+                    articulorum ut 
+                    <ref xml:id="jhb-l1q2-Rd1e1685"><title>extra</title> summa trinitate et fide 
+                    catholica 24 quaestione 1</ref> hoc est fides
+                  </quote>
+                </cit>.
+                Et 
+                describitur ad 
+                <ref xml:id="jhb-l1q2-Rd1e1712" corresp="#jhbl1q2-Qd1e5087">
+                  <name ref="#Paul">Apostolo</name> sic <title ref="#hebr">ad hebraeos</title>
+                </ref> 
+                quod 
+                <cit>
+                  <quote xml:id="jhbl1q2-Qd1e5087" source="http://scta.info/resource/hebr11_1">
+                    est substantia sperandarum rerum argumentum non apparentium
+                  </quote>
+                </cit> 
+                quam descriptionem 
+                <name ref="#Hostiensis">Hostiensis</name> ubi supra probat 
+                dupliciter esse insufficientem. 
+                Primo convenit 
+                etiam speciei pro isto primo motivo <name ref="#Hostiensis">Hostiensis</name>.
+                Vide 
+                <cit>
+                  <ref xml:id="jhb-l1q2-Rd1e1707" target="http://scta.info/resource/pl-l3d24c2-d1e115">
+                  <name ref="#Lombard">Magistrum</name> 3,  
+                  distinctione 24, 
+                  capitulo <seg type="incipit">si vero quaeritur</seg>
+                </ref> <!-- not sure what the best encoding of an incipit in a reference is -->
+                </cit>
               </p> 
               <p xml:id="jhbl1q2-d1e5107">
                 Secundo quia solum loquitur 
-                de futurorum pro isto 2o motivo est <ref xml:id="jhb-l1q2-Rd1e1718"><name ref="#Lombard">magister</name> 
-                libro 3o distinctione xxvi capitulo <seg type="incipit">Et sicut fides</seg> etc</ref> 
+                de futurorum pro isto 2o motivo est 
+                <cit>
+                  <ref xml:id="jhb-l1q2-Rd1e1718" target="http://scta.info/resource/pl-l3d26c2-d1e115">
+                    <name ref="#Lombard">Magister</name> 
+                    libro 3o distinctione xxvi capitulo <seg type="incipit">Et sicut fides</seg> 
+                    etc
+                  </ref>
+                </cit> 
                 qua propter dicit quod non fit diffinitio sed solum 
                 quaedam <sic>notificatio</sic> Et ideo sic eam 
                 describit fides est voluntaria certitudo 
@@ -1318,7 +1361,7 @@
                 evidenter Et ideo licet fides in esse evidentiae 
                 infra scientiam constituatur 
                 non tamen in esse certitudinis adhaesionis 
-                videatur <ref xml:id="jhb-l1q2-Rd1e1732"><name ref="#WilliamOfAuxerre">Altissidorensis</name> libro 3o tracatu de 
+                videatur <ref xml:id="jhb-l1q2-Rd1e1732"><name ref="#WilliamOfAuxerre">Altissidorensis</name> libro 3o tractatu de 
                 fide</ref> <ref xml:id="jhb-l1q2-Rd1e1737"><name ref="#GilesOfRome">Aegidius</name> in prologo primi</ref>
               </p>
             </div>
@@ -1341,8 +1384,8 @@
                 <unclear>anum <!-- likely same word as above --></unclear> de rebus absentibus supra 
                 opinionem infra scientiam constituta quod 
                 intelligi debet in esse notitiae vel evidentiae 
-                aliter haec diffinitio <name>hostiensis</name> foret falsa 
-                haec de 2o articulo sufficiat
+                aliter haec diffinitio <name ref="#Hostiensis">Hostiensis</name> foret falsa. 
+                Haec de 2o articulo sufficiat
               </p>
             </div>
           </div>
@@ -2269,7 +2312,7 @@
               igitur non est summa certitudo consequentia nota 
               assumptum potest haberi ex dictis 
               <cit>
-                <ref><name>michalis de massa</name></ref>
+                <ref xml:id="jhb-l1q2-Rd1e2760"><name>michalis de massa</name></ref>
               </cit>
               quae recitantur 
               tam 
@@ -2587,7 +2630,7 @@
             <p xml:id="jhbl1q2-d1e6405">
               Contra 4am 
               conclusionem potest argui ex rationibus 
-              <ref>
+              <ref xml:id="jhb-l1q2-Rd1e3103">
                 <name>francisci de marchia</name>
               </ref> 
               quas recitat 
@@ -5080,8 +5123,13 @@
               non est <name ref="#Adam">adam</name> fuit antichristus 
               <cb ed="#B" n="b"/><!--31vb-->
               potest esse antichristus occiditur et sic desimilibus 
-              ut clare deducit <ref xml:id="jhb-l1q2-Rd1e5089"><name>virbriche</name> in primo <title>loyce</title> suae</ref> <ref xml:id="jhb-l1q2-Rd1e5097"><name>hostensius</name> in 
-              pluribus articulis</ref> <ref xml:id="jhb-l1q2-Rd1e5102"><name ref="#JohnKlenkok">clenkoch</name> in quaestione
+              ut clare deducit <ref xml:id="jhb-l1q2-Rd1e5089"><name>virbriche</name> in primo <title>loyce</title> suae</ref> 
+              <cit>
+                <ref xml:id="jhb-l1q2-Rd1e5097">
+                  <name ref="#Hostiensis">Hostiensis</name> in pluribus articulis
+                </ref>
+              </cit>
+              <ref xml:id="jhb-l1q2-Rd1e5102"><name ref="#JohnKlenkok">clenkoch</name> in quaestione
               2a 2i</ref>  ubi quaerit utrum aliqua res 
               circa deum fuerit ab aeterno sic igitur patet 
               eius insufficientia

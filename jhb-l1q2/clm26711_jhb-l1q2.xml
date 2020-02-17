@@ -584,7 +584,8 @@
             <lb ed="#B"/><name ref="#HenryOfGhent">doctor sollempnis</name> et <name ref="#HugolinoOfOrvieto">hugolinus</name> alii vero 
             <lb ed="#B"/>oppositum sicut <name ref="#Scotus">doctores subtilis</name> <name ref="#ThomasStrasbourg">thomas 
             <lb ed="#B"/>de argentia</name> <name ref="#Rimini"><unclear>gregorius</unclear></name> et alii quam plures 
-            <lb ed="#B"/>huius discordiae quaelibet pars multipliciter 
+            <lb ed="#B"/>huius discordiae quaelibet pars multipliciter
+            <cb ed="#B" n="b"/> <!-- 15vb-->
             <lb ed="#B"/>variatur sicut patet indictis Et hoc 
             <lb ed="#B"/>de primo articulo
           </p>
@@ -762,7 +763,7 @@
             <p xml:id="jhbl1q2-d1e5011">
               <lb ed="#B"/><pc ana="#pilcrow"/>5tus terminus est fides quam <name>brin<lb ed="#B"/>kil</name> 
               nisi prius sic describit quod est habitus 
-              <cb ed="#B" n="16-v"/>
+              <pb ed="#B" n="16-v"/>
               <cb ed="#B" n="a"/>
               <lb ed="#B"/>supernaturaliter infusus elevans primo 
               <lb ed="#B"/>potentiam intelligentiam ad cognitive percipi<lb ed="#B"/>endum 
@@ -775,9 +776,9 @@
               <pc ana="#pilcrow"/> 
               <lb ed="#B"/>Nota tamen ulterius circa hunc terminem sicut 
               <lb ed="#B"/>notat <ref><name>hostiensus</name> parte prima de summa 
-              <lb ed="#B"/><unclear>t<!-- trinitatis ? --></unclear></ref> et si catholica quod fides ponitur quandoque 
-              <lb ed="#B"/>pro sacro baptismi et <ref>45 de divid<lb ed="#B"/>is</ref> 
-              et <ref><title>extra</title> de baptismo debitum</ref>
+                <lb ed="#B"/>trinitate et fide catholica</ref> quod <quote xml:id="jhb-l1q2-Qd1e1639">fides ponitur quandoque 
+              <lb ed="#B"/>pro sacro baptismi et 45 d. divid<lb ed="#B"/>is 
+              et <title>extra</title> de baptismo debitum</quote>
             </p>
             <p xml:id="jhbl1q2-d1e5044">
               <pc ana="#pilcrow"/>2o 
@@ -4226,7 +4227,9 @@
             <lb ed="#B"/>probatur nam faciat deus <c>a</c> <pc ana="#punctus"/> angelum 
             <lb ed="#B"/>igitur ita est quod <c>a</c> <pc ana="#punctus"/> est et hoc sic esse secundum opinionem 
             <lb ed="#B"/>non est <c>a</c> <pc ana="#punctus"/> igitur aliud ab <c>a</c> <pc ana="#punctus"/> et hoc prius 
-            <lb ed="#B"/>non fuit igitur deus <c>a</c> <pc ana="#punctus"/> esse cum <c>a</c> produxit 
+            <lb ed="#B"/>non fuit igitur deus <c>a</c> <pc ana="#punctus"/> esse cum <c>a</c> produxit
+            <pb ed="#B" n="32-r"/>
+            <cb ed="#B" n="a"/>
             <lb ed="#B"/>sic igitur <c>a</c> ex quo secundum <choice><orig>oppinionem</orig><reg>opinionem</reg></choice> non 
             <lb ed="#B"/>est <c>a</c> <pc ana="#punctus"/> <c>b</c> <pc ana="#punctus"/> tunc sic <pc ana="#punctus"/> <c>b</c> <pc ana="#punctus"/> est igitur ita est 
             <lb ed="#B"/>quod <c>b</c> est et hoc non <pc ana="#punctus"/> <c>b</c> <pc ana="#punctus"/> Sic igitur <c>c</c> <pc ana="#punctus"/> Et 
