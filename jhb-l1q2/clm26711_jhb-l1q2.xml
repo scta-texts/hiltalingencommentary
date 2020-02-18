@@ -56,7 +56,7 @@
         <head xml:id="jhbl1q2-Hd1e3500" type="questionTitle">Utrum veritatem sinceram fidei christianae impossibile sit viatorem perfecte cognoscere efficacia rationis humanae 
           sine speciali dei illustratione et fundamento fidei catholicae ac firma adhaesiva</head>
         <p>
-          <lb ed="#B"/>trum veritatem sinceram <subst><del>fecte</del><add place="marginCenter">fidei</add></subst> 
+          <lb ed="#B" n="29"/>trum veritatem sinceram <subst><del>fecte</del><add place="marginCenter">fidei</add></subst> 
           <lb ed="#B"/>christianae <choice><orig>inpossibile</orig><reg>impossibile</reg></choice> sit viato<lb ed="#B"/>rem 
           perfecte cognoscere effica<lb ed="#B"/>cia 
           rationis humanae sine speciali 
@@ -146,13 +146,13 @@
           <div xml:id="jhb-l1q2-Dd1e243">
             <head xml:id="jhbl1q2-Hd1e3640">Tertia ratio</head>
             <p xml:id="jhbl1q2-d1e3643">
-              <pc ana="#pilcrow"/>3o sic requiretur ad cognitionem veritatis 
+              <lb ed="#B"/><pc ana="#pilcrow"/>3o sic requiretur ad cognitionem veritatis 
               <lb ed="#B"/>sincerae sectae christianae illustratio dei spe<lb ed="#B"/>cialis 
               vel igitur ut elevans vel ut assimilans 
               <lb ed="#B"/>vel utrumque simul vel nullo modo sint elevans 
               <lb ed="#B"/>contra primo quia elevat finite tantum et 
-              <lb ed="#B"/>tunc non sufficienter quia non tolleretur <choice><sic>di<lb ed="#B"/>sproositionem</sic><corr>di<lb ed="#B"/>spositionem</corr></choice> 
-              intellectus ad intelligibile 
+              <lb ed="#B"/>tunc non sufficienter quia non tolleretur <choice><orig>di<lb ed="#B"/>sproositionem</orig><reg>di<lb ed="#B"/>spositionem</reg></choice> 
+              intellectus ad intelligibi<lb ed="#B" break="no"/>le 
               suum quod est veritas nostrae <subst><del rend="strikethrough">sectae</del><add place="marginCenter">fidei</add></subst> cum 
               <lb ed="#B"/>fit infinita Sequitur quod finita resisten<lb ed="#B"/>tia 
               infinite <choice><orig>inpederet</orig><reg>impederet</reg></choice> vel si solum 
@@ -188,7 +188,7 @@
               <lb ed="#B"/>tunc sequitur quod talis illustratio foret 
               <lb ed="#B"/>scientia et tunc non <unclear>comparateretur</unclear> secum 
               <lb ed="#B"/>fidem secundum quod probat <ref><name>g</name> igitur quaestione 2a prologi 
-              <lb ed="#B"/>articulo primo</ref> Et <ref><name ref="#AlphonsusVargas">alphonsus</name> quaestio 2a prologii articulo <unclear>?</unclear></ref> quorum rationes solvit 
+              <lb ed="#B"/>articulo primo</ref> Et <ref><name ref="#AlphonsusVargas">alphonsus</name> quaestio 2a pro<lb ed="#B" break="no"/>logii articulo <unclear>?</unclear></ref> quorum rationes solvit 
               <lb ed="#B"/><ref><name ref="#HugolinoOfOrvieto">hugolinus</name> 1 <choice><orig>prologii</orig><reg>prologi</reg></choice> articulo 2o</ref> ET 
               <lb ed="#B"/><ref><name ref="#HenryOfGhent">henricus</name> parte 1 articulo 13 quaestione 7</ref> igitur non 
               <lb ed="#B"/>videtur quod fundamentum fidei nec singularis il<lb ed="#B"/>lustratio dei requiratur ad sinceram 
@@ -209,14 +209,14 @@
               <lb ed="#B"/>aliquem cognoscere et ipsum non videre
             </p>
             <p xml:id="jhbl1q2-d1e3740">
-              <lb ed="#B"/><pc ana="#pilcrow"/>3o 
+              <pc ana="#pilcrow"/>3o 
               <lb ed="#B"/>tunc quilibet quanto plus appropinqua<lb ed="#B"/>ret 
               ad deum tanto plus appropin<lb ed="#B"/>quaret 
               ad hanc assimilationem quod est 
               <lb ed="#B"/>falsum
             </p>
             <p xml:id="jhbl1q2-d1e3743">
-              <lb ed="#B"/><pc ana="#pilcrow"/>4to cum assimilatio habeat se per 
+              <pc ana="#pilcrow"/>4to cum assimilatio habeat se per 
               <lb ed="#B"/>modum inhaerentiae sequitur quod deus alicui 
               <lb ed="#B"/>inhaeret
             </p>
@@ -291,7 +291,7 @@
               <lb ed="#B"/>foret media inter fidem et lumen 
               <lb ed="#B"/>gloriae ut dicunt vel igitur per abnegationem 
               <lb ed="#B"/>vel participationem sed nullum istorum 
-              igitur
+              <lb ed="#B"/>igitur
             </p>
           </div>
           <div xml:id="jhb-l1q2-Dd1e436">
@@ -333,7 +333,7 @@
               <lb ed="#B"/>nos fecisti et inquietum</quote> etc Et con<lb ed="#B"/>firmatur 
               praefata minor sic nulla 
               <lb ed="#B"/>felicitas tamen qua stat <unclear>in olu?cai</unclear> 
-              ultimate quietat hominem nec 
+              <lb ed="#B"/>ultimate quietat hominem nec 
               <lb ed="#B"/>ducit eum ad terminum ad quem <unclear>actuabilibus</unclear> 
               <lb ed="#B"/>est ultimate sed quaelibet felicitas 
               <lb ed="#B"/>praesentis vitae est huius igitur etc videtur quod 
@@ -893,7 +893,7 @@
               <ref><title ref="#mc">marchi</title></ref> et <ref><title ref="#mt">matthaei</title> ultimis capitulis</ref> <pc ana="#virgula"/><pc ana="#virgula"/>
             </p>
             <p xml:id="jhbl1q2-d1e5245">
-              2a pars conclusionis patet per <ref><name ref="#Augustine">augustinum</name> 2o <title>de fide 
+              <lb ed="#B"/>2a pars conclusionis patet per <ref><name ref="#Augustine">augustinum</name> 2o <title>de fide 
               <lb ed="#B"/>christiana</title> capitulo 5</ref> 2m unam <unclear>quota?em</unclear> vel 
               <lb ed="#B"/>ultimo 2m aliam ubi <name ref="#Augustine">augustinus</name> quidquid 
               <lb ed="#B"/>homo <unclear>extra</unclear> didicerit Si noxium est 
@@ -1078,7 +1078,7 @@
               etiam pars probatur Primo per <ref><name ref="#Augustine">beatum 
               <lb ed="#B"/>augustinum</name> epistola ad consenna??m</ref> et est dico ubi 
               <lb ed="#B"/>dicit quod fides habet oculos suos et circa 
-              principium liber de perseverantia sanctorum 
+              <lb ed="#B"/>principium liber de perseverantia sanctorum 
               <lb ed="#B"/>ubi dicit Credemus <choice><orig>nichil</orig><reg>nihil</reg></choice> aliud est 
               <lb ed="#B"/>quam tamen assertione Cogitare igitur sequitur 
               <lb ed="#B"/>quod fides aliqualiter notitia vel 
@@ -1136,8 +1136,7 @@
               potentissime probatur nam 
               <lb ed="#B"/>tam firma est fides christiana quod 
               <lb ed="#B"/>ipsam esse et non esse veram est simpliciter 
-              <lb ed="#B"/><choice><orig>inpossibile</orig><reg>impossibile</reg></choice> igitur 
-              <lb ed="#B"/>corollarium verum et sic fidei non 
+              <lb ed="#B"/><choice><orig>inpossibile</orig><reg>impossibile</reg></choice> igitur corollarium verum et sic fidei non 
               <lb ed="#B"/>potest sub esse falsum igitur corollarium verum consequentia 
               <lb ed="#B"/>tenet assumptum communiter tenet de fide infu<lb ed="#B"/>sam 
               igitur 3o sit tam proprium est fidei 
@@ -1158,7 +1157,7 @@
               <lb ed="#B"/>non solum est fides acquisita ut 
               <lb ed="#B"/>dicunt sed notitia ulterior <pc ana="#punctus"/> fide 
               <lb ed="#B"/>in esse cognitionis et evidentiae <choice><orig>sicud</orig><reg>sicut</reg></choice> 
-              patet ex dictis <!-- important point here for the reception and critique of Rimini; i think this criticism aligns him more with Hugolino of Orvieto -->
+              <lb ed="#B"/>patet ex dictis <!-- important point here for the reception and critique of Rimini; i think this criticism aligns him more with Hugolino of Orvieto -->
             </p>
             <p xml:id="jhbl1q2-d1e5593">
               <pc ana="#pilcrow"/>3m corollarium contra <ref><name>brinkil</name> 
@@ -1207,7 +1206,8 @@
               <lb ed="#B"/>ex conclusione 3a et probatur auctoritates 2ae eorum 
               <lb ed="#B"/>3o fundamentum ad nemo potest ponere 
               <lb ed="#B"/>etc Et <ref><title ref="#gal">ad gall</title> 5o</ref> <quote ana="#gal5_6">in christo ihesu neque 
-              <lb ed="#B"/>circumcisio aliquid valebit neque praeputium sed fides</quote> Item <ref><title ref="#rom">ad Romanos</title> 1</ref> et <ref><title ref="#hab">abacuc</title>
+              <lb ed="#B"/>circumcisio aliquid valebit neque 
+              <lb ed="#B"/>praeputium sed fides</quote> Item <ref><title ref="#rom">ad Romanos</title> 1</ref> et <ref><title ref="#hab">a<lb ed="#B" break="no"/>bacuc</title>
               2o</ref> <quote ana="#rom1_17"> <!-- also habakkuk 2_4 -->iustus ex fide vivit</quote>
             </p>
             <p xml:id="jhbl1q2-d1e5691">
@@ -1223,7 +1223,7 @@
               <lb ed="#B"/>Ad hanc auctoritatem legis confugiendum 
               <lb ed="#B"/>censes hominibus iam non tamen cre<lb ed="#B"/>dere 
               sed intelligere cupientibus Et 
-              <lb ed="#B"/><ref>2o de libero articulo 3</ref> neque quisquam inveniendo 
+              <lb ed="#B"/><ref>2o de libero articulo 3</ref> neque quisquam inve<lb ed="#B" break="no"/>niendo 
               deo sit <choice><orig>ydoneus</orig><reg>idoneus</reg></choice> nisi ante 
               <lb ed="#B"/>crediderit igitur haec et pars conclusionis vera
             </p>
@@ -1310,11 +1310,12 @@
               <lb ed="#B"/>Item <title ref="#io">iohannes</title> 4 <quote ana="#io4_48">nisi videritis signa non 
               <lb ed="#B"/>creditis</quote> Et <ref><title ref="#io">iohannes</title> 9</ref> <quote ana="#io9_32">a saeculo non est 
               <lb ed="#B"/>auditum</quote> et <title ref="#mt">matthaeus</title> 27 <quote>vere filius dei 
-              <lb ed="#B"/>erat iste</quote> Similiter verus <unclear>astronomus</unclear> videns eclipsim in pleni<lb ed="#B"/>lunio 
-              <lb ed="#B"/>vel videns solem stationem 
+              <lb ed="#B"/>erat iste</quote> Similiter verus <unclear>astro<lb ed="#B" break="no"/>nomus</unclear> 
+              videns eclipsim in pleni<lb ed="#B"/>lunio 
+              vel videns solem stationem 
               <lb ed="#B"/>ad imperium hominis alicuius habebit 
               <lb ed="#B"/>idem confiteri sic naturalis <unclear>demonstratur <!-- really not sure here --></unclear> 
-              id est ratione caecorum illuminatione virginis 
+              <lb ed="#B"/>id est ratione caecorum illuminatione virginis 
               <lb ed="#B"/>per <unclear>tm?tione</unclear> ad hoc facit quod habetur <ref><title ref="#io">iohannes</title> 
               <lb ed="#B"/>15</ref> <pc ana="#punctus"/> <quote ana="#io15_24">si opera non fecissem in eis 
               <lb ed="#B"/>quae nemo alius fecit peccatum non 
@@ -1364,7 +1365,7 @@
             <p xml:id="jhbl1q2-d1e5935">
               <pc ana="#pilcrow"/>3m corollarium 
               <lb ed="#B"/>veritatem sinceram christianae sectae <unclear>diri<lb ed="#B"/>ge</unclear> 
-              <lb ed="#B"/>communem non est possibile aliquem viato<lb ed="#B"/>rem 
+              communem non est possibile aliquem viato<lb ed="#B"/>rem 
               cognoscere assertive sive menta<lb ed="#B"/>li 
               singulari quae dei illustra<lb ed="#B"/>tione 
               et fundamento fidei catholicae 
@@ -1490,7 +1491,8 @@
             <lb ed="#B"/>ipsa anima circa medium istius articuli
           </p>
           <p xml:id="jhbl1q2-d1e6061">
-            Contra 5m terminem nullus est habitus supernaturalis 
+            <pc type="#pilcrow"/> Contra 
+            <lb ed="#B"/>5m terminem nullus est habitus supernaturalis 
             <lb ed="#B"/>igitur prima particula descriptionis falsa contra 
             <lb ed="#B"/>nota antecedens probatur quia si talis habitus 
             <lb ed="#B"/>esset habens eos posset scire seipsos ha<lb ed="#B"/>bere 
@@ -1547,7 +1549,7 @@
             <lb ed="#B"/>prologo <name ref="#AlphonsusVargas">alphonsi</name></ref> quam <ref><name ref="#ThomasStrasbourg">thomae de argentia</name></ref>
           </p>
           <p xml:id="jhbl1q2-d1e6119">
-            <pc ana="#virgula"/><pc ana="#virgula"/>2o adhaesio fidei non est summa certi<lb ed="#B"/>tudo 
+            <lb ed="#B"/><pc ana="#virgula"/><pc ana="#virgula"/>2o adhaesio fidei non est summa certi<lb ed="#B"/>tudo 
             ut qua maior posset esse igitur 
             <lb ed="#B"/>ista descriptio falsa assumptum arguitur quia 
             <lb ed="#B"/>principium magis est certum quam fides Cum 
@@ -1620,7 +1622,7 @@
             <lb ed="#B"/>peiores <pc ana="#punctus"/> Sed hoc falsum quia beati continue 
             <lb ed="#B"/>non fiunt melioris igitur nec isti <choice><orig>peyores</orig><reg>peiores</reg></choice> 
             <lb ed="#B"/>cum illi sint aequaliter confirmati <choice><orig>sicud</orig><reg>sicut</reg></choice> 
-            illi obstinati
+            <lb ed="#B"/>illi obstinati
           </p>
           <p xml:id="jhbl1q2-d1e6197">
             <pc ana="#pilcrow"/>Secundo sequitur quod ipsi dam<lb ed="#B"/>pnait 
@@ -1638,7 +1640,7 @@
             motus caeli et hiis similia igitur etc
           </p>
           <p xml:id="jhbl1q2-d1e6210">
-            Contra 2am conclusionem principalem <unclear>arguitur</unclear> 
+            <lb ed="#B"/>Contra 2am conclusionem principalem <unclear>arguitur</unclear> 
             <lb ed="#B"/>primo per <name ref="#Augustine">venerabilem augustinum</name> inde <unclear>videndo</unclear> 
             <cb ed="#B" n="b"/><!--20rb-->
             <lb ed="#B"/><unclear>de?m</unclear> <title>ad paulinam</title> ubi dicit sicut 
@@ -1653,7 +1655,7 @@
             <lb ed="#B"/>voluntatem aliquid esse igitur prima pars falsa
           </p>
           <p xml:id="jhbl1q2-d1e6242">
-            <pc ana="#pilcrow"/>3o contra eandem in aliqua scientia co<lb ed="#B"/>gnoscitur 
+            <lb ed="#B"/><pc ana="#pilcrow"/>3o contra eandem in aliqua scientia co<lb ed="#B"/>gnoscitur 
             aliqua conclusio <del rend="expunctuated">ctud</del> cum certitudine 
             <lb ed="#B"/>reducta ad primum principium Sed nulla tali cer<lb ed="#B"/>titudine 
             est dare perfectiorem igitur 2a pars 
@@ -1669,7 +1671,7 @@
           </p> 
           <p xml:id="jhbl1q2-d1e6259">
             contra primum <del rend="expunctuated">articu<lb ed="#B"/>lum</del> 
-            <lb ed="#B"/>corollarium <name ref="#Aristotle">aristoteles</name> habuit plures certitudines 
+            corollarium <name ref="#Aristotle">aristoteles</name> habuit plures certitudines 
             <lb ed="#B"/>sive exemplari eorum aeterno ergo corollarium 
             <lb ed="#B"/>falsum consequentia est evidens assumpta <pc ana="#virgula"/> Cum 
             <lb ed="#B"/>plures res diffinitive <unclear>descripsit</unclear> et tamen hanc 
@@ -1718,7 +1720,7 @@
             <lb ed="#B"/>quod remittantur uniformiter aequaliter 
             <lb ed="#B"/>praescientiae quoad omina versus non esse 
             <lb ed="#B"/>tunc vel aequaliter et aeque cito desinent 
-            <lb ed="#B"/>esse vel non si aequaliter igitur sunt aequales 
+            <lb ed="#B"/>esse vel non si aequaliter igitur sunt aequa<lb ed="#B" break="no"/>les 
             et per consequens theologia non es superior 
             <lb ed="#B"/>fide Si vero fides prius et citius 
             <lb ed="#B"/>desinit esse sequitur quod theologia stabit 
@@ -1789,7 +1791,8 @@
             assensus respectu alicuius articulum cum quo 
             <lb ed="#B"/>stat in eodem respectu eiusdem articuli actus 
             <lb ed="#B"/><choice><orig>disensus</orig><reg>dissensus</reg></choice> Sed cum fide intellectiva respectu 
-            <lb ed="#B"/>articuli fidei stat actus <choice><orig>disensus</orig><reg>dissensus</reg></choice> respectu 
+            <lb ed="#B"/>articuli fidei stat actus <choice><orig>disensus</orig><reg>dissensus</reg></choice> igitur fi<lb ed="#B" break="no"/>des 
+            non inmediate causat actum assensus respectu
             <lb ed="#B"/>articuli illius maior est nota et minor patet de fi<lb ed="#B"/>delibus 
             simplicibus qui credunt quod 
             <lb ed="#B"/>christus non prius fuerit quam ipsum virgo 
@@ -1840,7 +1843,7 @@
             <pc ana="#pilcrow"/>3o non 
             <lb ed="#B"/>processus infinitus in veritatibus 
             <lb ed="#B"/>nostrae sectae igitur erit devenire ad ali<lb ed="#B"/>quid 
-            <lb ed="#B"/>principium creditum vel plura principaliter cre<lb ed="#B"/>dita 
+            principium creditum vel plura principaliter cre<lb ed="#B"/>dita 
             sed illo vel illis Cur tali vel 
             <lb ed="#B"/>talibus credatur vel propter aliud creditum 
             <lb ed="#B"/>et hoc non vel propter alius per se notum habetur 
@@ -1973,7 +1976,7 @@
             <lb ed="#B"/>false sicut patet ex modo loquendi ibidem
           </p>
           <p xml:id="jhbl1q2-d1e6578">
-            <pc ana="#pilcrow"/>2o quod et si significabile complexe est ipsa 
+            <lb ed="#B"/><pc ana="#pilcrow"/>2o quod et si significabile complexe est ipsa 
             <lb ed="#B"/>res incomplexa et econverso tamen aliter et 
             <lb ed="#B"/>aliter connotatur Cum significatur complexe 
             <lb ed="#B"/>quam quando significatur praecise incomple<lb ed="#B"/>xe 
@@ -2179,7 +2182,7 @@
             <lb ed="#B"/>de marchia</name> quod potius potentiae quam rei a<lb ed="#B"/>licuius 
             existentis sicut patet expresse in <ref>suis 
             <lb ed="#B"/>determinationibus quaestione 2 articulo 2o et sic circa 
-            <lb ed="#B"/>finem</ref> Sed <ref>doctor inventivus <name ref="#JamesViterbo">Iacobus 
+            <lb ed="#B"/>finem</ref> Sed <ref>doctor inventivus <name ref="#JamesViterbo">Ia<lb ed="#B" break="no"/>cobus 
             de viterbio</name> primo quolibet quaestione 12</ref> 
             <lb ed="#B"/>diceret quod esset motus procedens ex 
             <lb ed="#B"/>anima mediantibus <choice><orig>ydoneitatibus</orig><reg>idoneitatibus</reg></choice> 
@@ -2206,7 +2209,7 @@
             <pc ana="#pilcrow"/>2m alium modum 
             <lb ed="#B"/>loquendi facere praesens obiectaliter vel vitaliter 
             <lb ed="#B"/>sive hoc fiat per motionem potentiae perceptivae 
-            sive revocationem ipsius perceptibilis de quo 
+            <lb ed="#B"/>sive revocationem ipsius perceptibilis de quo 
             <lb ed="#B"/>forte alias videbitur deo dante
           </p>
           <p xml:id="jhbl1q2-d1e6814">
@@ -2460,7 +2463,7 @@
             <lb ed="#B"/>libro 8 summe suae de conclusionibus herme<lb ed="#B"/>norum 
             36 2 3a capitulis dendo quod legem 
             <lb ed="#B"/>non esse obligatoriam hiis quibus 
-            <lb ed="#B"/>non est data vel qui ipsam invincibiliter 
+            <lb ed="#B"/>non est data vel qui ipsam invinci<lb ed="#B" break="no"/>biliter 
             ignorant potest esse dupliciter uno modo 
             <lb ed="#B"/>sic quod si non faciant peccant non 
             <lb ed="#B"/>faciendo contra legem etc qui legem 
@@ -2494,7 +2497,7 @@
             hanc legem peccat eam non 
             <lb ed="#B"/>servando sicut patet ex dictis
           </p>
-          <p>
+          <p xml:id="jhbl1q2-d1e7100">
             <pc ana="#pilcrow"/>ad 3m 
             <lb ed="#B"/>ibidem cum dicitur quilibet infidelis etc negatur 
             <lb ed="#B"/>assumptum quia quandoque se sic <choice><orig>difformat</orig><reg>deformat</reg></choice> 
@@ -2559,7 +2562,8 @@
             <lb ed="#B"/>apparet <choice><orig>michi</orig><reg>mihi</reg></choice> dicendum scilicet quod ipsos continue pec<lb ed="#B"/>care 
             noviter potest intelligi dupliciter primo 
             <lb ed="#B"/>sic quod ly <mentioned>noviter</mentioned> vel <mentioned>novitas</mentioned> habeat 
-            <lb ed="#B"/>se respectu temporum vel successus sive eliciti <!-- drops --> actus 
+            <lb ed="#B"/>se respectu temporum vel successus sive eliciti 
+            <lb ed="#B"/><!-- drops --> actus 
             <pb ed="#B" n="24-v"/>
             <cb ed="#B" n="a"/>
             <lb ed="#B"/>Alio modo quod respectu obiecti sive contemptus 
@@ -2637,7 +2641,7 @@
             <lb ed="#B"/>naturalis nostrae veritati quam contraria fuit 
             <lb ed="#B"/>et est christo sed illi est et fuit gratia 
             <lb ed="#B"/>igitur et veritati nostrae maior patet minor probatur 
-            <lb ed="#B"/>per glossam supra illo verbo <unclear>prius <!-- psalmus ?? --></unclear> vivificavit
+            <lb ed="#B"/>per glossam supra illo verbo <unclear>prius <!-- psalmus ?? --></unclear> vivifi<lb ed="#B" break="no"/>cavit
             deus <unclear>mi?am</unclear> suam in civitate 
             <lb ed="#B"/>munita ubi <unclear>g?lo</unclear> mundus dicitur Civi<lb ed="#B"/>tas 
             munita quia sapientia carnalia 
@@ -2881,10 +2885,10 @@
             <lb ed="#B"/>et ligatur ne consentiat veritati igitur si 
             <lb ed="#B"/>deus est tam nostrae rationis naturalis quam 
             <lb ed="#B"/>contrariatur fidei sequitur quod deus ligat et 
-            <lb ed="#B"/><choice><orig>inpedit</orig><reg>impedit</reg></choice> nos ne consentiamus veritati
+            <lb ed="#B"/><choice><orig>inpedit</orig><reg>impedit</reg></choice> nos ne consentiamus verita<lb ed="#B" break="no"/>ti
           </p>
           <p xml:id="jhbl1q2-d1e7436">
-            <pc ana="#pilcrow"/>4o quae sunt nobis naturaliter indita 
+            <pc ana="#pilcrow"/>4o quae sunt nobis naturaliter indi<lb ed="#B" break="no"/>ta 
             non immutari natura manente igitur ma<lb ed="#B"/>nente 
             natura continue fidei contrariatur et per consequens 
             <pb ed="#B" n="26-r"/>
@@ -3098,7 +3102,8 @@
             <lb ed="#B"/>in hac parte dicentes deum esse nostrae 
             <lb ed="#B"/>theologiae subiectum ut patet per <ref><name ref="#Aquinas">doctorem sanctum</name> parte 
             <lb ed="#B"/>1 quaestione 1 articulo 1</ref> per <ref><name ref="#GilesOfRome">doctorem nostrum magistrum 
-            <lb ed="#B"/>Aegidium</name> parte 1 prologi quaestione 3</ref> per <ref><name ref="#Scotus">doctores subtilis</name> 
+            <lb ed="#B"/>Aegidium</name> parte 1 prologi quaestione 3</ref> per <ref>doctorem sollemnis 
+            <lb ed="#B"/>articulo 19 partis primae quaestione 1</ref> per <ref><name ref="#Scotus">doctorem subtilis</name>
             <lb ed="#B"/>quaestione 3 prologi articulo 1</ref> per <ref><name ref="#Rimini">gregorium</name> quaestione 4 prologi 
             <lb ed="#B"/>articulo 2</ref> per <ref><name ref="#ThomasStrasbourg">Thomam de argentia</name> quaestione 1 prologi 
             <lb ed="#B"/>articulo 1</ref> sed quare deus fit subiectum theologiae 
@@ -3184,7 +3189,7 @@
             <lb ed="#B"/>quia talis ratio non est deo intrinseca igitur etc
           </p>
           <p xml:id="jhbl1q2-d1e7743">
-            <pc ana="#virgula"/><pc ana="#virgula"/>3o quia ratio <unclear>etc</unclear> ut sic non est perfecta simpliciter 
+            <lb ed="#B"/><pc ana="#virgula"/><pc ana="#virgula"/>3o quia ratio <unclear>etc</unclear> ut sic non est perfecta simpliciter 
             <lb ed="#B"/>igitur ratione subiecti haberi non debet sub qua deus 
             <lb ed="#B"/>fit subiectum theologiae nostrae <pc ana="#virgula"/> ac etiam theologiae 
             <lb ed="#B"/>in se
@@ -3243,7 +3248,7 @@
             consequentia patet ex sufficienti divisione <pc ana="#virgula"/><pc ana="#virgula"/>
           </p>
           <p xml:id="jhbl1q2-d1e7792">
-            <unclear>Secundo</unclear> sic deus inquantum deus est subiectum 
+            <lb ed="#B"/><unclear>Secundo</unclear> sic deus inquantum deus est subiectum 
             <lb ed="#B"/>theologiae sub ratione infinita et non 
             <lb ed="#B"/>finita consequentia patet cum secundum omnem sectam 
             <lb ed="#B"/>deus ut sic sit quod <unclear>a modo</unclear> bonum infinitum 
@@ -3626,7 +3631,7 @@
             <lb ed="#B"/>sua conclusione unde nec <unclear>gemetria</unclear> de modo 
             <lb ed="#B"/>sanctus latera triangula de scripta 
             <lb ed="#B"/>sed doctrinam primae conclusionis primae <name ref="#Euclid">eucli<lb ed="#B"/>dis</name> 
-            <lb ed="#B"/>esse aequalia considerat vel 
+            esse aequalia considerat vel 
             <lb ed="#B"/>apprehendit quod conclusio quae <unclear>enuttiat</unclear> 
             <lb ed="#B"/>ista esse aequalia est vera nec 
             <lb ed="#B"/>medicus concludens tali morbo 
@@ -3652,7 +3657,7 @@
             <lb ed="#B"/>huius trianguli sunt aequalia est propositio 
             <lb ed="#B"/>vera Cuius pars est ista prima conclusio ut 
             <lb ed="#B"/>patet iterum etiam ipsa non est conclusio per <sic>demonstratio<lb ed="#B"/>nis</sic> 
-            <lb ed="#B"/>per quam acquiritur istud secundum scire et 
+            per quam acquiritur istud secundum scire et 
             <lb ed="#B"/>per consequens nullius scientiae obiectum est conclusio demon<lb ed="#B"/>strationis 
             per quam acquiritur
           </p>
@@ -3799,7 +3804,7 @@
             omnia ergo significatum totale conclusionis
           </p>
           <p xml:id="jhbl1q2-d1e8206">
-            <pc ana="#pilcrow"/>2o idem est obiectum scientiae et assensus 
+            <lb ed="#B"/><pc ana="#pilcrow"/>2o idem est obiectum scientiae et assensus 
             <lb ed="#B"/>scientialis sive assensus sic scientia 
             <lb ed="#B"/>sive distinguatur nam eidem quod quid 
             <lb ed="#B"/>scit assentit sed obiectum assensus scien<lb ed="#B"/>tialis 
@@ -3906,7 +3911,7 @@
             <lb ed="#B"/>dicendum ad 2m principale cum primo super 
             <lb ed="#B"/>ponitur quod sic esse vel non sic esse etc 
             <lb ed="#B"/>patet quod si illa suppositio convertibiliter 
-            ponitur negative quod ipsa omnino est 
+            <lb ed="#B"/>ponitur negative quod ipsa omnino est 
             <lb ed="#B"/>falsa quia tunc <choice><orig>opporteret</orig><reg>oporteret</reg></choice> dici quod propositionem 
             <lb ed="#B"/>esse veram non esset sic esse vel non sic 
             <lb ed="#B"/>esse Si autem ponitur non <del rend="expunctuated">esse</del> converti<lb ed="#B"/>biliter 
@@ -3955,7 +3960,7 @@
             <lb ed="#B"/>esse veram sic aliquid aliud a propositio<lb ed="#B"/>ne 
             sicut <unclear>videtur</unclear> quod ipsam velit in<lb ed="#B"/>telligere 
             in arguendo tunc suppositionis 
-            quod deberes probare Et in super sup<lb ed="#B"/>positum 
+            <lb ed="#B"/>quod deberes probare Et in super sup<lb ed="#B"/>positum 
             est falsum et cum arguitur quia 
             <lb ed="#B"/>tunc quilibet apprehendens propositionem 
             <lb ed="#B"/>apprehenderet ipsam esse veram satis 
@@ -3981,7 +3986,7 @@
             et conclusionem istius doctoris negare 
             <lb ed="#B"/>rationes pro 2a conclusione quam omnino cre<lb ed="#B"/>do 
             esse falsam non solum false <choice><orig>ymmo</orig><reg>immo</reg></choice> 
-            periculose sunt unde cum arguitur 
+            <lb ed="#B"/>periculose sunt unde cum arguitur 
             <lb ed="#B"/>si res extra terminem multae scientiae cui concedo 
             <lb ed="#B"/>consequens nam inter 3a oportet unum vel 
             <lb ed="#B"/>quod <choice><orig>nichil</orig><reg>nihil</reg></choice> scimus nisi deum vel 
@@ -4708,7 +4713,7 @@
             <lb ed="#B"/>est aliqua oratio est et de similibus <pc ana="#virgula"/><pc ana="#virgula"/>
           </p>
           <p xml:id="jhbl1q2-d1e8770">
-            7o quod significatum alicuius propositionis est quantum 
+            <lb ed="#B"/>7o quod significatum alicuius propositionis est quantum 
             <lb ed="#B"/>non est possibile esse veram significato tali 
             <lb ed="#B"/>manente probatur <del rend="expunctuated">primo</del> enim pono enim 
             <lb ed="#B"/>quod tantum duae propositiones scriptae sunt tunc 
@@ -4955,7 +4960,7 @@
           </p>
           <p xml:id="jhbl1q2-d1e9008">
             <pc ana="#pilcrow"/>quantum 
-            <lb ed="#B"/>ad 2m horum patet quod non ex eo dicitur propositio necessaria 
+            <lb ed="#B"/>ad 2m horum patet quod non ex eo dicitur propositio ne<lb ed="#B" break="no"/>cessaria 
             quia eius significatum sit aliqua 
             <lb ed="#B"/>res quae non potest non esse quia tunc 
             <lb ed="#B"/>pura negativa esset <choice><orig>neccessaria</orig><reg>necessaria</reg></choice> nec etiam de praeterito 
@@ -5002,7 +5007,7 @@
             <lb ed="#B"/>unde patet quod nec ipsa hoc non est se ipsa 
             <lb ed="#B"/><unclear>demonstrata</unclear> est <choice><orig>inpossibilis</orig><reg>impossibilis</reg></choice> nec ista haec est demon<lb ed="#B"/>strata 
             se ipsa est <choice><orig>neccessaria</orig><reg>necessaria</reg></choice> nec illa <name>sortes</name> 
-            est <pc ana="#punctus"/> est existens in conceptu eiusdem nec 
+            <lb ed="#B"/>est <pc ana="#punctus"/> est existens in conceptu eiusdem nec 
             <lb ed="#B"/>est ista inpossibilis <name>sortes</name> non est licet ha<lb ed="#B"/>rum 
             quaedam sint vere non po<lb ed="#B"/>tentes 
             esse false Et quaedam false 
@@ -5326,7 +5331,7 @@
             <lb ed="#B"/>esset vera maior sed tunc minorem falsa
           </p>
           <p xml:id="jhbl1q2-d1e9243">
-            2o modo maior est falsa et minor et vera vel potest 
+            <lb ed="#B"/>2o modo maior est falsa et minor et vera vel potest 
             <lb ed="#B"/>aliter dici quod li <mentioned>secundum</mentioned> per se et <choice><orig>inmediate</orig><reg>immediate</reg></choice> 
             <lb ed="#B"/>excludit omne aliud quod non est fides 
             <cb ed="#B" n="b"/><!-- 36vb-->
@@ -5486,7 +5491,7 @@
             <lb ed="#B"/>notitiam secundum modum dictum in 2a conclusione
           </p>
           <p xml:id="jhbl1q2-d1e9382">
-            <pc ana="#pilcrow"/>Aliud est dicere hoc miraculum suf<lb ed="#B"/>ficit 
+            <lb ed="#B"/><pc ana="#pilcrow"/>Aliud est dicere hoc miraculum suf<lb ed="#B"/>ficit 
             causare evidentem scientiam et aliud 
             <pb ed="#B" n="37-v"/>
             <cb ed="#B" n="a"/>
@@ -5597,7 +5602,7 @@
             <lb ed="#B"/>3o dico quod omnes suae rationes non conclu<lb ed="#B"/>dunt 
             qua illam conclusionem nec probant suam <unclear>tria?<lb ed="#B"/>tio</unclear> 
             est quia ut iste error iudiciorum 
-            <lb ed="#B"/>sensus de quo ipse in suis rationibus <unclear>se?cit</unclear> 
+            <lb ed="#B"/>sensus de quo ipse in suis rationibus <unclear>se?<lb ed="#B" break="no"/>cit</unclear> 
             mentionem est solum in hiis et 
             <lb ed="#B"/>de hiis quae subsunt potentiis naturalibus et 
             <pb ed="#B" n="38-r"/>
@@ -5801,7 +5806,7 @@
             <lb ed="#B"/>notas <choice><orig>neccessitatur</orig><reg>necessitatur</reg></choice> ad diligendum stante 
             <lb ed="#B"/>tali visione igitur notas <choice><orig>neccessitatur</orig><reg>necessitatur</reg></choice> ad dili<lb ed="#B"/>gendum 
             Ratio est quia non <choice><orig>neccessario</orig><reg>necessario</reg></choice> 
-            stat talis visio in vidente <unclear>vi?</unclear> apparet 
+            <lb ed="#B"/>stat talis visio in vidente <unclear>vi?</unclear> apparet 
             <lb ed="#B"/>quod arguitur ab inferiori ad superius negatione 
             <lb ed="#B"/>quare consequentia non valet in plus enim se 
             <lb ed="#B"/>habet <choice><orig>neccessario</orig><reg>necessario</reg></choice> diligere quam <choice><orig>neccessario</orig><reg>necessario</reg></choice> diligere stan<lb ed="#B"/>te 
@@ -5901,7 +5906,7 @@
             <cb ed="#B" n="b"/><!--39rb-->
             <lb ed="#B"/>certitudinis aliomodo inesse cognitio<lb ed="#B"/>nis 
             In esse enim certitudinis aequaliter 
-            vel plus elevat fides cum illustratione 
+            <lb ed="#B"/>vel plus elevat fides cum illustratione 
             <lb ed="#B"/>et ratione Et cum arguitur quod non tunc nostra 
             <lb ed="#B"/>secta vel veritas nostrae sectae principalis 
             <lb ed="#B"/>dependetur a fide quam ratione posset uno modo 
@@ -5922,7 +5927,7 @@
             <lb ed="#B"/>evidentiae et cognitionis sic illa e<lb ed="#B"/>levatio 
             vel illustrati plus elevat 
             <lb ed="#B"/>quam fides patet ex 3a conclusione Et cum dicitur <!-- likely reference here --> 
-            quod tunc foret scientia dico communiter su<lb ed="#B"/>mendo 
+            <lb ed="#B"/>quod tunc foret scientia dico communiter su<lb ed="#B"/>mendo 
             hoc nomen scientia concedo consequens 
             <lb ed="#B"/>et cum infertur quod tunc non staret cum fide 
             <lb ed="#B"/>nego consequentiam et rationes quae videntur 
@@ -5983,7 +5988,7 @@
           <p xml:id="jhbl1q2-d1e9766">
             <pc ana="#pilcrow"/>2o et aliter haberet dicere <name>ma<lb ed="#B"/>gister 
             Iohannes de Brakil</name> in tractu 
-            supra notato capitulo 7 corollario 6 ubi dicit quod 
+            <lb ed="#B"/>supra notato capitulo 7 corollario 6 ubi dicit quod 
             <lb ed="#B"/>non est possibilis quod deus vel creatura in<lb ed="#B"/>tellectiva 
             intelligat aliquam rem ves<lb ed="#B"/>pertine 
             sic intelligendo quod ipsa res 
@@ -6051,7 +6056,8 @@
             <pc ana="#pilcrow"/>ad 5m 
             <lb ed="#B"/>dico quod non sequitur quod infertur ratio 
             <lb ed="#B"/>quia libere monet et <choice><orig>inmutat</orig><reg>immutat</reg></choice> potentiam 
-            <lb ed="#B"/>talem sed etiam obiective Ex quo patet 
+            <lb ed="#B"/>talem non solum terminative vel immuta<lb ed="#B" break="no"/>tive
+            sed etiam obiective Ex quo patet 
             <lb ed="#B"/>quod plura dicta <name>Iohannis de marchia</name> et 
             <lb ed="#B"/><name>richardi barbe</name> fundantur super falso ut 
             <lb ed="#B"/>videbitur <ref>infra distinctione 12</ref> sic patet ad totum 
