@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -45,10 +42,7 @@
   </teiHeader>
   <text xml:lang="la">
     <front>
-      <div xml:id="include-list">
-        <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/workscited.xml" xpointer="worksCited"/>
-        <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/Prosopography.xml" xpointer="prosopography"/>
-      </div>
+      
       <div xml:id="starts-on">
         <pb ed="#B" n="63-v"/>
         <cb ed="#B" n="a"/>
@@ -56,8 +50,8 @@
     </front>
     <body>
       <div xml:id="jhb-l1q6">
-        <head>Librum 1, Quaestio 6 [Clm 26711 Transcription]</head>
-        <p>
+        <head xml:id="jhb-l1q6-Hd1e104">Librum 1, Quaestio 6 [Clm 26711 Transcription]</head>
+        <p xml:id="jhb-l1q6-d1e107">
           <lb ed="#B"/>Hic oritur quaestio etc hoc est 4ta 
           <lb ed="#B"/>distinctio istius primi libri 
           <lb ed="#B"/>quae potest ad praecedentem sic 
@@ -73,7 +67,7 @@
           deum 3a ibi <unclear>adquid</unclear> respondentes 4a 
           <lb ed="#B"/>ibi nunc ad praemissam quaestionem
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e152">
           <lb ed="#B"/>Utrum sine motu et successi<lb ed="#B"/>one 
           deus generet deum 
           <lb ed="#B"/>aeterna et vera generatione arguitur 
@@ -86,22 +80,22 @@
           <lb ed="#B"/>instanti <unclear>sine filius</unclear> et nunquam ante illud fuit 
           <lb ed="#B"/>igitur in illo esse incipit
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e182">
           <pc ana="#pilcrow"/>2o quia deus 
           <lb ed="#B"/>incipit esse in hoc instanti igitur deus inci<lb ed="#B"/>pit 
           esse in aliquo instanti probatur consequentia
           <lb ed="#B"/>quia si deus non incipit esse in hoc 
           <lb ed="#B"/>instanti
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e195">
           <pc ana="#dbslash"/>3o quia filius creatur et produ<lb ed="#B"/>citur 
-          de nichilo sicut patet <ref>ecclesiasticus 24</ref> ante 
+          de nichilo sicut patet <ref xml:id="jhb-l1q6-Rd1e201">ecclesiasticus 24</ref> ante 
           <lb ed="#B"/>omnia secula creata sum Et con<lb ed="#B"/>firmatur 
           nam si de aliquo illud esset 
           <lb ed="#B"/>idem quod pater et sic agens et materia 
           <lb ed="#B"/>coinciderent
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e215">
           <pc ana="#pilcrow"/>2o sic deus non 
           <lb ed="#B"/>generat alium a se deum igitur non generat 
           <lb ed="#B"/>aliquod deum consequentia patet quia non potest 
@@ -118,7 +112,7 @@
           <lb ed="#B"/>igitur vel nullum generat vel infinitos 
           <lb ed="#B"/>generat quorum utrumque est falsum
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e256">
           <pc ana="#pilcrow"/>3o in 
           <lb ed="#B"/>divinis nulla est propria et vera generatio 
           <lb ed="#B"/>igitur quaestio falsa consequentia nota antecedens 
@@ -130,13 +124,13 @@
           <lb ed="#B"/>non sunt eius dem speciei nec aequivo<lb ed="#B"/>ca 
           cum filius sit aequalis patri
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e283">
           <pc ana="#pilcrow"/>3o 
           <lb ed="#B"/>quia <unclear>q?</unclear> quid esset vel sic illa genera<lb ed="#B"/>tio 
           aeterna et quidquid dicitur esse vi<lb ed="#B"/>detur 
           posse inprobari
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e297">
           <pc ana="#dbslash"/>In oppositum est 
           <name>magister</name> in littera et prima diffinitio 24 <unclear>ph?orum</unclear> 
           <lb ed="#B"/>qua dicitur deus est monas mo<lb ed="#B"/>nadensis 
@@ -147,7 +141,7 @@
           <lb ed="#B"/>variatione et 4o earumdem deus est 
           <lb ed="#B"/>mens parem generans continautione per<lb ed="#B"/>serverans
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e325">
           <pc ana="#pilcrow"/>prima conclusio potest actuans fi<lb ed="#B"/>lium 
           per suam ineffabilem generationem 
           omnem prolem vle ymaginariam suc<lb ed="#B"/>cessionem 
@@ -169,7 +163,7 @@
           <lb ed="#B"/>et filius quam spiritus sanctus quod est in<lb ed="#B"/>conveniens 
           omnino
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e369">
           <pc ana="#pilcrow"/>primum corollarium patris 
           <lb ed="#B"/>verbale dicere nullo modo praecedit 
           <lb ed="#B"/>vel succedit intellectus sui inmensum 
@@ -177,7 +171,7 @@
           <lb ed="#B"/>verum tunc aliquo modorum praedictorum foret 
           <lb ed="#B"/>successio in divinis quod est contra conclusionem
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e386">
           <lb ed="#B"/>2m corollarium in aliquo signo pater generat 
           <lb ed="#B"/>et numquam ante illud signum generavit 
           <lb ed="#B"/>et tum generare non incipit probatur quia 
@@ -192,7 +186,7 @@
           <lb ed="#B"/>ad essentiam applicatur patet cum intellectum <unclear>sic</unclear> 
           <lb ed="#B"/>ibi ante
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e420">
           <pc ana="#pilcrow"/>3m corollarium deus pater fiilum 
           <lb ed="#B"/>in aliquo signo et numquam post gignit 
           <cb ed="#B" n="b"/>
@@ -203,7 +197,7 @@
           <lb ed="#B"/>filium probatur per omnem modum sicut 
           <lb ed="#B"/>praecedens
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e442">
           <pc ana="#pilcrow"/>contra conclusionem arguitur sic omnis 
           <lb ed="#B"/>ratio alia ab esse post esse in deo est 
           <lb ed="#B"/>posterior ipso esse sed generare filium 
@@ -216,14 +210,14 @@
           quidam raitonum essentialium sed <name>dyonsium</name> 
           <lb ed="#B"/>de divinis nominibus capitulo 3o
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e474">
           <pc ana="#pilcrow"/>contra primum corollarium 
           <lb ed="#B"/>probatur quid patris immensis intelli<lb ed="#B"/>gere 
           praecedit suum verbale dicere quia 
           <lb ed="#B"/>intelligere habet rationem principiatum praecedit 
           <lb ed="#B"/>igitur corollarium falsum
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e487">
           <pc ana="#pilcrow"/>contra 2m corollarium simpliciter 
           <lb ed="#B"/>talem primum habet ordinem efficientiae 
           <lb ed="#B"/>respectu omnium post primum qualem habet ordinem 
@@ -238,7 +232,7 @@
           <lb ed="#B"/>quam velle sed haec omnia generationem 
           <lb ed="#B"/>antecedent igitur corollarium falsum
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e522">
           <pc ana="#pilcrow"/>contra 3m corollarium 
           <lb ed="#B"/>sic omne patris aeternum intelliger est 
           <lb ed="#B"/>filium suum gignere sed dicere verbum 
@@ -249,7 +243,7 @@
           <lb ed="#B"/>et non dicere igitur dicere prius est ipso intelligere 
           <lb ed="#B"/>et per consequens propositio vera
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e545">
           <pc ana="#pilcrow"/>ad ista respondeo
           <pb ed="#B" n="64-v"/>
           <cb ed="#B" n="a"/>
@@ -268,12 +262,12 @@
           <lb ed="#B"/>de illa in qua poneretur hoc verbum 
           <lb ed="#B"/>desinit
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e584">
           <pc ana="#pilcrow"/>ad 2m ibidem negatur 
           <lb ed="#B"/>consequentia quia arguitur ab inferiori ad superius 
           <lb ed="#B"/>negatione proposita a parte <unclear>parti</unclear>
         </p>
-        <p>
+        <p xml:id="jhb-l1q6-d1e596">
           <pc ana="#pilcrow"/>ad 
           <lb ed="#B"/>3m dico quod pater generat filium de substantia 
           <lb ed="#B"/>sua secundum sententiam <name>augustini</name> 15 de trinitate capitulo 14 in 
@@ -287,7 +281,7 @@
           <lb ed="#B"/>materia est ibi nec etiam quais ma<lb ed="#B"/>teria 
           contra <name>doctorem sollempnis</name>
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e634">
          ad 
          <lb ed="#B"/>rationem cum arguitur omnis ratio etc nego 
          <lb ed="#B"/>simpliciter maiorem et cum probatur quia 
@@ -296,19 +290,19 @@
          deducit <name>dominus Aegidius</name> distinctione 9 
          <lb ed="#B"/>primi parte 2a quaestione 2a
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e653">
          <pc ana="#pilcrow"/>2o dico quod ille 
          <lb ed="#B"/>ordo nullo modo intrinsece est admittendus 
          <lb ed="#B"/>nec dyonisius eum ponit intrinsece sic
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e662">
          <lb ed="#B"/>ad aliud contra primum corollarium <mentioned>patris immensus 
          <lb ed="#B"/>intelligere</mentioned> etc negatur assumptum et cum 
          <lb ed="#B"/>probatur quia rationem principii respectu ipsius 
          <lb ed="#B"/>dicere etc nego consequentiam quia non 
          <lb ed="#B"/>valet
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e679">
          <pc ana="#pilcrow"/>ad 4m concedo maiorem nego sim<lb ed="#B"/>plicit 
          minorem contra <name>gotschaltum</name> et cum 
          <lb ed="#B"/>probatur quia prius est esse quam vivere 
@@ -316,7 +310,7 @@
          <lb ed="#B"/>et sic de singulis nego idem contra eundem 
          <lb ed="#B"/>ibidem ubi prius
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e698">
          <pc ana="#pilcrow"/>ad <unclear>7</unclear> cum arguitur omne 
          <lb ed="#B"/>patris intelligere etc transeat illa sine 
          <lb ed="#B"/>illa vera sine falsa sed negatur minor 
@@ -326,24 +320,24 @@
          <lb ed="#B"/>intelligere praecedit negatur consequentia quia 
          <lb ed="#B"/>non valet
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e721">
          <pc ana="#pilcrow"/>2a conclusio prima persona indivi<lb ed="#B"/>na 
          trinitate genuit solum suum filium 
          <lb ed="#B"/>in aeternitate et naturae ydemptitate probatur 
          <lb ed="#B"/>per argumentum <name>augustini</name> libro 3o contra maximum <unclear>c 7 11</unclear>
          <lb ed="#B"/>potuit et voluit et non potuit etc
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e741">
          <pc ana="#pilcrow"/>
          <lb ed="#B"/>Item 6o <title>de trinitate</title> capitulo 2o filius est deus 
          <lb ed="#B"/>deus de deo sed non nisi per generationem 
          <lb ed="#B"/>igitur
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e755">
          <pc ana="#pilcrow"/>ad idem est venerabilis anselmus de processione <!-- looks more like processu -->
          <lb ed="#B"/>spiritus sancit 5 2 9 capitulis
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e764">
          <pc ana="#pilcrow"/>primum corollarium 
          <lb ed="#B"/>quamvis deus pater genuit deum qui 
          <lb ed="#B"/>est omnis deus non tum genuit 
@@ -352,8 +346,8 @@
          <lb ed="#B"/>genuit spiritum sanctum qui tum eest deus igitur corollarium 
          <lb ed="#B"/>verum
        </p>
-       <p>
-         <pc ana="#pilcrow"/>2m corollarium contra <ref><name>sanctam thomam</name> libro primo 
+       <p xml:id="jhb-l1q6-d1e783">
+         <pc ana="#pilcrow"/>2m corollarium contra <ref xml:id="jhb-l1q6-Rd1e787"><name>sanctam thomam</name> libro primo 
          <lb ed="#B"/>distinction 4 quaestione 3 <!-- in current division, no question 3 in ta d. 4 --></ref> haec absolute debet conced<lb ed="#B"/>di 
          deus deum non genuit et deus 
          <lb ed="#B"/>deum generare non potuit patet patet 
@@ -362,7 +356,7 @@
          <lb ed="#B"/>quod persona personam non produxit 
          <lb ed="#B"/>igitur deus deum generare non potuit
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e809">
          <lb ed="#B"/><pc ana="#pilcrow"/>3m corollarium quamvis in patre sit potentia genera<lb ed="#B"/>tiva 
          et spirativa et producit duo 
          <lb ed="#B"/>supposita <unclear>omni</unclear> essentia non debet dici 
@@ -381,12 +375,12 @@
          <lb ed="#B"/>dictum ubi satis efficaciter haec pars 
          <lb ed="#B"/>probatur
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e861">
          <pc ana="#pilcrow"/>Sed contra ista dicta sunt 
          <lb ed="#B"/>duae rationes factae in 2a ratione 
          <lb ed="#B"/>principali ad quaestionem
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e870">
          Confirmatur quia 
          <lb ed="#B"/>si deus generat deum filium vel igitur 
          <lb ed="#B"/>cum sapientia vel sine sapientia si cum 
@@ -395,7 +389,7 @@
          si sine sapientia igitur pater ignorantis 
          <lb ed="#B"/>producit quod est error
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e883">
          <pc ana="#pilcrow"/>Contra 
          2m corollarium si deus supponit pro persona 
          igitur tam convenienter potest concedi tres 
@@ -404,7 +398,7 @@
          <lb ed="#B"/>corollarium consequentia satis tenet quia pro eo<lb ed="#B"/>dem 
          terminum utrobique supponeret omnino
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e896">
          <lb ed="#B"/>Contra 3m corollarium cuius negatio non 
          <lb ed="#B"/>est negatio potentiae eius et positio non est 
          <lb ed="#B"/>positio potentiae sed negatio generative potentiae vel 
@@ -412,7 +406,7 @@
          <lb ed="#B"/>igitur et positio non est potentiae alicuius positivae 
          potentiae
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e910">
          Item contra 3m corollarium videntur 
          <lb ed="#B"/>esse verba infra distinctione 24 capitulo 3o et sumitur 
          <lb ed="#B"/>a <name>damasceno</name> ubi <name>magister</name> dicit 
@@ -422,7 +416,7 @@
          igitur videtur quod essentia divina debeat 
          <lb ed="#B"/>dici multiplicata
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e934">
          <pc ana="#pilcrow"/>ad ista respon<lb ed="#B"/>deo 
          et primo ad istas in principali 
          <lb ed="#B"/>tactas cum arguitur deus non generat a<lb ed="#B"/>lium 
@@ -442,14 +436,14 @@
          <lb ed="#B"/>sed secundus est falsus securior tamen est 
          <lb ed="#B"/>responsio prima propter simplices
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e978">
          <pc ana="#pilcrow"/>ad 
          aliam in principali patet per 3m corollarium 
          <lb ed="#B"/>quod consequentia non valet quia quamvis ibi sint 
          <lb ed="#B"/>plura supposita tamen non essentia 
          <lb ed="#B"/>divina triplicata
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e989">
          <pc ana="#pilcrow"/>ad 3m in principiali 
          <lb ed="#B"/>videtur <name>magistro hugo</name> satis dixi<lb ed="#B"/>sse 
          ex hoc quod pater totam latitudinem 
@@ -475,7 +469,7 @@
          et tamen eius sunt sicut plura 
          <lb ed="#B"/>verba
        </p>
-       <p>
+       <p xml:id="jhb-l1q6-d1e1052">
          <pc ana="#pilcrow"/>2o quia iste reddit idem 
          <lb ed="#B"/>per idem quia quaestio est cum me<lb ed="#B"/>moria 
          intellectiva cognitio et scientia sint 
@@ -483,7 +477,7 @@
          <lb ed="#B"/>igitur est quod patris memoria est fecunda 
          <lb ed="#B"/>et non filii patet quod non est respondere
       </p>
-      <p>
+      <p xml:id="jhb-l1q6-d1e1068">
         <pc ana="#pilcrow"/>3o 
         <lb ed="#B"/>licet iste daret fore rationem supposi<lb ed="#B"/>to 
         quod haec ratio foret quare pater non 

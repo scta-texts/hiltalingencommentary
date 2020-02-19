@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -45,10 +42,7 @@
   </teiHeader>
   <text xml:lang="la">
     <front>
-      <div xml:id="include-list">
-        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/workscited.xml" xpointer="worksCited"/>
-        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/Prosopography.xml" xpointer="prosopography"/>
-      </div>
+      
       <div xml:id="starts-on">
         <pb ed="#B" n="66-r"/>
         <cb ed="#B" n="b"/>
@@ -144,7 +138,7 @@
           <lb ed="#B"/>ubi dicitur quod <quote xml:id="jhb-l1q7-Qd1e4062" source="http://scta.info/resource/cice-l1t1-d1e134">essentia divina nec generat 
           <lb ed="#B"/>nec generatur</quote>
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e326">
           <pc ana="#pilcrow"/>2m corollarium essentia divina 
           <lb ed="#B"/>non est trinus formalis generationis 
           <lb ed="#B"/>nec principium quo filius generatur 
@@ -167,7 +161,7 @@
           <lb ed="#B"/>a communicato aliter enim essentia divina 
           <lb ed="#B"/>non diceretur communicare se ipsam
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e383">
           <pc ana="#pilcrow"/>3m 
           <lb ed="#B"/>corollarium similiter conforme dictis doctorum 
           <lb ed="#B"/>scolae nostrae theologiae <name>de argentis</name> distinctione 7 conclusione 
@@ -177,7 +171,7 @@
           <lb ed="#B"/>ex conclusione quia tunc aliqualiter esset 
           <lb ed="#B"/>accidens quod est falsum
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e409">
           <pc ana="#pilcrow"/>Sed contra istam 
           <lb ed="#B"/>conclusionem et contra arguit sic loycaliter omnis 
           <lb ed="#B"/>essentia divina vel filius generatur trinitas 
@@ -187,7 +181,7 @@
           <lb ed="#B"/>conclusio Confirmatur aliquod generat in divinis 
           <lb ed="#B"/>et nichil ab essentia igitur essentia generat
         </p> 
-        <p>
+        <p xml:id="jhb-l1q7-d1e430">
           2o 
           <lb ed="#B"/>sic hic pater generat hic pater est essentia 
           <pb ed="#B" n="67-r"/>
@@ -197,7 +191,7 @@
           sicut patet omnis pater generat omnis 
           <lb ed="#B"/>essentia est pater igitur etc.
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e448">
           <lb ed="#B"/>3o generans est 
           <lb ed="#B"/>essentia divina igitur essentia divina est generans 
           <lb ed="#B"/>consequentia tenet per conversionem simpli<lb ed="#B"/>cem 
@@ -209,7 +203,7 @@
           <lb ed="#B"/>diceretur de patre diceretur de essentia divina 
           <lb ed="#B"/>igitur nunc ita est
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e472">
           <pc ana="#pilcrow"/>4o sic essentia divina 
           <lb ed="#B"/>non est non generans et est igitur essentia 
           <lb ed="#B"/>divina est generans consequentia videtur nota ex 
@@ -221,14 +215,14 @@
           <lb ed="#B"/>vel procedens sed quodcumque detur idem 
           <lb ed="#B"/>sequitur igitur etc
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e496">
           <pc ana="#pilcrow"/>5o sic essentia divina est pater 
           <lb ed="#B"/>filii igitur essentia divina habet filium sed nullum nisi 
           <lb ed="#B"/>quam generat vel genuit igitur conclusio falsa antecedens 
           <lb ed="#B"/>patet quia essentia divina est pater et pater 
           <lb ed="#B"/>est pater filii igitur essentia divina est pater filii
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e509">
           <lb ed="#B"/><pc ana="#pilcrow"/>Ad istas responsiones respondeo 
           <lb ed="#B"/>cum dicitur omnis essentia divina vel fi<lb ed="#B"/>lius 
           est deus trinitas negatur hoc 
@@ -244,7 +238,7 @@
           <lb ed="#B"/>aliud igitur essentia etc negatur consequentia quia 
           <lb ed="#B"/>hoc non sufficit
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e543">
           <pc ana="#pilcrow"/>ad 2m dicit <name>oc<lb ed="#B"/>kam</name> 
           quod <unclear>silogismi</unclear> tales non concludunt in
           <cb ed="#B" n="b"/> <!-- 67rb -->
@@ -276,7 +270,7 @@
           <lb ed="#B"/>singularem falsam sed omnis talis universalis 
           <lb ed="#B"/>non erit vera igitur distinctio nulla
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e627">
           <lb ed="#B"/><pc ana="#pilcrow"/>Ex quo videtur quod responsio super falso 
           <lb ed="#B"/>fundatur alii respondent assignantes 
           <lb ed="#B"/>duplicem fallaciam in istis formis 
@@ -311,14 +305,14 @@
           summere sub subiecto de quo non 
           <lb ed="#B"/>dicitur praedicatum
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e720">
           <pc ana="#pilcrow"/>2o quia omnis propositio 
           <lb ed="#B"/>sufficienter universalis debet inferre de terminis 
           <lb ed="#B"/>transpositis suam exclusivam quod in 
           <lb ed="#B"/>hiis non contingit bene cum dicitur 
           <lb ed="#B"/>omnis essentia divina consequentia non valet
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e733">
           <lb ed="#B"/><pc ana="#pilcrow"/>Iste modus concordat cum illis qui 
           <lb ed="#B"/>dicunt quod in quolibet sillogismo <unclear>tenente</unclear> gratia 
           <lb ed="#B"/>formae requiritur circumlocutio ut sufficienter 
@@ -331,7 +325,7 @@
           <lb ed="#B"/>scilicet quod subiectum nullius neminat quoniam prae<lb ed="#B"/>dicatum 
           conveniat eidem
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e764">
           <pc ana="#pilcrow"/>ratio 
           <lb ed="#B"/>est quia tunc sufficienter regulatur 
           <lb ed="#B"/>sillogismus perditi de omni vel dici de nullo 
@@ -350,13 +344,13 @@
           <cb ed="#B" n="b"/> <!-- 67vb-->
           <lb ed="#B"/>b etc
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e815">
           <pc ana="#pilcrow"/>Ex hiis patet quod et si sufficit regula 
           <lb ed="#B"/>posita ab <name>Anselmo</name> in libro <title>de processi<lb ed="#B"/>one 
           spiritus sancti</title> capitul 2o ad paralogismos 
           <lb ed="#B"/>ostendendum non tamen ad solvendum 
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e832">
           <lb ed="#B"/><pc ana="#pilcrow"/>per haec igitur solvuntur omnes paralogis<lb ed="#B"/>mi 
           facti <unclear>in materia</unclear> ista primo iste 
           <lb ed="#B"/>qui arguit haec essentia est filius haec paterni<lb ed="#B"/>tas 
@@ -366,31 +360,31 @@
           <lb ed="#B"/>vel si non fiat <sic>circumlocio</sic> tunc forma 
           <lb ed="#B"/>non valet
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e860">
           <pc ana="#pilcrow"/>2o hinc paralogismus solvitur 
           <lb ed="#B"/>per haec iste pater generat iste pater est 
           <lb ed="#B"/>essentia igitur etc patet iterum quod si a fit sicud 
           <lb ed="#B"/>debet quod est falsa
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e871">
           <pc ana="#pilcrow"/>3o ille omnis essentia 
           <lb ed="#B"/>divina est filius nulla paternitas 
           <lb ed="#B"/>est filius igitur nulla paternitas est 
           <lb ed="#B"/>essentia patet sicut prius quid dicendi
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e882">
           <pc ana="#pilcrow"/>4to 
           <lb ed="#B"/>iste hic pater generat haec essentia non 
           <lb ed="#B"/>generat igitur haec essentia non est iste 
           <lb ed="#B"/>pater dicitur sicut prius
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e893">
           <pc ana="#pilcrow"/>5o iste omne 
           <lb ed="#B"/>illud quod est pater est pater filius est 
           <lb ed="#B"/>omne illud quod est pater igitur patet quid 
           <lb ed="#B"/>dicendum ex dictis
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e904">
           <pc ana="#pilcrow"/>6o ista omne illud 
           <lb ed="#B"/>quod est pater est pater omne illud dei<lb ed="#B"/>tas 
           est illud quod est pater illud omne 
@@ -403,7 +397,7 @@
           in praemissis propter quod formae non 
           <lb ed="#B"/>valent
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e930">
           <pc ana="#pilcrow"/>ad 3m cum dicitur generans 
           <lb ed="#B"/>etc dico quod consequens potest dupliciter 
           <lb ed="#B"/>accipi <del rend="expunctuation">dupliciter</del> uno modo sic essentia 
@@ -412,7 +406,7 @@
           <lb ed="#B"/>et sic negatur conversio de primo modo 
           <lb ed="#B"/>debet converti non 2o modo
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e950">
           <pc ana="#pilcrow"/>Ad confir<lb ed="#B"/>mationem 
           tam convertibiliter se 
           <lb ed="#B"/>habet etc verum est quantum est ad prae<pb ed="#B" n="68-r"/><cb ed="#B" n="a"/><lb ed="#B"/>dicationes 
@@ -420,7 +414,7 @@
           quia nunc ibi est oppositio re<lb ed="#B"/>lationis 
           sed tunc nulla esset
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e968">
           <pc ana="#pilcrow"/>ad
           <lb ed="#B"/>quartum dico quod essentia divina est 
           <lb ed="#B"/>non generans et cum arguitur contra quidquid 
@@ -430,14 +424,14 @@
           <lb ed="#B"/>illud quod est genitum vel generans 
           <lb ed="#B"/>vel pro <unclear>pertedens</unclear> et hoc est verum
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e991">
           <pc ana="#pilcrow"/>ad 
           <lb ed="#B"/>5m essentia divina est pater etc nego consequentiam 
           <lb ed="#B"/>posset tamen aliter responderi dimit<lb ed="#B"/>to 
           causa bonitatis quia forma 
           <lb ed="#B"/>consequens est
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1004">
           <pc ana="#pilcrow"/>
             <note type="marginal-note" place="margin-left">2a conclusio</note>
           2a conclusio quamvis aeterni patris 
@@ -455,14 +449,14 @@
           <lb ed="#B"/>suum subiectum et falsitas consequentis de se 
           <lb ed="#B"/>nota est
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1049">
           <pc ana="#pilcrow"/>primum corollarium verbi aeter<lb ed="#B"/>ni 
           productio non est dicenda esse 
           <lb ed="#B"/>de nichilo patet quia est de substantia 
           <lb ed="#B"/>patris quae est summum ens et inmen<lb ed="#B"/>sum 
           et non nichil
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1062">
           <pc ana="#pilcrow"/>2m corollarium quod 
           <lb ed="#B"/>pater non nisi terminum immensae perfectionis 
           <lb ed="#B"/>potest habere suae aeternae productionis 
@@ -471,7 +465,7 @@
           <lb ed="#B"/>aliter non communicaret sibi essentiam 
           <lb ed="#B"/>talem immensam
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1081">
           <pc ana="#pilcrow"/>3m corollarium non 
           <lb ed="#B"/>omne productum de aliquo habet ipsum 
           <lb ed="#B"/>pro suae productionis subiecto patet corollarium per 
@@ -480,14 +474,14 @@
           <cb ed="#B" n="b"/> <!-- 68rb -->
           <lb ed="#B"/>ad intra quod est falsum
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1101">
           <pc ana="#pilcrow"/>Sed contra ista po<lb ed="#B"/>test 
           argui ex dictis doctoris sollmp<lb ed="#B"/>nis 
           primo sic illud quod remanet 
           <lb ed="#B"/>subutroque termino habet rationem subiecti 
           <lb ed="#B"/>essentia divina est huiusmodi igitur etc
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1114">
           <pc ana="#pilcrow"/>
           <lb ed="#B"/>2o 
           <lb ed="#B"/>sic cuilibet potentiae active in principio 
@@ -496,7 +490,7 @@
           <lb ed="#B"/>aliquid se habens passive hoc autem 
           <lb ed="#B"/>non est ipsa relatio igitur erit essentia di<lb ed="#B"/>vina
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1134">
           <pc ana="#pilcrow"/>3o quam circumstantiam esse de<lb ed="#B"/>notet 
           ly <mentioned>de</mentioned> vel originis causalis vel 
           <lb ed="#B"/>principium materialis si primum nichil 
@@ -505,7 +499,7 @@
           <lb ed="#B"/>restat 2m scilicet quod dicat circumstantis principium 
           <lb ed="#B"/>materialis et per consequens propositum
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1155">
           <pc ana="#pilcrow"/>Ad ista 
           <lb ed="#B"/>respondetur et primo ad primum potest dici 
           <lb ed="#B"/>uno modo si recipiuntur hic terminum produ<lb ed="#B"/>cens 
@@ -515,13 +509,13 @@
           <lb ed="#B"/>minor est falsa quia filius numquam sic 
           <lb ed="#B"/>talem terminum habent cum sit aeternus
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1175">
           <lb ed="#B"/><pc ana="#pilcrow"/>Ad 2m dico ad maiorem quod verum est 
           <lb ed="#B"/>in permixtis suis potentialibus compositionibus 
           <lb ed="#B"/>non autem mentem omni possibilitate et com<lb ed="#B"/>positione 
           in permixto
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1188">
           <pc ana="#pilcrow"/>ad 3m respondet 
           <name>thoams de argentis</name> de ista quinta 
           <lb ed="#B"/>articulo 4o quod significat et dicit circumstantiam 
@@ -536,7 +530,7 @@
           <lb ed="#B"/>ad 2am rationem principalem et haec 
           <lb ed="#B"/>de 2a conclusione et corollariis suis
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1223">
           <pc ana="#pilcrow"/>3a conclusio nulla 
           <lb ed="#B"/>causa temporalis est vel esse potest simpliciter tota<lb ed="#B"/>lis 
           probatur quia omnis talis in cau<lb ed="#B"/>sando 
@@ -545,14 +539,14 @@
           <cb ed="#B" n="a"/>
           <lb ed="#B"/>primae causae simpliciter igitur conclusio vera
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1241">
           <pc ana="#pilcrow"/>Confir<lb ed="#B"/>matur 
           nulla causa non sufficiens 
           <lb ed="#B"/>sibi ipsi esse per se sufficit alterum a<lb ed="#B"/>gere 
           per se igitur nulla causa temporalis 
           <lb ed="#B"/>per se sufficit agere alterum
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1254">
           <pc ana="#pilcrow"/>Corllarium primum 
           <lb ed="#B"/>Sola causa prima potest esse causa tota<lb ed="#B"/>lis 
           cuiuslibet causabilis in natura patet ex conclusione 
@@ -560,7 +554,7 @@
           <lb ed="#B"/>alia dependet sed sibi ipsi sufficit 
           <lb ed="#B"/>ad agere et esse
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1270">
           <pc ana="#pilcrow"/>2m corollarium si duo e<lb ed="#B"/>ssent 
           aeque prima nullorum istorum potest 
           <lb ed="#B"/>esse alicuius producti simpliciter totalis 
@@ -568,7 +562,7 @@
           <lb ed="#B"/>ad productionem illius foret requisita 
           <lb ed="#B"/>aliter non esset aeque prima
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1286">
           <pc ana="#pilcrow"/>3m corollarium 
           <lb ed="#B"/>inplicat contradictionem formalem plures 
           <lb ed="#B"/>patet quia tales forent vel aeque primae 
@@ -576,7 +570,7 @@
           <lb ed="#B"/>per conclusionem nec aeque primae per corollarium igitur nullo 
           <lb ed="#B"/>modo 
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1306">
           Ex quo patet responsio ad conclusionem ut 
           <lb ed="#B"/>videtur quod pars quaestionis affirmativa est vera 
           <lb ed="#B"/>sed contra hoc est argumentum principale et con<lb ed="#B"/>firmatur 
@@ -584,7 +578,7 @@
           ab <c>a</c> potest vel potuit produci <c>a</c> 
           <lb ed="#B"/><c>c</c> igitur videtur conclusio non esse vera
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1331">
           <pc ana="#pilcrow"/>2o quia 
           <lb ed="#B"/>si conclusio esset vera cum corollariis videtur sequi 
           <lb ed="#B"/>quod invincibiliter probaretur unum solum 
@@ -592,7 +586,7 @@
           <lb ed="#B"/>sed oppositum huius videtur cum hoc sit ar<lb ed="#B"/>tius
           igitur
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1347">
           <pc ana="#pilcrow"/>3o plures possunt esse causae a<lb ed="#B"/>licuius 
           effectus quarum quaelibet po<lb ed="#B"/>sita 
           sequitur effectum poni Sed sic 
@@ -602,7 +596,7 @@
           <lb ed="#B"/>fuisset genitus contra <name>adam</name> et sic alius 
           <lb ed="#B"/>multis igitur etc
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1373">
           <pc ana="#pilcrow"/>ad ista respondeo po<lb ed="#B"/>nendo 
           aliqualem declarationem 
           <lb ed="#B"/>huius terminum causa totalis qui dupliciter potest 
@@ -614,7 +608,7 @@
           <lb ed="#B"/>effectum causat sic intelligo conclusionem et 
           <lb ed="#B"/>corollaria
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1397">
           <pc ana="#pilcrow"/>alio modo dicitur causa totalis qua 
           <lb ed="#B"/>posita omni alio istius ordinis re<lb ed="#B"/>mota 
           ponitur vel potest poni inesse <sic>ef<lb ed="#B"/>ectus</sic>
@@ -642,7 +636,7 @@
           <lb ed="#B"/>tamen ea non existente staret ni<lb ed="#B"/>chilominus 
           talem effectum a deo produ<lb ed="#B"/>ci
         </p>
-        <p>
+        <p xml:id="jhb-l1q7-d1e1474">
           pro quo notandum quod effectum depen<lb ed="#B"/>dere 
           essentialiter ab aliquo potest intelli<lb ed="#B"/>gi 
           tripliciter uno modo sic quod effectus sine 

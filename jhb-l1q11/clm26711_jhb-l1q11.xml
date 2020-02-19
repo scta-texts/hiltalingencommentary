@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -45,10 +42,7 @@
   </teiHeader>
   <text xml:lang="la">
     <front>
-      <div xml:id="include-list">
-        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/workscited.xml" xpointer="worksCited"/>
-        <xi:include href="https://raw.githubusercontent.com/lombardpress/lombardpress-lists/master/Prosopography.xml" xpointer="prosopography"/>
-      </div>
+      
       <div xml:id="starts-on">
         <pb ed="#B" n="74-v"/>
         <cb ed="#B" n="b"/>
@@ -56,8 +50,8 @@
     </front>
     <body>
       <div xml:id="jhb-l1q11">
-        <head>Librum 1, Quaestio 11 [Clm 26711 Transcription]</head>
-        <p>
+        <head xml:id="jhb-l1q11-Hd1e104">Librum 1, Quaestio 11 [Clm 26711 Transcription]</head>
+        <p xml:id="jhb-l1q11-d1e107">
           <lb ed="#B"/>Nunc ad distinctionem personarum 
           accedamus etc Ista 9 
           <lb ed="#B"/>distinctio ad praecedentem con<lb ed="#B"/>tinuatur 
@@ -69,7 +63,7 @@
           <lb ed="#B"/> de coaeternitate geniti et gingnentis 
           <lb ed="#B"/>quo ademus existentia intrinsicam
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e132">
           2o quantum ad significationem emittiativam 
           <lb ed="#B"/>contrinsecam tunc 2a pars est ibi hic 
           <lb ed="#B"/>quaeri potest prima pars principalis di<lb ed="#B"/>viditur 
