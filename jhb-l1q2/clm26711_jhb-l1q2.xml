@@ -52,7 +52,7 @@
         <head xml:id="jhbl1q2-Hd1e3497">Liber 1, Quaestio 2 [Clm 26711 Transcription]</head>
         <head xml:id="jhbl1q2-Hd1e3500" type="questionTitle">Utrum veritatem sinceram fidei christianae impossibile sit viatorem perfecte cognoscere efficacia rationis humanae 
           sine speciali dei illustratione et fundamento fidei catholicae ac firma adhaesiva</head>
-        <p>
+        <p xml:id="jhbl1q2-d1e3503">
           <lb ed="#B" n="29"/>trum veritatem sinceram <subst><del>fecte</del><add place="marginCenter">fidei</add></subst> 
           <lb ed="#B" n="30"/>christianae <choice><orig>inpossibile</orig><reg>impossibile</reg></choice> sit viato<lb ed="#B" n="31"/>rem 
           perfecte cognoscere effica<lb ed="#B" n="32"/>cia 
@@ -3709,7 +3709,7 @@
             <lb ed="#B" n="66"/>rectam infertur quod propositio <choice><orig>enunccians</orig><reg>enuncians</reg></choice> illud 
             <lb ed="#B" n="67"/>est vera et per consequens per aliam scientiam
           </p>
-          <p xml:id="jhbl1q2-d1e8148">
+          <p xml:id="jhbl1q2-d1e8145">
             Confirmatur 
             <lb ed="#B" n="68"/>quia sicut non est idem sic esse 
             <lb ed="#B" n="69"/>et propositionem <choice><orig>enuncciantem</orig><reg>enunciantem</reg></choice> sic esse 
@@ -3722,7 +3722,7 @@
             <lb ed="#B" n="76"/>respectu scientiae acquisitae per demonstrationem cuius ipsa 
             <lb ed="#B" n="77"/>est conclusio argui potest
           </p>
-          <p>
+          <p xml:id="jhbl1q2-d1e8148">
             <pc ana="#pilcrow"/>propterea arguitur quod 
             <lb ed="#B" n="78"/>nullius scientiae conclusio demonstrationis sit obiectum 
             <lb ed="#B" n="79"/>quia si esset alicuius vel illius quae 
