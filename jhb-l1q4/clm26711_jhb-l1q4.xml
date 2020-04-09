@@ -1,0 +1,1812 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber 1, Quaestio 4 [Clm 26711 Transcription]</title>
+        <author>John Hiltalingen of Basel</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Liber 1, Quaestio 4 [Clm 26711 Transcription]</title>
+          <date when="2020-04-08">April 08, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="clm26711">Bayerishce StaatsBibliothek, Clm 26711</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-04-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="53-r"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jhb-l1q4">
+        <head xml:id="jhb-l1q4-Hd1e97">&gt;Quaesito 4</head>
+        <p xml:id="jhb-l1q4-d1e100">
+          <lb ed="#B" n="8"/>Et itaque vera et pia etc post quam  
+          <lb ed="#B" n="9"/>magister praemisit quaedam neccessaria  
+          <lb ed="#B" n="10"/>praeambula in prima divisione  
+          <lb ed="#B" n="11"/>nunc se continuat ad dicendam in illa  
+          <lb ed="#B" n="12"/>2a distinctione quae dividitur in  
+          <lb ed="#B" n="13"/>duas partes principales nam in prima  
+          <lb ed="#B" n="14"/>ponit magister studentium sacra scripturae  
+          <lb ed="#B" n="15"/>informationem 2o exequitur et probat  
+          <lb ed="#B" n="16"/>multipliciter suam intentionem tunc  
+          <lb ed="#B" n="17"/>2a pars incipit ibi proponamus igitur etc  
+          <lb ed="#B" n="18"/>prima pars dividitur in 3s partes nam  
+          <lb ed="#B" n="19"/>in prima magister docet huius scientiae studen  
+          <lb ed="#B" n="20"/>tes qualiter se debent ad eam di 
+          <lb ed="#B" n="21"/>spionere 2o quae et qualia pro ipsius  
+          <lb ed="#B" n="22"/>intellectu credere et suppositone 3o qualiter  
+          <lb ed="#B" n="23"/>studendo debent in ea procedere  
+          <lb ed="#B" n="24"/>tunc 2a pars est ibi omnis autem catholici  
+          <lb ed="#B" n="25"/>3a ibi ceterum ut in primo libro c prima  
+          <lb ed="#B" n="26"/>harum posset dividi in 3s secundum 3s dispositio 
+          <lb ed="#B" n="27"/>nes sunt quas docet nam quilibet  
+          <lb ed="#B" n="28"/>stundens esse mundus et virtuosus  
+          <lb ed="#B" n="29"/>actenus et studiosus tranquillus non  
+          <lb ed="#B" n="30"/>litigosus 2m docet ibi de hac igitur  
+          <lb ed="#B" n="31"/>re etc 3m ibi proinde omnis qui an  
+          <lb ed="#B" n="32"/>dit etc tunc seuitur 2a pars principalis quae  
+          <lb ed="#B" n="33"/>dividitur in d partes in prima 11 ma 
+          <lb ed="#B" n="34"/>gistur suam conclusionem et intentionem probat  
+          <lb ed="#B" n="35"/>testimonio legis veteris et antiquae in 2o de  
+          <lb ed="#B" n="36"/>clarat eandem testimonio legis novae et  
+          <lb ed="#B" n="37"/>evangelicae tunc pars est ibi nunc ver post  
+          <lb ed="#B" n="38"/>testimonia etc prima pars dicitur in 3s sed quod 3a  
+          <lb ed="#B" n="39"/>probat essentia simplicem unitatem  
+          <lb ed="#B" n="40"/>2o personarum triplicem alteritatem 3o horum  
+          <lb ed="#B" n="41"/>aeternam aequalitatem 2a est ibi per 
+          <lb ed="#B" n="42"/>sonarum quoque pluritatem 3a ibi alibi 
+        </p>
+        <p xml:id="jhb-l1q4-d1e178">
+          <!--53r.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="43"/>etiam 
+          ¶ Sequitur illa pars nunc vero quae  
+          <lb ed="#B" n="44"/>etiam dividitur in 3 partes quia primo uni 
+          <lb ed="#B" n="45"/>tatem essentiae et trinitatem personarum  
+          <lb ed="#B" n="46"/>simul ostendit 2o durationem aeternitatis  
+          <lb ed="#B" n="47"/>anectit 3o se excusat quod non plures  
+          <lb ed="#B" n="48"/>auctoritates ad hoc aduxit tunc 2a est  
+          <lb ed="#B" n="49"/>ibi ipse etiam initio sui 3a ibi sed  
+          <lb ed="#B" n="50"/>quia singulem etc ¶ 
+        </p>
+        <p xml:id="jhb-l1q4-d1e202">
+          <lb ed="#B" n="51"/>Trum studens sacrae theologiae sciens 
+          <lb ed="#B" n="52"/>sacrae scripturae textum deum esse  
+          <lb ed="#B" n="53"/>trinum et unum sufficienter possit  
+          <lb ed="#B" n="54"/>probare vel inquirere per studium bonum  
+          <lb ed="#B" n="55"/>et meritorium
+        </p>
+        <p xml:id="jhb-l1q4-d1e215">
+          arguo primo quod non per ullum  
+          <lb ed="#B" n="56"/>textum falsum et inproprium potest studens theologiae  
+          <lb ed="#B" n="57"/>probare deum esse terminum et unum igitur quaestio  
+          <lb ed="#B" n="58"/>falsa patet antecedens sed consequentia probatur quia tex 
+          <lb ed="#B" n="59"/>tus sacrae scripturae est falsus et inproprius probatur hoc  
+          <lb ed="#B" n="60"/>cum primo quia scribit abacuc 2o la 
+          <lb ed="#B" n="61"/>pis qui est in parite clamabit sed  
+          <lb ed="#B" n="62"/>hoc vel est falsum vel inproprium cum 2o quia  
+          <lb ed="#B" n="63"/>scribitur ysa 57 celi sicut firmus li 
+          <lb ed="#B" n="64"/>quaescent et terra sicut vestimentum 
+          <lb ed="#B" n="65"/>attetur et ysa 63 Errare nos feci 
+          <lb ed="#B" n="66"/>sti de viis tuis et indurasti cor 
+          <lb ed="#B" n="67"/>nostrum ne timeremus te sed haec sunt falsa  
+          <lb ed="#B" n="68"/>igitur etc tum quia scribitur <ref xml:id="jhb-l1q4-Rd1e245">matthaeus 5</ref> Ec 
+          <lb ed="#B" n="69"/>ci vident claudi ambulant cui 
+          <lb ed="#B" n="70"/>alludit textus <ref xml:id="jhb-l1q4-Rd1e252">ysa 35</ref> sed illa vi 
+          <lb ed="#B" n="71"/>dentur falsa igitur etc
+        </p>
+        <p xml:id="jhb-l1q4-d1e260">
+          ¶ 2o principatur sic deus  
+          <lb ed="#B" n="72"/>non est terminus et unus igitur quaestio falsa patet consequentia 
+          <lb ed="#B" n="73"/>antecedens probatur tamen primo quia nullum incommunicabile 
+          <lb ed="#B" n="74"/>tribus sed pater est incommunicabilis et essentia divina  
+          <lb ed="#B" n="75"/>communicabilis tribus personis igitur pater non  
+          <lb ed="#B" n="76"/>est essentia divina ita potest argui de filio  
+          <lb ed="#B" n="77"/>et de spiritu sancto igitur etc tum
+        </p>
+        <p xml:id="jhb-l1q4-d1e276">
+          2o quia deus  
+          <lb ed="#B" n="78"/>omnibus modis unus est et secundum omnem ita  
+          <lb ed="#B" n="79"/>ut in ipso non invenere aliquam multi 
+          <lb ed="#B" n="80"/>tudinem intellectu vel ex intellectu qui  
+          <lb ed="#B" n="81"/>enim duo videt vel distinctionem deum  
+          <lb ed="#B" n="82"/>non videt igitur quaestio falsa et antecedens primum  
+          <lb ed="#B" n="83"/>verum patet consequentia et assumptum hic probatur  
+          <lb ed="#B" n="84"/>quia aliter deus non foret unus extra  
+          <lb ed="#B" n="85"/>numerum ymmo poneretur in numerum quod videtur falsum  
+          <!--53v.xml-->
+          <pb ed="#B" n="53-v"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>Ratio fundatur super et <ref xml:id="jhb-l1q4-Rd1e304">4m articulum eckar  
+          <lb ed="#B" n="2"/>di</ref>
+        </p>
+        <p xml:id="jhb-l1q4-d1e310">
+          ¶ tamen 3o et fundatur ratio super et a 
+          <lb ed="#B" n="3"/>articulo ockam retractato per dominum bene 
+          <lb ed="#B" n="4"/>dictum quia aut essentia sub respectu paternitatis 
+          <lb ed="#B" n="5"/>est incompassibilis filio aut non principium  
+          <lb ed="#B" n="6"/>non potest dictum 2m ockam quia tunc  
+          <lb ed="#B" n="7"/>infertur quod absolute est essentia in incompossibilis 
+          <lb ed="#B" n="8"/>filio quod omnino est falsum 2m etiam dicit  
+          <lb ed="#B" n="9"/>non potest quia tunc compossibile foret filium 
+          <lb ed="#B" n="10"/>habere essentiam sub respectu  paternitatis et etiam  
+          <lb ed="#B" n="11"/>sub respectu filiationis quod omnio est inpossibile et  
+          <lb ed="#B" n="12"/>contra veritatem igitur etc
+        </p>
+        <p xml:id="jhb-l1q4-d1e334">
+          ¶ 3o principaliter sic stu  
+          <lb ed="#B" n="13"/>dium illius articuli de quo quaestio dicit  
+          <lb ed="#B" n="14"/>non est meritorium igitur quaestio falsa patet consequentia  
+          <lb ed="#B" n="15"/>et antecedens probatur tamen primo quia in tali 
+          <lb ed="#B" n="16"/>studio homo exponit se scienter peri 
+          <lb ed="#B" n="17"/>culo errandi sed nullibi periculosius  
+          <lb ed="#B" n="18"/>erratur secundum augustinum et magistrum in littera distinctione 
+          <lb ed="#B" n="19"/>1us 2o quia talis operatio fide diminu 
+          <lb ed="#B" n="20"/>it et fidem evacuat sine quam in 
+          <lb ed="#B" n="21"/>possibile est placere deo haebris 2 11 igitur etc 
+          <lb ed="#B" n="22"/>patet consequentia et antecedens probatur quia scientia et  
+          <lb ed="#B" n="23"/>fides sibi opponuntur de eodem  
+          <lb ed="#B" n="24"/>tum 3o quia per studium huius solum  
+          <lb ed="#B" n="25"/>perficitur intellectiva sed in illa nullum  
+          <lb ed="#B" n="26"/>meritum consistit igitur sequitur primum assumpta verum  
+          <lb ed="#B" n="27"/>et quaestio falsa
+        </p>
+        <p xml:id="jhb-l1q4-d1e369">
+          ¶ In oppositum videtur magister esse  
+          <lb ed="#B" n="28"/>in littera istius distinctionis Et potest confirmari ratio 
+          <lb ed="#B" n="29"/>per plura dicta scripturae unde apostolus 
+          <lb ed="#B" n="30"/><ref xml:id="jhb-l1q4-Rd1e376">ad romanos 15</ref> quaecumque scripta sunt ad  
+          <lb ed="#B" n="31"/>nostram doctrinam scripta sunt etc et  
+          <lb ed="#B" n="32"/><ref xml:id="jhb-l1q4-Rd1e383">ecclesiastes 6</ref> Quid amplius habet sapi 
+          <lb ed="#B" n="33"/>ens a stulto nisi ut pergat ubi  
+          <lb ed="#B" n="34"/>est vita et <ref xml:id="jhb-l1q4-Rd1e390">Ecclesiastes 24</ref> Qui eluci  
+          <lb ed="#B" n="35"/>dant me vitam aeternam habebunt  
+          <lb ed="#B" n="36"/>Et <ref xml:id="jhb-l1q4-Rd1e398">ecclesiastes 7</ref> Sapientia vitam tribuit  
+          <lb ed="#B" n="37"/>possessori suo ad hoc est <ref xml:id="jhb-l1q4-Rd1e403">doctor so 
+          <lb ed="#B" n="38"/>lempnis parte prima articulo 5 quaestione prima</ref>  
+          <lb ed="#B" n="39"/>et<ref xml:id="jhb-l1q4-Rd1e410"> <name>hugo</name> <title>dydascolion</title> libro 4o capitulo primo</ref> dicit  
+          <lb ed="#B" n="40"/>quod sacra scriptura intus plena dulce  
+          <lb ed="#B" n="41"/>divinae est Et quasi simile ponit <ref xml:id="jhb-l1q4-Rd1e424"><name>ysidorus</name>  
+          <lb ed="#B" n="42"/>libro primo de summo bono capitulo 19</ref>
+        </p>
+        <p xml:id="jhb-l1q4-d1e432">
+          ¶ 3 per stu  
+          <!--53v.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="43"/>dium huius scientiae <quote xml:id="jhb-l1q4-Qd1e440" source="http://scta.info/resource/adt-l14-d1e1535">fides salubria giguitur  
+          <lb ed="#B" n="44"/>defenditur et roboratur</quote> <ref xml:id="jhb-l1q4-Rd1e445">14 de trinitate capitulo  
+          <lb ed="#B" n="45"/>primo</ref> Cibas spiritualis menti proponitur ut  
+          <lb ed="#B" n="46"/>patet per <ref xml:id="jhb-l1q4-Rd1e453">hugonem in libro de claustro animae</ref>  
+          <lb ed="#B" n="47"/><ref xml:id="jhb-l1q4-Rd1e457">gregorius libro primo moralium</ref> et <ref xml:id="jhb-l1q4-Rd1e460">in prologo</ref>  
+          <lb ed="#B" n="48"/>igitur sequitur quaestio vera
+        </p>
+        <p xml:id="jhb-l1q4-d1e467">
+          ¶ prima conclusio quilibet  
+          <lb ed="#B" n="49"/>studens fidelis theologicae veritatis per sa 
+          <lb ed="#B" n="50"/>cram scripturam per melius quod per aliam  
+          <lb ed="#B" n="51"/>rationem humanam probabit et probare suf 
+          <lb ed="#B" n="52"/>ficit articulum trinitatis probatur haec conclusio per 
+          <lb ed="#B" n="53"/>dicta augustini primo de trinitate et habentur verba  
+          <lb ed="#B" n="54"/>eius in litera distinctionis istius ubi  
+          <lb ed="#B" n="55"/>Ceterum aut quia primum secundum auctoritates sancta 
+          <lb ed="#B" n="56"/>rum scripturarum utrum se fides ita 
+          <lb ed="#B" n="57"/>habeat demonstrandum est Confirmo 
+          <lb ed="#B" n="58"/>rationem et conclusionem nam scriptura hunc 
+          <lb ed="#B" n="59"/>articulum sincera veritate ponit et omnis  
+          <lb ed="#B" n="60"/>ratio facta fallit vel deficit igitur conclusio vera  
+          <lb ed="#B" n="61"/>consequentia videtur nota et antecedens habetur ex dictis  
+          <lb ed="#B" n="62"/>augustinus primo de trinitate capitulo 2 Et recitantur in ista  
+          <lb ed="#B" n="63"/>quaestione 2a distinctione humanae mentis acies  
+          <lb ed="#B" n="64"/>in valida est et etc ad idem magister  
+          <lb ed="#B" n="65"/>est in illo primo distinctione 3 capitulo 4 ubi dicit non  
+          <lb ed="#B" n="66"/>enim per creaturam contemplationem sufficiens  
+          <lb ed="#B" n="67"/>notitia trinitatis potest haberi vel potiruit  
+          <lb ed="#B" n="68"/>sive doctrinae vel interiorum inspriratio  
+          <lb ed="#B" n="69"/>nis revelatione
+        </p>
+        <p xml:id="jhb-l1q4-d1e515">
+          ¶ primum corollarium per  
+          <lb ed="#B" n="70"/>sacram scrptuam et eius studium  
+          <lb ed="#B" n="71"/>stundens de spirituali vita instruitur  
+          <lb ed="#B" n="72"/>et eius doctrina requiritur ad bene moraliter 
+          <lb ed="#B" n="73"/>viviendum probatur corollarium sic ex conclusione quia  
+          <lb ed="#B" n="74"/>sive hac scientia et doctrina homo non  
+          <lb ed="#B" n="75"/>bene eruditur incredendis in articulo 
+          <lb ed="#B" n="76"/>trinitatis cernitis sed nullibi periculosius  
+          <lb ed="#B" n="77"/>erratur secundum <name>magistrum</name> et <name>augustinum</name> igitur corollarium verum  
+          <lb ed="#B" n="78"/>Confertur ratio per <ref xml:id="jhb-l1q4-Rd1e543">augustinum 13 de trinitate</ref> quia  
+          <lb ed="#B" n="79"/>sine scientia hac nec virtutes quilibet  
+          <lb ed="#B" n="80"/>recte ununtur possunt haberi patet hoc quia  
+          <lb ed="#B" n="81"/>illa scientia sola docet hominem quod sa 
+          <lb ed="#B" n="82"/>pendia peccati mors <ref xml:id="jhb-l1q4-Rd1e554">ad romanos 6 capitulo 1</ref> igitur  
+          <lb ed="#B" n="83"/>corollarium verum
+        </p>
+        <p xml:id="jhb-l1q4-d1e561">
+          ¶ 2m corollarium sacrae scripturae  
+          <lb ed="#B" n="84"/>textus in omni suo proprio sensu est  
+          <lb ed="#B" n="85"/>verus patet hoc corollarium ex conclusione aliter  
+          <!--54r.xml-->
+          <pb ed="#B" n="54-r"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>videtur nullus articulus per eam sufficienter  
+          <lb ed="#B" n="2"/>posset probari Item<ref xml:id="jhb-l1q4-Rd1e578"> matthaeus 5</ref> iota unum 
+          <lb ed="#B" n="3"/>aut unus apex non praeteribit ale 
+          <lb ed="#B" n="4"/>ge etc Item <ref xml:id="jhb-l1q4-Rd1e585">primo thioteum 3o</ref> c omnis  
+          <lb ed="#B" n="5"/>scriptura divinitus in spritrata utilis 
+          <lb ed="#B" n="6"/>est etc propter quod dicit <ref xml:id="jhb-l1q4-Rd1e593">dominus benedictus 12 in  
+          <lb ed="#B" n="7"/>retractatione articulorum</ref> petis <ref xml:id="jhb-l1q4-Rd1e598">iohannes  
+          <lb ed="#B" n="8"/>capitulo 5</ref> quod quidquid est contra scriptuam  
+          <lb ed="#B" n="9"/>divinam et catholicam quod hoc est  
+          <lb ed="#B" n="10"/>haereticum probat per <ref xml:id="jhb-l1q4-Rd1e608">ierominum libro 2o  
+          <lb ed="#B" n="11"/>super epistola ad galatas</ref> ex ponentis illud  
+          <lb ed="#B" n="12"/>quod ponitur inter opera carns dissen  
+          <lb ed="#B" n="13"/>sionis sectae etc dicit Ierominus quincum  
+          <lb ed="#B" n="14"/>que aliter scriptuam intelligit quam sen  
+          <lb ed="#B" n="15"/>sus sanctus sancti efflagitat a quo scrip  
+          <lb ed="#B" n="16"/>ta est licet ab ecclesia non recesserit  
+          <lb ed="#B" n="17"/>tamen haereticus appellari potest Item glossa  
+          <lb ed="#B" n="18"/>super 1o ad thimoteus 3o haereticis hominem etc  
+          <lb ed="#B" n="19"/>haetici sunt qui verba legis et ipsam  
+          <lb ed="#B" n="20"/>legem per verba legis inpugnant  
+          <lb ed="#B" n="21"/>proprium ei sensset astrunt verbis legis 
+        </p>
+        <p xml:id="jhb-l1q4-d1e635">
+          <lb ed="#B" n="22"/>Item ad idem est <ref xml:id="jhb-l1q4-Rd1e639"><name>augustinum</name> 18 de civitate  
+          <lb ed="#B" n="23"/>dei capitulo 51</ref> igitur corollarium videtur verum pro hoc
+        </p>
+        <p xml:id="jhb-l1q4-d1e647">
+          <lb ed="#B" n="24"/>2o corollario est <ref xml:id="jhb-l1q4-Rd1e651">doctor sellempnis 3o  
+          <lb ed="#B" n="25"/>quaestione quaestione 18</ref>
+        </p>
+        <p xml:id="jhb-l1q4-d1e657">
+          ¶ 3m corollarium quilibet studens  
+          <lb ed="#B" n="26"/>fidelis quaeres veritatem articuli trinitatis  
+          <lb ed="#B" n="27"/>de auctoritate scripturae inniti et non riori  
+          <lb ed="#B" n="28"/>humane facultatis patet corollarium quia  
+          <lb ed="#B" n="29"/>melius inveniet per scipturam et  
+          <lb ed="#B" n="30"/>non potest invenere per rationem igitur corollarium  
+          <lb ed="#B" n="31"/>verum istud corollarium patet per <ref xml:id="jhb-l1q4-Rd1e672">ambrososium libro  
+          <lb ed="#B" n="32"/>suo de trinitate capitulo 12</ref> genero divina super omnia  
+          <lb ed="#B" n="33"/>est supra omnis cogitationes ascen 
+          <lb ed="#B" n="34"/>dit et sensus Et capitulo 13 michi in 
+          <lb ed="#B" n="35"/>possibile est scire generationis secretum  
+          <lb ed="#B" n="36"/>mens deficit vox solet non mea  
+          <lb ed="#B" n="37"/>tantum sed etiam angelorum et <ref xml:id="jhb-l1q4-Rd1e688"><name>hilarius</name>  
+          <lb ed="#B" n="38"/>2o de trinitate capitulo 6</ref> Ego nescio non quaero  
+          <lb ed="#B" n="39"/>requiro cosolabor id est mecum angeli  
+          <lb ed="#B" n="40"/>nesciunt archangeli non audiunt  
+          <lb ed="#B" n="41"/>saecula non tenet propheta non sensit  
+          <lb ed="#B" n="42"/>apostolus non interrogavit filius ipse  
+          <!--54r.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="43"/>non eddidit
+        </p>
+        <p xml:id="jhb-l1q4-d1e712">
+          ¶ Ad idem est processus  
+          <lb ed="#B" n="44"/>suus eodem libro capitulo 7 diffinitione ad idem  
+          <lb ed="#B" n="45"/>corollarium est verum 5o de consideratione  
+          <lb ed="#B" n="46"/>ad eugenium ubi dicit quod articulus  
+          <lb ed="#B" n="47"/>trinitatis non est rationi perspicuus nec tamen  
+          <lb ed="#B" n="48"/>oppinioni ambiguus sed fidei persuasus  
+          <lb ed="#B" n="49"/>Item ambrosius libro primo de trinitate capitulo 15  
+          <lb ed="#B" n="50"/>et hilarius libro 3o de trinitate capitulo primo sic  
+          <lb ed="#B" n="51"/>igitur vel corollarium verum videtur haec sententia venerabili  
+          <lb ed="#B" n="52"/>anselmi primo Cur deus homo in capitulo primo  
+          <lb ed="#B" n="53"/>ubi dicit non per rationem ad fidem  
+          <lb ed="#B" n="54"/>accedant sed eorum quae credent in 
+          <lb ed="#B" n="55"/>tellectu contemnplatione delectantur  
+          <lb ed="#B" n="56"/>Item deincarnatione verbi statim  
+          <lb ed="#B" n="57"/>post principium ubi dicit quod si ad con 
+          <lb ed="#B" n="58"/>firmandum fidei christianae fundamentum  
+          <lb ed="#B" n="59"/>scribere aliquid atteptaret praesumpter  
+          <lb ed="#B" n="60"/>utique iudicari et ridendus videri 
+          <lb ed="#B" n="61"/>posset
+        </p>
+        <p xml:id="jhb-l1q4-d1e754">
+          ¶ Ad idem sunt verba augustini  
+          <lb ed="#B" n="62"/>et habentur in illa 2a distinctione ubi dicitur de 
+          <lb ed="#B" n="63"/>hac autem excellentisima trinitate cum  
+          <lb ed="#B" n="64"/>molestia et timore etc plures sunt  
+          <lb ed="#B" n="65"/>auctoritates pro illa parte Ex hiis apparet vel  
+          <lb ed="#B" n="66"/>sophisticatio vel praesumptio principalis  
+          <lb ed="#B" n="67"/>conclusionis magistri iohannis de bracilis in 
+          <lb ed="#B" n="68"/>tractatum de radicibus theologiae ubi vult 
+          <lb ed="#B" n="69"/>illum articulum trinitatis rationibus declarere  
+          <lb ed="#B" n="70"/>quod michi apparet plus quam oportet  
+          <lb ed="#B" n="71"/>sapere et non sapere ad sobrietatem ut  
+          <lb ed="#B" n="72"/>testantur doctoris hic allegati igitur  
+          <lb ed="#B" n="73"/>etc
+        </p>
+        <p xml:id="jhb-l1q4-d1e783">
+          ¶ Contra illam primam conclusionem arguo 
+          <lb ed="#B" n="74"/>primo sic deum esse trinum et unum con 
+          <lb ed="#B" n="75"/>foriter ad articulum nullibi in sacra  
+          <lb ed="#B" n="76"/>scriptura expressum habetur igitur conclusio falsa  
+          <lb ed="#B" n="77"/>consequentia non assumptum arguitur quia cum sa 
+          <lb ed="#B" n="78"/>cra scriptura multiplicem habeat in 
+          <lb ed="#B" n="79"/>tellectum potest volens procerne di 
+          <lb ed="#B" n="80"/>cere quod christus et omnis alii de trinitate lo 
+          <lb ed="#B" n="81"/>quentes non locuti ad sensum in  
+          <lb ed="#B" n="82"/>forma sed mistice vel figuraliter  
+          <lb ed="#B" n="83"/>et sic de aliis sic videtur videtur fecisse  
+          <lb ed="#B" n="84"/>ipse ioachim de quo habetur et cuius  
+          <lb ed="#B" n="85"/>oppinio vel potius error dampnatur <ref xml:id="jhb-l1q4-Rd1e811" target="http://scta.info/resource/cice-l1t1-d1e134">extra  
+          <!--54v.xml-->
+          <pb ed="#B" n="54-v"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>de summa trinitate et fide creatholica capitulo 
+          <lb ed="#B" n="2"/>dampnamus</ref>
+        </p>
+        <p xml:id="jhb-l1q4-d1e825">
+          ¶ 2o eadem conclusionem natura 
+          <lb ed="#B" n="3"/>si deus esset terminus et unus et cum  
+          <lb ed="#B" n="4"/>deus sit summe simplex staret  
+          <lb ed="#B" n="5"/>in deo summa sumprema et summa  
+          <lb ed="#B" n="6"/>simplicitas et personarum trinitas  
+          <lb ed="#B" n="7"/>et sic eadem ratione quaternitas  
+          <lb ed="#B" n="8"/>et sic deinceps Confirmatur ratio haec  
+          <lb ed="#B" n="9"/>enim consequentia est bona unum est quo ma 
+          <lb ed="#B" n="10"/>ius cogitari non potest igitur deus est  
+          <lb ed="#B" n="11"/>igitur eadem ratione haec erit bona 3a  
+          <lb ed="#B" n="12"/>sunt quibus maiora cogitari  
+          <lb ed="#B" n="13"/>non possunt ymmo nulli eorum maius  
+          <lb ed="#B" n="14"/>cogitari potest igitur tres dii sunt patet hoc  
+          <lb ed="#B" n="15"/>aliter videtur quod non plus perfectionis et  
+          <lb ed="#B" n="16"/>bonitatis ponerent 3 divinae personae  
+          <lb ed="#B" n="17"/>quam una tantum quod non videtur assumptum primum  
+          <lb ed="#B" n="18"/>patet per venerabilem anselmum in suo proslogion pluribus  
+          <lb ed="#B" n="19"/>capitulis
+        </p>
+        <p xml:id="jhb-l1q4-d1e864">
+          ¶ 3o sic per rationem naturalem  
+          <lb ed="#B" n="20"/>possumus cognoscere deum esse etiam  
+          <lb ed="#B" n="21"/>essentia divina esse igitur et trinitatem personarum  
+          <lb ed="#B" n="22"/>in divinis patet consequentia quia omne quod cog  
+          <lb ed="#B" n="23"/>noscaitur de essentia divina ita vere compe 
+          <lb ed="#B" n="24"/>tit trinitati sicut essentiae igitur sequitur consequentia  
+          <lb ed="#B" n="25"/>bona sed antecedens articulo primo per damascenum libro  
+          <lb ed="#B" n="26"/>primo capitulo primo non dimisit non deus  
+          <lb ed="#B" n="27"/>in omnimoda ignorativa sui simle  
+          <lb ed="#B" n="28"/>dict augustinus 2a parte super Iohannem omelis 
+          <lb ed="#B" n="29"/>52
+        </p>
+        <p xml:id="jhb-l1q4-d1e888">
+          ¶ Et <ref xml:id="jhb-l1q4-Rd1e890">tulius libro 2o de natura deorum</ref>  
+          <lb ed="#B" n="30"/>modicum post principium inter omnes omnium  
+          <lb ed="#B" n="31"/>gentium summa constat deorum naturam  
+          <lb ed="#B" n="32"/>esse enim innatum est et in animo qua 
+          <lb ed="#B" n="33"/>si sculptum esse deos sed quales sint  
+          <lb ed="#B" n="34"/>varium est esse tamen nemo negat  
+          <lb ed="#B" n="35"/>ad hoc est processus <ref xml:id="jhb-l1q4-Rd1e906">augustinum libro 7 Co 
+          <lb ed="#B" n="36"/>f capitulo 8</ref> loquens de plathonicis ibi 
+          <lb ed="#B" n="37"/>dem ubi non solum ponitur essentia divi 
+          <lb ed="#B" n="38"/>na Sed etiam ipsa trinitas benedicta  
+          <lb ed="#B" n="39"/>et tamen illi ad hanc notitiam illorum  
+          <lb ed="#B" n="40"/>venerunt ratione igitur etc conclusio falsa
+        </p>
+        <p xml:id="jhb-l1q4-d1e922">
+          ¶ Contra  
+          <lb ed="#B" n="41"/>primum corollarium sive tali studio huius scientiae  
+          <lb ed="#B" n="42"/>plurum fideles pollent fide igitur  
+          <lb ed="#B" n="43"/>videtur corollarium falsum patet consequentia quia ut videtur  
+          <!--54v.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="44"/>quia nullus pollet fide nisi habe  
+          <lb ed="#B" n="45"/>at fidem formatam et per consequens nisi 
+          <lb ed="#B" n="46"/>sit in gratia antecedens est <ref xml:id="jhb-l1q4-Rd1e941">augustinum 13 de trinitatem  
+          <lb ed="#B" n="47"/>capitulo primo</ref> igitur videtur corollarium falsum
+        </p>
+        <p xml:id="jhb-l1q4-d1e947">
+          ¶ contra 2m corollarium  
+          <lb ed="#B" n="48"/>plures propositiones de virtute sermonis 
+          <lb ed="#B" n="49"/>et in sensu litterali sunt falsae sed sensus  
+          <lb ed="#B" n="50"/>litteralis est verus sensus et propriis scri  
+          <lb ed="#B" n="51"/>pturae igitur corollarium falsum patet consequentia et antecedens a 
+          <lb ed="#B" n="52"/>pparet quasi per totum librum apocalypsis Item  
+          <lb ed="#B" n="53"/><ref xml:id="jhb-l1q4-Rd1e961">4 iohannes</ref> Ego sum hostium Item  
+          <lb ed="#B" n="54"/>sum vitis vera <ref xml:id="jhb-l1q4-Rd1e966">apocalypsis 5</ref> vicit  
+          <lb ed="#B" n="55"/>leo et in minima hiis similia habentur in 
+          <lb ed="#B" n="56"/>sacra scriptura igitur etc
+        </p>
+        <p xml:id="jhb-l1q4-d1e974">
+          ¶ Contra 3m corollarium  
+          <lb ed="#B" n="57"/>arguitur ex dictis in prologo sit articulus  
+          <lb ed="#B" n="58"/>trinitatis non est contra rationem igitur in eius  
+          <lb ed="#B" n="59"/>inquisitione potest quis rationem in vici 
+          <lb ed="#B" n="60"/>antecedens est ibi probatum et deducitur   
+          <lb ed="#B" n="61"/>consequentia quia aut talis sit innitens 
+          <lb ed="#B" n="62"/>rationi neccessario errabit aut non  
+          <lb ed="#B" n="63"/>si primum igitur sequitur quod articulus est contra rationem  
+          <lb ed="#B" n="64"/>si 2m igitur habetur propositum et sic videntur  
+          <lb ed="#B" n="65"/>dicta non vera
+        </p>
+        <p xml:id="jhb-l1q4-d1e996">
+          ¶pro solutione aliquorum  
+          <lb ed="#B" n="66"/>let positorum noto primo septem regu 
+          <lb ed="#B" n="67"/>las exponendi sacram scriptu  
+          <lb ed="#B" n="68"/>ram quas ponit <ref xml:id="jhb-l1q4-Rd1e1004">augustinus libro 3o de  
+          <lb ed="#B" n="69"/>doctrina christiana</ref>
+        </p>
+        <p xml:id="jhb-l1q4-d1e1010">
+          ¶ prima regula ut  
+          <lb ed="#B" n="70"/>videatur quod pronunccietur unde secundum  
+          <lb ed="#B" n="71"/>puncta et attentus
+        </p>
+        <p xml:id="jhb-l1q4-d1e1017">
+          ¶ 2a cum scriptura  
+          <lb ed="#B" n="72"/>plures habeat snesus si veritas a 
+          <lb ed="#B" n="73"/>licuius textus vel scriptuae non potest  
+          <lb ed="#B" n="74"/>haberi sed unum sensum recurrendum  
+          <lb ed="#B" n="75"/>est ad alium cui aliae scripturae magis  
+          <lb ed="#B" n="76"/>concordant
+        </p>
+        <p xml:id="jhb-l1q4-d1e1031">
+          ¶ 3a si non potest determinari  
+          <lb ed="#B" n="77"/>ambiguitas praescripto fidei nec  
+          <lb ed="#B" n="78"/>sermonis textu nichil obem secundum  
+          <lb ed="#B" n="79"/>quamlibet eorum sententiam distinguere
+        </p>
+        <p xml:id="jhb-l1q4-d1e1040">
+          <lb ed="#B" n="80"/>¶ 4a regula summe cavendum est ne 
+          <lb ed="#B" n="81"/>figurativa locutio ad literam accipi 
+          <lb ed="#B" n="82"/>atur
+        </p>
+        <p xml:id="jhb-l1q4-d1e1049">
+          ¶ 5a ne vera locutio et propria fi 
+          <lb ed="#B" n="83"/>gurativa putetur
+        </p>
+        <p xml:id="jhb-l1q4-d1e1054">
+          ¶ 6a quidquid in  
+          <lb ed="#B" n="84"/>sacra scriptura nec ad fidei veritatem  
+          <lb ed="#B" n="85"/>nec ad morum homestatem facit  
+          <lb ed="#B" n="86"/>figuratum esse cognoscitura
+        </p>
+        <p xml:id="jhb-l1q4-d1e1063">
+          ¶ 7a quod  
+          <!--55r.xml-->
+          <pb ed="#B" n="55-r"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>licet per scripturam quandoque significetur  
+          <lb ed="#B" n="2"/>in uno loco unum per similiem non oportet  
+          <lb ed="#B" n="3"/>quod idem in quolibet loco per illud idem  
+          <lb ed="#B" n="4"/>signficetur de hiis omnibus ponit  
+          <lb ed="#B" n="5"/>exemplum <ref xml:id="jhb-l1q4-Rd1e1082"><name>augustini</name> ibidem 3o de doctrina christiana</ref> ¶
+        </p>
+        <p xml:id="jhb-l1q4-d1e1088">
+          <lb ed="#B" n="6"/>¶ 2ae noto quod ille dicitur proprius sensus a 
+          <lb ed="#B" n="7"/>licuius scripturae quem eius auctor per 
+          <lb ed="#B" n="8"/>ipsam intendit illud deducit er 
+          <lb ed="#B" n="9"/>mitaus libro primo summe de quaestionibus er 
+          <lb ed="#B" n="10"/>memorum circa principium
+        </p>
+        <p xml:id="jhb-l1q4-d1e1102">
+          ¶ 3o noto sed eun 
+          <lb ed="#B" n="11"/>dem ibidem quod auctor alicuius  
+          <lb ed="#B" n="12"/>scripturae potest tripliciter accipi primo au  
+          <lb ed="#B" n="13"/>ctor idem est quod assertor
+        </p>
+        <p xml:id="jhb-l1q4-d1e1111">
+          ¶ 2o auctor  
+          <lb ed="#B" n="14"/>idem est quod editor
+        </p>
+        <p xml:id="jhb-l1q4-d1e1116">
+          ¶ 3o simul utrumque 
+          <lb ed="#B" n="15"/>scilicet quia editor et quia assetor Ex  
+          <lb ed="#B" n="16"/>hiis sequitur primo quod eiusdem scriptiurae plu 
+          <lb ed="#B" n="17"/>res possunt esse auctores
+        </p>
+        <p xml:id="jhb-l1q4-d1e1125">
+          ¶ 2o sequitur  
+          <lb ed="#B" n="18"/>quod nullus propheta respectu suae prophetiae  ¶ 3oo potest  
+          <lb ed="#B" n="19"/>auctor licet bene aliquo trium neo 
+          <lb ed="#B" n="20"/>dorum
+        </p>
+        <p xml:id="jhb-l1q4-d1e1134">
+          ¶ 3o sequitur contra modum commune lo 
+          <lb ed="#B" n="21"/>quendi ockam tam in loyca quam 
+          <lb ed="#B" n="22"/>in scripto super sententias et etiam aliorum  
+          <lb ed="#B" n="23"/>quod refellendus est modus dicendi  
+          <lb ed="#B" n="24"/>quo solet dici quod propositiones de virtute  
+          <lb ed="#B" n="25"/>sermonis sunt falsae in canone et sacra  
+          <lb ed="#B" n="26"/>scriptura Et si obicitur contra 2m quod tunc  
+          <lb ed="#B" n="27"/>numquam potest sciri quis esset sensus  
+          <lb ed="#B" n="28"/>proprius scripturae patet quia per hic dicta  
+          <lb ed="#B" n="29"/>proprius sensus est ille quem eius  
+          <lb ed="#B" n="30"/>auctor intendit modo cum sint plur 
+          <lb ed="#B" n="31"/>res auctores ex 2o et illi possunt  
+          <lb ed="#B" n="32"/>contraria intendere igitur non scitur quis  
+          <lb ed="#B" n="33"/>scripturae fit propriis sensus
+        </p>
+        <p xml:id="jhb-l1q4-d1e1165">
+          ¶ ad hoc  
+          <lb ed="#B" n="34"/>dicitur quod per supra dictas regulas augustini  
+          <lb ed="#B" n="35"/>sufficienter potest scire quis sensus et au 
+          <lb ed="#B" n="36"/>ctor proprius debet appellari per hoc 
+          <lb ed="#B" n="37"/>ad formas ad primum dicitur negando antecedens  
+          <lb ed="#B" n="38"/>nam articulus trinitatis est sufficienter expres 
+          <lb ed="#B" n="39"/>sus matthaeus ultimo et Iohannes primo et etiam  
+          <lb ed="#B" n="40"/>in <ref xml:id="jhb-l1q4-Rd1e1182">decretis romanorum pontificum</ref> quibus qui  
+          <lb ed="#B" n="41"/>contradiceret haereticus est censendus ut patet <ref xml:id="jhb-l1q4-Rd1e1187">25  
+          <!--55r.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="42"/>quaestione 1</ref> generali ubi dicitur loquitur proprium adri 
+          <lb ed="#B" n="43"/>anus in hunc modum generali decreto  
+          <lb ed="#B" n="44"/>censeus et constitivus ut extendus  
+          <lb ed="#B" n="45"/>et anathema fiat velud praevari  
+          <lb ed="#B" n="46"/>cator fidei catholicae semper aput  
+          <lb ed="#B" n="47"/>deum existat quicumque regum seu 
+          <lb ed="#B" n="48"/>episcoporum vel potentum deinceps romanorum 
+          <lb ed="#B" n="49"/>pontificum decretis censuram in quo quam  
+          <lb ed="#B" n="50"/>crediderit vel miserit violandum  
+          <lb ed="#B" n="51"/>patet igitur quod antecedens est negandum verum est  
+          <lb ed="#B" n="52"/>tamen quod intelligo hic non de scriptura  
+          <lb ed="#B" n="53"/>romanorum pontificum sed christi et primorum a  
+          <lb ed="#B" n="54"/>plurorum de quibus loquitur magister in fine  
+          <lb ed="#B" n="55"/>illius 2ae distinctione ubi dicit quod pene sin 
+          <lb ed="#B" n="56"/>gulae nulle plene sunt huius veritatis
+        </p>
+        <p xml:id="jhb-l1q4-d1e1229">
+          <lb ed="#B" n="57"/>¶ Ad 2am rationem conceditur consequens et cum  
+          <lb ed="#B" n="58"/>infertur igitur eadem ratione quaternitas  
+          <lb ed="#B" n="59"/>negatur consequentia concedunt tamen aliqui hanc  
+          <lb ed="#B" n="60"/>conditionalem si infinite personae  
+          <lb ed="#B" n="61"/>forent in divinis adhuc esset sum 
+          <lb ed="#B" n="62"/>ma simplicitas ibidem
+        </p>
+        <p xml:id="jhb-l1q4-d1e1245">
+          ¶ ad confirma 
+          <lb ed="#B" n="63"/>tionem cum dicitur haec consequentia est bona  
+          <lb ed="#B" n="64"/>etc dico quod forma in singulari non valet  
+          <lb ed="#B" n="65"/>multum sicut pulchre ostendit gregorius  
+          <lb ed="#B" n="66"/>libro primo distinctione 92a quaestione 3 articulo 3o Respondendo  
+          <lb ed="#B" n="67"/>ad rationes principales multo tamen  
+          <lb ed="#B" n="68"/>minus valet in plurali quod sic ostendo nam  
+          <lb ed="#B" n="69"/>significato petro et deo ista sunt quibus  
+          <lb ed="#B" n="70"/>maiora cogitari non possunt igitur sunt  
+          <lb ed="#B" n="71"/>deus antecedens est verum et consequens negandum  
+          <lb ed="#B" n="72"/>igitur forma non valet Et cum probatur quia  
+          <lb ed="#B" n="73"/>aliter non plus perfectionis etc dcitur quo consequens 
+          <lb ed="#B" n="74"/>hoc est verum sicut expersse ponit au  
+          <lb ed="#B" n="75"/>gustinus 7 de trinitate capitulo 6 ubi dicit non ma 
+          <lb ed="#B" n="76"/>ior essentia est pater et filius simul quod  
+          <lb ed="#B" n="77"/>solus pater autem solus filius sed tres  
+          <lb ed="#B" n="78"/>simul illae substantiae sive personae si illa  
+          <lb ed="#B" n="79"/>dicendae sunt aequales sunt ad idem  
+          <lb ed="#B" n="80"/>est determinatio ecclesiae quam de summa de trinitate 
+          <lb ed="#B" n="81"/>et fide catholica capitulo dampnamus  
+          <lb ed="#B" n="82"/>sic igitur patet quod ista et ratio nec eius confirmatio 
+          <!--55v.xml-->
+          <pb ed="#B" n="55-v"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>concludit contradicta
+        </p>
+        <p xml:id="jhb-l1q4-d1e1300">
+          ¶ Ad 3am rationem  
+          <lb ed="#B" n="2"/>cum arguitur per rationem naturalem possumus  
+          <lb ed="#B" n="3"/>cognoscere propositionem divinam essentiam  
+          <lb ed="#B" n="4"/>esse etc iste est articulus 12 dicunt  
+          <lb ed="#B" n="5"/>Benedicti 12i contra ockam ubi dicit 
+          <lb ed="#B" n="6"/>ockam quod ex puris naturalibus possumus  
+          <lb ed="#B" n="7"/>cognoscere istam propositionem deus  
+          <lb ed="#B" n="8"/>est summum bonum et non possumus  
+          <lb ed="#B" n="9"/>cognoscere ex puris naturalibus istam 
+          <lb ed="#B" n="10"/>deus est trinus et tamen ipsa divina essentia  
+          <lb ed="#B" n="11"/>non plus cognoscitur quam trinitas per 
+          <lb ed="#B" n="12"/>sonarum et in eodem articulo dicit quod vir 
+          <lb ed="#B" n="13"/>tute sermonis ista debet concedi ex pu  
+          <lb ed="#B" n="14"/>ris naturalibus potest ita bene cognosci  
+          <lb ed="#B" n="15"/>trinitas personarum sicut essentia divina  
+          <lb ed="#B" n="16"/>Contra illam argumentum procedit idem dominus mul  
+          <lb ed="#B" n="17"/>tum diffinitione unde per sex longas rationes prima  
+          <lb ed="#B" n="18"/>ratio fundatur in hoc quod naturaliter scimus  
+          <lb ed="#B" n="19"/>deum esse et tamen scimus deum esse tri 
+          <lb ed="#B" n="20"/>num et unum et hoc probat per plures auc 
+          <lb ed="#B" n="21"/>toritates
+        </p>
+        <p xml:id="jhb-l1q4-d1e1346">
+          ¶ 2a si ex puris naturalibus  
+          <lb ed="#B" n="22"/>possemus scientiae trinitatem tunc non  
+          <lb ed="#B" n="23"/>egerius ad hoc divina revelatione
+        </p>
+        <p xml:id="jhb-l1q4-d1e1353">
+          ¶  
+          <lb ed="#B" n="24"/>3a si possemus hoc scientiae maxime fo 
+          <lb ed="#B" n="25"/>ret per effectus dei consequens falsum quia ta 
+          <lb ed="#B" n="26"/>les operationes ad ex sunt indivisae sicut  
+          <lb ed="#B" n="27"/>patet per <ref xml:id="jhb-l1q4-Rd1e1363"><name>augustinum</name> 11 de trinitate capitulo 11</ref> unde <ref xml:id="jhb-l1q4-Rd1e1369">hugo  
+          <lb ed="#B" n="28"/>libro primo de sacrmentis parte 11 capitulo 26 </ref> 
+          <lb ed="#B" n="29"/>in deo 3 sunt primordinales causae scilicet sa 
+          <lb ed="#B" n="30"/>prientia potentia et voluntas a quibus omnia proce 
+          <lb ed="#B" n="31"/>dunt a voluntate quid divina quam profici  
+          <lb ed="#B" n="32"/>scimur per sapientiam diriguntur per potentiam  
+          <lb ed="#B" n="33"/>producuntur voluntas 11 movet sap 
+          <lb ed="#B" n="34"/>pientia disponit potestas explicat  
+          <lb ed="#B" n="35"/>haec sunt aeterna fundata causarum omnium et  
+          <lb ed="#B" n="36"/>principium primum quae ineffabilia et in 
+          <lb ed="#B" n="37"/>comprehensibilia sunt omni creaturae  
+          <lb ed="#B" n="38"/>cum principia sunt effectus non nisi 
+          <lb ed="#B" n="39"/>essentialia demonstraliter
+        </p>
+        <p xml:id="jhb-l1q4-d1e1398">
+          ¶ 4a ratio quia  
+          <lb ed="#B" n="40"/>deus in praesenti vita in sua substantia non  
+          <lb ed="#B" n="41"/>videtur sed divina fecunditas quae sinus  
+          <lb ed="#B" n="42"/>patris id est summum secretum vocatur fudatur  
+          <!--55v.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="43"/>in substantia divina igitur etc quod autem sins patris  
+          <lb ed="#B" n="44"/>est secretum fecunditatis suae dicit beatus  
+          <lb ed="#B" n="45"/><ref xml:id="jhb-l1q4-Rd1e1416">augustinus parte prima super iohannes sermone  
+          <lb ed="#B" n="46"/>3o</ref> tractans illud iohannes primo unige 
+          <lb ed="#B" n="47"/>initus filius dei qui est in sinu 
+          <lb ed="#B" n="48"/>patris ubi <name>augustinus</name> quid est in sinu 
+          <lb ed="#B" n="49"/>patris et respondet id est secretum patris secre  
+          <lb ed="#B" n="50"/>tum enim patris sinus patris votatur
+        </p>
+        <p xml:id="jhb-l1q4-d1e1435">
+          ¶ 5  
+          <lb ed="#B" n="51"/>ratio quia in dearum doctores vel etiam  
+          <lb ed="#B" n="52"/>gentiles non poterant cognoscere 
+          <lb ed="#B" n="53"/>per rationem naturalem propria nomina divina  
+          <lb ed="#B" n="54"/>rum personarum quae eis convenunt ex  
+          <lb ed="#B" n="55"/>divinis emanatoribus Sed in nono 
+          <lb ed="#B" n="56"/>testamento notitia horum est revelata  
+          <lb ed="#B" n="57"/>sicut patet mul 16 caro et sanguinis non  
+          <lb ed="#B" n="58"/>revelabit tibi etc Super quo ierominus  
+          <lb ed="#B" n="59"/>libro 3o in commento super matthaeus quod caro et san 
+          <lb ed="#B" n="60"/>guinis revelare non potiunt spiritus  
+          <lb ed="#B" n="61"/>sancti gratia revelatum est ad idem est  
+          <lb ed="#B" n="62"/>hylarius 6 de trinitate capitulo 19 diffinitione tractans  
+          <lb ed="#B" n="63"/>eadem verba et Chrisostomos super in commento  
+          <lb ed="#B" n="64"/>matthaeus omnelis 54 Item Ierominus in epistola 
+          <lb ed="#B" n="65"/>ad marcellum dicit quod x sunt nona  
+          <lb ed="#B" n="66"/>cilicet hel helyon et heloe calamon 
+          <lb ed="#B" n="67"/>id est sabaoht et heloym et efferielle  
+          <lb ed="#B" n="68"/>adonay et ya et tetragramaton et  
+          <lb ed="#B" n="69"/>saday cum hoc nomen pater non  
+          <lb ed="#B" n="70"/>fuit clare manifestum quod tamen deo  
+          <lb ed="#B" n="71"/>naturaliter est proprium Unde iohannes 17 dicit  
+          <lb ed="#B" n="72"/>christus pater manifestam nomen 
+          <lb ed="#B" n="73"/>etc Super quo augustinus parte 2a super  
+          <lb ed="#B" n="74"/>iohannes omelis vel sermone 52 non  
+          <lb ed="#B" n="75"/>igitur noverant dei nomen cum esset  
+          <lb ed="#B" n="76"/>iudaei et ubi est quod legitur notus  
+          <lb ed="#B" n="77"/>in iudea deus etc respondens subdicit  
+          <lb ed="#B" n="78"/>augustinus non illud nomen quo notatis  
+          <lb ed="#B" n="79"/>deus sed illud quo vocatur pater quod  
+          <lb ed="#B" n="80"/>nomen manifestare sive ipsius  
+          <lb ed="#B" n="81"/>ipsius filii manifestatione non potest
+        </p>
+        <p xml:id="jhb-l1q4-d1e1505">
+          <lb ed="#B" n="82"/>¶ Ad idem est crisostomos super iohannes omelis 
+          <lb ed="#B" n="83"/>81 hylarius 3 de trinitate capitulo 7 de tritate 7 capitulo  
+          <lb ed="#B" n="84"/>19 augustinus indevidendo deum capitulo 16
+        </p>
+        <p xml:id="jhb-l1q4-d1e1514">
+          <lb ed="#B" n="85"/>¶ 6a ratio est si dicta illa essent  
+          <!--56r.xml-->
+          <pb ed="#B" n="56-r"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>vera non esset neccessaria fides procernitis  
+          <lb ed="#B" n="2"/>cognitione cuius oppositum probat augustinus  
+          <lb ed="#B" n="3"/>primo de trinitate capitulo 2o Et allegatur super 1o  
+          <lb ed="#B" n="4"/>ad romanos primo sempiterna veterus eius  
+          <lb ed="#B" n="5"/>et divintas sed in rei veritate rationes  
+          <lb ed="#B" n="6"/>omnes illae non communicunt plus nisi  
+          <lb ed="#B" n="7"/>quod trinitas tam perfecte non potest sciri per  
+          <lb ed="#B" n="8"/>rationem sicut credimus per fidem Item  
+          <lb ed="#B" n="9"/>cum essentia divina sit ipsa trinitas et  
+          <lb ed="#B" n="10"/>econverso notum est si essentia divina co 
+          <lb ed="#B" n="11"/>gnoscitur quod cognoscitur etiam trini 
+          <lb ed="#B" n="12"/>tas personarum et si quis vult haec proprie  
+          <lb ed="#B" n="13"/>reducere ad modum ioquendo loy  
+          <lb ed="#B" n="14"/>calem tunc habent consequenter dicere quod trini 
+          <lb ed="#B" n="15"/>tas ab aliquo cognoscitur a quo  
+          <lb ed="#B" n="16"/>non cognoscitur trinitas divina et for  
+          <lb ed="#B" n="17"/>te quod hic fuit sensus istius ockam  
+          <lb ed="#B" n="18"/>sic igitur patet qualiter potest dici quod essentia  
+          <lb ed="#B" n="19"/>divina potest cognosci ex puris naturalibus  
+          <lb ed="#B" n="20"/>et tamen non potest cognosci trinitas  
+          <lb ed="#B" n="21"/>ex eisdem licet trinitas ex eisdem  
+          <lb ed="#B" n="22"/>cognoscatur sed tunc stat difficultas  
+          <lb ed="#B" n="23"/>de verbis augustini de ipsius platonicis 
+        </p>
+        <p xml:id="jhb-l1q4-d1e1575">
+          <lb ed="#B" n="24"/>¶ ad hoc respondet <ref xml:id="jhb-l1q4-Rd1e1579">dominus benedictus in 
+          <lb ed="#B" n="25"/>retractatione supra dicti 12o articuli capitulo 8</ref> di 
+          <lb ed="#B" n="26"/>cens primo quod si philosophis ad aliquam  
+          <lb ed="#B" n="27"/>notitiam cernitis pervenerit non habu  
+          <lb ed="#B" n="28"/>erunt ex naturalibus vel effectibus sed fuit  
+          <lb ed="#B" n="29"/>plurium in perfecta quia solum connoverit  
+          <lb ed="#B" n="30"/>appropriata et non propria sicut patet ex <ref xml:id="jhb-l1q4-Rd1e1595">glossa  
+          <lb ed="#B" n="31"/>ex od 8</ref> digitus dei est hic Et  
+          <lb ed="#B" n="32"/>romanos primo capitulo sempitua
+        </p>
+        <p xml:id="jhb-l1q4-d1e1603">
+          ¶ 2o dicit sicud  
+          <lb ed="#B" n="33"/>per <ref xml:id="jhb-l1q4-Rd1e1607"><name>macrobium</name> patet super sompnium sipionis</ref>  
+          <lb ed="#B" n="34"/>plationici posuerunt mentem quamdam  
+          <lb ed="#B" n="35"/>genitam a summo deo quam mentem  
+          <lb ed="#B" n="36"/>nochim vocaverunt et illa mens  
+          <lb ed="#B" n="37"/>sed eos non erat persona distincta  
+          <lb ed="#B" n="38"/>sed ipsa met essentia substantialis sapientia quae 
+          <lb ed="#B" n="39"/>sed modum intelligendi distinguitur a sa 
+          <lb ed="#B" n="40"/>piente et sic licet ponerent in deo  
+          <lb ed="#B" n="41"/>sapientiam existentem et non antecedens et ideo vi 
+          <lb ed="#B" n="42"/>derentur ponere plueries personas tamen  
+          <!--56r.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="43"/>in veritate non ponunt nisi unam  
+          <lb ed="#B" n="44"/>personam et sic videntur etiam esse  
+          <lb ed="#B" n="45"/>ymaginati ipsi sabelliani
+        </p>
+        <p xml:id="jhb-l1q4-d1e1643">
+          ¶ 3o  
+          <lb ed="#B" n="46"/>dicit quod si philosophis devenerunt ad aliquam  
+          <lb ed="#B" n="47"/>notitiam personarum non cum talem quom  
+          <lb ed="#B" n="48"/>quamlibet earum ponerent esse deum sicud  
+          <lb ed="#B" n="49"/>patet ex dictis <ref xml:id="jhb-l1q4-Rd1e1653">avicenni 9 metaphysicae suae capitulo 4o</ref>
+          <lb ed="#B" n="50"/>Sic et arriani in errorem sunt  
+          <lb ed="#B" n="51"/>lapsi ut patet in sermone arrianorum  
+          <lb ed="#B" n="52"/>ubi dicitur dominus noster ihesus christus  
+          <lb ed="#B" n="53"/>deus ungenitus totius creationis  
+          <lb ed="#B" n="54"/>a voluntate dei et patris sui ante omnia  
+          <lb ed="#B" n="55"/>saecula constructus voluntate et praecepto  
+          <lb ed="#B" n="56"/>ipsius celestia et teresteria visibilia  
+          <lb ed="#B" n="57"/>et invisibilia corpora et spiritus ex universa  
+          <lb ed="#B" n="58"/>lis constantibus ut essent sua vir 
+          <lb ed="#B" n="59"/>tute fecit Et infra pater est ma 
+          <lb ed="#B" n="60"/>ior filio suo filius incomperabiliter ma 
+          <lb ed="#B" n="61"/>ior et melior est spiritu sacto pater deus  
+          <lb ed="#B" n="62"/>et dominus est filio suo filius etiam dominus  
+          <lb ed="#B" n="63"/>est spiritu sancto 
+        </p>
+        <p xml:id="jhb-l1q4-d1e1689">
+          ¶ Item infra trium  
+          <lb ed="#B" n="64"/>substantiarum patris et filii et spiritus sancti distinctio 
+          <lb ed="#B" n="65"/>et trium rerum dei unigeniti et dei  
+          <lb ed="#B" n="66"/>ingeniti et spiritus advocati differentia est Item  
+          <lb ed="#B" n="67"/>infra alium esse a filio spiritum sanctum natura  
+          <lb ed="#B" n="68"/>et ordine et gradu et affectu dignitate  
+          <lb ed="#B" n="69"/>et potestate virtute et operatione sicud  
+          <lb ed="#B" n="70"/>et filius natura et ordine gradu et affectu  
+          <lb ed="#B" n="71"/>divina dignitate et potestate unigenitus  
+          <lb ed="#B" n="72"/>deus ingenito deo haec igitur 
+        </p>
+        <p xml:id="jhb-l1q4-d1e1711">
+          ¶ 4 dicit  
+          <lb ed="#B" n="73"/>quod si plathonici vel habuerit aliquid  
+          <lb ed="#B" n="74"/>notitiae et cognitionis detis quod haec habunt  
+          <lb ed="#B" n="75"/>vel habere poterunt ex dictis cum quibus  
+          <lb ed="#B" n="76"/>fuerit in egipto
+        </p>
+        <p xml:id="jhb-l1q4-d1e1722">
+          ¶ 5o quod <name>augustinus</name> non dicit  
+          <lb ed="#B" n="77"/>se invenisse illa in libro <name>platonis</name> sed  
+          <lb ed="#B" n="78"/>cuiusdam plationica sed plures pla<lb ed="#B" n="79"/>tonicia 
+          fuerit post tempus christi sicut <name>por<lb ed="#B" n="80"/>phrius</name> 
+          <name>plotinus</name> et <name>apulegius</name> 
+        </p>
+        <p xml:id="jhb-l1q4-d1e1749">
+          ¶ 6 di 
+          <lb ed="#B" n="81"/>cit quod si aliquid noverunt de trinitate  
+          <lb ed="#B" n="82"/>quod hoc poterunt habere ex divina in spira  
+          <lb ed="#B" n="83"/>tione sicut loquitur augustinus de heremete  
+          <lb ed="#B" n="84"/>vericino in sermone contra quinque haereses  
+          <lb ed="#B" n="85"/>ubi ponit dictum illius hermetis in suo  
+          <!--56v.xml-->
+          <pb ed="#B" n="56-v"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>legostileos quoniam deus deorum secundum fe  
+          <lb ed="#B" n="2"/>cit deum Idem et simile dicit augustinus  
+          <lb ed="#B" n="3"/>in eodem sibi de sibilla et habetur etiam  
+          <lb ed="#B" n="4"/>per ipsum <ref xml:id="jhb-l1q4-Rd1e1777">8 de civitate capitulo 8 11</ref> Et 18 de  
+          <lb ed="#B" n="5"/>civitate capitulo 23 hoc idem patet de Iob et  
+          <lb ed="#B" n="6"/>balaam sic igitur patet contra prima vera et  
+          <lb ed="#B" n="7"/>quid dicendum ad obiecta patet per praedicta
+        </p>
+        <p xml:id="jhb-l1q4-d1e1787">
+          <lb ed="#B" n="8"/>¶ ad rationem primum corollarium cum dicitur  
+          <lb ed="#B" n="9"/>quod sive hac scientia etc potest dici quod li 
+          <lb ed="#B" n="10"/>cet sive hac scientia posset aliquis  
+          <lb ed="#B" n="11"/>pollere virtute et fide nullo tamen 
+          <lb ed="#B" n="12"/>modo potest hoc sine scientia et doctrina 
+          <lb ed="#B" n="13"/>huius scientiae ideo si verba corollarii pen 
+          <lb ed="#B" n="14"/>sentur patet quod ratio non procedit contra ipsum  
+          <lb ed="#B" n="15"/>quia dico quod stundens per scientiam in 
+          <lb ed="#B" n="16"/>struitur et doctrina scientiae requiritur 
+        </p>
+        <p xml:id="jhb-l1q4-d1e1809">
+          <lb ed="#B" n="17"/>¶ ad 3m contra corollarium cum dicitur quod plures  
+          <lb ed="#B" n="18"/>propositiones sunt secundum sensum litteralem di 
+          <lb ed="#B" n="19"/>citur sicut patet ex notabilibus et corolariis  
+          <lb ed="#B" n="20"/>quod hoc est falsum intelligendo de propositioni  
+          <lb ed="#B" n="21"/>bus quae assertive et non solum nume 
+          <lb ed="#B" n="22"/>rative ponuntur et per haec patet etiam  
+          <lb ed="#B" n="23"/>quid dicendum ad totum primum principa 
+          <lb ed="#B" n="24"/>le quia omnes illae propositiones sunt  
+          <lb ed="#B" n="25"/>vere secundum sensum quem earum autritores in 
+          <lb ed="#B" n="26"/>tendebant
+        </p>
+        <p xml:id="jhb-l1q4-d1e1834">
+          ¶ ad rationem contra 3m corollarium  
+          <lb ed="#B" n="27"/>cum arguitur ex dictis in prologo concedo antecedens  
+          <lb ed="#B" n="28"/>primae consequentiae et nego consequentiam et cum probatur  
+          <lb ed="#B" n="29"/>negatur etiam illa consequentia innitens  
+          <lb ed="#B" n="30"/>solum rationi neccessario neccessitate consequentiae pecca 
+          <lb ed="#B" n="31"/>bit igitur est contra rationem non sequitur  
+          <lb ed="#B" n="32"/>sed sufficit quod sit super rationem nam  
+          <lb ed="#B" n="33"/>ydeota volens se intromittere de a 
+          <lb ed="#B" n="34"/>liqua scientia quam penitus ignorat  
+          <lb ed="#B" n="35"/>neccessario errabit et tamen talis scientia non  
+          <lb ed="#B" n="36"/>est contra eius rationem sed solum supra scientia  
+          <lb ed="#B" n="37"/>suam et haec de prima conclusione
+        </p>
+        <p xml:id="jhb-l1q4-d1e1860">
+          ¶ 2a conclusio in super  
+          <lb ed="#B" n="38"/>simplici essentiae unitate sunt 3 personae  
+          <lb ed="#B" n="39"/>relative realiter distincte ista conclusionem  
+          <lb ed="#B" n="40"/>non probo aliter nisi sicut eam magister  
+          <!--56v.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="41"/>probat in littera istius distinctionis per auctoritates utri  
+          <lb ed="#B" n="42"/>usque beatum testamenti veterum quod significatur 
+          <lb ed="#B" n="43"/>per agar ancillam et novi quod signi  
+          <lb ed="#B" n="44"/>ficatur per saram galatos 4o proprie tamen lex dicitur  
+          <lb ed="#B" n="45"/>nova testamentum quia morte testatorum  
+          <lb ed="#B" n="46"/>christi confirmatur namquam diu testator  
+          <lb ed="#B" n="47"/>vivit testamentum est variabile esto  
+          <lb ed="#B" n="48"/>etiam quod pactum internveniat sicut  
+          <lb ed="#B" n="49"/>patet extra de pactis etiam de codicibus  
+          <lb ed="#B" n="50"/>haec conclusio ponitur ab augustino primo de trintate 
+          <lb ed="#B" n="51"/>et habentur verba in littera distinctionis  
+          <lb ed="#B" n="52"/>ubi dicit augustinus haec itaque vera et pia 
+          <lb ed="#B" n="53"/>fide tenendum est trinitas sit unus  
+          <lb ed="#B" n="54"/>et solus verus deus pater et filius  
+          <lb ed="#B" n="55"/>et spiritus sanctus haec conclusio est determinatio ecclesiae  
+          <lb ed="#B" n="56"/>et veritas rei in ista materia ideo  
+          <lb ed="#B" n="57"/>nullus debet nec potest solum salu  
+          <lb ed="#B" n="58"/>britur oppositum crede vel tenere
+        </p>
+        <p xml:id="jhb-l1q4-d1e1912">
+          ¶ primum  
+          <lb ed="#B" n="59"/>corollarium contra modum loquendi magistri in  
+          <lb ed="#B" n="60"/>littera huius distinctionis non solum so 
+          <lb ed="#B" n="61"/>litudo vel singularitas negatur in  
+          <lb ed="#B" n="62"/>divinis sed vera trinitas reperitur et coprobatur in 
+          <lb ed="#B" n="63"/>personis patet corollarium ex conclusione quia non  
+          <lb ed="#B" n="64"/>essent nec esse possent realiter  
+          <lb ed="#B" n="65"/>distincte nisi foret vera et realis  
+          <lb ed="#B" n="66"/>trinitas personarum istam veritatem de 
+          <lb ed="#B" n="67"/>ducit dominus benedictus in tractatu  
+          <lb ed="#B" n="68"/>contra errores <name>eckardi</name> et 24 et 25  
+          <lb ed="#B" n="69"/>articulis capitulo 2o probans personas esse  
+          <lb ed="#B" n="70"/>distinctas alias et alias contra eck  
+          <lb ed="#B" n="71"/>ardum qui 25 articulo dixit quod omnis  
+          <lb ed="#B" n="72"/>distinctio est a deo aliena neque 
+          <lb ed="#B" n="73"/>in naturis neque impersonis probavit quia  
+          <lb ed="#B" n="74"/>ipsa natura est unum et hoc unum et quae  
+          <lb ed="#B" n="75"/>libet persona est una et id ipsum unum  
+          <lb ed="#B" n="76"/>quod natura contra quam articulum est christi Iohannes 11 
+          <lb ed="#B" n="77"/>alius est qui testimonium perhibet de me 
+        </p>
+        <p xml:id="jhb-l1q4-d1e1959">
+          <lb ed="#B" n="78"/>Item iohannes 14 alium peraclitum dabit  
+          <lb ed="#B" n="79"/>nobis Item athanus alia est persona etc  
+          <lb ed="#B" n="80"/>modo certum est quod iuxta suum modum 
+          <lb ed="#B" n="81"/>ponendi habent concedere alienitatem igitur et  
+          <lb ed="#B" n="82"/>distinctionem
+        </p>
+        <p xml:id="jhb-l1q4-d1e1972">
+          ¶ Item probat veritate corollarii  
+          <!--57r.xml-->
+          <pb ed="#B" n="57-r"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>et conclusionis est concilium nicenum ubi dicitur  
+          <lb ed="#B" n="2"/>haec est fides quam ex posuerunt pa 
+          <lb ed="#B" n="3"/>tres primum quidem advesus arrii bla 
+          <lb ed="#B" n="4"/>sfemiam dicentem creaturam esse filium  
+          <lb ed="#B" n="5"/>dei ubi etiam dapmnatur sabellius quid 
+          <lb ed="#B" n="6"/>oppositum corollarii et conclusionis sensit Item in sino 
+          <lb ed="#B" n="7"/>do Romana facta sub damoso papa 
+          <lb ed="#B" n="8"/>anathematizamus qui sabellii  
+          <lb ed="#B" n="9"/>secuntur errorem Item augustinum in libro  
+          <lb ed="#B" n="10"/>de fide catholica istam sinceritatem  
+          <lb ed="#B" n="11"/>ponit
+        </p>
+        <p xml:id="jhb-l1q4-d1e2005">
+          Item hylarius 5 de sinodi  
+          <lb ed="#B" n="12"/>capitulo 18 sinodi si summi papae Item  
+          <lb ed="#B" n="13"/>ad hoc est totus processus sancti thomae  
+          <lb ed="#B" n="14"/>4 contra gentiles capitulo 2 ubi plures ad  
+          <lb ed="#B" n="15"/>hoc auctoritates adducit
+        </p>
+        <p xml:id="jhb-l1q4-d1e2017">
+          ¶ 2m corollarium deus  
+          <lb ed="#B" n="16"/>non solum subsistit intribus super  
+          <lb ed="#B" n="17"/>positis uno realiter et duobus inten 
+          <lb ed="#B" n="18"/>tentioalibus sed tribus distinctis  
+          <lb ed="#B" n="19"/>realiter ypostatibus patet hoc corollarium ex dic  
+          <lb ed="#B" n="20"/>tis et ponitur expersse primo iohannes 5  
+          <lb ed="#B" n="21"/>ubi dicitur quod tres sunt qui testimonium  
+          <lb ed="#B" n="22"/>dant in caelo
+        </p>
+        <p xml:id="jhb-l1q4-d1e2035">
+          Ad illud idem est proce 
+          <lb ed="#B" n="23"/>ssus domini alphonsi in forma distinctione ista  
+          <lb ed="#B" n="24"/>quarta quaestione unica 2o et 3 articulis  
+          <lb ed="#B" n="25"/>et habetur materia libro primo aureoli 
+          <lb ed="#B" n="26"/>distinctione 3 quaestione 3 articulo 3 prolixe
+        </p>
+        <p xml:id="jhb-l1q4-d1e2046">
+          ¶ 3m corollarium deus  
+          <lb ed="#B" n="27"/>intelligendo se vel amanda se non  
+          <lb ed="#B" n="28"/>solum ponit se ante se vel extra se  
+          <lb ed="#B" n="29"/>sed nostrum modum intelligendi inten 
+          <lb ed="#B" n="30"/>tionabiliter domice sed realiter perfecte cum  
+          <lb ed="#B" n="31"/>ydemptitate naturae vel vere relatione dis 
+          <lb ed="#B" n="32"/>tinctive patet per idem proverbiorum 8 dominus posse  
+          <lb ed="#B" n="33"/>dit me etc sequitur bodens cor eo etc  
+          <lb ed="#B" n="34"/>Ex quo patet quod sabellius male exposit  
+          <lb ed="#B" n="35"/>auctoritates ut deducit dominus benedictus  
+          <lb ed="#B" n="36"/>12 ubi supra ut patet dicto 2o ad dicta a 
+          <lb ed="#B" n="37"/>ugustini de plone hunc autem sabellii  
+          <lb ed="#B" n="38"/>errorem tractat <ref xml:id="jhb-l1q4-Rd1e2074">sanctus thomas 4o 
+          <lb ed="#B" n="39"/>contra gentiles capitulo 5</ref> ubi ponit eius  
+          <lb ed="#B" n="40"/>motiva Et capitulo novo ubi solvit sabe  
+          <lb ed="#B" n="41"/>llii arguenta patet igitur ex hiis quod dictum  
+          <!--57r.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="42"/><name>eckardi</name> in suis 25 et 24 articulis  
+          <lb ed="#B" n="43"/>merito redarguitur et reprobatur
+        </p>
+        <p xml:id="jhb-l1q4-d1e2095">
+          ¶ Sed contra  
+          <lb ed="#B" n="44"/>istam conclusionem est primo totum 2m principale  
+          <lb ed="#B" n="45"/>primo quia incommuncabile esset communicabile  
+          <lb ed="#B" n="46"/>2o quia deus est omnibus modis  
+          <lb ed="#B" n="47"/>idem 3o quia aut essentia divina sub  
+          <lb ed="#B" n="48"/>respectu privitatis est compossibilis filio aut 
+          <lb ed="#B" n="49"/>non etc sed nullum istorum
+        </p>
+        <p xml:id="jhb-l1q4-d1e2111">
+          ¶ 2o si sunt  
+          <lb ed="#B" n="50"/>tres personae realiter relative distinc 
+          <lb ed="#B" n="51"/>te igitur in divinis erit relatio et oppinio re 
+          <lb ed="#B" n="52"/>lationis vel igitur erit tantum una vel plures  
+          <lb ed="#B" n="53"/>si tantum una igitur erunt solum ibi duo  
+          <lb ed="#B" n="54"/>supposita et duae personae et tunc contra 
+          <lb ed="#B" n="55"/>conclusionem si vero plures quam una igitur erunt  
+          <lb ed="#B" n="56"/>ad minus quatuor personae quod est haeresis  
+          <lb ed="#B" n="57"/>expressa Et patet consequentia quia omnis op 
+          <lb ed="#B" n="58"/>positio relativa requirit duo ex  
+          <lb ed="#B" n="59"/>trema
+        </p>
+        <p xml:id="jhb-l1q4-d1e2135">
+          ¶ 3o deus omnimodo est idem  
+          <lb ed="#B" n="60"/>quomodo simpliciter est melius esse  
+          <lb ed="#B" n="61"/>idem quod non idem sed esse idem essentialiter  
+          <lb ed="#B" n="62"/>et personaliter est melius quod non esse  
+          <lb ed="#B" n="63"/>sic idem igitur deus est sic idem maior  
+          <lb ed="#B" n="64"/>patet per anselmum monologion 15 minor probatur quia quod  
+          <lb ed="#B" n="65"/>convenit patri et culibet personae est  
+          <lb ed="#B" n="66"/>melius ipsum quam non ipsum sed esse idem  
+          <lb ed="#B" n="67"/>convenit cuilibet personae quia quaelibet  
+          <lb ed="#B" n="68"/>persona personaliter et essentialiter est idem  
+          <lb ed="#B" n="69"/>essentia divinae igitur videtur quod simpliciter  
+          <lb ed="#B" n="70"/>sit idem esse est melius quam non p 
+          <lb ed="#B" n="71"/>ipsum et per consequens conclusio falsa
+        </p>
+        <p xml:id="jhb-l1q4-d1e2165">
+          ¶ Contra primum  
+          <lb ed="#B" n="72"/>corollarium arguitur sequitur si corollarium esset verum quod 3 sunt  
+          <lb ed="#B" n="73"/>aeternae personae et tamen non sunt aeternae quod  
+          <lb ed="#B" n="74"/>est inplicatio patet consequentia quia si corollarium  
+          <lb ed="#B" n="75"/>est verum igitur sunt tres verae coaeternae per  
+          <lb ed="#B" n="76"/>onae igitur et aeternae sed quod non sunt 3 aeternae  
+          <lb ed="#B" n="77"/>patet per athanasium in simbolo ubi dicit  
+          <lb ed="#B" n="78"/>non tres aeterni sed unus aeternus igitur sequitur  
+          <lb ed="#B" n="79"/>corollarium falsum ¶ conra 2m corollarium si ipsum est  
+          <lb ed="#B" n="80"/>verum sequitur quod erunt octo res distinctae  
+          <lb ed="#B" n="81"/>idividuis quod omnino videtur falsum et loquor  
+          <lb ed="#B" n="82"/>destinctione reali probatur consequentia quia  
+          <lb ed="#B" n="83"/>per corollarium tres sunt personae distinctae  
+          <!--57v.xml-->
+          <pb ed="#B" n="57-v"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>sed non minus proprietates quibus personae  
+          <lb ed="#B" n="2"/>habent esse sunt distinctae quae enim inter  
+          <lb ed="#B" n="3"/>se non differunt realiter non possunt da 
+          <lb ed="#B" n="4"/>re esse differens realiter cum igitur tres pro 
+          <lb ed="#B" n="5"/>prietates distinctae quia secundum <ref xml:id="jhb-l1q4-Rd1e2210"><name>richardum</name> 4 de  
+          <lb ed="#B" n="6"/>trintate capitulo 17</ref> in illa trinitate oportet tot perso 
+          <lb ed="#B" n="7"/>nales proprietates esse quote sunt personae  
+          <lb ed="#B" n="8"/>igitur sex sunt distinctae sed duae ema  
+          <lb ed="#B" n="9"/>nationes sunt etiam distinctae dicen  
+          <lb ed="#B" n="10"/>te anselmo libro de processionem spiritus sancti capitulo 2o  
+          <lb ed="#B" n="11"/>filius nascendo habet esse de patre  
+          <lb ed="#B" n="12"/>spiritus sactus non nascendo sed procedendo  
+          <lb ed="#B" n="13"/>id circo nec filius potest esse spiritus sanctus  
+          <lb ed="#B" n="14"/>nec spiritus sanctus valet esse ille cuius  
+          <lb ed="#B" n="15"/>spiritus est Expressius ponit hoc damascenus  
+          <lb ed="#B" n="16"/>libro primo capitulo 10 ubi dicit filius est  
+          <lb ed="#B" n="17"/>a patre generatus spiritus sanctus Et ipse  
+          <lb ed="#B" n="18"/>quidem a patre est sed non generaliter sed pro  
+          <lb ed="#B" n="19"/>cessionaliter et quoniam est quidem differentia 
+          <lb ed="#B" n="20"/>generationis et processionis didiscius igitur  
+          <lb ed="#B" n="21"/>sequitur primum consequens illatum si corollarium sit verum
+        </p>
+        <p xml:id="jhb-l1q4-d1e2251">
+          <lb ed="#B" n="22"/>¶ Contra 3m corollarium nam si una persona  
+          <lb ed="#B" n="23"/>per suum intelligere vel dilige ponit se  
+          <lb ed="#B" n="24"/>ante se vel extra se sequitur quod quaelibet et cum  
+          <lb ed="#B" n="25"/>filius intelligat se sequitur etiam quod ponit 
+          <lb ed="#B" n="26"/>se ante se et spiritus sanctus intelliget di 
+          <lb ed="#B" n="27"/>ligit se igitur etiam ponit se ante se 
+          <lb ed="#B" n="28"/>ex et extra se quae tamen omnia sunt falsa  
+          <lb ed="#B" n="29"/>igitur etc
+        </p>
+        <p xml:id="jhb-l1q4-d1e2271">
+          ¶ Ad ista respondeo et primo ad  
+          <lb ed="#B" n="30"/>2m principale unde cum primo dicitur quod nullum  
+          <lb ed="#B" n="31"/>in communicabile etc posset primo dici quod  
+          <lb ed="#B" n="32"/>proprie et stricte loquendo quod essentia divina  
+          <lb ed="#B" n="33"/>non est communicabilis personis divinis patet  
+          <lb ed="#B" n="34"/>hoc sic summendo communicari nichil co- 
+          <lb ed="#B" n="35"/>micatur alteri nisi sit distinctum ab ipso  
+          <lb ed="#B" n="36"/>modo essentia divina non distinguuitur a perso 
+          <lb ed="#B" n="37"/>nis nec econaso quare non potest proprie eis  
+          <lb ed="#B" n="38"/>communicari
+        </p>
+        <p xml:id="jhb-l1q4-d1e2293">
+          ¶ Aliter potest dici admittendo  
+          <lb ed="#B" n="39"/>modum conclusionem loquendi doctoris scilicet quod  
+          <lb ed="#B" n="40"/>essentia divina sit commuicabilis et non persona  
+          <lb ed="#B" n="41"/>et tunc cum arguitur nullum incommunicabile 
+          <lb ed="#B" n="42"/>tribus dico quod ista maior potest dupliciter  
+          <!--57v.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="43"/>intelligi uno modo sic nullum communicabile etc  
+          <lb ed="#B" n="44"/>id est non est aliud quod communicatur tribus tunc 
+          <lb ed="#B" n="45"/>maior est simpliciter falsa
+        </p>
+        <p xml:id="jhb-l1q4-d1e2315">
+          ¶ alio modo  
+          <lb ed="#B" n="46"/>sic non est communicabile id est ipsum non  
+          <lb ed="#B" n="47"/>potest communicari tribus tunc conceditur a  
+          <lb ed="#B" n="48"/>et forma arguendi non valet
+        </p>
+        <p xml:id="jhb-l1q4-d1e2324">
+          ¶ ad 2m  
+          <lb ed="#B" n="49"/>satis patet ex dictis sanctis <ref xml:id="jhb-l1q4-Rd1e2328">thoomas parte  
+          <lb ed="#B" n="50"/>prima quaestione 28 articulo 3o</ref> etiam satis diffusive 
+          <lb ed="#B" n="51"/>ad illam rationem respondet sed dominus be 
+          <lb ed="#B" n="52"/>nedictus retractando enudem ar 
+          <lb ed="#B" n="53"/>ticulum eckardi dicit illum inhaeresim  
+          <lb ed="#B" n="54"/>sabellim incidisse et pro ratione ultra  
+          <lb ed="#B" n="55"/>responsionem sancti thomae dicit quod licet  
+          <lb ed="#B" n="56"/>quaelibet divinarum personarum sit tota  
+          <lb ed="#B" n="57"/>divina essentia non tamen tottaliter in se  
+          <lb ed="#B" n="58"/>habet omnia quae in divina essentia aliquo  
+          <lb ed="#B" n="59"/>modo sunt quia licet quaelibet persona  
+          <lb ed="#B" n="60"/>sit tota divina natura tamen divina natura  
+          <lb ed="#B" n="61"/>consequentibiliter non est tottaliter eadem cum  
+          <lb ed="#B" n="62"/>qualibet persona singlariter accepta  
+          <lb ed="#B" n="63"/>plura dicit circa ista quae ad sanum  
+          <lb ed="#B" n="64"/>intellectum aestimo esse bona licet  
+          <lb ed="#B" n="65"/>plura circa ea possent particulari ad  
+          <lb ed="#B" n="66"/>propositum videtur esse processus damasceni libro primo  
+          <lb ed="#B" n="67"/>capitulo 11 ubi dicit sed omnia unum sunt  
+          <lb ed="#B" n="68"/>pater et filius et spiritus sanctus praeter in  
+          <lb ed="#B" n="69"/>generationem et generationem et processionem ecclesiae  
+          <lb ed="#B" n="70"/>quod aliqua excipit Item damascenus libro primo  
+          <lb ed="#B" n="71"/>capitulo 5 in divinitate unam naturam confitemur 
+          <lb ed="#B" n="72"/>tres autem ypostaseos id est personas secundum  
+          <lb ed="#B" n="73"/>veritatem entes in quibus et omnia  
+          <lb ed="#B" n="74"/>quidem naturalia et substantialia simplicia  
+          <lb ed="#B" n="75"/>in quibus id est dicimus differt autem ypo 
+          <lb ed="#B" n="76"/>staseon solum proprietatem Item richardum libro 4o de  
+          <lb ed="#B" n="77"/>trinitate capitulo 17 fidentis fateamur perso 
+          <lb ed="#B" n="78"/>nas in divinitate secundum substantias dictas et substantiam 
+          <lb ed="#B" n="79"/>significare et plures ibi personas non plures  
+          <lb ed="#B" n="80"/>substantias esse quia sunt plures habentes  
+          <lb ed="#B" n="81"/>unum et indifferens esse ex differenti proprietate  
+          <lb ed="#B" n="82"/>unitas itaque ibi est est iuxta modum  
+          <lb ed="#B" n="83"/>essendi pluralitas iuxtz modum exeundi 
+          <lb ed="#B" n="84"/>haec ille
+        </p>
+        <p xml:id="jhb-l1q4-d1e2409">
+          ¶ Ad idem est <ref xml:id="jhb-l1q4-Rd1e2411">boetius circa fi 
+          <lb ed="#B" n="85"/>nem libro de trinitate</ref> <ref xml:id="jhb-l1q4-Rd1e2416">anselmus de processione  
+          <!--58r.xml-->
+          <pb ed="#B" n="58-r"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>spiritus sancti</ref> ex quibus patet quod licet  
+          <lb ed="#B" n="2"/>sit ibi summa unitas non tamen 
+          <lb ed="#B" n="3"/>attenditur ibi pluritas vel alteras al 
+          <lb ed="#B" n="4"/>teritas
+        </p>
+        <p xml:id="jhb-l1q4-d1e2434">
+          ¶ 2o quod hic concordat <name>benedi 
+          <lb ed="#B" n="5"/>ctus</name> cum <name>henricus de urimaria</name> dicens  
+          <lb ed="#B" n="6"/>quod inmensa personae divina essentia re 
+          <lb ed="#B" n="7"/>quirit 3a suppositam quia licet in 
+          <lb ed="#B" n="8"/>qualibet persona sit omnis perfectio 
+          <lb ed="#B" n="9"/>divinae essentiae non tamen omnimodo
+        </p>
+        <p xml:id="jhb-l1q4-d1e2454">
+          <lb ed="#B" n="10"/>¶ 3o quod difficile videtur concordare dicta  
+          <lb ed="#B" n="11"/><ref xml:id="jhb-l1q4-Rd1e2459"><name>Clenchot</name> in ista 2a distinctione in expositione  
+          <lb ed="#B" n="12"/>litterali</ref> diceret patrem esse filium essentialiter  
+          <lb ed="#B" n="13"/>et eodem modo patrem esse filium filium  
+          <lb ed="#B" n="14"/>esse patrem etc et dicta ista quia  
+          <lb ed="#B" n="15"/>licet sit una essentia vel unum essentialiter  
+          <lb ed="#B" n="16"/>non tamen videtur esse concedendum quod unus  
+          <lb ed="#B" n="17"/>sit alius essentialiter sic scilicet quod pater sit filius  
+          <lb ed="#B" n="18"/>essentialiter econtra aliter oportet concedere has consequentias  
+          <lb ed="#B" n="19"/>non valere vel consequentia esse vera pater non  
+          <lb ed="#B" n="20"/>est filius quod igitur non est filius essentialiter  
+          <lb ed="#B" n="21"/>Et hanc pater est filius essentialiter igitur  
+          <lb ed="#B" n="22"/>pater est filius quod tamen videtur difficile patet quia  
+          <lb ed="#B" n="23"/>si assignatur causa quare prima  
+          <lb ed="#B" n="24"/>non valeat haec scilicet quod arguitur ab inferiori ad  
+          <lb ed="#B" n="25"/>superius negatione et cum distinctione igitur in 2a  
+          <lb ed="#B" n="26"/>arguitur ab inferiori ad superius affirmative sive  
+          <lb ed="#B" n="27"/>distinctive et per consequens videtur quod 2a sit bona  
+          <lb ed="#B" n="28"/>si prima non valetque si vicem concedenda 
+          <lb ed="#B" n="29"/>et haec pater est filius Et tamen hoc haec  
+          <lb ed="#B" n="30"/>pater non est filius quod in proposito videtur  
+          <lb ed="#B" n="31"/>contradictio plana dicit tamen iste doctor  
+          <lb ed="#B" n="32"/>quod <name>augustinus</name> concedit quod ipse dicit <ref xml:id="jhb-l1q4-Rd1e2513">83 quaestionibus  
+          <lb ed="#B" n="33"/>quaestione 12</ref> videtur tamen quod augustinum posset gloriari  
+          <lb ed="#B" n="34"/>quod ponit adverbium pro nomine ut di 
+          <lb ed="#B" n="35"/>catur sunt essentialiter id est una essentia et sic  
+          <lb ed="#B" n="36"/>pater est filius essentiaiter id est pater est essentialiter  
+          <lb ed="#B" n="37"/>quae filius materia est profunda te 
+          <lb ed="#B" n="38"/>neat quilibet quid sibi magis consonum  
+          <lb ed="#B" n="39"/>videtur fidei et scripturae
+        </p>
+        <p xml:id="jhb-l1q4-d1e2532">
+          ¶ ad 3am rationem  
+          <lb ed="#B" n="40"/>2i principalis respondet dominus benedictus  
+          <lb ed="#B" n="41"/>ubi supra 3a supponendo primo quod fi  
+          <lb ed="#B" n="42"/>des catholica confitetur quod divinae personae  
+          <!--58r.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="43"/>sunt unum in essentia divina quae communis est  
+          <lb ed="#B" n="44"/>communitate reali tribus personis sit quod omnes 
+          <lb ed="#B" n="45"/>divinae personae et earum quaelibet est  
+          <lb ed="#B" n="46"/>ipsa divina tota essentiam probat extra de sum 
+          <lb ed="#B" n="47"/>ma trinitate et fide catholica capitulo damp 
+          <lb ed="#B" n="48"/>namus et Iohannes x <ref xml:id="jhb-l1q4-Rd1e2558">augustinus 7 de trinitate 
+          <lb ed="#B" n="49"/>capitulo 6</ref> haec suppositio est primum capitulo articulo 
+          <lb ed="#B" n="50"/>illius 27
+        </p>
+        <p xml:id="jhb-l1q4-d1e2566">
+          ¶ 2o supponit eodem  
+          <lb ed="#B" n="51"/>articulo capitulo 2o quod divinae personae constituntur  
+          <lb ed="#B" n="52"/>inesse ex essentia et revelatione vel proprietate 
+          <lb ed="#B" n="53"/>relativa quae proprietates sunt sunt  
+          <lb ed="#B" n="54"/>distincte inter se realiter ab aliis 
+          <lb ed="#B" n="55"/>proprietatibus sibi oppositis relative et quae sic  
+          <lb ed="#B" n="56"/>sunt distinctae Constitiuunt personas  
+          <lb ed="#B" n="57"/>realiter distinctas sic quod licet essentia  
+          <lb ed="#B" n="58"/>ut in se consideratur sic una minore  
+          <lb ed="#B" n="59"/>aliter in tribus personis tamen persona  
+          <lb ed="#B" n="60"/>constituta ex proprietate et essentia ab alia perso 
+          <lb ed="#B" n="61"/>na est realiter distincta probat haec ubi  
+          <lb ed="#B" n="62"/>supra capitulo dampnamus per augustinum 1  
+          <lb ed="#B" n="63"/>de trinitate capitulo primo 15 de cernitis capitulo 14 per anselmum  
+          <lb ed="#B" n="64"/>monologion 55 et 56 et capitulis per dyonisum de 
+          <lb ed="#B" n="65"/>divinis nominibus capitulo 2o dicit in fine  
+          <lb ed="#B" n="66"/>t quod filius numquod est pater nec econverso
+        </p>
+        <p xml:id="jhb-l1q4-d1e2603">
+          <lb ed="#B" n="67"/>¶ 3o suppositione in 3o capitulo quod divina essentia 
+          <lb ed="#B" n="68"/>esse in divina persona quia una vel  
+          <lb ed="#B" n="69"/>duae praecedunt potest intelligi dupliciter  
+          <lb ed="#B" n="70"/>uno modo ut illa essentiam et essentia sic illud  
+          <lb ed="#B" n="71"/>quo dictae personae habent esse divinitatis consti 
+          <lb ed="#B" n="72"/>tuens ipsam divina personam una  
+          <lb ed="#B" n="73"/>cum relatione et proprietate personali ¶
+        </p>
+        <p xml:id="jhb-l1q4-d1e2622">
+          <lb ed="#B" n="74"/>Alio modo consideratur essentia divina ut est  
+          <lb ed="#B" n="75"/>in persona aqua alia procedit non ut  
+          <lb ed="#B" n="76"/>ipsam personam divinam a qua alia  
+          <lb ed="#B" n="77"/>vel aliae procedunt constituit in esse perso 
+          <lb ed="#B" n="78"/>nali sed ut est principium communicandi ipsi per 
+          <lb ed="#B" n="79"/>sonae producenti alteri divinam essentiam per ac 
+          <lb ed="#B" n="80"/>tum generationis vel processionis primo modo  
+          <lb ed="#B" n="81"/>essentia divina existens in una persona Cum  
+          <lb ed="#B" n="82"/>modo quem habent in dicta persona quia sic  
+          <lb ed="#B" n="83"/>est constituitiva et stat sub proprietate de  
+          <lb ed="#B" n="84"/>terminativa non est alteri personae communicalibis  
+          <lb ed="#B" n="85"/>Sed 2o modo sic est communicabilis alteri personae et  
+          <!--58v.xml-->
+          <pb ed="#B" n="58-v"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>et sic est in patre et filio non solum con 
+          <lb ed="#B" n="2"/>stituitiva personarum ipsarum sed etiam  
+          <lb ed="#B" n="3"/>sit communicativa ipsius et isto modo non est  
+          <lb ed="#B" n="4"/>in spiritu sancto et sic aliter modus est divinae  
+          <lb ed="#B" n="5"/>essentiae existentis in persona ut est constitui 
+          <lb ed="#B" n="6"/>tiva inee personali et alter modus  
+          <lb ed="#B" n="7"/>eiusdem essentiae est principium communicandi  
+          <lb ed="#B" n="8"/>se ipsum alteri personae in veritate eiusdem  
+          <lb ed="#B" n="9"/>essentiae haec ibi
+        </p>
+        <p xml:id="jhb-l1q4-d1e2677">
+          ¶ per hoc ad formam cum  
+          <lb ed="#B" n="10"/>dicit <name>ockam</name> quid essentiam in patre est est in 
+          <lb ed="#B" n="11"/>compossiblis producta haec est falsa simpliciter  
+          <lb ed="#B" n="12"/>dicit dominus benedictus quod istae propositiones  
+          <lb ed="#B" n="13"/>sunt duplices in uno sensu sunt vere 
+          <lb ed="#B" n="14"/>in alio sensu sunt falsa ideo cum ockam  
+          <lb ed="#B" n="15"/>dicit quod sint falsae simpliciter male dic  
+          <lb ed="#B" n="16"/>quod autem huiusmodi propositiones sint dupli 
+          <lb ed="#B" n="17"/>ces patet ex 3o supposito et deducit pro 
+          <lb ed="#B" n="18"/>lixe per 3m et 5m capitulum articuli illius  
+          <lb ed="#B" n="19"/>difficile tamen videtur posset ex toto falsifica 
+          <lb ed="#B" n="20"/>ri dictum ockam tenendo huius propositiones  
+          <lb ed="#B" n="21"/>reduplicative sicut patet ex eorum ex positione  
+          <lb ed="#B" n="22"/>tibus qui igitur vult dicere consequenter ad oc 
+          <lb ed="#B" n="23"/>kam potest restringere et dicere quod sint  
+          <lb ed="#B" n="24"/>falsae qui non vult eum negare sequatur  
+          <lb ed="#B" n="25"/>modum ponendi benedicta qui fun 
+          <lb ed="#B" n="26"/>datur super dictis doctoris solempnis  
+          <lb ed="#B" n="27"/>in summa articulo 56 quaestione 4 verum tamen est  
+          <lb ed="#B" n="28"/>quod aliqua supponit benedictus quae  
+          <lb ed="#B" n="29"/>moderni non admittunt sicut patet de illa 
+          <lb ed="#B" n="30"/>constitutione et de primo communicandi primum  
+          <lb ed="#B" n="31"/>horum inprobat diffusive <ref xml:id="jhb-l1q4-Rd1e2730"><name>gregorius</name> libro primo  
+          <lb ed="#B" n="32"/>disinctione 26 conclusione prima primae quaestionis</ref> inprobat 
+          <lb ed="#B" n="33"/><ref xml:id="jhb-l1q4-Rd1e2738">distinctione 7 primi articulo 2</ref> contra <name>sanctum thomam</name> <name>aegidium  
+          <lb ed="#B" n="34"/>ockam</name> et <name>scotum</name> diffusive pro me beatum  
+          <lb ed="#B" n="35"/>hunc reputo qui credit sine de 
+          <lb ed="#B" n="36"/>fectu videtur tamen michi quod si praedictae propositiones  
+          <lb ed="#B" n="37"/>sunt reduplicative et praeiatens re 
+          <lb ed="#B" n="38"/>reduplicative est prima exponens quod  
+          <lb ed="#B" n="39"/>sed logcam ockam vel modicum vel nihil  
+          <lb ed="#B" n="40"/>errant in hac parte haberent namque  
+          <lb ed="#B" n="41"/>consequenter dicere ipse <name>benedictus</name> quod essentia  
+          <lb ed="#B" n="42"/>divina sub respectu paternitatis generat et  
+          <lb ed="#B" n="43"/>sub respectu paternitatis generatur quod si sic sic  
+          <!--58v.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="44"/>benedictum relinquo studiose
+        </p>
+        <p xml:id="jhb-l1q4-d1e2783">
+          Ad ratio 
+          <lb ed="#B" n="45"/>nem contra primum corollarium dicunt aliqui quod  
+          <lb ed="#B" n="46"/>sicut non sunt 3 magni nec tres magni  
+          <lb ed="#B" n="47"/>tudines 2m beatum <ref xml:id="jhb-l1q4-Rd1e2791">augustinum 5o de trinitate 8 et  
+          <lb ed="#B" n="48"/>10 capitulis</ref> ita nec tres aeterni nec  
+          <lb ed="#B" n="49"/>tres aeternae et ex hoc dicunt ipsum anathasium  
+          <lb ed="#B" n="50"/>inplicasse quia primo dixit non tres  
+          <lb ed="#B" n="51"/>aeterni et postea dixit coaeterni sibi sunt  
+          <lb ed="#B" n="52"/>et coaequales sed hoc non est arguere  
+          <lb ed="#B" n="53"/>anathasium sed totum ecclesiae ritum quae  
+          <lb ed="#B" n="54"/>utitur illo simbolo quare puto hoc  
+          <lb ed="#B" n="55"/>male dictum
+        </p>
+        <p xml:id="jhb-l1q4-d1e2812">
+          ¶ ideo potest responderi ex dictis  
+          <lb ed="#B" n="56"/><ref xml:id="jhb-l1q4-Rd1e2815">dominum Egidii magini libro primo distinctione 9 quaestione 3</ref>  
+          <lb ed="#B" n="57"/>ubi dicit quod aeterni potest stare substantive  
+          <lb ed="#B" n="58"/>et adiectivae si substantive sic non tres  
+          <lb ed="#B" n="59"/>aeterni sed unus aeternus Si adiectem tunc  
+          <lb ed="#B" n="60"/>possunt dici tres aeterni aliter respondet  
+          <lb ed="#B" n="61"/>ibi praedictus doctor quod haec est magis  
+          <lb ed="#B" n="62"/>propria pater et filius sunt coaeterni quam dicere  
+          <lb ed="#B" n="63"/>sunt aeterni nam primum non negat atha  
+          <lb ed="#B" n="64"/>nasius sed 2m
+        </p>
+        <p xml:id="jhb-l1q4-d1e2836">
+          ¶ ad rationem contra 2m corollarium  
+          <lb ed="#B" n="65"/>dico negando antecedens quia solum sunt  
+          <lb ed="#B" n="66"/>tres res in divinis et cum probatur de proprietatibus  
+          <lb ed="#B" n="67"/>relativus et emanationibus personarum  
+          <lb ed="#B" n="68"/>dicendum 2m benedictum 5 de consideatione  
+          <lb ed="#B" n="69"/>et patebit magis infra distinctione 27 perso 
+          <lb ed="#B" n="70"/>narum proprietates aliud quam ipsas quod non  
+          <lb ed="#B" n="71"/>aliud quod unum deum unam divinam  
+          <lb ed="#B" n="72"/>substantiam unam divinam naturam unam divina  
+          <lb ed="#B" n="73"/>summam maiestatem fides catholica  
+          <lb ed="#B" n="74"/>confitetur numera igitur si potes aut sive substantia  
+          <lb ed="#B" n="75"/>personas quae ipsa sunt aut sive per 
+          <lb ed="#B" n="76"/>sonis proprietates quae ipse sunt aut si  
+          <lb ed="#B" n="77"/>dividemus quis tenetur aut personas  
+          <lb ed="#B" n="78"/>a substantia vel proprietates a personis nescio  
+          <lb ed="#B" n="79"/>quomodo trinitatis se cultorem posset  
+          <lb ed="#B" n="80"/>qui intantam rerum excusserit numerositatem 
+          <lb ed="#B" n="81"/>haec ille Ex quibus praestet quod licet persona interse 
+          <lb ed="#B" n="82"/>ex proprietates sive emanationes disting 
+          <lb ed="#B" n="83"/>uuantur sunt praecise tres res quia emanationes  
+          <lb ed="#B" n="84"/>et proprietates sunt idem personis et sunt personae  
+          <lb ed="#B" n="85"/>miror igitur quliter benedictus ponit  
+          <lb ed="#B" n="86"/>proprietates constuuntur personas Cum tame  
+          <lb ed="#B" n="87"/>istam auctoritatem benedicti pro se adducat  
+          <!--59r.xml-->
+          <pb ed="#B" n="59-r"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>in articulis eckardi articulo 34o capitulo 15 
+          <lb ed="#B" n="2"/>maxime cum notum nichil constituere  
+          <lb ed="#B" n="3"/>se ipsum sic igitur patet quod prima quam non  
+          <lb ed="#B" n="4"/>va
+        </p>
+        <p xml:id="jhb-l1q4-d1e2903">
+          Ad rationem contra 2m corolaruprespen 
+          <lb ed="#B" n="5"/>det thomas de aergentis in ista 2a  
+          <lb ed="#B" n="6"/>distinctio quaestione 2a articulo primo dicens quod dicere  
+          <lb ed="#B" n="7"/>dupliciter accipitur uno modo proprie et  
+          <lb ed="#B" n="8"/>sic est idem quod verbum concipere et  
+          <lb ed="#B" n="9"/>ita sumitur ab augustino 7 de trinitate Cum dic  
+          <lb ed="#B" n="10"/>non nisi pater est dicens in divinis alio modo 
+          <lb ed="#B" n="11"/>sumitur dicere pro perfectio intelligere et  
+          <lb ed="#B" n="12"/>sic quaelibet persona dicit se con 
+          <lb ed="#B" n="13"/>similiter omnino posset dici deintelligere 
+          <lb ed="#B" n="14"/>et isto modo dicere videtur accipere ipse  
+          <lb ed="#B" n="15"/>venerabilis anselmum modum 57 58 et 59 ca 
+          <lb ed="#B" n="16"/>pitulis ubi dici quod singulem perseonae se  
+          <lb ed="#B" n="17"/>dicunt et quaelibet earum se dicit ex quibus  
+          <lb ed="#B" n="18"/>patet taliter qualiter quare non quaelibet  
+          <lb ed="#B" n="19"/>persona cum dicit verbum producit Et  
+          <lb ed="#B" n="20"/>dico notanter taliter qualiter quia secundum anselmum  
+          <lb ed="#B" n="21"/>monologion capitulo 60 huius causa sub huius rei 
+          <lb ed="#B" n="22"/>videtur transcendere essentiam intellectus aciem  
+          <lb ed="#B" n="23"/>humani Et capitulo 59 mirum quodam  
+          <lb ed="#B" n="24"/>et inexplicabile video enim cum ma 
+          <lb ed="#B" n="25"/>nifestum sit unum quemquod scilicet patrem et filium  
+          <lb ed="#B" n="26"/>et patris filiique quod spiritum patrem se et am 
+          <lb ed="#B" n="27"/>bos alios dicere et unum solum esse  
+          <lb ed="#B" n="28"/>ibi ubum nullatenus tamen ipsum  
+          <lb ed="#B" n="29"/>verbum videtur posse dici verbum omnium  
+          <lb ed="#B" n="30"/>trium sed tantum unius eorum
+        </p>
+        <p xml:id="jhb-l1q4-d1e2963">
+          ¶ ad 2am rationem  
+          <lb ed="#B" n="31"/>contra 2am conclusionem patet ex dictis meis in principio  
+          <lb ed="#B" n="32"/>primo articulo 2o in 2o principali ubi est dictum quod  
+          <lb ed="#B" n="33"/>non sunt tot personae et sunt relatio  
+          <lb ed="#B" n="34"/>nes Sed dicerent atiqui et eorum  
+          <lb ed="#B" n="35"/>sequates quod tot sunt personae quot  
+          <lb ed="#B" n="36"/>sunt proprietates nam sed ipsos relatio  
+          <lb ed="#B" n="37"/>non constuit ut relatio sed ut proprietates  
+          <lb ed="#B" n="38"/>quare positionem ibidem in principio quod re 
+          <lb ed="#B" n="39"/>latio non est sufficiens medium pro 
+          <lb ed="#B" n="40"/>bans pluralitatem in divinis
+        </p>
+        <p xml:id="jhb-l1q4-d1e2987">
+          ¶ Ad 3m contra  
+          <lb ed="#B" n="41"/>eandem 2am conclusionem cum arguitur deus  
+          <!--59r.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="42"/>est omnimodo idem etc conceditur maior 
+          <lb ed="#B" n="43"/>et negatur minor scilicet quod omne idem essentialiter  
+          <lb ed="#B" n="44"/>et personaliter sit melius et cum probatur  
+          <lb ed="#B" n="45"/>illa minor sit quod convenit patri etc potest  
+          <lb ed="#B" n="46"/>dici quod verum est si non est relatum vel  
+          <lb ed="#B" n="47"/>includens relationem aliter potest dici  
+          <lb ed="#B" n="48"/>quod sic esse idem convenit cuilibet  
+          <lb ed="#B" n="49"/>personae et tamen non omnibus ad invicem  
+          <lb ed="#B" n="50"/>simul et sic patet quid dicendum ad rationes  
+          <lb ed="#B" n="51"/>contra dicta in 2a conclusione et corollaria ipsius
+        </p>
+        <p xml:id="jhb-l1q4-d1e3018">
+          ¶ 3a  
+          <lb ed="#B" n="52"/>studens sacrae theologiae textum aprehendere  
+          <lb ed="#B" n="53"/>potest cernitis articlum per studium bonum et  
+          <lb ed="#B" n="54"/>meritorium probatur conclusio quia articulus est  
+          <lb ed="#B" n="55"/>sufficienter in sacra scriptura expressus in stu 
+          <lb ed="#B" n="56"/>dens sufficienter potest aprehendere ipsum consequentia  
+          <lb ed="#B" n="57"/>est satis evidens et antecedens patet ex praemissis 
+          <lb ed="#B" n="58"/>prima pars conclusionis vera sed quod per studium bonum  
+          <lb ed="#B" n="59"/>et meritorium quae erat 2a pars patet ex dictis  
+          <lb ed="#B" n="60"/>magistri in ista 2a distinctione capitulo primo et sunt  
+          <lb ed="#B" n="61"/>verba augustini quia hac veritate nichil  
+          <lb ed="#B" n="62"/>fructuosius invenitur ad hoc est totus  
+          <lb ed="#B" n="63"/>processus adae quaestione prima prologis ubi istam  
+          <lb ed="#B" n="64"/>partem probat diffusive
+        </p>
+        <p xml:id="jhb-l1q4-d1e3049">
+          ¶ primum corollarium  
+          <lb ed="#B" n="65"/>quamvis nulla ratio conveniat intel 
+          <lb ed="#B" n="66"/>lectium creato ut sic libere agendi sum 
+          <lb ed="#B" n="67"/>tum apprehensione istius articuli non  
+          <lb ed="#B" n="68"/>est proprie meritum studendi prima patet  
+          <lb ed="#B" n="69"/>nam quam repugnat voluntati ut sic  
+          <lb ed="#B" n="70"/>illibectari tam repugnant intellectui ut  
+          <lb ed="#B" n="71"/>sic libertari sed primum simpliciter repug 
+          <lb ed="#B" n="72"/>nat igitur et 2m Ex hiis patet contra fastinum  
+          <lb ed="#B" n="73"/>de ast libro 3o quaestione penultimis in responsionibus  
+          <lb ed="#B" n="74"/>ad obiecta similiter contra brinkil in  
+          <lb ed="#B" n="75"/>lectura sententiarum scilicet quod intellectus non est  
+          <lb ed="#B" n="76"/>liber nec quo ad actum nec quo adhabi 
+          <lb ed="#B" n="77"/>tum simliter quo ad gradum patet hoc  
+          <lb ed="#B" n="78"/>cum nulla ratio libertatis conveniat ei ut  
+          <lb ed="#B" n="79"/>sit
+        </p>
+        <p xml:id="jhb-l1q4-d1e3084">
+          ¶ 2m corollarium Quamvis sive apprehen 
+          <lb ed="#B" n="80"/>sione huius articuli non fit meritum  
+          <lb ed="#B" n="81"/>stundendi tamen totum meritum studii  
+          <lb ed="#B" n="82"/>pendet ex dei gratia et actu volendi prima  
+          <lb ed="#B" n="83"/>pars patet ex dictis et 2a probatur quia voluntas  
+          <!--59v.xml-->
+          <pb ed="#B" n="59-v"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>est tam meriti et non sine gratia igitur etc
+        </p>
+        <p xml:id="jhb-l1q4-d1e3104">
+          <lb ed="#B" n="2"/>¶ 3m corollarium sacra scripturae est circumstantia 
+          <lb ed="#B" n="3"/>studium augens non diminuens credendi  
+          <lb ed="#B" n="4"/>meritum pro corollarium quia talem studium de se 
+          <lb ed="#B" n="5"/>est meritum dummodo in caritate et propter deum 
+          <lb ed="#B" n="6"/>fiat et fidei non repugnant igitur corollari  
+          <lb ed="#B" n="7"/>verum Et ex hiis ut videtur sequitur responsio ad  
+          <lb ed="#B" n="8"/>quaestionem satis informa quia pars a 
+          <lb ed="#B" n="9"/>ffirmativa est vera sicut patet ex dictis  
+          <lb ed="#B" n="10"/>Sed contra istam 3am conclusionem est primo tertium  
+          <lb ed="#B" n="11"/>principale quia stundens periculo erran  
+          <lb ed="#B" n="12"/>di se exponit 2o quia studium istud  
+          <lb ed="#B" n="13"/>fidem diminuit 3o quia solam in 
+          <lb ed="#B" n="14"/>tellectivam perficit non enim videtur dubium  
+          <lb ed="#B" n="15"/>quin stundens legendo dicta haereticorum  
+          <lb ed="#B" n="16"/>exponat se periculo errandi igitur videtur  
+          <lb ed="#B" n="17"/>quod non sit meritorium 2a contra probationem  
+          <lb ed="#B" n="18"/>illius conclusionis in qua dicitur quod articulus  
+          <lb ed="#B" n="19"/>trinitatis sit sufficienter expressus cum igitur secundum  
+          <lb ed="#B" n="20"/>dyonisium de divinis nomibus capitulo primo  
+          <lb ed="#B" n="21"/>non sic audendum aliquid dicere et co 
+          <lb ed="#B" n="22"/>gitare de super substantiali et oculte di 
+          <lb ed="#B" n="23"/>vitate praeter ea quae divinitus ex sanctis  
+          <lb ed="#B" n="24"/>eloquiis sunt expressa et certum est quod  
+          <lb ed="#B" n="25"/>in tota sacra scriptua sacri canonis hoc  
+          <lb ed="#B" n="26"/>nomen persona de deo non inveniatur  
+          <lb ed="#B" n="27"/>expressum igitur non debet attibui sibi neque 
+          <lb ed="#B" n="28"/>sic transferenda ad divina
+        </p>
+        <p xml:id="jhb-l1q4-d1e3166">
+          ¶ 3o contra eandem  
+          <lb ed="#B" n="29"/>conclusionem in sacra scriptura miscentur dicta  
+          <lb ed="#B" n="30"/>haereticorum gentilium etiam infidelium  
+          <lb ed="#B" n="31"/>et philosophorum quae in propriis locis legere  
+          <lb ed="#B" n="32"/>non licet nec expedit igitur nec iux 
+          <lb ed="#B" n="33"/>ta sacrae scripturae et cum scriptura non  
+          <lb ed="#B" n="34"/>possit legi sive illis sequitur quod sacra 
+          <lb ed="#B" n="35"/>scriptura non est legenda consequentia videtur  
+          <lb ed="#B" n="36"/>bona et antecedens patet nam quod dicta illa  
+          <lb ed="#B" n="37"/>falsa misceantur patet per totum processum li 
+          <lb ed="#B" n="38"/>bri de cuitate et quasi communiter de omni 
+          <lb ed="#B" n="39"/>bus libris sanctorum quod autem non debeat  
+          <lb ed="#B" n="40"/>legi in propriis locis patet de yeroo qui  
+          <lb ed="#B" n="41"/>funt graviter percussus eo quod legit  
+          <lb ed="#B" n="42"/>libros ciceronis igitur etc
+        </p>
+        <p xml:id="jhb-l1q4-d1e3199">
+          ¶ contra primum primum 
+          <lb ed="#B" n="43"/>corollarium intellectionis et voluntas sunt eadem  
+          <!--59v.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="44"/>res omnino sed voluntas est libera igitur et  
+          <lb ed="#B" n="45"/>intellectus maior patet ex dictis in conclusione 
+          <lb ed="#B" n="46"/>primae distinctionis et minor patet ex ratione istius  
+          <lb ed="#B" n="47"/>corollarii primi et formae videtur bona igitur corollarium  
+          <lb ed="#B" n="48"/>falsum
+        </p>
+        <p xml:id="jhb-l1q4-d1e3219">
+          ¶ Contra 2m corollarium arguitur sic si ipsum est  
+          <lb ed="#B" n="49"/>verum sequitur quod nullus meretur nisi apprehen  
+          <lb ed="#B" n="50"/>dat articulum trinitatis et quod approhensio  
+          <lb ed="#B" n="51"/>istius articuli sit actus ipsius vo 
+          <lb ed="#B" n="52"/>luntatis quae ambo sunt falsa igitur et corollarium  
+          <lb ed="#B" n="53"/>probatur consequentia pro prima parte nam si sine  
+          <lb ed="#B" n="54"/>apprehensione istius articuli non est  
+          <lb ed="#B" n="55"/>meritum igitur quandocumque est meritum est etiam  
+          <lb ed="#B" n="56"/>apprehensio istius articuli sit actus  
+          <lb ed="#B" n="57"/>ipsius voluntatis et habetur primum pro 2a parte probaur  
+          <lb ed="#B" n="58"/>quia si totum meritum pendet quantum 
+          <lb ed="#B" n="59"/>ad hominem ex actu voluntatis sequitur si 
+          <lb ed="#B" n="60"/>apprehensio sit meritoria quod erit actus  
+          <lb ed="#B" n="61"/>voluntatis et sic habetur 2m
+        </p>
+        <p xml:id="jhb-l1q4-d1e3250">
+          ¶ Contra 3m  
+          <lb ed="#B" n="62"/>corollarium nam per studium acquiritur habitus  
+          <lb ed="#B" n="63"/>faciliter credendi igitur studens ex suo  
+          <lb ed="#B" n="64"/>studio praedit unam circumstantia inten 
+          <lb ed="#B" n="65"/>dentem ad augmenndum meritum ipsius  
+          <lb ed="#B" n="66"/>antecedens notum est et consequentia probatur quia  
+          <lb ed="#B" n="67"/>difficultas credendi est circumstantia 
+          <lb ed="#B" n="68"/>intenden meritum et actum merendi nam 
+          <lb ed="#B" n="69"/>2m Ieorminum in epistola ad filium maitii 
+          <lb ed="#B" n="70"/>ea res maior est meriti quae ma 
+          <lb ed="#B" n="71"/>ioris est laboris et ambrosius in libro de  
+          <lb ed="#B" n="72"/>cayu et abel omnis virtus in labore  
+          <lb ed="#B" n="73"/>consistit ad idem videtur esse philosophus 2o  
+          <lb ed="#B" n="74"/>ethicorum igitur videtur corollarium falsum
+        </p>
+        <p xml:id="jhb-l1q4-d1e3281">
+          ¶ ad ista et  
+          <lb ed="#B" n="75"/>primo ad principale cum dicitur quod studium  
+          <lb ed="#B" n="76"/>huius arguitur non sit etc negatur antecedens et cum  
+          <lb ed="#B" n="77"/>probatur primo quia talis exponit se peri  
+          <lb ed="#B" n="78"/>culo errandi dicendum quod si studeat  
+          <lb ed="#B" n="79"/>taliter qualiter debet quod hoc est falsum Si 
+          <lb ed="#B" n="80"/>autem aliter quam debet non est contra  
+          <lb ed="#B" n="81"/>propositum debet namque talis cum venerabili 
+          <lb ed="#B" n="82"/>anselmum in fine prologis sui prosologion non  
+          <lb ed="#B" n="83"/>quaerere intelligere ut credat sed debet  
+          <lb ed="#B" n="84"/>credere ut intelligat simile dicit  
+          <lb ed="#B" n="85"/>circa principium primi sui Cur deus  
+          <lb ed="#B" n="86"/>homo Ex quo sequitur mortale  
+          <!--60r.xml-->
+          <pb ed="#B" n="60-r"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>documentum quod nullus debet se po 
+          <lb ed="#B" n="2"/>nere ad theologiae studium nisi haberent cor 
+          <lb ed="#B" n="3"/>vita et fide iudei amore fixum  
+          <lb ed="#B" n="4"/>patet sapientiae primo quia in malino  
+          <lb ed="#B" n="5"/>lam animam non introibit sapientia  
+          <lb ed="#B" n="6"/>nec habitabit in corpre subdito  
+          <lb ed="#B" n="7"/>peccatis Si loquebatur anselmum in prolo 
+          <lb ed="#B" n="8"/>go sui prosologion doce maetdiante quaerere  
+          <lb ed="#B" n="9"/>te et ostende te quaerenti quia  
+          <lb ed="#B" n="10"/>nec te quaere possum nisi tu 
+          <lb ed="#B" n="11"/>doceas et ostendas quaere te desi  
+          <lb ed="#B" n="12"/>derando desiderem te querendo in  
+          <lb ed="#B" n="13"/>veniam amando amem inveni 
+          <lb ed="#B" n="14"/>endo sic loquebatur prius cum dixit  
+          <lb ed="#B" n="15"/>a mandatis intellexi ex quibus  
+          <lb ed="#B" n="16"/>patet ad 2m cum dicitur istud studium  
+          <lb ed="#B" n="17"/>fidem diminuit patet enim quod neque e 
+          <lb ed="#B" n="18"/>vacuat neque diminuit quia debet 
+          <lb ed="#B" n="19"/>credere ut intelligat non intelli 
+          <lb ed="#B" n="20"/>gere ut credat quamvis tamen scientia per 
+          <lb ed="#B" n="21"/>haec stundium acquiratur et haec est quod di 
+          <lb ed="#B" n="22"/>ctum est in prologo quod theologia fidem  
+          <lb ed="#B" n="23"/>praesupponit et requirit nec valet  
+          <lb ed="#B" n="24"/>ratio opponentium in materia ista  
+          <lb ed="#B" n="25"/>quod sequatur ad hoc idem esse  
+          <lb ed="#B" n="26"/>evdens et inevidens patet enim  
+          <lb ed="#B" n="27"/>quod non sequitur sed bene sequitur quod aliter a sen 
+          <lb ed="#B" n="28"/>titur propter aliquod medium quod non fa 
+          <lb ed="#B" n="29"/>cit scientrficam eiudentiam et aliter  
+          <lb ed="#B" n="30"/>propter aliud quod facit evidentiam  
+          <lb ed="#B" n="31"/>et illud nullam repugnatiam  
+          <lb ed="#B" n="32"/>includit
+        </p>
+        <p xml:id="jhb-l1q4-d1e3385">
+          ¶ ad 3m in eodem principali  
+          <lb ed="#B" n="33"/>cum dicitur quod solum intellectum perficit di 
+          <lb ed="#B" n="34"/>co primo quod consequentia non valet quia tamen  
+          <lb ed="#B" n="35"/>hoc stat quod sit actus in paratus vo 
+          <lb ed="#B" n="36"/>luntatis et propter hoc meritorius esse potest
+        </p>
+        <p xml:id="jhb-l1q4-d1e3397">
+          <lb ed="#B" n="37"/>¶ 2o nego assumptum primo consequenter  
+          <lb ed="#B" n="38"/>ad oppinionem ponentem quod theologia 
+          <lb ed="#B" n="39"/>practica sit 2o secundum oppinionem domini 
+          <lb ed="#B" n="40"/>Aegidii et thomae de argentis dicens  
+          <lb ed="#B" n="41"/>quod theologica dicitur effectiva et sequitur eos  
+          <!--60r.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="42"/><name>alphonsus</name>
+        </p>
+        <p xml:id="jhb-l1q4-d1e3419">
+          ¶ 3o secundum oppinionem quam  
+          <lb ed="#B" n="43"/>videtur tenere hugolinus quod theogia non 
+          <lb ed="#B" n="44"/>sit pure speculativa nec pure prac  
+          <lb ed="#B" n="45"/>tica sed simul utrum et sic patet ad to 
+          <lb ed="#B" n="46"/>tum 3m principale
+        </p>
+        <p xml:id="jhb-l1q4-d1e3430">
+          ¶ ad 2am rationem contra  
+          <lb ed="#B" n="47"/>eandem conclusionem circa arguitur contra probationem  
+          <lb ed="#B" n="48"/>conclusionis dicitur quod et si non inveniatur  
+          <lb ed="#B" n="49"/>hoc nomen informa in sciptura  
+          <lb ed="#B" n="50"/>tam talia ponuntur in ea ex quibus  
+          <lb ed="#B" n="51"/>sufficienter potest probari quod in divinis perso 
+          <lb ed="#B" n="52"/>na hoc nomen est admittendum 
+          <lb ed="#B" n="53"/>sicut est generari generare geneitum et  
+          <lb ed="#B" n="54"/>generans quae solum propris suppositis  
+          <lb ed="#B" n="55"/>convenit sed suppositum ne intellectualis  
+          <lb ed="#B" n="56"/>est persona igitur etc non tamen ymaginan  
+          <lb ed="#B" n="57"/>dum est quod ibi sit aliquod accidens  
+          <lb ed="#B" n="58"/>licet Boetius dicat in libro de trinitate 
+          <lb ed="#B" n="59"/>et in libello de duabus naturis  
+          <lb ed="#B" n="60"/>et una persona non est nisi substantia  
+          <lb ed="#B" n="61"/>cum accidentibus quia hoc nomen 
+          <lb ed="#B" n="62"/>persona sicut et alia debet deo  
+          <lb ed="#B" n="63"/>attribui sive inperfectione illud igitur  
+          <lb ed="#B" n="64"/>quod est perfectionis in hoc nomine perso 
+          <lb ed="#B" n="65"/>na debet deo attribui et si quid  
+          <lb ed="#B" n="66"/>connotat inperfectionem remoneri qualiter  
+          <lb ed="#B" n="67"/>tamen hoc nomen significet et quid  
+          <lb ed="#B" n="68"/>quid connotet habetur aliquantulum  
+          <lb ed="#B" n="69"/>per <ref xml:id="jhb-l1q4-Rd1e3482">richardum libro 4o de trinitatis capitulo 19</ref> sed suf 
+          <lb ed="#B" n="70"/>ficiant haec ad praesens
+        </p>
+        <p xml:id="jhb-l1q4-d1e3488">
+          ¶ ad 3m cum  
+          <lb ed="#B" n="71"/>arguitur ex dictis philosophorum dico cum beato am  
+          <lb ed="#B" n="72"/>bosio super lucam legimus aliqua  
+          <lb ed="#B" n="73"/>ne ignoremus legimus aliqua non  
+          <lb ed="#B" n="74"/>ut teneamus sed ut repudiemus Ex  
+          <lb ed="#B" n="75"/>quo patet qualiter licitum est huius legere  
+          <lb ed="#B" n="76"/>et qualiter non nam lege talia ad  
+          <lb ed="#B" n="77"/>eruditionem et falsorum reprobationem est lici 
+          <lb ed="#B" n="78"/>tum sed lege ea ad credulitatem  
+          <lb ed="#B" n="79"/>vel initationem sive assertionem est il 
+          <lb ed="#B" n="80"/>licitum vel etiam ad vanitatem  
+          <lb ed="#B" n="81"/>et naturalem delectationem quia tempus  
+          <lb ed="#B" n="82"/>potest circa merita occupari quam circa illa  
+          <lb ed="#B" n="83"/>ad quae homo de neccessitate salutis obli 
+          <lb ed="#B" n="84"/>gatur  
+          <!--60v.xml-->
+          <pb ed="#B" n="60-v"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>quod nullus dubitat fore illictum
+        </p>
+        <p xml:id="jhb-l1q4-d1e3530">
+          ¶ ad  
+          <lb ed="#B" n="2"/>rationem contra primum corollarium dicitur quod intellectus  
+          <lb ed="#B" n="3"/>et voluntas sunt eadem res di 
+          <lb ed="#B" n="4"/>co quod nonanter dixi meo quod intellectus  
+          <lb ed="#B" n="5"/>ut sic patet hoc quia ut sic est poten  
+          <lb ed="#B" n="6"/>tia naturalis et ideo anima quae est tam vo 
+          <lb ed="#B" n="7"/>luntas quam intellectus sed rationem qua 
+          <lb ed="#B" n="8"/>vos dicitur libere agere sed secundum quod intellectus  
+          <lb ed="#B" n="9"/>decitur agere naturaliter nec procedit ratio contra 
+          <lb ed="#B" n="10"/>illa dicta
+        </p>
+        <p xml:id="jhb-l1q4-d1e3552">
+          ¶ ad rationem contra 2m corollarium  
+          <lb ed="#B" n="11"/>cum dicitur quod si corollarium sit verum etc di 
+          <lb ed="#B" n="12"/>co quo ad primum consequens primo concedendo  
+          <lb ed="#B" n="13"/>ipsum loquendo de apprehensione  
+          <lb ed="#B" n="14"/>actuali et habituali dico 2o quod contra 
+          <lb ed="#B" n="15"/>non valet de forma unde non sequitur sive  
+          <lb ed="#B" n="16"/>acquisitione gradus remissionis non  
+          <lb ed="#B" n="17"/>possum acquirere gradum intensio  
+          <lb ed="#B" n="18"/>rem ergo quandocumque acquiro gradum inten 
+          <lb ed="#B" n="19"/>siorem acquiro remissiorem sed bene sequitur  
+          <lb ed="#B" n="20"/>quod acquiro vel acquisivi ita sufficit  
+          <lb ed="#B" n="21"/>in proposito quod apprehendat vel alias  
+          <lb ed="#B" n="22"/>ante apprehenderit non curo tamen ad praesens  
+          <lb ed="#B" n="23"/>disctutere veritatem in forma exempli 
+          <lb ed="#B" n="24"/>adducti sed sufficit consequentiam non tenere 
+          <lb ed="#B" n="25"/>de forma
+        </p>
+        <p xml:id="jhb-l1q4-d1e3588">
+          ¶ ad 2m consequens potest dici primo  
+          <lb ed="#B" n="26"/>negando quia non omne quod depen 
+          <lb ed="#B" n="27"/>det vel dependet ex actu volendi  
+          <lb ed="#B" n="28"/>vel a voluntate est cuius actus sicut  
+          <lb ed="#B" n="29"/>posset ostendi in multis exemplis ¶
+        </p>
+        <p xml:id="jhb-l1q4-d1e3599">
+          <lb ed="#B" n="30"/>2o potest dici et melius quod aliquid esse  
+          <lb ed="#B" n="31"/>actum voluntatis potest esse vel imperative  
+          <lb ed="#B" n="32"/>vel elicitive primo modo conceditur consequentia et  
+          <lb ed="#B" n="33"/>negaretur falsitas consequentis sed 2o modo conceditur 
+          <lb ed="#B" n="34"/>falsitas consequentis et negetur consequentia
+        </p>
+        <p xml:id="jhb-l1q4-d1e3612">
+          ¶ Ad  
+          <lb ed="#B" n="35"/>rationem contra 3m corollarium cum dicitur quod per stu 
+          <lb ed="#B" n="36"/>dium acquiritur habitus faciliter creden  
+          <lb ed="#B" n="37"/>di etc potest dupliciter responderi
+        </p>
+        <p xml:id="jhb-l1q4-d1e3621">
+          ¶ primo quod  
+          <lb ed="#B" n="38"/>licet studens perdat unam circumst 
+          <lb ed="#B" n="39"/>antiam ex hoc tamen non sequitur quod suum me 
+          <lb ed="#B" n="40"/>ritum diminuatur quia loco illius circum  
+          <lb ed="#B" n="41"/>stantiae acquirit alias multum meli 
+          <lb ed="#B" n="42"/>ores ista sicut est intensius credere vel  
+          <lb ed="#B" n="43"/>extensius expressius et verius et etiam suam 
+          <!--60v.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="44"/>fidem caritati sub ordinare et in deum  
+          <lb ed="#B" n="45"/>actualiter dirigere et multa hiis si  
+          <lb ed="#B" n="46"/>milia
+        </p>
+        <p xml:id="jhb-l1q4-d1e3647">
+          ¶ 2o potest dici negando assumptum  
+          <lb ed="#B" n="47"/>quia non semper melior theologus facilius  
+          <lb ed="#B" n="48"/>credit quia occrrunt sibi plures ratio 
+          <lb ed="#B" n="49"/>nes iustantiae quas quas simpli 
+          <lb ed="#B" n="50"/>ces non advertunt et ideo ut frequentius  
+          <lb ed="#B" n="51"/>tales oportet captivare intellectum in obsequi  
+          <lb ed="#B" n="52"/>um christi et hoc forte advertit ecclesiasticos  
+          <lb ed="#B" n="53"/>cum dicebat qui addit scientiam addit  
+          <lb ed="#B" n="54"/>et laborem ecclesiastes caplaio primo et sic patet  
+          <lb ed="#B" n="55"/>quid dicendum de tota ista conclusione et  
+          <lb ed="#B" n="56"/>ad rationes factas in ipsa
+        </p>
+        <p xml:id="jhb-l1q4-d1e3671">
+          ¶ 
+          <lb ed="#B" n="57"/>plus namque etc ista est 3a distinc 
+          <lb ed="#B" n="58"/>tio istius libri primi quae potest ad  
+          <lb ed="#B" n="59"/>praecedentem sic continuari post  
+          <lb ed="#B" n="60"/>quam in praecedenti distinctione magister probavit  
+          <lb ed="#B" n="61"/>naturae divinae unitatem et personarum trinitatem  
+          <lb ed="#B" n="62"/>per auctoritates sacrae scripturae nunc in ista inten 
+          <lb ed="#B" n="63"/>dit hoc idem probare rationibus cogru 
+          <lb ed="#B" n="64"/>is et simulitudinibus creaturae et divi 
+          <lb ed="#B" n="65"/>ditur in tres partes principales sed quod tripliciter  
+          <lb ed="#B" n="66"/>probat hoc ratione essentiae unitatem et perso 
+          <lb ed="#B" n="67"/>narum trinitatem nam primo probat haec  
+          <lb ed="#B" n="68"/>ratione et argumento 2o simulitudine  
+          <lb ed="#B" n="69"/>et vestigio 3 ymagine fundate in  
+          <lb ed="#B" n="70"/>animae fundato tunc 2a pars incipit ibi 
+          <lb ed="#B" n="71"/>nunc restat ostendere 3s ibi nunc vero ad  
+          <lb ed="#B" n="72"/>eam prima dividitur in quatuor partes  
+          <lb ed="#B" n="73"/>sed quod ponit quatuor rationes per quas  
+          <lb ed="#B" n="74"/>probat suam conclusionem
+        </p>
+        <p xml:id="jhb-l1q4-d1e3714">
+          nam in prima arguit  
+          <lb ed="#B" n="75"/>ex dei causalitate effectiva
+        </p>
+        <p xml:id="jhb-l1q4-d1e3719">
+          2o arguitur ex creatoris  
+          <lb ed="#B" n="76"/>tuarum mutabilitate et dei stabili per  
+          <lb ed="#B" n="77"/>severantia omnimoda
+        </p>
+        <p xml:id="jhb-l1q4-d1e3726">
+          ¶ 3o perfectioum excel 
+          <lb ed="#B" n="78"/>lentia
+        </p>
+        <p xml:id="jhb-l1q4-d1e3731">
+          ¶ 4o ex speciositis exemplaris con 
+          <lb ed="#B" n="79"/>tinentia tunc 2a pars alio etiam modo  
+          <lb ed="#B" n="80"/>3a ibi consideraverunt etiam
+        </p>
+        <p xml:id="jhb-l1q4-d1e3738">
+          ¶ 4a ibi 
+          <lb ed="#B" n="81"/>intellexerunt etc corporis species et tunc  
+          <lb ed="#B" n="82"/>sequitur 2a principalis nunc restat quae 
+          <lb ed="#B" n="83"/>dividitur in 3 partes nam primo ostendit  
+          <lb ed="#B" n="84"/>qualiter vestigi cunctis rebus a 
+          <lb ed="#B" n="85"/>prima arte inprimitur 2o qualiter hoc  
+          <lb ed="#B" n="86"/>vestigum a rationali mente cognoscitur  
+          <lb ed="#B" n="87"/>3o qualiter hoc vestigium trinitatis sive  
+          </p>
+      </div>
+    </body>
+  </text>
+</TEI>
