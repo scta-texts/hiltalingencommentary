@@ -49,9 +49,9 @@
     </front>
     <body>
       <div xml:id="jhb-l1q5">
-        <head xml:id="jhb-l1q5-Hd1e97">Librum 1, Quaestio 5 [Clm 26711 Transcription]</head>
+        <head xml:id="jhb-l1q5-Hd1e97">Liber 1, Quaestio 5 [Clm 26711 Transcription]</head>
         <p xml:id="jhb-l1q5-d1e100">
-          <lb ed="#B"/>Apostolus TEST namque etc ista est 3a distinc<lb ed="#B"/>tio 
+          <lb ed="#B" n="57"/>Apostolus namque etc ista est 3a distinc<lb ed="#B"/>tio 
           istius libri primi quae potest ad 
           <lb ed="#B"/>praecedentem sic <unclear>continu??</unclear> post<lb ed="#B"/>quam 
           in praecedenti dicit <name ref="#Lombard">magister</name> probavit 
@@ -65,7 +65,7 @@
           <lb ed="#B"/>ratione et argumento 2o similitudine 
           <lb ed="#B"/>et vestigio 3 ymagine fundatae in 
           <lb ed="#B"/>animae fundamento tunc 2a pars incipit ibi 
-          <quote xml:id="jhb-l1q5-Qd1e134">nunc restat ostendere</quote> 3a ibi <quote xml:id="jhb-l1q5-Qd1e137">nunc vero ad 
+          <lb ed="#B"/><quote xml:id="jhb-l1q5-Qd1e134">nunc restat ostendere</quote> 3a ibi <quote xml:id="jhb-l1q5-Qd1e137">nunc vero ad 
           <lb ed="#B"/>eam</quote> prima dividitur in quatuor partes 
           <lb ed="#B"/>secundum quod ponit quatuor rationes per quas 
           <lb ed="#B"/>probat suam conclusionem nam in prima arguitur 
@@ -84,7 +84,7 @@
           3o qualiter hoc vestigium trinitatis sine
           <pb ed="#B" n="61-r"/>
           <cb ed="#B" n="a"/>
-          <lb ed="#B"/>TEST4fide non perficitur tunc 2a pars est ibi 
+          <lb ed="#B"/>fide non perficitur tunc 2a pars est ibi 
           <lb ed="#B"/><quote xml:id="jhb-l1q5-Qd1e207">in illa enim trinitate summa</quote> 3a ibi <quote xml:id="jhb-l1q5-Qd1e211">ecce nunc 
           <lb ed="#B"/>ostensum est</quote>
         </p>
