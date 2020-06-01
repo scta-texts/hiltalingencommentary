@@ -72,11 +72,13 @@
         </div>
         <div xml:id="jhb-l1q6-Dd1e151">
           <head xml:id="jhb-l1q6-Hd1e153">Quaestio</head>
-          <p xml:id="jhb-l1q6-d1e152">
-            <lb ed="#B"/>Utrum sine motu et successi<lb ed="#B"/>one 
-            deus generet deum 
-            <lb ed="#B"/>aeterna et vera generatione
-          </p>
+          <div xml:id="jhb-l1q6-Dd1e156">
+            <p xml:id="jhb-l1q6-d1e152">
+              <lb ed="#B"/>Utrum sine motu et successi<lb ed="#B"/>one 
+              deus generet deum 
+              <lb ed="#B"/>aeterna et vera generatione
+            </p>
+          </div>
           <div xml:id="jhb-l1q6-Dd1e165" type="rationes-principales">
             <head xml:id="jhb-l1q6-Hd1e167">Rationes principales</head>
             <div xml:id="jhb-l1q6-Dd1e170">
