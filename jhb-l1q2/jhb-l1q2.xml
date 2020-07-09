@@ -416,7 +416,7 @@
               </ref> 
               dicentes 
               <cit>
-                <quote xml:id="jhbl1q2-Qd1e3886" source="http://scta.info/resource/aconf-l1-d1e102">
+                <quote xml:id="jhbl1q2-Qd1e3886" source="http://scta.info/resource/aconf-l1-d1e102" synch="56-62">
                   ad te nos fecisti et inquietum
                 </quote>
                 <bibl>Augustinus, Confessionum I, 1, 1 (XXX)</bibl>
@@ -629,7 +629,7 @@
               auctoritate gratiae quae Deus est fuerit illustratus, 
               ergo quaestio vera. Antecedens est 
               <cit>
-                <ref xml:id="jhb-l1q2-Rd1e770">
+                <ref xml:id="jhb-l1q2-Rd1e770" target="http://scta.info/resource/a83-q44-d1e108" synch="135-152">
                   <name>Augustinus</name> 
                   <title ref="#deDiversisQuaestionibus">83 quaestiones</title> 
                   <num>44</num> <num>2</num> 
