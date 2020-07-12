@@ -61,26 +61,26 @@
             <!--88r.xml-->
             <cb ed="#B" n="b"/>
             <lb ed="#B" n="40"/>de earum ad invicem comparatione et
-            di<lb ed="#B" n="41"/>viditur in duas partes quia primo
-            ma<lb ed="#B" n="42"/>gister aliqua inquirit de ordine  
+            di<lb ed="#B" n="41" break="no"/>viditur in duas partes quia primo
+            ma<lb ed="#B" n="42" break="no"/>gister aliqua inquirit de ordine  
             <lb ed="#B" n="43"/>processionis / 2o ostendit differentiam
-            proce<lb ed="#B" n="44"/>ssionis et generationis tunc 2a pars
-            in<lb ed="#B" n="45"/>cipit in distinctione 13 post hoc considerandum
+            proce<lb ed="#B" n="44" break="no"/>ssionis et generationis tunc 2a pars
+            in<lb ed="#B" n="45" break="no"/>cipit in distinctione 13 post hoc considerandum
           </p>
           <p xml:id="jhb-l1q13-d1e134">
             <lb ed="#B" n="46"/>prima pars quae est 12 distinctione dividitur  
             <lb ed="#B" n="47"/>in duas partes principales nam primo
-            mo<lb ed="#B" n="48"/>vet quaestiones duas / 2o ponit ad
-            e<lb ed="#B" n="49"/>as responsiones proprias tunc 2a pars incipit  
+            mo<lb ed="#B" n="48" break="no"/>vet quaestiones duas / 2o ponit ad
+            e<lb ed="#B" n="49" break="no"/>as responsiones proprias tunc 2a pars incipit  
             <lb ed="#B" n="50"/>ibi In hiis et huius
           </p>
           <p xml:id="jhb-l1q13-d1e147">
             et ista 2a pars dividitur  
             <lb ed="#B" n="51"/>in duas partes nam primo ostendit quod  
             <lb ed="#B" n="52"/>spiritus sanctus non procedit a patre quam a
-            fi<lb ed="#B" n="53"/>lio prius / 2o quod non magis vel plenius  
+            fi<lb ed="#B" n="53" break="no"/>lio prius / 2o quod non magis vel plenius  
             <lb ed="#B" n="54"/>et 3o ostendit quis sit aliquarum
-            auc<lb ed="#B" n="55"/>toritatum intellectus verus tunc 2a pars  
+            auc<lb ed="#B" n="55" break="no"/>toritatum intellectus verus tunc 2a pars  
             <lb ed="#B" n="56"/>est ibi nunc autem tractandum 3a ibi 
             <lb ed="#B" n="57"/><ref xml:id="jhb-l1q13-Rd1e163"><name xml:id="jhb-l1q13-Nd1e164">augustinus</name> tamen in libro de trinitate</ref>
           </p>
@@ -92,7 +92,7 @@
             <lb ed="#B" n="61"/>debet dici genitus licet a patre et  
             <lb ed="#B" n="62"/>filio procedat 2o quod non debet dici in 
             <lb ed="#B" n="63"/>genitus licet non per generationem esse
-            capi<lb ed="#B" n="64"/>at tunc 2a pars est ibi nunc considerandum  
+            capi<lb ed="#B" n="64" break="no"/>at tunc 2a pars est ibi nunc considerandum  
             <lb ed="#B" n="65"/>est etc prima dividitur in tres nam primo  
             <lb ed="#B" n="66"/>magister ostendit quomodo generari non competit 
             <lb ed="#B" n="67"/>spiritu sancto 2o ostendit quod producere convenit  
@@ -107,7 +107,7 @@
             <lb ed="#B" n="76"/>obicit in contrarium et 3o solvit argumentum obiectum 
             <lb ed="#B" n="77"/>tunc 2a pars est ibi Ieronimus tamen in regulis  
             <lb ed="#B" n="78"/>3a ibi sed ut istam et haec est sententia
-            genera<lb ed="#B" n="79"/>lis in spiritiali autem etc
+            genera<lb ed="#B" n="79" break="no"/>lis in spiritiali autem etc
           </p>
         </div>
         <div xml:id="jhb-l1q13-Dd1e220">
@@ -119,7 +119,7 @@
               <pb ed="#B" n="88-v"/>
               <cb ed="#B" n="a"/>
               <lb ed="#B" n="1"/>et filio procedat quod nec genitus nec
-              inge<lb ed="#B" n="2"/>nitus dici vere valeat
+              inge<lb ed="#B" n="2" break="no"/>nitus dici vere valeat
             </p>
           </div>
           <div xml:id="jhb-l1q13-Dd1e244" type="rationes-principales">
@@ -127,26 +127,26 @@
             <p xml:id="jhb-l1q13-d1e249">
               et arguitur primo quod  
               <lb ed="#B" n="3"/>non quia si spiritus sanctus non diceretur
-              ge<lb ed="#B" n="4"/>initus vere posset distinctum inter spirationem et  
+              ge<lb ed="#B" n="4" break="no"/>initus vere posset distinctum inter spirationem et  
               <lb ed="#B" n="5"/>generationem in via a theologo cognosci  
               <lb ed="#B" n="6"/>consequens falsum et contra <name xml:id="jhb-l1q13-Nd1e259">beatum augustinum</name> ut dicit <ref xml:id="jhb-l1q13-Rd1e263"><name xml:id="jhb-l1q13-Nd1e264">magister</name>  
               <lb ed="#B" n="7"/>in ista distinctionis 13 capitulo 3</ref> Inter generationem 
               <lb ed="#B" n="8"/>vero et spirationem dum hic unius
-              distin<lb ed="#B" n="9"/>guere non possumus igitur quaestio falsa
+              distin<lb ed="#B" n="9" break="no"/>guere non possumus igitur quaestio falsa
             </p>
             <p xml:id="jhb-l1q13-d1e275">
               2o sit non  
               <lb ed="#B" n="10"/>plus negat negatio quam affirmat
-              affir<lb ed="#B" n="11"/>matio igitur si affirmativa non erit vera  
+              affir<lb ed="#B" n="11" break="no"/>matio igitur si affirmativa non erit vera  
               <lb ed="#B" n="12"/>spiritus est genitus sive falsa hoc erit  
               <lb ed="#B" n="13"/>vera spiritus sanctus est ingenitus
             </p>
             <p xml:id="jhb-l1q13-d1e286">
               3o nulla  
               <lb ed="#B" n="14"/>est distinctio inter generationem et
-              spira<lb ed="#B" n="15"/>tionem igitur quaestio falsa consequentia nota et antecedens  
+              spira<lb ed="#B" n="15" break="no"/>tionem igitur quaestio falsa consequentia nota et antecedens  
               <lb ed="#B" n="16"/>probatur quia illa foret differentia
-              speci<lb ed="#B" n="17"/>fica vel numeralis sed nullum istorum potest  
+              speci<lb ed="#B" n="17" break="no"/>fica vel numeralis sed nullum istorum potest  
               <lb ed="#B" n="18"/>dici igitur nulla est distinctio consequentia patet  
               <lb ed="#B" n="19"/>quia si aliqua alia esset esset distinctio  
               <lb ed="#B" n="20"/>generis quae ibi non potest admitti
@@ -154,12 +154,12 @@
             <p xml:id="jhb-l1q13-d1e304">
               <lb ed="#B" n="21"/>In oppositum est determinatio magistri in  
               <lb ed="#B" n="22"/>littera istius praesentis distinctionis patet per
-              mul<lb ed="#B" n="23"/>ta verba et auctoritates sanctorum
+              mul<lb ed="#B" n="23" break="no"/>ta verba et auctoritates sanctorum
             </p>
             <p xml:id="jhb-l1q13-d1e314">
               Ad idem est  
               <lb ed="#B" n="24"/>dictum <ref xml:id="jhb-l1q13-Rd1e318">Io 3o</ref> <quote xml:id="jhb-l1q13-Qd1e321" source="http://scta.info/resource/io3_16">sic deus dilexit
-              mun<lb ed="#B" n="25"/>dum</quote> etc Et <ref xml:id="jhb-l1q13-Rd1e326"><name xml:id="jhb-l1q13-Nd1e327">beatus augustinum</name> 3 de trinitate capitulo 
+              mun<lb ed="#B" n="25" break="no"/>dum</quote> etc Et <ref xml:id="jhb-l1q13-Rd1e326"><name xml:id="jhb-l1q13-Nd1e327">beatus augustinum</name> 3 de trinitate capitulo 
               <lb ed="#B" n="26"/>6</ref>
             </p>
           </div>
@@ -171,8 +171,8 @@
                 <pc type="virgula">//</pc> prima conclusio quamvis ubi genero non sit 
                 <lb ed="#B" n="27"/>spiritus sancti processio lege tamen stante  
                 <lb ed="#B" n="28"/>qualiter una non sit alia a
-                viato<lb ed="#B" n="29"/>re non potest dari sufficiens ratio et
-                evi<lb ed="#B" n="30"/>dens ratio ista conclusio videtur esse expressa 
+                viato<lb ed="#B" n="29" break="no"/>re non potest dari sufficiens ratio et
+                evi<lb ed="#B" n="30" break="no"/>dens ratio ista conclusio videtur esse expressa 
                 <lb ed="#B" n="31"/>sententia <ref xml:id="jhb-l1q13-Rd1e361"><name xml:id="jhb-l1q13-Nd1e362">damasceni</name> libro 1 capitulo 10</ref> Quoniam est quidam  
                 <lb ed="#B" n="32"/>differentia generationis et processionis dicimus  
                 <lb ed="#B" n="33"/>quis autem est modus dicere nequamquam ad  
@@ -185,8 +185,8 @@
                 <lb ed="#B" n="38"/>capitulo 4 quid autem inter nasci et procedere  
                 <lb ed="#B" n="39"/>inter sit de illa excellentissima natura  
                 <lb ed="#B" n="40"/>loquens quis explicare potest Et
-                sub<lb ed="#B" n="41"/>dit infra nescio non valeo non
-                suf<lb ed="#B" n="42"/>fici <name xml:id="jhb-l1q13-Nd1e398">gregorius</name> conclusio vera
+                sub<lb ed="#B" n="41" break="no"/>dit infra nescio non valeo non
+                suf<lb ed="#B" n="42" break="no"/>fici <name xml:id="jhb-l1q13-Nd1e398">gregorius</name> conclusio vera
               </p>
             </div>
             <div xml:id="jhb-l1q13-Dd1e403">
@@ -205,14 +205,14 @@
                 <lb ed="#B" n="50"/>evidenter quia unitas vel pluralitas  
                 <lb ed="#B" n="51"/>producentium omnino eodem et simili modo  
                 <lb ed="#B" n="52"/>ratione productionis non videtur
-                vari<lb ed="#B" n="53"/>ae
+                vari<lb ed="#B" n="53" break="no"/>ae
               </p>
             </div>
             <div xml:id="jhb-l1q13-Dd1e453">
               <head xml:id="jhb-l1q13-Hd1e455">Corollarium 2</head>
               <p xml:id="jhb-l1q13-d1e458">
                 <pc type="virgula">//</pc> 2m corollarium quod diversitas harum
-                proces<lb ed="#B" n="54"/>sionum ex diversitate principiorum quo  
+                proces<lb ed="#B" n="54" break="no"/>sionum ex diversitate principiorum quo  
                 <lb ed="#B" n="55"/>non potest sufficienter viatori evidenter  
                 <lb ed="#B" n="56"/>communicari probatur quia nullum eorum est principium  
                 <lb ed="#B" n="57"/>quo aliud a principio quod ipsum formaliter  
@@ -225,21 +225,21 @@
                 <pc type="virgula">//</pc> 3m corollarium  
                 <lb ed="#B" n="59"/>quod nec ex modis procedendi nec ex super  
                 <lb ed="#B" n="60"/>positis productis potest ista distinctio
-                suf<lb ed="#B" n="61"/>ficienter et evidenter viatori lege
-                stan<lb ed="#B" n="62"/>te ostendi patet quia si modus procedendi  
+                suf<lb ed="#B" n="61" break="no"/>ficienter et evidenter viatori lege
+                stan<lb ed="#B" n="62" break="no"/>te ostendi patet quia si modus procedendi  
                 <lb ed="#B" n="63"/>sufficit sed quod dicit <ref xml:id="jhb-l1q13-Rd1e497"><name xml:id="jhb-l1q13-Nd1e498">augustinum</name> 11 de trinitate capitulo 14</ref>  
                 <lb ed="#B" n="64"/>esset ideo quia verbum procedit quomodo
-                na<lb ed="#B" n="65"/>tus spiritus sanctus vero non quo natus  
+                na<lb ed="#B" n="65" break="no"/>tus spiritus sanctus vero non quo natus  
                 <lb ed="#B" n="66"/>sed quo datus sed haec ratio non ostendit  
                 <lb ed="#B" n="67"/>cur spiritus sanctus non quo natus
-                proce<lb ed="#B" n="68"/>dat quare non sufficere videtur quod ex ipsis  
+                proce<lb ed="#B" n="68" break="no"/>dat quare non sufficere videtur quod ex ipsis  
                 <lb ed="#B" n="69"/>productis non posset ostendi patet quia
-                ma<lb ed="#B" n="70"/>xime videtur ex ratione sumpta <ref xml:id="jhb-l1q13-Rd1e517"><name xml:id="jhb-l1q13-Nd1e518">anselmi</name>  
+                ma<lb ed="#B" n="70" break="no"/>xime videtur ex ratione sumpta <ref xml:id="jhb-l1q13-Rd1e517"><name xml:id="jhb-l1q13-Nd1e518">anselmi</name>  
                 <lb ed="#B" n="71"/>monologion 55 capitulo</ref> quia filius est verbum quod  
                 <lb ed="#B" n="72"/>pater intelligendo se producit et ex eo  
                 <lb ed="#B" n="73"/>simile rei intellectae cuius est verbum spiritus  
                 <lb ed="#B" n="74"/>autem est dominum autem non ex eo quod
-                do<lb ed="#B" n="75"/>num est simile sed dissimile esse potest igitur etc  
+                do<lb ed="#B" n="75" break="no"/>num est simile sed dissimile esse potest igitur etc  
                 <lb ed="#B" n="76"/>Sed haec ratio non manifestat quia  
                 <lb ed="#B" n="77"/>aeque incognitum est nobis quod spiritus  
                 <lb ed="#B" n="78"/>non sit verbum sicut quod ipse non sit  
@@ -260,38 +260,38 @@
                 <cb ed="#B" n="a"/>
                 <lb ed="#B" n="1"/>distinctione articulo 4o</ref> ubi arguit contra primum corollarium  
                 <lb ed="#B" n="2"/>et contra dicta <name xml:id="jhb-l1q13-Nd1e577">gregorius</name> quem sequor in hac
-                par<lb ed="#B" n="3"/>te tripliciter et primo sic ubi est
-                pro<lb ed="#B" n="4"/>ductio ubi non requiritur duplex  
+                par<lb ed="#B" n="3" break="no"/>te tripliciter et primo sic ubi est
+                pro<lb ed="#B" n="4" break="no"/>ductio ubi non requiritur duplex  
                 <lb ed="#B" n="5"/>producens
               </p>
               <p xml:id="jhb-l1q13-d1e588">
                 <pc type="virgula">//</pc> 2o ubi est generatio viventis  
                 <lb ed="#B" n="6"/>per se non possunt esse plures
-                generan<lb ed="#B" n="7"/>tes nisi aliter sit loco matris
+                generan<lb ed="#B" n="7" break="no"/>tes nisi aliter sit loco matris
               </p>
               <p xml:id="jhb-l1q13-d1e598">
                 <pc type="virgula">//</pc> 3o ubi  
                 <lb ed="#B" n="8"/>est persona omnipotens et se dicit si
-                conque<lb ed="#B" n="9"/>ritur alia persona sequitur vel quod non  
+                conque<lb ed="#B" n="9" break="no"/>ritur alia persona sequitur vel quod non  
                 <lb ed="#B" n="10"/>sic omnipotens vel aliter producat quam dicendo  
                 <lb ed="#B" n="11"/>igitur videtur corollarium falsum et dictum <name xml:id="jhb-l1q13-Nd1e612">augustini</name>
-                suffi<lb ed="#B" n="12"/>ciens et verum
+                suffi<lb ed="#B" n="12" break="no"/>ciens et verum
               </p>
               <p xml:id="jhb-l1q13-d1e618">
                 <pc type="virgula">//</pc> Contra 3m corollarium ex dictis  
                 <lb ed="#B" n="13"/>eiusdem doctoris arguitur quod ratio
-                sufficien<lb ed="#B" n="14"/>tiae assignata non valet ex tribus  
+                sufficien<lb ed="#B" n="14" break="no"/>tiae assignata non valet ex tribus  
                 <lb ed="#B" n="15"/>primo quia licet spiritus sanctus sit
-                no<lb ed="#B" n="16"/>titia non tamen ex modo productionis  
+                no<lb ed="#B" n="16" break="no"/>titia non tamen ex modo productionis  
                 <lb ed="#B" n="17"/>nam pater non dicendo se producit
-                a<lb ed="#B" n="18"/>morem quia tunc se solo produceret sed  
+                a<lb ed="#B" n="18" break="no"/>morem quia tunc se solo produceret sed  
                 <lb ed="#B" n="19"/>amando se icentem verbum et
-                aman<lb ed="#B" n="20"/>do verbum igitur etc
+                aman<lb ed="#B" n="20" break="no"/>do verbum igitur etc
               </p>
               <p xml:id="jhb-l1q13-d1e642">
                 <pc type="virgula">//</pc> 2o quamvis spiritus sit  
                 <lb ed="#B" n="21"/>notitia non tamen processione est
-                no<lb ed="#B" n="22"/>titia nec filius est amor neccessitate  
+                no<lb ed="#B" n="22" break="no"/>titia nec filius est amor neccessitate  
                 <lb ed="#B" n="23"/>ideo processione est amor non notitia  
                 <lb ed="#B" n="24"/>sed quia essentialiter est deus qui est notitia  
                 <lb ed="#B" n="25"/>igitur etc
@@ -299,7 +299,7 @@
               <p xml:id="jhb-l1q13-d1e659">
                 <pc type="virgula">//</pc> 3o quia notitia non est notitia  
                 <lb ed="#B" n="26"/>patris producentis nisi ista sit
-                neccessita<lb ed="#B" n="27"/>te notitia Similiter amor producere  
+                neccessita<lb ed="#B" n="27" break="no"/>te notitia Similiter amor producere  
                 <lb ed="#B" n="28"/>cum nisi sit processione amor videtur  
                 <lb ed="#B" n="29"/>igitur ratio insufficientiae non valere et per 
                 <lb ed="#B" n="30"/>consequens corollarium falsum
@@ -316,7 +316,7 @@
                 <lb ed="#B" n="34"/>humanae subducta fide ac eius actu 
                 <lb ed="#B" n="35"/>scilicet credendi conformiter traditioni sacrae  
                 <lb ed="#B" n="36"/>scripturae unde cum dicit ubi est
-                produc<lb ed="#B" n="37"/>tio ubi non requiritur duplex producens  
+                produc<lb ed="#B" n="37" break="no"/>tio ubi non requiritur duplex producens  
                 <lb ed="#B" n="38"/>si nitur universaliter tunc 2m istum doctorem  
                 <lb ed="#B" n="39"/>hoc non est verum quia verbum mentis  
                 <lb ed="#B" n="40"/>nostrae effective 2m eam tam ab obiecto 
@@ -333,7 +333,7 @@
                 <lb ed="#B" n="47"/>quod ubi est generatio vivientis per se non  
                 <lb ed="#B" n="48"/>possunt esse etc hoc primo forte non est  
                 <lb ed="#B" n="49"/>verum generaliter cum verbum generationis
-                mo<lb ed="#B" n="50"/>dus omnium viventium non constet
+                mo<lb ed="#B" n="50" break="no"/>dus omnium viventium non constet
               </p>
               <p xml:id="jhb-l1q13-d1e742">
                 <pc type="virgula">//</pc> 2o  
@@ -349,7 +349,7 @@
                 <lb ed="#B" n="57"/>haberet locum in divinis similiter argueretur  
                 <lb ed="#B" n="58"/>quod spiritus non taliter produceretur ad nobis  
                 <lb ed="#B" n="59"/>qualiter producitur quia in nulla
-                produc<lb ed="#B" n="60"/>tione vivientis ex viviente possunt esse  
+                produc<lb ed="#B" n="60" break="no"/>tione vivientis ex viviente possunt esse  
                 <lb ed="#B" n="61"/>duae causae duae personae producentes sicud  
                 <lb ed="#B" n="62"/>pater et verbum in divinis producunt qua 
                 <lb ed="#B" n="63"/>propter argumentum non valet
@@ -359,14 +359,14 @@
                 <lb ed="#B" n="64"/>concludere cum dicit si est persona  
                 <lb ed="#B" n="65"/>omnipotens et se dicit si requiritur alia  
                 <lb ed="#B" n="66"/>etc dico primo quod hoc maiorem
-                evi<lb ed="#B" n="67"/>dentiam de dicere quam de diligere
+                evi<lb ed="#B" n="67" break="no"/>dentiam de dicere quam de diligere
               </p>
               <p xml:id="jhb-l1q13-d1e797">
                 <pc type="virgula">//</pc> 2o  
                 <lb ed="#B" n="68"/>dico quod una persona non requirit
-                a<lb ed="#B" n="69"/>liam probant hoc verbum sonat aliquam  
+                a<lb ed="#B" n="69" break="no"/>liam probant hoc verbum sonat aliquam  
                 <lb ed="#B" n="70"/>indignitatem indigentiae vel
-                imper<lb ed="#B" n="71"/>fectionis
+                imper<lb ed="#B" n="71" break="no"/>fectionis
               </p>
               <p xml:id="jhb-l1q13-d1e811">
                 <pc type="virgula">//</pc> dico 3o quod consequentia secundum propria principia  
@@ -374,9 +374,9 @@
                 <lb ed="#B" n="73"/>cum utrum potentia generandi sit in filio propositione  
                 <lb ed="#B" n="74"/>cum dicit sic informa haec consequentia non valet  
                 <lb ed="#B" n="75"/>a est tante potentiae quod sufficit solus
-                pro<lb ed="#B" n="76"/>ducere b et a non potest producere d igitur maior  
+                pro<lb ed="#B" n="76" break="no"/>ducere b et a non potest producere d igitur maior  
                 <lb ed="#B" n="77"/>vigor virtus vel potentia requiritur in
-                produc<lb ed="#B" n="78"/>tione ipsius d quam ipsius b sed certum est  
+                produc<lb ed="#B" n="78" break="no"/>tione ipsius d quam ipsius b sed certum est  
                 <lb ed="#B" n="79"/>quod oppositum illius dicti et aliorum ibidem in  
                 <lb ed="#B" n="80"/>ista consequentia supponit et prima dicta sunt  
                 <lb ed="#B" n="81"/>vera igitur et ista secundum sua propria principia  
@@ -401,15 +401,15 @@
                 <lb ed="#B" n="10"/>est quod una productio non est alia vel  
                 <lb ed="#B" n="11"/>saltem talis sicut alia numeraliter  
                 <lb ed="#B" n="12"/>maxime tamen spiritus sanctus sit
-                noti<lb ed="#B" n="13"/>tia et filius sit amor respondetur  
+                noti<lb ed="#B" n="13" break="no"/>tia et filius sit amor respondetur  
                 <lb ed="#B" n="14"/>igitur et dicere quod filius non habet quod sit  
                 <lb ed="#B" n="15"/>amor per suam processionem et spiritus  
                 <lb ed="#B" n="16"/>sanctus non habet quod sit notitia per suam  
                 <lb ed="#B" n="17"/>spirationem apparet quod est solvere vel
-                respon<lb ed="#B" n="18"/>dere per idem et unum est ita
-                mani<lb ed="#B" n="19"/>festum sicut per hoc apparet expresse quod  
+                respon<lb ed="#B" n="18" break="no"/>dere per idem et unum est ita
+                mani<lb ed="#B" n="19" break="no"/>festum sicut per hoc apparet expresse quod  
                 <lb ed="#B" n="20"/>2a nec 3a aliquod concludit quia
-                sol<lb ed="#B" n="21"/>vit idem per idem vel magis notum  
+                sol<lb ed="#B" n="21" break="no"/>vit idem per idem vel magis notum  
                 <lb ed="#B" n="22"/>per minus notum quare prima dicta vera  
                 <lb ed="#B" n="23"/>videntur
               </p>
@@ -422,10 +422,10 @@
               <p xml:id="jhb-l1q13-d1e924">
                 <pc type="virgula">//</pc> 2a conclusio propter 2m argumentum formalis  
                 <lb ed="#B" n="24"/>contradictio est omnium aliarum minima
-                o<lb ed="#B" n="25"/>ppositio probatur quia nulla alia est  
+                o<lb ed="#B" n="25" break="no"/>ppositio probatur quia nulla alia est  
                 <lb ed="#B" n="26"/>tam parva quoniam hoc in illa conservetur  
                 <lb ed="#B" n="27"/>patet de oppositione rationis etc et etiam de
-                o<lb ed="#B" n="28"/>ppositione relationis nam pater generat  
+                o<lb ed="#B" n="28" break="no"/>ppositione relationis nam pater generat  
                 <lb ed="#B" n="29"/>et filius non
               </p>
               <p xml:id="jhb-l1q13-d1e943">
@@ -444,20 +444,20 @@
                 <pc type="virgula">//</pc> primum corollarium parcium  
                 <lb ed="#B" n="36"/>contradictionis non est latitudo aequalis patet quia  
                 <lb ed="#B" n="37"/>in partibus contradictionis non est latitudo
-                sal<lb ed="#B" n="38"/>tem ratione contradictionis igitur corollarium verum <pc type="virgula">//</pc>
+                sal<lb ed="#B" n="38" break="no"/>tem ratione contradictionis igitur corollarium verum <pc type="virgula">//</pc>
               </p>
             </div>
             <div xml:id="jhb-l1q13-Dd1e989">
               <head xml:id="jhb-l1q13-Hd1e991">Corollarium 2</head>
               <p xml:id="jhb-l1q13-d1e994">
                 <lb ed="#B" n="39"/>2m corollarium non quantum una pars contradictionis
-                a<lb ed="#B" n="40"/>ffirmat tantum praecise et adaequate alia  
+                a<lb ed="#B" n="40" break="no"/>ffirmat tantum praecise et adaequate alia  
                 <!--89v.xml-->
                 <cb ed="#B" n="b"/>
                 <lb ed="#B" n="41"/>alia negat probatur quia aliter se 
                 <lb ed="#B" n="42"/>queretur quod negativa foret falsa et cum hoc  
                 <lb ed="#B" n="43"/>aliter esset quam pars affirmativa
-                a<lb ed="#B" n="44"/>ffirmaret vel non vere affirmaret quod est  
+                a<lb ed="#B" n="44" break="no"/>ffirmaret vel non vere affirmaret quod est  
                 <lb ed="#B" n="45"/>inpossibile et consequentia probatur quia si  
                 <lb ed="#B" n="46"/>aliquis homo curreret et aliquis  
                 <lb ed="#B" n="47"/>non hoc esset falsa nullus homo currit  
@@ -525,12 +525,12 @@
                 <lb ed="#B" n="3"/>distinctione 11 parte prima quaestione 3a</ref> ponendo talem  
                 <lb ed="#B" n="4"/>distinctionem oppositio contradictio dupliciter potest sumi  
                 <lb ed="#B" n="5"/>primo quantum ad amplitudinem
-                conten<lb ed="#B" n="6"/>tive et virtualis inclusionis
+                conten<lb ed="#B" n="6" break="no"/>tive et virtualis inclusionis
               </p>
               <p xml:id="jhb-l1q13-d1e1168">
                 <pc type="virgula">//</pc> Alio modo  
                 <lb ed="#B" n="7"/>quantum ad rationem repungnantiae et
-                forma<lb ed="#B" n="8"/>lis oppositionis primo modo sic est maxima  
+                forma<lb ed="#B" n="8" break="no"/>lis oppositionis primo modo sic est maxima  
                 <lb ed="#B" n="9"/>quia omnes alias continet Sed 2o modo  
                 <lb ed="#B" n="10"/>sic est minima quia omnes aliae  
                 <lb ed="#B" n="11"/>habent se per additionem ad illam  
@@ -548,7 +548,7 @@
                 <lb ed="#B" n="17"/>rationem una contradictio alia est formalior  
                 <lb ed="#B" n="18"/>igitur maior potest primo modo dici quod sumendo  
                 <lb ed="#B" n="19"/>contradictionem non pro propositionibus
-                contradicen<lb ed="#B" n="20"/>tibus In propria locutione est contradictio  
+                contradicen<lb ed="#B" n="20" break="no"/>tibus In propria locutione est contradictio  
                 <lb ed="#B" n="21"/>est formabilior etc
               </p>
               <p xml:id="jhb-l1q13-d1e1219">
@@ -559,7 +559,7 @@
               </p>
               <p xml:id="jhb-l1q13-d1e1231">
                 <pc type="virgula">//</pc> 3o dico quod si termini
-                su<lb ed="#B" n="25"/>muntur pro eadem formam et maior tunc  
+                su<lb ed="#B" n="25" break="no"/>muntur pro eadem formam et maior tunc  
                 <lb ed="#B" n="26"/>ad bonum intellectum admitto antecedens  
                 <lb ed="#B" n="27"/>et consequens et consequentiam et tunc nichil est  
                 <lb ed="#B" n="28"/>contra dicta mea sicut patet per distinctionem supra  
@@ -603,8 +603,8 @@
                 <lb ed="#B" n="49"/>naturae patet ex conclusione et eius probatione et  
                 <lb ed="#B" n="50"/>significanter verbis <ref xml:id="jhb-l1q13-Rd1e1339"><name xml:id="jhb-l1q13-Nd1e1340">damascenus</name> libro primo capitulo 9</ref> dicentis  
                 <lb ed="#B" n="51"/>Solus pater est ingenitus solus
-                fi<lb ed="#B" n="52"/>lius genitus solus spiritus sanctus
-                pro<lb ed="#B" n="53"/>cessibilis
+                fi<lb ed="#B" n="52" break="no"/>lius genitus solus spiritus sanctus
+                pro<lb ed="#B" n="53" break="no"/>cessibilis
               </p>
             </div>
             <div xml:id="jhb-l1q13-Dd1e1352">
@@ -620,7 +620,7 @@
               <p xml:id="jhb-l1q13-d1e1384">
                 <lb ed="#B" n="59"/><pc type="virgula">//</pc>Ad idem videtur esse <ref xml:id="jhb-l1q13-Rd1e1390"><name xml:id="jhb-l1q13-Nd1e1391">damascenus</name> libro 3 capitulo 6</ref>  
                 <lb ed="#B" n="60"/>numero et non natura differe dantur
-                ypo<lb ed="#B" n="61"/>stases
+                ypo<lb ed="#B" n="61" break="no"/>stases
               </p>
             </div>
             <div xml:id="jhb-l1q13-Dd1e1401">
@@ -629,14 +629,14 @@
                 / 3m corollarium generatio verbi et spiratio  
                 <lb ed="#B" n="62"/>spiritus sancti quamvis in multipliciter inter  
                 <lb ed="#B" n="63"/>se sunt distinctae non tamen sunt
-                processi<lb ed="#B" n="64"/>ones aequivocae prima pars patet quia cum tot  
+                processi<lb ed="#B" n="64" break="no"/>ones aequivocae prima pars patet quia cum tot  
                 <lb ed="#B" n="65"/>sint processiones quot esse possunt si  
                 <lb ed="#B" n="66"/>plures esse possent de facto essent
               </p>
               <p xml:id="jhb-l1q13-d1e1419">
                 <pc type="virgula">//</pc> 2a  
                 <lb ed="#B" n="67"/>probatur quia si essent aequivoce
-                dif<lb ed="#B" n="68"/>ferent specie et ratione quod est falsum 2m praedicta  
+                dif<lb ed="#B" n="68" break="no"/>ferent specie et ratione quod est falsum 2m praedicta  
                 <lb ed="#B" n="69"/>igitur
               </p>
             </div>
@@ -654,14 +654,14 @@
                 <pc type="virgula">//</pc> Contra primum corollarium  
                 <lb ed="#B" n="75"/>unicus est modus communicandi naturam secundum  
                 <lb ed="#B" n="76"/><ref xml:id="jhb-l1q13-Rd1e1469"><name xml:id="jhb-l1q13-Nd1e1470">commentarem</name> 8 physicorum</ref> sed per quamlibet
-                processio<lb ed="#B" n="77"/>nem adintra natura communicatur igitur Confirmatur  
+                processio<lb ed="#B" n="77" break="no"/>nem adintra natura communicatur igitur Confirmatur  
                 <lb ed="#B" n="78"/>non est oppositio igitur nec distinctio ut  
                 <lb ed="#B" n="79"/>videtur
               </p>
               <p xml:id="jhb-l1q13-d1e1482">
                 <pc type="virgula">//</pc> Contra 2m corollarium tam distinguuntur  
                 <lb ed="#B" n="80"/>processiones divinae quam filiatio et
-                paterni<lb ed="#B" n="81"/>tas inter se sed illa specifice differunt  
+                paterni<lb ed="#B" n="81" break="no"/>tas inter se sed illa specifice differunt  
                 <!--90v.xml-->
                 <pb ed="#B" n="90-v"/>
                 <cb ed="#B" n="a"/>
@@ -679,7 +679,7 @@
                 <lb ed="#B" n="9"/>sed hoc consequens falsum quia tunc competeret  
                 <lb ed="#B" n="10"/>spiritu sancto de se producere maioris amoris  
                 <lb ed="#B" n="11"/>cum hoc conveniat filio et per consequens
-                pro<lb ed="#B" n="12"/>cessiones multiplicabiles erunt  
+                pro<lb ed="#B" n="12" break="no"/>cessiones multiplicabiles erunt  
                 <lb ed="#B" n="13"/>et per consequens non sunt in multipliciter distincte  
                 <lb ed="#B" n="14"/>contra corollarium
               </p>
@@ -689,10 +689,10 @@
               <p xml:id="jhb-l1q13-d1e1540">
                 <pc type="virgula">//</pc> Solutio rationum et primo auctoritas  
                 <lb ed="#B" n="15"/>Ieromini adquam praeter solutionem magistri potest
-                respon<lb ed="#B" n="16"/>deri ex dictis <ref xml:id="jhb-l1q13-Rd1e1549"><name xml:id="jhb-l1q13-Nd1e1550">domini Egidii</name> in ista distinctione 
+                respon<lb ed="#B" n="16" break="no"/>deri ex dictis <ref xml:id="jhb-l1q13-Rd1e1549"><name xml:id="jhb-l1q13-Nd1e1550">domini Egidii</name> in ista distinctione 
                 <lb ed="#B" n="17"/>quaestione ultimo</ref> ubi dicit quod ingenitus tripliciter 
                 <lb ed="#B" n="18"/>potest dici uno modo quia non habet in se
-                ge<lb ed="#B" n="19"/>nerationem passive sumptam
+                ge<lb ed="#B" n="19" break="no"/>nerationem passive sumptam
               </p>
               <p xml:id="jhb-l1q13-d1e1562">
                 <pc type="virgula">//</pc> 2o quia  
@@ -702,17 +702,17 @@
               <p xml:id="jhb-l1q13-d1e1572">
                 <pc type="virgula">//</pc> 3o quia non habet generationem  
                 <lb ed="#B" n="22"/>nec est ab habente et cum hoc habet
-                proprie<lb ed="#B" n="23"/>tatem oppositam tali generationi
-                pa<lb ed="#B" n="24"/>ssive primo modo dicitur spiritus sanctus
-                ingeni<lb ed="#B" n="25"/>tus quia non genitus / 2o essentia  
+                proprie<lb ed="#B" n="23" break="no"/>tatem oppositam tali generationi
+                pa<lb ed="#B" n="24" break="no"/>ssive primo modo dicitur spiritus sanctus
+                ingeni<lb ed="#B" n="25" break="no"/>tus quia non genitus / 2o essentia  
                 <lb ed="#B" n="26"/>divina / 3o solus pater conclusio vero est de 3o  
                 <lb ed="#B" n="27"/>modo dictum <name xml:id="jhb-l1q13-Nd1e1590">Ieromini</name> de primo ideo non
-                impe<lb ed="#B" n="28"/>dit
+                impe<lb ed="#B" n="28" break="no"/>dit
               </p>
               <p xml:id="jhb-l1q13-d1e1596">
                 <pc type="virgula">//</pc> Ad rationem contra primum corollarium et  
                 <lb ed="#B" n="29"/>primo ad dictum commentatoris dico quod loquitur de
-                com<lb ed="#B" n="30"/>municatione natuere creatae ideo nihil  
+                com<lb ed="#B" n="30" break="no"/>municatione natuere creatae ideo nihil  
                 <lb ed="#B" n="31"/>ad propositum
               </p>
               <p xml:id="jhb-l1q13-d1e1609">
@@ -741,7 +741,7 @@
                 <lb ed="#B" n="43"/>competit uni univocorum etc concedo alias 
                 <lb ed="#B" n="44"/>et consequens ad sanum intellectum et cum ultra  
                 <lb ed="#B" n="45"/>infertur quidquid competit filio
-                compe<lb ed="#B" n="46"/>tit spiritu sancto negatur primo consequentia quia  
+                compe<lb ed="#B" n="46" break="no"/>tit spiritu sancto negatur primo consequentia quia  
                 <lb ed="#B" n="47"/>est fallacia figurae dictionis
               </p>
               <p xml:id="jhb-l1q13-d1e1667">
@@ -762,11 +762,11 @@
                 <lb ed="#B" n="61"/>illius parvi post assignatio suae  
                 <lb ed="#B" n="62"/>rationis haec de illo sermone in hunc 
                 <lb ed="#B" n="63"/>librum transtuli sed fidelibus non
-                infi<lb ed="#B" n="64"/>delibus loquens Et subdit infra 
+                infi<lb ed="#B" n="64" break="no"/>delibus loquens Et subdit infra 
                 <lb ed="#B" n="65"/>capitulo 80 de parvis Cur non de illa
-                sum<lb ed="#B" n="66"/>ma trinitate quae deus credunt
-                po<lb ed="#B" n="67"/>tius quod in sacris continetur consequentia
-                po<lb ed="#B" n="68"/>scunt liquidissimam sibi reddi rationem 
+                sum<lb ed="#B" n="66" break="no"/>ma trinitate quae deus credunt
+                po<lb ed="#B" n="67" break="no"/>tius quod in sacris continetur consequentia
+                po<lb ed="#B" n="68" break="no"/>scunt liquidissimam sibi reddi rationem 
                 <lb ed="#B" n="69"/>quae ad humana mente tarda infirma- 
                 <lb ed="#B" n="70"/>que non capitur Ex quibus patet quod supra  
                 <lb ed="#B" n="71"/>est dictum scilicet non datur ratio alia vel  
