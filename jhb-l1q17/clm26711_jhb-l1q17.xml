@@ -86,7 +86,7 @@
           <head xml:id="jhb-l1q17-Hd1e163">Quaestio</head>
           <div xml:id="jhb-l1q17-Dd1e166">
             <p xml:id="jhb-l1q17-d1e168">
-              <lb ed="#B" n="90"/>utrum sola meritati spiritus natura  
+              <lb ed="#B" n="90"/>utrum sola increati spiritus natura  
               <!--99v.xml-->
               <pb ed="#B" n="99-v"/>
               <cb ed="#B" n="a"/>
@@ -99,41 +99,41 @@
             <head xml:id="jhb-l1q17-Hd1e189">Rationes principales</head>
             <p xml:id="jhb-l1q17-d1e192">
               et arguitur  
-              <lb ed="#B" n="4"/>quod non quia sola caritas dividitur  
-              <lb ed="#B" n="5"/>inter filios regis perditionis 2m <ref xml:id="jhb-l1q17-Rd1e198"><name xml:id="jhb-l1q17-Nd1e199">augustinum</name>  
+              <lb ed="#B" n="4"/>quod non quia <quote xml:id="jhb-l1q17-Qd1e196" source="http://scta.info/resource/adt-l15-d1e1896" synch="7-18">sola caritas <sic>dividitur</sic>  
+              <lb ed="#B" n="5"/>inter filios <sic>regis perditionis</sic></quote> 2m <ref xml:id="jhb-l1q17-Rd1e198" corresp="@jhb-l1q17-Qd1e196"><name xml:id="jhb-l1q17-Nd1e199">augustinum</name>  
               <lb ed="#B" n="6"/>19 de trinitate capitulo 18</ref> sed talis caritas 
-              <lb ed="#B" n="7"/>nono est increati spiritus natura sicut  
+              <lb ed="#B" n="7"/>non est increati spiritus natura sicut  
               <lb ed="#B" n="8"/>insolubiliter sed quod dicit <ref xml:id="jhb-l1q17-Rd1e210"><name xml:id="jhb-l1q17-Nd1e211">gregorius</name> distinctione 
-              <lb ed="#B" n="9"/>17 ista quaestione prima articulo primo</ref> haberi  
+              <lb ed="#B" n="9"/>17 ista quaestione prima articulo <unclear>primo<!-- unclear if part of ref --></unclear></ref> haberi  
               <lb ed="#B" n="10"/>potest ex illis auctoritatibus <ref xml:id="jhb-l1q17-Rd1e219">primo  
-              <lb ed="#B" n="11"/>cor 13</ref> <quote xml:id="jhb-l1q17-Qd1e224" source="http://scta.info/resource/Icor13_1">si linguis hominum</quote> etc et  
+              <lb ed="#B" n="11"/>corinthios 13</ref> <quote xml:id="jhb-l1q17-Qd1e224" source="http://scta.info/resource/Icor13_1">si linguis hominum</quote> etc et  
               <lb ed="#B" n="12"/><ref xml:id="jhb-l1q17-Rd1e228">Romanos 11</ref> <quote xml:id="jhb-l1q17-Qd1e232" source="http://scta.info/resource/rom5_5">Caritas dei diffusa</quote> etc et  
               <lb ed="#B" n="13"/>sequitur quod quaestio sit falsa
             </p>
             <p xml:id="jhb-l1q17-d1e238">
               ¶ 2o sic inpossibile  
               <lb ed="#B" n="14"/>est creati spiritus naturam menti rationali  
-              <lb ed="#B" n="15"/>esse forma intrinsicam igitur quaestio falsa consequentia  
-              <lb ed="#B" n="16"/>non sicut patet ex terminis antecedens arguitur  
-              <lb ed="#B" n="17"/>primo quia repugnat sibi in  
-              <lb ed="#B" n="18"/>haerentia subiectiva ¶ 2o quia  
+              <lb ed="#B" n="15"/>esse formam intrinsecam igitur quaestio falsa consequentia  
+              <lb ed="#B" n="16"/>nota sicut patet ex terminis antecedens arguitur  
+              <lb ed="#B" n="17"/>primo quia repugnat sibi 
+              in<lb ed="#B" n="18" break="no"/>haerentia subiectiva ¶ 2o quia  
               <lb ed="#B" n="19"/>mens formaliter haberet iustitiam  
               <lb ed="#B" n="20"/>immensam igitur ¶ 3o quia tunc non  
-              <lb ed="#B" n="21"/>esset alia salus qua dicit dicitur deus 
-              <lb ed="#B" n="22"/>in se salus saluus et illa qua 
-              <lb ed="#B" n="23"/>saliui sunt quos ipse salvos facit  
+              <lb ed="#B" n="21"/>esset alia salus qua dicitur deus 
+              <lb ed="#B" n="22"/>in se <del rend="expunctuation strikethrough">salus</del> salvus et illa qua 
+              <lb ed="#B" n="23"/>salvi sunt quos ipse salvos facit  
               <lb ed="#B" n="24"/>contra <ref xml:id="jhb-l1q17-Rd1e264"><name xml:id="jhb-l1q17-Nd1e265">beatum augustinum</name> in libro de gratia novi 
               <lb ed="#B" n="25"/>testamenti</ref> igitur quaestio falsa
             </p>
             <p xml:id="jhb-l1q17-d1e272">
               ¶ 3o sic
-              ca<lb ed="#B" n="26" break="no"/>ritas creata meritorium actu efficere  
+              ca<lb ed="#B" n="26" break="no"/>ritas creata meritorium actum efficit  
               <lb ed="#B" n="27"/>igitur intrinsece formaliter et sufficienter
               men<lb ed="#B" n="28" break="no"/>tem rationalem iustam reddit  
-              <lb ed="#B" n="29"/>consequentia satis non antecedens habetur de  
-              <lb ed="#B" n="30"/>prima distinctione 2a Caritas ubi dicitur  
-              <lb ed="#B" n="31"/>Caritas operosa in perserverantibus  
-              <lb ed="#B" n="32"/>et <ref xml:id="jhb-l1q17-Rd1e289">primae corinthios 15</ref> <quote xml:id="jhb-l1q17-Qd1e292" source="http://scta.info/resource/Icor15_10">habundationis  
+              <lb ed="#B" n="29"/>consequentia satis nota antecedens habetur de  
+              <lb ed="#B" n="30"/><ref xml:id="jhb-l1q17-Rd1e294" target="http://scta.info/resource/gd-p2c33q3d2-d1e146" synch="106-108">prima distinctione 2a Caritas</ref> ubi dicitur  
+              <lb ed="#B" n="31"/>Caritas <quote xml:id="jhb-l1q17-Qd1e300">operosa in perseverantibus</quote>  
+              <lb ed="#B" n="32"/>et <ref xml:id="jhb-l1q17-Rd1e289">primae corinthios 15</ref> <quote xml:id="jhb-l1q17-Qd1e292" source="http://scta.info/resource/Icor15_10">habundantius
               <lb ed="#B" n="33"/>omnibus laboravi non ego si gratia 
               <lb ed="#B" n="34"/>dei mecum</quote>
             </p>
@@ -141,16 +141,16 @@
               ¶ In oppositum arguitur  
               <lb ed="#B" n="35"/>nulla natura praeter istam sufficit
               men<lb ed="#B" n="36" break="no"/>tem intrinsece et formaliter
-              iusti<lb ed="#B" n="37" break="no"/>ficare et haec sufficit igitur quaestio vera quando  
-              <lb ed="#B" n="38"/>nota ab ex ponentibus ad expositam  
-              <lb ed="#B" n="39"/>et antecedens tenet communiter a doctoribus  
+              iusti<lb ed="#B" n="37" break="no"/>ficare et haec sufficit igitur quaestio vera consequentia  
+              <lb ed="#B" n="38"/>nota ab exponentibus ad expositam  
+              <lb ed="#B" n="39"/>et antecedens tenetur communiter a doctoribus  
               <lb ed="#B" n="40"/>et potest probari nam quod haec natura potest  
-              <lb ed="#B" n="41"/>patet quia spiritus sanctus sive donis in com 
-              <lb ed="#B" n="42"/>plexis potest dari sicut supra est proba  
-              <lb ed="#B" n="43"/>tum quod nichil aliud possit patet quia  
+              <lb ed="#B" n="41"/>patet quia spiritus sanctus sine donis <seg type="correction"><add place="above-line">in</add>com 
+              <lb ed="#B" n="42"/>plexis</seg> potest dari sicut supra est 
+              proba<lb ed="#B" n="43" break="no"/>tum quod nichil aliud possit patet quia  
               <!--99v.xml-->
               <cb ed="#B" n="b"/>
-              <lb ed="#B" n="44"/>tunc aliquid aliud aliud quam deus
+              <lb ed="#B" n="44"/>tunc aliquid aliud <del rend="strikethrough">aliud</del> quam deus
               po<lb ed="#B" n="45" break="no"/>sset mentem rationalem iustificare  
               <lb ed="#B" n="46"/>ymmo sine deo quod est falsum omnino igitur etc
             </p>
@@ -603,8 +603,8 @@
               <head xml:id="jhb-l1q17-Hd1e1320">Conclusio</head>
               <p xml:id="jhb-l1q17-d1e1323">
                 ¶ 3a conclusio Caritas
-                crea<lb ed="#B" n="81" break="no"/>tra est habitus super principaliter infusus  
-                <lb ed="#B" n="82"/>a deo actuantem specialiter mentem  
+                crea<lb ed="#B" n="81" break="no"/>tra est habitus <sic>super principaliter<!--corr from should be "naturaliter"--></sic> infusus  
+                <lb ed="#B" n="82"/>a deo actuante specialiter mentem  
                 <lb ed="#B" n="83"/>eam deo actualiter et deum menti
                 ac<lb ed="#B" n="84" break="no"/>tualiter vel habitualiter ex acceptatione  
                 <lb ed="#B" n="85"/>divina carismans quodlibet melioratum  
@@ -618,7 +618,7 @@
                 <lb ed="#B" n="5"/>patet quia deus est vita animae  
                 <lb ed="#B" n="6"/>igitur actuat eam consequentia nota antecedens est  
                 <lb ed="#B" n="7"/><ref xml:id="jhb-l1q17-Rd1e1361"><name xml:id="jhb-l1q17-Nd1e1362">beati gregorii</name> super ezech parte 2a omelia 5a</ref>  
-                <lb ed="#B" n="8"/>quod haec caritas actualiter carisirmat  
+                <lb ed="#B" n="8"/>quod haec caritas actualiter carismat  
                 <lb ed="#B" n="9"/>deo et semper continue satis patet de  
                 <lb ed="#B" n="10"/>se et sic videtur salvator
                 di<lb ed="#B" n="11" break="no"/>xisse Ego cognosco meas Et  
@@ -626,17 +626,17 @@
                 <lb ed="#B" n="13"/>autem deum nolis patet per <ref xml:id="jhb-l1q17-Rd1e1385"><name xml:id="jhb-l1q17-Nd1e1386">beatum augustinum</name>  
                 <lb ed="#B" n="14"/>in de moribus ecclesiae capitulo 14</ref> per
                 cari<lb ed="#B" n="15" break="no"/>tatem fit ut formentur deo et  
-                <lb ed="#B" n="16"/><ref xml:id="jhb-l1q17-Rd1e1395">4 de doctrina christiana</ref> caritatem  
-                <lb ed="#B" n="17"/>vocat motum animi et in <ref xml:id="jhb-l1q17-Rd1e1401">libro confessionum</ref>  
-                <lb ed="#B" n="18"/><quote xml:id="jhb-l1q17-Qd1e1405" source="http://scta.info/resource/aconf-l13-d1e150">pondus meum amor meus</quote>
+                <lb ed="#B" n="16"/><ref xml:id="jhb-l1q17-Rd1e1395">4 de doctrina christiana</ref> <quote xml:id="jhb-l1q17-Qd1e1425" source="http://scta.info/resource/addc-l3-d1e245" synch="1-4">caritatem  
+                <lb ed="#B" n="17"/>vocat motum animi</quote> et in <ref xml:id="jhb-l1q17-Rd1e1401">libro confessionum</ref>  
+                <lb ed="#B" n="18"/><quote xml:id="jhb-l1q17-Qd1e1405" source="http://scta.info/resource/aconf-l13-d1e150" synch="161-165">pondus meum amor meus</quote>
                 mul<lb ed="#B" n="19" break="no"/>tae sunt ad hoc auctoritates igitur etc
               </p>
             </div>
             <div xml:id="jhb-l1q17-Dd1e1412">
               <head xml:id="jhb-l1q17-Hd1e1414">Corollarium 1</head>
               <p xml:id="jhb-l1q17-d1e1417">
-                <lb ed="#B" n="20"/>¶ primum corollarium contra <quote xml:id="jhb-l1q17-Qd1e1421"><name xml:id="jhb-l1q17-Nd1e1422">magistrum hugolinus</name>  
-                <lb ed="#B" n="21"/>circa distinctione 14</quote> et 4or sequentes
+                <lb ed="#B" n="20"/>¶ primum corollarium contra <quote xml:id="jhb-l1q17-Qd1e1421"><name xml:id="jhb-l1q17-Nd1e1422">magistrum hugolinum</name>
+                <lb ed="#B" n="21"/>circa distinctionem 14</quote> et 4or sequentes
                 Ca<lb ed="#B" n="22" break="no"/>ritas creata mentem rationabilem  
                 <lb ed="#B" n="23"/>quam informat non semper actualiter  
                 <lb ed="#B" n="24"/>inclinat patet ex conclusione Et confirmatur  
@@ -645,14 +645,14 @@
                 <lb ed="#B" n="27"/>eum quia caritas increata tripliciter  
                 <lb ed="#B" n="28"/>caritas creata dupliciter et mens  
                 <lb ed="#B" n="29"/>rationalis simpliciter in tali operatione 
-                con<lb ed="#B" n="30" break="no"/>currit nam caritas in creata
-                uni<lb ed="#B" n="31" break="no"/>ficat inclinat et operatur gratia
+                con<lb ed="#B" n="30" break="no"/>currit nam caritas increata
+                vivi<lb ed="#B" n="31" break="no"/>ficat inclinat et operatur gratia
                 in<lb ed="#B" n="32" break="no"/>clinat et operatur potentia solum operatur  
                 <lb ed="#B" n="33"/>sed spiritus sanctus non movet actualiter  
-                <lb ed="#B" n="34"/>nisi quando vult mente operari secundum quod  
-                <lb ed="#B" n="35"/>potest haberi ex illo <ref xml:id="jhb-l1q17-Rd1e1458">ezech primo</ref> ubi
+                <lb ed="#B" n="34"/>nisi quando vult mentem operari secundum quod  
+                <lb ed="#B" n="35"/>potest haberi ex illo <ref xml:id="jhb-l1q17-Rd1e1458">ezekiel primo</ref> <quote source="http://scta.info/resource/ez1_12">>ubi
                 e<lb ed="#B" n="36" break="no"/>rat impetus spiritus illuc
-                gradie<lb ed="#B" n="37" break="no"/>bantur igitur sequitur corollarium
+                gradie<lb ed="#B" n="37" break="no"/>bantur</quote> igitur sequitur corollarium
               </p>
             </div>
             <div xml:id="jhb-l1q17-Dd1e1468">
