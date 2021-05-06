@@ -353,7 +353,7 @@
                 <!--100v.xml-->
                 <pb ed="#B" n="100-v"/>
                 <cb ed="#B" n="a"/>
-                <lb ed="#B" n="1"/>est dilectio matris in trina sine
+                <lb ed="#B" n="1"/>est dilectio mentis in trina sine
                 inper<lb ed="#B" n="2" break="no"/>fectione vitalis eius forma qua 
                 <lb ed="#B" n="3"/>non actuante non elevatur creatura  
                 <lb ed="#B" n="4"/>rationalis sufficienter ad causarum de deo  
@@ -361,12 +361,12 @@
                 <lb ed="#B" n="6"/>apostoli sufficienter probatur primo ex illo 
                 <lb ed="#B" n="7"/><ref xml:id="jhb-l1q17-Rd1e766">Romanos 5</ref> <quote xml:id="jhb-l1q17-Qd1e770" source="http://scta.info/resource/rom5_5">Caritas dei diffusa est  
                 <lb ed="#B" n="8"/>in cordibus nostris</quote> quod <name xml:id="jhb-l1q17-Nd1e775">augustinus</name> exponit  
-                <lb ed="#B" n="9"/>de caritate increata sicut pertiunt  
+                <lb ed="#B" n="9"/>de caritate increata sicut <unclear>ptiunt</unclear>  
                 <lb ed="#B" n="10"/>in <ref xml:id="jhb-l1q17-Rd1e782">prima conclusione</ref> et <ref xml:id="jhb-l1q17-Rd1e785">Romanos 8</ref> <quote xml:id="jhb-l1q17-Qd1e789" source="http://scta.info/resource/rom8_16">ipse spiritus 
                 <lb ed="#B" n="11"/>enim testimonium reddit spiritui nostro 
                 <lb ed="#B" n="12"/>quod filii dei sumus</quote> et ibidem <quote xml:id="jhb-l1q17-Qd1e796" source="http://scta.info/resource/rom8_14">qui  
-                <lb ed="#B" n="13"/>spiritu dei agentur haii filii sunt</quote>  
-                <lb ed="#B" n="14"/>ubi notant apostolus dicit spiritu non  
+                <lb ed="#B" n="13"/>spiritu dei agentur hii filii sunt</quote>  
+                <lb ed="#B" n="14"/>ubi notanter apostolus dicit spiritum non  
                 <lb ed="#B" n="15"/>spiritum solum ¶ ultima particula patet  
                 <lb ed="#B" n="16"/>ex illo dicto apostoli qui spiritum christi non  
                 <lb ed="#B" n="17"/>habet hic non est eius
@@ -477,9 +477,9 @@
                 <!--101r.xml-->
                 <pb ed="#B" n="101-r"/>
                 <cb ed="#B" n="a"/>
-                <lb ed="#B" n="1"/>pro nobis</quote> quid inquit <name xml:id="jhb-l1q17-Nd1e1060">augustinus</name> est ipse  
-                <lb ed="#B" n="2"/>spiritus intepellat pro sanctis nisi ipsa 
-                <lb ed="#B" n="3"/>caritas quae in te per spiritum sanctum sancta est  
+                  <lb ed="#B" n="1"/>pro nobis</quote> <quote source="http://scta.info/resource/n6MsPi-14wdDm-d1e1062" synch="240-256">quid inquit <name xml:id="jhb-l1q17-Nd1e1060">augustinus</name> est <quote source="http://scta.info/resource/rom8_27">ipse  
+                <lb ed="#B" n="2"/>spiritus interpellat pro sanctis</quote> nisi ipsa 
+                <lb ed="#B" n="3"/>caritas quae in te per spiritum sanctum <unclear>facta</unclear> est</quote>
                 <lb ed="#B" n="4"/>igitur illa caritas non est spiritus aliter  
                 <lb ed="#B" n="5"/>dicetur sanctus
               </p>
@@ -667,7 +667,7 @@
                 <cb ed="#B" n="b"/>
                 <lb ed="#B" n="42"/>specialiter spiritus sanctus probatur corollarium per <ref xml:id="jhb-l1q17-Rd1e1498"><name xml:id="jhb-l1q17-Nd1e1499">beatum  
                 <lb ed="#B" n="43"/>augustinum</name> libro primo de verbis deum c sermone 
-                <lb ed="#B" n="44"/>5</ref> bonum quod facis hominem bonum deus 
+                <lb ed="#B" n="44"/>5</ref> bonum quod facit hominem bonum deus 
                 <lb ed="#B" n="45"/>est non enim reddit hominem bonum nisi  
                 <lb ed="#B" n="46"/>iste qui semper bonus est et <ref xml:id="jhb-l1q17-Rd1e1511">2o de libro  
                 <lb ed="#B" n="47"/>arbitrio</ref> nulla res formae se ipsam  
@@ -680,9 +680,9 @@
                 ¶ 3m corollarium contra 3m modum quem
                 re<lb ed="#B" n="49" break="no"/>citat <ref xml:id="jhb-l1q17-Rd1e1530"><name xml:id="jhb-l1q17-Nd1e1531">doctor subtilis</name> in ista distinctione  
                 <lb ed="#B" n="50"/>prima</ref> et 2a quaestionibus habitus caritatis  
-                <lb ed="#B" n="51"/>creatatae non solum efficit operationem  
-                <lb ed="#B" n="52"/>meliorativam merentis quantum ad in 
-                <lb ed="#B" n="53"/>tensione et gradum sed etiam quantum 
+                <lb ed="#B" n="51"/><seg type="correction">crea<del rend="expunctuation">ta</del>tae</seg> non solum efficit operationem  
+                <lb ed="#B" n="52"/>meliorativam merentis quantum ad 
+                in<lb ed="#B" n="53"/>tensionem et gradum sed etiam quantum 
                 <lb ed="#B" n="54"/>ad substantiam et actum patet ex conclusione et
                 dua<lb ed="#B" n="55" break="no"/>bus ultimis particulis specialiter conclusionis pro 
                 <lb ed="#B" n="56"/>quibus et corollario est autoritas adducta  
