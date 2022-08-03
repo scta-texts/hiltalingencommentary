@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber 1, Quaestio 35 [Clm 26711 Transcription]</title>
+        <author>John Hiltalingen of Basel</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Liber 1, Quaestio 35 [Clm 26711 Transcription]</title>
+          <date when="2022-08-02">August 02, 2022</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="clm26711">Bayerishce Staatsbibliothek, Clm 26711</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2022-08-02" who="#JW" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+          <!-- transcription is current result of HTR produced transcription; with structure added and some corrections -->
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="147-v"/>
+        <cb ed="#B" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jhb-l1q35">
+        <head xml:id="jhb-l1q35-Hd1e92">Quaestio 35</head>
+        <p xml:id="jhb-l1q35-d1e94">
+          <lb ed="#B" n="44"/>hic oritur quaestio etc postquam magister  
+          <lb ed="#B" n="45"/>determinavit de divinae voluntatis  
+          <lb ed="#B" n="46"/>efficatia nunc circa dicta 
+          mo<lb ed="#B" n="47" break="no"/>vet quaedam dubia et dividitur in duas  
+          <lb ed="#B" n="48"/>partes 2m quod duas movet quaestiones nam 
+          <lb ed="#B" n="49"/>primo quaerit magister utrum deus velit  
+          <lb ed="#B" n="50"/>aliquod bonum firi quod non eveniat arogmo
+          <lb ed="#B" n="51"/>utrum aliquod mabi noliter quod tamen ficit  
+          <lb ed="#B" n="52"/>tunc 2a pars incecipit ibi Ioque Cum 
+          con<lb ed="#B" n="53" break="no"/>scet etc prima pars dividitur in 2 partes  
+          <lb ed="#B" n="54"/>natura primo magister arguit auctoritate dia  
+          <lb ed="#B" n="55"/>voluntatem non semper adimpleri  
+          <lb ed="#B" n="56"/>mo docet qualiter huius auctoritatibus  
+          <lb ed="#B" n="57"/>potest responderi tunc 2a pars incipit ibi  
+          <lb ed="#B" n="58"/>sed audiamus solutionem et tunc sequitur  
+          <lb ed="#B" n="59"/>2a pars principalis ioque cum constet  
+          <lb ed="#B" n="60"/>et dividitur in et partes nam primo magister  
+          <lb ed="#B" n="61"/>recitat duplicem oppinione 2o  
+          <lb ed="#B" n="62"/>uni consenciendo ponit sua delectionem  
+          <lb ed="#B" n="63"/>tunc 2a pars incipit in si quis diligentir  
+          <lb ed="#B" n="64"/>aliae partes patebunt
+        </p>
+        <p xml:id="jhb-l1q35-d1e142">
+          <lb ed="#B" n="65"/>utrum dicimur velle frustrabile  
+          <lb ed="#B" n="66"/>quodlibet possibile bonum et solum  
+          <lb ed="#B" n="67"/>tale possit efficere et arguitur primo  
+          <lb ed="#B" n="68"/>quod non quia velle divinum non est in 
+          fru<lb ed="#B" n="69" break="no"/>stabile igitur quaestio falsa consequentia patet antecedens arguitur tum  
+          <lb ed="#B" n="70"/>primo quia 2m augustinum 12 de civitate dei 
+          vi<lb ed="#B" n="71" break="no"/>tium est contra deum et tamen sit 2o quia  
+          <lb ed="#B" n="72"/>causa quo impediri neccessario producit  
+          <lb ed="#B" n="73"/>suos effectus 3o quia deus vult omnem  
+          <lb ed="#B" n="74"/>hominem salvum si et non salvantur 2o  
+          <lb ed="#B" n="75"/>ad thy capitulo 3 igitur alias verum 2o si principaliter des  
+          <lb ed="#B" n="76"/>non potest possibile quodlibet efficere igitur quaestio falsa conclusio nota  
+          <lb ed="#B" n="77"/>alio arguitur tam primo quia possibile non est possibile a divina  
+          <lb ed="#B" n="78"/>voluntate qui si nullus deus esset hoc non  
+          <lb ed="#B" n="79"/>implicaret haedictionem ho potest cre
+        </p>
+        <p xml:id="jhb-l1q35-d1e177">
+          ¶ 2o quia  
+          <lb ed="#B" n="80"/>de quuno potest infinitum producere 3o quia  
+          <lb ed="#B" n="81"/>noi potest infitam delectationem in mente peter 
+          <lb ed="#B" n="82"/>tare quia aliter posset petrus in aqu citra  
+          <lb ed="#B" n="83"/>deium beatificari quod est falsum igitur alias verum quam  
+          <lb ed="#B" n="84"/>de cusne solum potest bonum efficere sed aeqiam minimum  
+          <lb ed="#B" n="85"/>igitur quaestio falsa patet conclustio e alio est articulo tam pro quia  
+          <!--148r.xml-->
+          <pb ed="#B" n="148-r"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>omne verum de compotest facere pecitum et veum igitur ti  
+          
+        </p>
+        <p xml:id="jhb-l1q35-d1e201">
+          <lb ed="#B" n="2"/>¶ 2o quia de coscit peccatum prohibere potest et non  
+          <lb ed="#B" n="3"/>prohibes igitur est causa peccati tum n caret 
+          scru<lb ed="#B" n="4" break="no"/>pulo alienae conscientiae quiaito facinori  
+          <lb ed="#B" n="5"/>dsuit obiectivare
+        </p>
+        <p xml:id="jhb-l1q35-d1e213">
+          ¶ 3o quia deus est  
+          <lb ed="#B" n="6"/>causa omnis motionis nostre puod augustinum 3 d trinia 
+          <lb ed="#B" n="7"/>capitulo 6 sed multemotiones sunt peccata  
+          <lb ed="#B" n="8"/>igitur talium deus est causa
+        </p>
+        <p xml:id="jhb-l1q35-d1e222">
+          ¶ In oppositum argu  
+          <lb ed="#B" n="9"/>ex dictis magistri in ista 46 distinctione et 4a  
+          <lb ed="#B" n="10"/>dbet in multis capitulis
+        </p>
+        <p xml:id="jhb-l1q35-d1e229">
+          ¶ prima conclusio omne  
+          <lb ed="#B" n="11"/>ymaginale vel intelligibile vere posset  
+          <lb ed="#B" n="12"/>i per aliquam potentiam potest fi per voluntatem divinam  
+          <lb ed="#B" n="13"/>promo istam primo ratione sic attributa divina  
+          <lb ed="#B" n="14"/>sunt aequalia igitur tantum deu est b nolitivus  
+          <lb ed="#B" n="15"/>quantum est ymaginativus vel intellectivus  
+          <lb ed="#B" n="16"/>consequentia cum haec sint divina attributa et  
+          <lb ed="#B" n="17"/>aio est verum propter umpatatem adintra divinam tunc  
+          <lb ed="#B" n="18"/>ultra tam deus est ad extra fectius quid 
+          <lb ed="#B" n="19"/>est volitivus igitur sequitur conclusio vera
+        </p>
+        <p xml:id="jhb-l1q35-d1e251">
+          ¶ 2o ymagi 
+          <lb ed="#B" n="20"/>si potest fieri vel a potentia finita vel infinita  
+          <lb ed="#B" n="21"/>sed omne quod potest fieri per potentiam finita potest  
+          <lb ed="#B" n="22"/>firi per divinam voluntate et omne ymagibile  
+          <lb ed="#B" n="23"/>si per potentiam infinitam potest fieri per 
+          volunta<lb ed="#B" n="24" break="no"/>te divinam cum nulla infita eni sola  
+          <lb ed="#B" n="25"/>voluntas divina igitur conclusio vera
+        </p>
+        <p xml:id="jhb-l1q35-d1e267">
+          ¶ 3o arguo auc 
+          <lb ed="#B" n="26"/>tibus primo magistri distinctione 9a voluntas dei in 
+          exple<lb ed="#B" n="27" break="no"/>ta esse non potest
+        </p>
+        <p xml:id="jhb-l1q35-d1e274">
+          ¶ 2o per augustinum enchidion  
+          <lb ed="#B" n="28"/>12 neccesse est fi voluerit deus Et in 
+          <lb ed="#B" n="29"/>fra oprs in amentis velle non potest quod  
+          <lb ed="#B" n="30"/>cumque voluerit 3o enchion capitulo 3 dei o 
+          <lb ed="#B" n="31"/>opoerats voluntas semper nncta contra istam  
+          <lb ed="#B" n="32"/>conclusionem primo contra modum loqudi quia nulla  
+          <lb ed="#B" n="33"/>ymaginatio sine ymaginatitas cadit  
+          <lb ed="#B" n="34"/>nec est in deo sed hoc poosis igitur maiae
+        </p>
+        <p xml:id="jhb-l1q35-d1e293">
+          ¶ 2o yia  
+          <lb ed="#B" n="35"/>ginabile et intelligibile est per potentiam siu  
+          <lb ed="#B" n="36"/>a voluntate divina igitur etc
+        </p>
+        <p xml:id="jhb-l1q35-d1e300">
+          ¶ 3o d posset  
+          <lb ed="#B" n="37"/>ymagiseri vel intentie quantum potest efficere et non  
+          <lb ed="#B" n="38"/>potest ymaginari quno pri abeo esse cogitater  
+          <lb ed="#B" n="39"/>igitur non sequitur quod non sit ad invice aeuantlis 
+          la<lb ed="#B" n="40" break="no"/>titiis immense et per consequens cntr conclusione
+        </p>
+        <p xml:id="jhb-l1q35-d1e311">
+          / Ad primum  
+          <lb ed="#B" n="41"/>dico quod summo ymaginationem non 2m quod  
+          <lb ed="#B" n="42"/>convenit creaturis sed large probant 
+          con<lb ed="#B" n="43" break="no"/>sititur cum memorari et inteletie et sic  
+          <!--148r.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="44"/>recipio eam pro memorativa potentia probant  
+          <lb ed="#B" n="45"/>est ydea et ymago habitualis omnem  
+          <lb ed="#B" n="46"/>et sic enon dicit inperfectione sed perfectione  
+          
+        </p>
+        <p xml:id="jhb-l1q35-d1e331">
+          <lb ed="#B" n="47"/>¶ ad 2m dico quod difformitas non  
+          <lb ed="#B" n="48"/>dicitur proprie si cum nichil fit sic sed  
+          <lb ed="#B" n="49"/>est potius defieri 3o dico quod probant  
+          <lb ed="#B" n="50"/>sit non proprie fit ab aliqua potentia sed poon 
+          <lb ed="#B" n="51"/>cius iipostetio cum posse peccare non sit  
+          <lb ed="#B" n="52"/>potentiae sed inpotentiaesecundum quod dicit magister super distinctionem 
+          <lb ed="#B" n="53"/>42
+        </p>
+        <p xml:id="jhb-l1q35-d1e349">
+          ¶ ad 3m dico quod deus non yma 
+          <lb ed="#B" n="54"/>ginatur nec ymaginari potest tam perfectum  
+          <lb ed="#B" n="55"/>fectibile cui non perfectius facere potest sit  
+          <lb ed="#B" n="56"/>non ymaginatur quantum ymanari et no 
+          <lb ed="#B" n="57"/>plus intelligere potest et hoc quo adterminum 
+          <lb ed="#B" n="58"/>vel obiectum extrinsecae licet enim ipse sit  
+          <lb ed="#B" n="59"/>in ultimo intellectionis sui ipsius quia  
+          <lb ed="#B" n="60"/>actualissie et summus actus notante  
+          <lb ed="#B" n="61"/>potest tam perfectum intelligibile ab extra intelicitur  
+          <lb ed="#B" n="62"/>vel velequi possit perfectius velle 
+          <lb ed="#B" n="63"/>similiter et facere Et in hoc diceret ab 
+          <lb ed="#B" n="64"/>ymaginativis poteneiis creatis quae  
+          <lb ed="#B" n="65"/>licet non possuit ymaginari et facere  
+          <lb ed="#B" n="66"/>adaequate potest tamen deus hoc perfecte  
+          <lb ed="#B" n="67"/>ratio quia idem est deus ymaginativus in 
+          <lb ed="#B" n="68"/>tellectius et factivus
+        </p>
+        <p xml:id="jhb-l1q35-d1e384">
+          ¶ primum corollarium one 
+          <lb ed="#B" n="69"/>ymaginabile per aliquam potentiam atra  
+          <lb ed="#B" n="70"/>ipsum possibile eveniere potest deus 
+          infrustr<lb ed="#B" n="71" break="no"/>biliter impedir probatur ex conclusione quia quodlibet  
+          <lb ed="#B" n="72"/>tale potest efficaciter velle sed ex conclusione 
+          <lb ed="#B" n="73"/>prima praecedentis conclusionis aequa in differentia  
+          <lb ed="#B" n="74"/>sibi proponitur ad velle et non velle 
+          <lb ed="#B" n="75"/>igitur sicut efficaciter potest vellere evenire  
+          <lb ed="#B" n="76"/>infrustrabiliter potest illud inpedire  
+          <lb ed="#B" n="77"/>sed contra istud corollarium est ratio tactain littera  
+          <lb ed="#B" n="78"/>dem et scribit mathaeus 23 Qnociens volu 
+          <lb ed="#B" n="79"/>cogregare filios tuos et noliusti  
+          <lb ed="#B" n="80"/>Et ad idm est ratio tacta prima in primo principali 
+          <lb ed="#B" n="81"/>quia vitium est contra deum igitur videtur  
+          <lb ed="#B" n="82"/>quod corollarium non sit verum Ad primum respondet  
+          <lb ed="#B" n="83"/>magister in littera non quod christus voluerit  
+          <lb ed="#B" n="84"/>et non poterit sed quociens voluit  
+          <!--148v.xml-->
+          <pb ed="#B" n="148-v"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>et fecit ea nolente fecit vide 
+          ex<lb ed="#B" n="2" break="no"/>posi?ionem in littera
+        </p>
+        <p xml:id="jhb-l1q35-d1e433">
+          ¶ Ad dictum beati augustini dico  
+          <lb ed="#B" n="3"/>quod ideo augustinus dixt vitium esse contra  
+          <lb ed="#B" n="4"/>deum quia est contra eius praeceptum  
+          <lb ed="#B" n="5"/>quasi voluntas signum et hunc secundum  
+          <lb ed="#B" n="6"/>apperit augustinus quia statim post verba dicta  
+          <lb ed="#B" n="7"/>scilicet quod natua non est contra deum se vitium dicit 
+          <lb ed="#B" n="8"/>malos immucari deo quia inmutatur  
+          <lb ed="#B" n="9"/>eius imprio
+        </p>
+        <p xml:id="jhb-l1q35-d1e451">
+          ¶ 2m corollarium sicut impossibile  
+          <lb ed="#B" n="10"/>est aliquid non evenire deo volunte sic  
+          <lb ed="#B" n="11"/>inpossibile est aliquid evenire deo  
+          <lb ed="#B" n="12"/>non sinente prima pars patet ex conclusione et 2a  
+          <lb ed="#B" n="13"/>ex corollario igitur etc Et confirmatur per beatum  
+          <lb ed="#B" n="14"/>augustinus enchidion 10 4 ubi inInt augustinus  
+          <lb ed="#B" n="15"/>operti bona quam facile quod non vult esse  
+          <lb ed="#B" n="16"/>non sivere tam facite est quod vult esse  
+          <lb ed="#B" n="17"/>facere et ponit consequensam istius etiam  
+          <lb ed="#B" n="18"/>sed contra istud corollarium sunt duae rationes  
+          <lb ed="#B" n="19"/>tacte inprimo principali primo quia  
+          <lb ed="#B" n="20"/>tunc voluntatis effectus neccessario evenieret  
+          <lb ed="#B" n="21"/>quia causa qui non potest impediri neccessario 
+          <lb ed="#B" n="22"/>producit effectus suos
+        </p>
+        <p xml:id="jhb-l1q35-d1e482">
+          ¶ 2o quia deus  
+          <lb ed="#B" n="23"/>vult omnis homines et
+        </p>
+        <p xml:id="jhb-l1q35-d1e487">
+          ¶ Ad primum istorum  
+          <lb ed="#B" n="24"/>respondet dominus Egadius dbet infra 47 
+          <lb ed="#B" n="25"/>quaestione prima ad ultimum principale dicens  
+          <lb ed="#B" n="26"/>quod res relatae in divinam voluntate  
+          <lb ed="#B" n="27"/>quandam neccessitate contahabent nec tamen  
+          <lb ed="#B" n="28"/>contingentiaa removet ab eis sed haec  
+          <lb ed="#B" n="29"/>solutio non valet tamen primo liberius sunt  
+          <lb ed="#B" n="30"/>res in voluntae divina quod in causa 2a in tu
+        </p>
+        <p xml:id="jhb-l1q35-d1e505">
+          <lb ed="#B" n="31"/>2o sequitur quod idem erit contingens et neccessaria  
+          <lb ed="#B" n="32"/>intrinsece tamen 3o contingentiam et 
+          liber<lb ed="#B" n="33" break="no"/>tas est participatio quaedam libertatis divinae  
+          <lb ed="#B" n="34"/>igitur si non est in voluntate dei respectu voliti 
+          <lb ed="#B" n="35"/>non erit in respectu agentis 2a qIaestio dictio quod causam  
+          <lb ed="#B" n="36"/>impedie dupliciter contingit extrinsece ab 
+          <lb ed="#B" n="37"/>alio intrinsece a se ipso modo si intelligi 
+          <lb ed="#B" n="38"/>utroque modo sic dico quod verum est si autem  
+          <lb ed="#B" n="39"/>primo sic falsum est nam causa quae nec extrinsece  
+          <lb ed="#B" n="40"/>ab alio nec intrinsece a se ipsa potest re 
+          <lb ed="#B" n="41"/>thi ab actu neccessario producit ipase sed sc  
+          <lb ed="#B" n="42"/>non est de deo quia potest libere ab actu 
+          <lb ed="#B" n="43"/>cessare vel se quodamodo inpedire  
+          <!--148v.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="44"/>non tamen proprie dicitur se paertalem modum  
+          <lb ed="#B" n="45"/>inpedire sed satis et multum inproprie 
+          <lb ed="#B" n="46"/>et sic de 2o de 2o modo divionis potest etiam  
+          <lb ed="#B" n="47"/>concedi scilicet quod deus potest se totaliter ut dictum  
+          <lb ed="#B" n="48"/>est impedie id est potest actum non producere  
+          <lb ed="#B" n="49"/>vel a productione cessar Sed creatura for 
+          <lb ed="#B" n="50"/>e nadn posset se intrinsece inpedire  
+          <lb ed="#B" n="51"/>et ideo dicitur contingiitu deus et non  
+          <lb ed="#B" n="52"/>neccessario agere suos effectus
+        </p>
+        <p xml:id="jhb-l1q35-d1e560">
+          ¶ ad 2m 
+          respon<lb ed="#B" n="53" break="no"/>det sanctus thomas parte prima quaestione 19  
+          <lb ed="#B" n="54"/>articulo 6 et doctor subtilis libro primo ista  
+          <lb ed="#B" n="55"/>distinctione 46 Et Aigidius ead idem quaestione 1 similiter  
+          <lb ed="#B" n="56"/>quod auctoritas est intelligenda de voluntate  
+          <lb ed="#B" n="57"/>dei et antecedente non quaente sed horum responsiones  
+          <lb ed="#B" n="58"/>in probat gregorius in ista distinctione 10 sufficiat  
+          <lb ed="#B" n="59"/>solutio beati augustini qua ponit crca 
+          <lb ed="#B" n="60"/>finem enchidion et ponit eam <name xml:id="jhb-l1q35-Nd1e579">Egidius</name>  
+          <lb ed="#B" n="61"/>in hac distinctio quaestione 1 et gregorius similiter et habentur  
+          <lb ed="#B" n="62"/>verba in textu distinctione t stat solutio in  
+          <lb ed="#B" n="63"/>duobus primo quia est distributio 
+          ac<lb ed="#B" n="64" break="no"/>comoda omnes enim vult salvos fi 
+          <lb ed="#B" n="65"/>id est uus salus sit nisi velit propositum 
+          sal<lb ed="#B" n="66" break="no"/>num simud / 2o est distributio pro generibus  
+          <lb ed="#B" n="67"/>singulorum non pro singulis generum qunm  
+          <lb ed="#B" n="68"/>corollarium sicut divinum velle non est 
+          ege<lb ed="#B" n="69" break="no"/>tis uuerabile sic efficax est immense  
+          <lb ed="#B" n="70"/>efficax et infrabile prima pars patet  
+          <lb ed="#B" n="71"/>quia se solo sufficit quidquod vult  
+          <lb ed="#B" n="72"/>agere 2a paratque ex tconclisiore et corollariis  
+          <lb ed="#B" n="73"/>quia ex 3o corollario inpossibile est aliquid non  
+          <lb ed="#B" n="74"/>evenire deo volunte et inpossibile  
+          <lb ed="#B" n="75"/>est aliquid evenire eo non sivente  
+          <lb ed="#B" n="76"/>vel premittente igitur simpliciter est 
+          infrustra<lb ed="#B" n="77" break="no"/>bile 
+        </p>
+        <p xml:id="jhb-l1q35-d1e620">
+          ¶ Ad hoc est augustinusm enthiconioa  
+          <lb ed="#B" n="78"/>quidquid vult potest nec volunte cuius  
+          <lb ed="#B" n="79"/>pinta creaturae voluntatis omnipotentis  
+          <lb ed="#B" n="80"/>inpeditur effectus et Romanos 9 apus vo=
+          <lb ed="#B" n="81"/>luntati eius quis resistit pro isto corollario  
+          <lb ed="#B" n="82"/>est argus perisien sed quo dicitur quod deus  
+          <lb ed="#B" n="83"/>non potest in effectum causae et 2a sive ipsa  
+          <lb ed="#B" n="84"/>error sed contra prima partem et probationem  
+          <lb ed="#B" n="85"/>sequitur si corollarium sit verum quod se solo potest care  
+          <lb ed="#B" n="86"/>unum celum et se solo fatere meritorie  
+          <!--149r.xml-->
+          <pb ed="#B" n="149-r"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>agere paulum
+        </p>
+        <p xml:id="jhb-l1q35-d1e651">
+          ¶ Ad istud potest primo di 
+          <lb ed="#B" n="2"/>a 2m viam magistri gregorius quod intelligendum  
+          <lb ed="#B" n="3"/>est deincomplexo  2o potest dici et 
+          me<lb ed="#B" n="4" break="no"/>lius 2 rnam magistri hugolinus quod ly  
+          <lb ed="#B" n="5"/>solo excludit omne quod non est effectio  
+          <lb ed="#B" n="6"/>vel pars effectus et tunc iustantiae non  
+          <lb ed="#B" n="7"/>valent quia adhuc deus se soludo  
+          <lb ed="#B" n="8"/>potest creare celum et facere meri 
+          pau<lb ed="#B" n="9" break="no"/>lum sicut patet 
+        </p>
+        <p xml:id="jhb-l1q35-d1e671">Ex hiis patet in quibus  
+          <lb ed="#B" n="10"/>consistit omninolentia dei quia  
+          <lb ed="#B" n="11"/>in hoc quod quidquid vult erit et quidquid  
+          <lb ed="#B" n="12"/>non vult non si non erit Simile  
+          <lb ed="#B" n="13"/>dicit magister de omnipotentia dei 6 distinctione 4  
+          <lb ed="#B" n="14"/>capitulo 4 ubi dicit omnipotenia apparet in duobus  
+          <lb ed="#B" n="15"/>quia omnia facit quae vult et nonm  
+          <lb ed="#B" n="16"/>omnio patitur igitur
+        </p>
+        <p xml:id="jhb-l1q35-d1e689">
+          ¶ 2a conclusio quamvis deum  
+          <lb ed="#B" n="17"/>sit possibile infinitum in certa specie producere  
+          <lb ed="#B" n="18"/>non tamen potest facere omne possibile simul  
+          <lb ed="#B" n="19"/>existere prima partem probmo nam ad hoc  
+          <lb ed="#B" n="20"/>nichil nullum sequitur inpossibile nec falsum igitur  
+          <lb ed="#B" n="21"/>deus potest consequentia tenet per beatum augustinum epa 
+          <lb ed="#B" n="22"/>3a ad volunsianum dicentem dicamus  
+          <lb ed="#B" n="23"/>deum aliquid posse quod nos fateatur  
+          <lb ed="#B" n="24"/>investigar non posset vitalibus ribius  
+          <lb ed="#B" n="25"/>tota ratio sancti est potentia facienter
+        </p>
+        <p xml:id="jhb-l1q35-d1e711">
+          ¶ 2o sic  
+          <lb ed="#B" n="26"/>deus producit ad intra infinitum  
+          <lb ed="#B" n="27"/>igitur potest producere ad extra infinitum  
+          <lb ed="#B" n="28"/>consequentia videtur satis tenere cum non  
+          <lb ed="#B" n="29"/>sit ratio quare non possit aeque bene ad  
+          <lb ed="#B" n="30"/>extra sicut ad intra haec tamen ratio 
+          <lb ed="#B" n="31"/>non multum concludit nisi forte hoc  
+          <lb ed="#B" n="32"/>quod deum producere infinitum contradictione  
+          <lb ed="#B" n="33"/>non clandit
+        </p>
+        <p xml:id="jhb-l1q35-d1e731">
+          ¶ 3o per beatum augustinum 12 de civitate  
+          <lb ed="#B" n="34"/>dei capitulo 18 umnis infinitas est deo  
+          <lb ed="#B" n="35"/>finita igitur prima pars conclusionis vera 2a pars  
+          <lb ed="#B" n="36"/>probatur tamen primo quia nulla sunt omnia  
+          <lb ed="#B" n="37"/>possibila tamen 2o quia posset tunc deus  
+          <lb ed="#B" n="38"/>scientiae se tantum posse et non ultra contra  
+          <lb ed="#B" n="39"/>dicta in prima conclusione tamn 3o quia posset  
+          <lb ed="#B" n="40"/>deus totam suam productiam potentiam  
+          <lb ed="#B" n="41"/>evatuare quod est falsum sed contra istam  
+          <!--149r.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="42"/>conclusionem articulo et primo contra modum probandi nam  
+          <lb ed="#B" n="43"/>ex prima ratione simpliciter prio quam deus potest  
+          <lb ed="#B" n="44"/>quodlibet possibile facere simul existe quia  
+          <lb ed="#B" n="45"/>ad hoc non sequitur aliquod inconveniens  
+          <lb ed="#B" n="46"/>quod non sequatur ad istam / 2o ex 2a  
+          <lb ed="#B" n="47"/>deus ad intra producit 2m maximum  
+          <lb ed="#B" n="48"/>gradum actitatis igitur et ad atem Et  
+          <lb ed="#B" n="49"/>per consequens sed ultimum eius posse quod est falsum  
+          <lb ed="#B" n="50"/>quia tunc poneret quodlibet in esse  
+          <lb ed="#B" n="51"/>3o si deo omnis infinitas est finita  
+          <lb ed="#B" n="52"/>sequitur quod aliqua sit omnis infinitas  
+          <lb ed="#B" n="53"/>finita quod est simpliciter falsum
+        </p>
+        <p xml:id="jhb-l1q35-d1e782">
+          ¶ 4o si deus  
+          <lb ed="#B" n="54"/>faceret sic infinitum quaeretur ubi esset  
+          <lb ed="#B" n="55"/>et si in aliquo loco igitur non infinitum  
+          <lb ed="#B" n="56"/>tamen locus sit ultrmus superficiens cor 
+          <lb ed="#B" n="57"/>paris continentis igitur
+        </p>
+        <p xml:id="jhb-l1q35-d1e793">
+          ¶ 5o pars esset  
+          <lb ed="#B" n="58"/>aequalis toti et unum infinitum ma 
+          <lb ed="#B" n="59"/>nis altero quae omnino videntur falsa 
+          <lb ed="#B" n="60"/>2m quod communiter dicitur in materia ista  
+          
+        </p>
+        <p xml:id="jhb-l1q35-d1e802">
+          <lb ed="#B" n="61"/>¶ 6o contra hoc est ratio in 2o principali  
+          <lb ed="#B" n="62"/>tacta quia deus posset facere de 
+          <lb ed="#B" n="63"/>lectionem infinitam
+        </p>
+        <p xml:id="jhb-l1q35-d1e811">
+          ¶ ad primum istorum neg 
+          <lb ed="#B" n="64"/>simpliciter consequentiam et cum dicitur quod nullum  
+          <lb ed="#B" n="65"/>inconveniens sequitur etc nego illud  
+          <lb ed="#B" n="66"/>et patet ex probatione 2a partis consequenter   
+          <lb ed="#B" n="67"/>Ad 2m inproprie dicitur maximus gradus  
+          <lb ed="#B" n="68"/>vel ultrmus posse in deo tamen recipie 
+          <lb ed="#B" n="69"/>do ad bonum secundum nego consequentiam quia  
+          <lb ed="#B" n="70"/>hoc sonat inperfectionem non primi  
+          <lb ed="#B" n="71"/>unde causam in altera natura posse produ 
+          <lb ed="#B" n="72"/>cere tantum et non plus pervenit ex in 
+          <lb ed="#B" n="73"/>perfectione ex quo apparet quod haec formatem  
+          <lb ed="#B" n="74"/>non valet si deus foret agens na 
+          <lb ed="#B" n="75"/>le produceret omne producibile et non  
+          <lb ed="#B" n="76"/>nunc est minus potens quam tunc igitur  
+          <lb ed="#B" n="77"/>nunc potest
+        </p>
+        <p xml:id="jhb-l1q35-d1e844">
+          ¶ ad 3m nego consequentiam quia  
+          <lb ed="#B" n="78"/>omnis pars cotivum est finita deo  
+          <lb ed="#B" n="79"/>cognita igitur aliqua pars est omnis  
+          <lb ed="#B" n="80"/>pars deo cognita consequentia non valet sic in 
+          <lb ed="#B" n="81"/>proposito similiter est dicendum
+        </p>
+        <p xml:id="jhb-l1q35-d1e855">
+          ¶ Ad 4m dico quod  
+          <lb ed="#B" n="82"/>non est inpossibile infinitam magnitivem  
+          <!--149v.xml-->
+          <pb ed="#B" n="149-v"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>vel etiam multioem loco contineri  
+          <lb ed="#B" n="2"/>sed tunc non esset ibi assignare ultimum  
+          <lb ed="#B" n="3"/>superficieri nec ultima superficiens vel  
+          <lb ed="#B" n="4"/>potest dici 2m quod dicit magister thomas  
+          <lb ed="#B" n="5"/>de argustinum in ista materia quod posset 
+          <lb ed="#B" n="6"/>ponere hic in scolis quia potest facere 
+          <lb ed="#B" n="7"/>2o corollaria in eodem loco et 3a et 4a  
+          <lb ed="#B" n="8"/>et fit infinita et non plus 
+          occu<lb ed="#B" n="9" break="no"/>paret de loco quam primum Ad 3m  
+          <lb ed="#B" n="10"/>tale infinitum secundum quod infinitum non  
+          <lb ed="#B" n="11"/>haberet proprie partem 2m consequens in eodem  
+          <lb ed="#B" n="12"/>articulo non est inpossibile secundum doctoris istam  
+          <lb ed="#B" n="13"/>viam tenentes
+        </p>
+        <p xml:id="jhb-l1q35-d1e895">
+          ¶ Ad ultimum concedent  
+          <lb ed="#B" n="14"/>aliqui qunsqus et cum hoc quod tantum 
+          delecta<lb ed="#B" n="15" break="no"/>retur tali delectatione sicut in deo net  
+          <lb ed="#B" n="16"/>tamen beatificaretur sic diceret rosecus
+        </p>
+        <p xml:id="jhb-l1q35-d1e904">
+          ¶  
+          <lb ed="#B" n="17"/>Cinconcedent consequens sed negarent quod  
+          <lb ed="#B" n="18"/>tantum delectaretur sicut in deo ne etiam  
+          <lb ed="#B" n="19"/>beatificaretur sic diceret clentione de hoto  
+          <lb ed="#B" n="20"/>deo dant circa 4m
+        </p>
+        <p xml:id="jhb-l1q35-d1e915">
+          ¶ primum corollarium nifi  
+          <lb ed="#B" n="21"/>initum creatum potest se plures infinitum  
+          <lb ed="#B" n="22"/>irgitur quia nullum tale tortam possibilem  
+          <lb ed="#B" n="23"/>latitudinem suae speciei actualiter  
+          <lb ed="#B" n="24"/>includit igitur deus poterit ipsum 
+          inten<lb ed="#B" n="25" break="no"/>sius vel extensius infinitare
+        </p>
+        <p xml:id="jhb-l1q35-d1e928">
+          ¶ 2m  
+          <lb ed="#B" n="26"/>corollarium quamvis omne possibile incomplexum  
+          <lb ed="#B" n="27"/>deus possit efficere tamen possibile ut sic  
+          <lb ed="#B" n="28"/>a deo nullum capit esse prima pars  
+          <lb ed="#B" n="29"/>patet ex praemiseindus 2a pars probatur quia hoc  
+          <lb ed="#B" n="30"/>est possibile quod non inplicat contradictionem  
+          <lb ed="#B" n="31"/>esse et non est sed si nullus deus  
+          <lb ed="#B" n="32"/>esset adhuc aliquid esse non inpli 
+          <lb ed="#B" n="33"/>cauaretur contradictionem igitur corollarium verum et per hoc  
+          <lb ed="#B" n="34"/>patet ad primam rationem tactam in 2o  
+          <lb ed="#B" n="35"/>principali
+        </p>
+        <p xml:id="jhb-l1q35-d1e952">
+          ¶ 3m corollarium quamvis volledi 
+          <lb ed="#B" n="36"/>vinuim non potest quodlibet enuctiabile 
+          com<lb ed="#B" n="37" break="no"/>plexum sicut nec quod libet incomplexum simul  
+          <lb ed="#B" n="38"/>in esse ponere potest tam infinitum grane  
+          <lb ed="#B" n="39"/>adomnem differentiam ponis modovis  
+          <lb ed="#B" n="40"/>move prima pars patet ex dictis et 2a etiam  
+          <lb ed="#B" n="41"/>Et confirmo eam partem quia posset  
+          <!--149v.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="42"/>deus finitum quam infinitum genere facere 
+          <lb ed="#B" n="43"/>igitur corollarium verum patet eadem pars ex solutione  
+          <lb ed="#B" n="44"/>4ae rationis supera contra conclusionem istam  
+          <lb ed="#B" n="45"/>2am
+        </p>
+        <p xml:id="jhb-l1q35-d1e981">
+          ¶ 3a concla quamvis voluntas creata in facta 
+          <lb ed="#B" n="46"/>possit mabum sive ratione existentis  
+          <lb ed="#B" n="47"/>vel appraesentis boni appetere voluntas tamen  
+          <lb ed="#B" n="48"/>dei perfecta non potest nisi bene et bonum  
+          <lb ed="#B" n="49"/>velle primam partem proo quia duo  
+          <lb ed="#B" n="50"/>bus bonis propositis scienter possum  
+          <lb ed="#B" n="51"/>melius respvere et minus eliger  
+          <lb ed="#B" n="52"/>2m argisitlis sed hoc nullam habet rationem  
+          <lb ed="#B" n="53"/>boni igitur illa pars vera
+        </p>
+        <p xml:id="jhb-l1q35-d1e1002">
+          ¶ 2o aliquis scientiaer  
+          <lb ed="#B" n="54"/>contra conscieniam peccat peccato non delecta 
+          <lb ed="#B" n="55"/>bili nec utili seu honesto igitur illa  
+          <lb ed="#B" n="56"/>pars vera patet consequentia antecedens apparet descienter  
+          <lb ed="#B" n="57"/>nmundo contra eum qui scit se nocere  
+          <lb ed="#B" n="58"/>non posse
+        </p>
+        <p xml:id="jhb-l1q35-d1e1015">
+          ¶ 3o aliquis appetit facere 
+          <lb ed="#B" n="59"/>quod non est bonum nec apparet sibi teconclusi 
+          <lb ed="#B" n="60"/>vera antecedens patet de mecientibus sola me 
+          <lb ed="#B" n="61"/>ciendi libidine ut habetur in Ca e  
+          <lb ed="#B" n="62"/>quaestione 2 et li sententiarum 3 distinctionem 35 Item ad  
+          <lb ed="#B" n="63"/>hoc est argumentum de obstinatis qui volunt  
+          <lb ed="#B" n="64"/>malum sub ratione nali Item arguunt  
+          <lb ed="#B" n="65"/>aliqui quia intellectus intelligit subi  
+          <lb ed="#B" n="66"/>ratione falsum saiceti falsum sed hanc rationem  
+          <lb ed="#B" n="67"/>non reputo primo quia forte assumpa  
+          <lb ed="#B" n="68"/>est falsum quamvis intellectus intelligat falsum  
+          <lb ed="#B" n="69"/>te falsum
+        </p>
+        <p xml:id="jhb-l1q35-d1e1041">
+          ¶ 2o quia non est similis habitudo  
+          <lb ed="#B" n="70"/>voluntatis et sui obiecti sicut intellectus et  
+          <lb ed="#B" n="71"/>obiecti sui 4o ad hoc est expressa sententia  
+          <lb ed="#B" n="72"/>ysus 2o de summo bono capitulo 2o ei gloss 
+          <lb ed="#B" n="73"/>super illud Iohannes 5 adio habuerunt  
+          <lb ed="#B" n="74"/>me graetis 2a patet magistrum et per alium  
+          <lb ed="#B" n="75"/>articulum denovellis dapnatis  
+          <lb ed="#B" n="76"/>per dominum probtum christius9 et duodecius  
+          <lb ed="#B" n="77"/>sunt ad idem scilicet quod potstatem deus vult  
+          <lb ed="#B" n="78"/>peccare error Ad idem est augustinum  
+          <lb ed="#B" n="79"/>83 quaestione 9uasti et super illud pars ut non  
+          <lb ed="#B" n="80"/>loquatur oset meum opera hominum Et  
+          <lb ed="#B" n="81"/>circa mediumliber de perfectione iustitiae et  
+          <lb ed="#B" n="82"/>quasi uipique in suis libris hoc asserit  
+          <!--150r.xml-->
+          <pb ed="#B" n="150-r"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>Et omnes catholici cum eo saltem  
+          <lb ed="#B" n="2"/>per maiori parte Et tamen oppositum huius  
+          <lb ed="#B" n="3"/>arguit doctor profundus in hac  
+          <lb ed="#B" n="4"/>parte plus confusus quam profundus  
+          <lb ed="#B" n="5"/>libro primo summe suae 3 et 34 clipi  
+          <lb ed="#B" n="6"/>et aliis multis locis per rationes tac  
+          <lb ed="#B" n="7"/>tas in 3o principali primo quia peciats  
+          <lb ed="#B" n="8"/>est verum 2o deus non impedit cum 
+          po<lb ed="#B" n="9" break="no"/>ssit 3o quia est causa omnium motionum quae  
+          <lb ed="#B" n="10"/>rum multe sunt male Et potest 
+          con<lb ed="#B" n="11" break="no"/>firmari deus omnis boni est causa 
+          <lb ed="#B" n="12"/>sed malum esse est bonum igitur conclusio falsariuitur  
+          <lb ed="#B" n="13"/>nota minor est augustinus enchium 26  
+          <lb ed="#B" n="14"/>iudicat melius de malis beneface  
+          <lb ed="#B" n="15"/>quam mala nulla esse
+        </p>
+        <p xml:id="jhb-l1q35-d1e1111">
+          ¶ 2o sic anstens  
+          <lb ed="#B" n="16"/>iusti deus est causa peccatum est huius  
+          <lb ed="#B" n="17"/>igitur minor habetur ex dictis augustini 5 contra  
+          <lb ed="#B" n="18"/>Iulianum crt hrisum 9aetione gregorius super ezech  
+          <lb ed="#B" n="19"/>omni 3 syisuus de summo bono libo et capitulo 19  
+          <lb ed="#B" n="20"/>ubi habetur quod unum peccatum alterius  
+          <lb ed="#B" n="21"/>est causa et poena in ad primum is  
+          <lb ed="#B" n="22"/>torum respondet magister in ista 46 didus  
+          <lb ed="#B" n="23"/>quod est indignum solutione quare  
+          <lb ed="#B" n="24"/>dicit branwardini quod indigno  
+          <lb ed="#B" n="25"/>soluit dictus thomas dicit quaestionbus  
+          <lb ed="#B" n="26"/>de veritate quaestione 6 quod est fallcia accdent  
+          <lb ed="#B" n="27"/>quod non videtur cum medium non variaeum  
+          <lb ed="#B" n="28"/>in aliquo ideo respondetur aliter negatio  
+          <lb ed="#B" n="29"/>maiorem scilicet istam omne verum est  
+          <lb ed="#B" n="30"/>a deo Et si doctores sicut sanctus  
+          <lb ed="#B" n="31"/>ambso dicunt oppositum intelligendi  
+          <lb ed="#B" n="32"/>sunt de veritatibus incomplexis suc i  
+          <lb ed="#B" n="33"/>respondet Iohannes Clenkoc et aliquod  
+          <lb ed="#B" n="34"/>alii pro me ego in telibus formis ne 
+          <lb ed="#B" n="35"/>garem semper minoris summendo verum  
+          <lb ed="#B" n="36"/>non pro signo veri nec pro dictio sed pro re 
+          <lb ed="#B" n="37"/>dicti unde licet haec sit vera sortes  
+          <lb ed="#B" n="38"/>peccat tamen haec difformitas formatus  
+          <lb ed="#B" n="39"/>peccare non dicitur verum Et patet quid  
+          <lb ed="#B" n="40"/>dicendum Et ad 2m dico quod licet 
+          permit<lb ed="#B" n="41" break="no"/>tat tamen iudico suo occulto nec  
+          <lb ed="#B" n="42"/>credo quod hus rationum causa potest assigi  
+          <!--150r.xml-->
+          <cb ed="#B" n="b"/>
+          <lb ed="#B" n="43"/>nisi quod 2m alteritudinem suam 
+          mul<lb ed="#B" n="44" break="no"/>tiplicat filios hominum id  pecctores 
+          da<lb ed="#B" n="45" break="no"/>pravatos 2m augustinum
+        </p>
+        <p xml:id="jhb-l1q35-d1e1183">
+          ¶ Ad 3m potest dici  
+          <lb ed="#B" n="46"/>quod augustinus recipit causam large pro eo  
+          <lb ed="#B" n="47"/>quod est causa cae sive ut sit sine  
+          <lb ed="#B" n="48"/>ut causa sit et sic est verum quia in  
+          <lb ed="#B" n="49"/>bonis est causa ut sit et ut causa 
+          <lb ed="#B" n="50"/>sit in malis solum est causa ut  
+          <lb ed="#B" n="51"/>sit noquid ut causa sit
+        </p>
+        <p xml:id="jhb-l1q35-d1e1199">
+          ¶ ad 4m et ad  
+          <lb ed="#B" n="52"/>nllum simul potest dici similes propositiones scilicet  
+          <lb ed="#B" n="53"/>peccatum esse est bonum iustum utilen 
+          <lb ed="#B" n="54"/>et pulchrum et huius distinguere  
+          <lb ed="#B" n="55"/>vel intelligit sic quod peccatum in se fit a  
+          <lb ed="#B" n="56"/>liquid bonum et hoc est falsum vel sic quod  
+          <lb ed="#B" n="57"/>aliquod iustum vel bonum sequitur peractides  
+          <lb ed="#B" n="58"/>ad ipsum et tunc est verum et si sic uni 
+          <lb ed="#B" n="59"/>formaitr recipitur maior negaretur tales  
+          <lb ed="#B" n="60"/>propositiones omnes quia false sunt quia  
+          <lb ed="#B" n="61"/>non omne aliquod per accidens sequitur  
+          <lb ed="#B" n="62"/>aliquod iustum vel bonum deus  
+          <lb ed="#B" n="63"/>vult
+        </p>
+        <p xml:id="jhb-l1q35-d1e1229">
+          ¶ primum corollarium nullius mali vel  
+          <lb ed="#B" n="64"/>culpae est causale antecedens divinum velle 
+          <lb ed="#B" n="65"/>probatur quia aliter velet malum  
+          <lb ed="#B" n="66"/>contra dicta
+        </p>
+        <p xml:id="jhb-l1q35-d1e1238">
+          ¶ 2m corollarium non omne possibile  
+          <lb ed="#B" n="67"/>ut possibile nec omne futurum ut 
+          fu<lb ed="#B" n="68" break="no"/>turum est a deo autem volitum patet quia  
+          <lb ed="#B" n="69"/>tunc qualitercumque esset futurum  
+          <lb ed="#B" n="70"/>taliter esset a deo audentis volitum  
+          <lb ed="#B" n="71"/>et tunc facerem minoris sed ut culpa est  
+          <lb ed="#B" n="72"/>est futurum vel possibile igitur ut sic est  
+          <lb ed="#B" n="73"/>volitu a deo Ex quo patet quod fuga illa  
+          <lb ed="#B" n="74"/>non valet depossibili 2m quod possibile vel  
+          <lb ed="#B" n="75"/>inquantum possibile et in quantum malum patet quia  
+          <lb ed="#B" n="76"/>distinctio nulla est nam si possibile quodlibet est  
+          <lb ed="#B" n="77"/>a deo in esse possibli et futuri quodlibet  
+          <lb ed="#B" n="78"/>in esse futuri et malum ut malum  
+          <lb ed="#B" n="79"/>est futurum igitur deus esset causa mali  
+          <lb ed="#B" n="80"/>et sic patet quod distinctio nichil valet
+        </p>
+        <p xml:id="jhb-l1q35-d1e1271">
+          ¶ 3m corollarium  
+          <lb ed="#B" n="81"/>Qmis nali culpae rationalis creaturae  
+          <lb ed="#B" n="82"/>in quantum culpa homo vel creatura non  
+          <lb ed="#B" n="83"/>deus est causa principalis atedentis  
+          <lb ed="#B" n="84"/>et causative patet quia neccessario habebit causam  
+          <!--150v.xml-->
+          <pb ed="#B" n="150-v"/>
+          <cb ed="#B" n="a"/>
+          <lb ed="#B" n="1"/>principalem et non deum igitur creaturam  
+          <lb ed="#B" n="2"/>Ex quibus omnibus sequitur responsio 
+          <lb ed="#B" n="3"/>adquesitum scilicet pars quaestionis affirmativa  
+          <lb ed="#B" n="4"/>vernoa scilicet quod divinum velle infrustrabile  
+          <lb ed="#B" n="5"/>quodlibet possibile bonum et solum tale  
+          <lb ed="#B" n="6"/>potest efficere patet quia divinum velle est  
+          <lb ed="#B" n="7"/>infrustrabile ex dictis in prima conclusio e  
+          <lb ed="#B" n="8"/>et potest quodlibet bonum possibile sive 
+          fi<lb ed="#B" n="9" break="no"/>initum sive infinitum efficere ex dictis  
+          <lb ed="#B" n="10"/>in 2a conclusione et non potest nisi bonum 
+          ve<lb ed="#B" n="11" break="no"/>lle ex 3a igitur sequitur tota quaestio vera ex qua 
+          <lb ed="#B" n="12"/>sequitur etiam quod deus sicut non est  
+          <lb ed="#B" n="13"/>causa malorum sic nec est auctor  
+          <lb ed="#B" n="14"/>et sicut non est auctor sic nec causa 
+          <lb ed="#B" n="15"/>contra malum loquendi eruicani  
+          <lb ed="#B" n="16"/>in libro de quaestionibus ermenorum patet hoc  
+          <lb ed="#B" n="17"/>et per consequentiam quam facit magister libro  
+          <lb ed="#B" n="18"/>primo distinctione 38 capitulo primo dicens si praescientia 
+          <lb ed="#B" n="19"/>esset causa malorum esset auctor  
+          <lb ed="#B" n="20"/>per quam consequentiam sufficienter habetur quod  
+          <lb ed="#B" n="21"/>di esse causam esse mali esset 
+          <lb ed="#B" n="22"/>ipsum esse auctorem nali quod 2m  
+          <lb ed="#B" n="23"/>dicta in quaestione et etiam eum est neandum  
+          <lb ed="#B" n="24"/>et per consequens etiam neadum erit deum  
+          <lb ed="#B" n="25"/>esse causam mali culpae secundum quod est  
+          <lb ed="#B" n="26"/>dictum Sequitur voluntas 
+        </p>
+      </div>
+      
+      
+    </body>
+  </text>
+</TEI>
