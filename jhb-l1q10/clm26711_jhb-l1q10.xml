@@ -56,11 +56,11 @@
           etc Ista est distinctio 8 primi 
           <lb ed="#B"/>sententiarum quae continuatur ad 
           <lb ed="#B"/>praecedentem per istum modum postquam 
-          <lb ed="#B"/><name>magister</name> ostendit in divinis veram esse 
+          <lb ed="#B"/><name xml:id="jhb-l1q10-Nd1e104">magister</name> ostendit in divinis veram esse 
           <lb ed="#B"/>generationem nunc in ista ponit veram 
           <lb ed="#B"/>proprietatem divinae naturae significantem eius per<lb ed="#B" break="no"/>fectionem 
           et dividitur in 3 partes quia 
-          <lb ed="#B"/>primo <name>magister</name> de dei aeterna entitate 
+          <lb ed="#B"/>primo <name xml:id="jhb-l1q10-Nd1e115">magister</name> de dei aeterna entitate 
           <lb ed="#B"/>2o de eius vera in commutabilitate 3o 
           <pb ed="#B" n="75-r"/>
           <cb ed="#B" n="a"/>
@@ -69,14 +69,14 @@
           etc prima principalis dividitur 
           in tres partes nam primo ostendit 
           <lb ed="#B"/>qualiter hoc nomen essentia deo 
-          <lb ed="#B"/>est proprium 2o ex dictis <name>ieromi</name> movet 
+          <lb ed="#B"/>est proprium 2o ex dictis <name xml:id="jhb-l1q10-Nd1e135">ieromi</name> movet 
           <lb ed="#B"/>dubium 23o respondet ad ipsum tunc 
           <lb ed="#B"/>2a incipit ibi hic diligenter 
           <lb ed="#B"/>3a ibi illud igitur quod tibi secunda pars 
           <lb ed="#B"/>principalis remanet indivisa 
           <lb ed="#B"/>sed 3a principalis quae incipit ibi 
           <lb ed="#B"/>Sademque sola dividitur in duas 
-          <lb ed="#B"/>partes quia in prima <name>magister</name> ostendit 
+          <lb ed="#B"/>partes quia in prima <name xml:id="jhb-l1q10-Nd1e152">magister</name> ostendit 
           <lb ed="#B"/>divinae naturae simplicitatem sinceram per 
           <lb ed="#B"/>respectum et comparationem ad quas 4o 
           <lb ed="#B"/>per respectum et comparationem ad intra tunc 
@@ -91,7 +91,7 @@
           <lb ed="#B"/>simpliciter quod non quia ali<lb ed="#B" break="no"/>quod 
           citra deum est simpliciter neccessariam 
           <lb ed="#B"/>igitur quaestio falsa tenet consequentia et antecedens est 
-          <lb ed="#B"/><name>doctoris sancti</name> in summa contra genti<lb ed="#B" break="no"/>les 
+          <lb ed="#B"/><name xml:id="jhb-l1q10-Nd1e184">doctoris sancti</name> in summa contra genti<lb ed="#B" break="no"/>les 
           libro 2o capitulo 29 ubi post plura ver<lb ed="#B" break="no"/>ba 
           sic in quid ille igitur res in 
           <lb ed="#B"/>quibus vel non est materia vel 
@@ -106,20 +106,20 @@
           <lb ed="#B"/>sic deus non est summe simplex 
           <lb ed="#B"/>igitur quaestio falsa consequentia nota antecedens probatur 
           <lb ed="#B"/>quia in deo est distinctio forma<lb ed="#B" break="no"/>lis 
-          ex natura rei 2m quod ponit <name>sco<lb ed="#B" break="no"/>tus</name> 
+          ex natura rei 2m quod ponit <name xml:id="jhb-l1q10-Nd1e214">sco<lb ed="#B" break="no"/>tus</name> 
           in pluribus suis dictis
         </p>
         <p xml:id="jhb-l1q10-d1e239">
           2o 
           <lb ed="#B"/>qui in deo est distinctio abso<lb ed="#B" break="no"/>luta 
-          modalis secundumq uod ponit <name>Ja<cb ed="#B" n="b"/><lb ed="#B"/>cobus de viterbio</name> qui doctor in<lb ed="#B" break="no"/>ventius 
+          modalis secundumq uod ponit <name xml:id="jhb-l1q10-Nd1e226">Ja<cb ed="#B" n="b"/><lb ed="#B"/>cobus de viterbio</name> qui doctor in<lb ed="#B" break="no"/>ventius 
           appellatur 3o quolibet 
           <lb ed="#B"/>quaestione 7 ubi hanc materiam tractat
         </p>
         <p xml:id="jhb-l1q10-d1e257">
           <lb ed="#B"/>3o patet antecedens quia in deo est distinctis 
           <lb ed="#B"/>conceptibilia virtualis secundum quod tenet 
-          <lb ed="#B"/><name>alphonsus</name> distinctione ista 8 articulo 2 quaestione 4 
+          <lb ed="#B"/><name xml:id="jhb-l1q10-Nd1e245">alphonsus</name> distinctione ista 8 articulo 2 quaestione 4 
           <lb ed="#B"/>et suo corollario sed isti distinctioni summae 
           <lb ed="#B"/>simplici repugnat igitur etc
         </p>
@@ -153,9 +153,9 @@
         </p>
         <p xml:id="jhb-l1q10-d1e324">
           In oppositum est 
-          <lb ed="#B"/><name>magister</name> in littera praesentis distinctionis 
-          <lb ed="#B"/>et patet per <name>apostolum</name> <title>prim ad thimoteum</title> quia 
-          <lb ed="#B"/>solus habet immortalitatem Et <ref xml:id="jhb-l1q10-Rd1e341"><name>augustinus</name>
+          <lb ed="#B"/><name xml:id="jhb-l1q10-Nd1e306">magister</name> in littera praesentis distinctionis 
+          <lb ed="#B"/>et patet per <name xml:id="jhb-l1q10-Nd1e310">apostolum</name> <title>prim ad thimoteum</title> quia 
+          <lb ed="#B"/>solus habet immortalitatem Et <ref xml:id="jhb-l1q10-Rd1e341"><name xml:id="jhb-l1q10-Nd1e318">augustinus</name>
           <lb ed="#B"/>5o <title>de trinitate</title> capitulo 3o de magis 7 de parvis</ref> 
           <lb ed="#B"/><quote xml:id="jhb-l1q10-Qd1e352" source="http://scta.info/resource/adt-l5">solus deus non mutatur nec potest mutari</quote>
         </p>
@@ -173,7 +173,7 @@
           <cb ed="#B" n="a"/>
           <lb ed="#B"/>in philosophia 2a pars probatur quia ab 
           <lb ed="#B"/>ipso dependet caelum et tota natura 
-          <lb ed="#B"/>secundum <name>philosophum</name>
+          <lb ed="#B"/>secundum <name xml:id="jhb-l1q10-Nd1e364">philosophum</name>
         </p>
         <p xml:id="jhb-l1q10-d1e397">
           primum corollarium latitudo neccessitatis 
@@ -202,7 +202,7 @@
         </p>
         <p xml:id="jhb-l1q10-d1e441">
           <lb ed="#B"/>Contra ista arguo et primo contra 
-          <lb ed="#B"/>conclusionem per argumenta <name>doctoris sancti</name> ubi 
+          <lb ed="#B"/>conclusionem per argumenta <name xml:id="jhb-l1q10-Nd1e418">doctoris sancti</name> ubi 
           <lb ed="#B"/>supra est dictum primo sic divina perfectio 
           <lb ed="#B"/>exigit quod producatur sibi simile quantum 
           <lb ed="#B"/>non repugnat sed necesse esse crea<lb ed="#B" break="no"/>turae 
@@ -348,7 +348,7 @@
           <lb ed="#B"/>contra primum <del rend="expunctuation">argumentum</del> corollarium dico primo negan<lb ed="#B" break="no"/>do 
           istam consequentiam istam cum dicitur latitudo 
           <lb ed="#B"/>contingentiae est intensibilis igitur est dare etc
-          <lb ed="#B"/>et cum probatur per <name>commentatorem</name> quia inten<lb ed="#B" break="no"/>sio 
+          <lb ed="#B"/>et cum probatur per <name xml:id="jhb-l1q10-Nd1e749">commentatorem</name> quia inten<lb ed="#B" break="no"/>sio 
           habet fieri etc dico pro nunc quod verum 
           <lb ed="#B"/>est summendo contrarium negative contradictoriae 
           <lb ed="#B"/>non autem positive contrariae
@@ -376,7 +376,7 @@
           <lb ed="#B"/>quia quaelibet pars eius et tunc cum 
           <lb ed="#B"/>arguitur ultra igitur tota poterit ponum esse 
           <lb ed="#B"/>concedo consequens ex quo apparet quod multae 
-          <lb ed="#B"/>rationes <name>iohannis de marchia</name> fundamen<lb ed="#B" break="no"/>tur 
+          <lb ed="#B"/>rationes <name xml:id="jhb-l1q10-Nd1e814">iohannis de marchia</name> fundamen<lb ed="#B" break="no"/>tur 
           super falso et per ignorantiam logi<lb ed="#B" break="no"/>cae 
           peccant sicut videtur circa principium 
           <lb ed="#B"/>2i non enim sequitur tota poterit poni 
@@ -460,7 +460,7 @@
           deus et homo differrent 
           <lb ed="#B"/>igitur non oportet quod distinctio sit 
           <lb ed="#B"/>aliquid vel etiam differentia pro eadem 
-          <lb ed="#B"/>conclusione est processus <name>beati augustini</name> 6o 
+          <lb ed="#B"/>conclusione est processus <name xml:id="jhb-l1q10-Nd1e1014">beati augustini</name> 6o 
           <lb ed="#B"/><title>de trinitate</title> capitulo 4 dicens <unclear>magnis</unclear> et 13 et 14 
           <lb ed="#B"/>de <sic>penis</sic>
         </p>
@@ -486,7 +486,7 @@
         <p xml:id="jhb-l1q10-d1e1118">
           2o quando non inportant diversas 
           <lb ed="#B"/>res sed diversas circumstantias rerum 
-          <lb ed="#B"/>sic loquitur <name>boetius</name> <title>de trinitate</title> capitulo 5 dicens 
+          <lb ed="#B"/>sic loquitur <name xml:id="jhb-l1q10-Nd1e1078">boetius</name> <title>de trinitate</title> capitulo 5 dicens 
           <lb ed="#B"/>aliae distinctiones de notant res 
           <lb ed="#B"/>aliae circumstantias rerum
         </p>
@@ -508,8 +508,8 @@
           <lb ed="#B"/>ut illud idem secundum alium modum 
           <lb ed="#B"/>aut 2m aliam considerationem 
           <lb ed="#B"/>haec non sit illud ad idem est proce<lb ed="#B" break="no"/>ssus 
-          <ref><name>boetii</name> libro de trinitate capitulo 4 diffuse </ref>
-          <lb ed="#B"/>et <ref><name>damascenus</name> libro primo capitulo ii</ref> ubi ostendit 
+          <ref xml:id="jhb-l1q10-Rd1e1139"><name xml:id="jhb-l1q10-Nd1e1140">boetii</name> libro de trinitate capitulo 4 diffuse </ref>
+          <lb ed="#B"/>et <ref xml:id="jhb-l1q10-Rd1e1146"><name xml:id="jhb-l1q10-Nd1e1147">damascenus</name> libro primo capitulo ii</ref> ubi ostendit 
           <lb ed="#B"/>quod aliud est consideratam rem re aliud 
           <lb ed="#B"/>rationem aliud intellectu scilicet differre 
           <lb ed="#B"/>secundum nullam istarum distinctionem <unclear>iii</unclear> 
@@ -518,7 +518,7 @@
           <lb ed="#B"/>et sic differre partis supposita divina 
           <lb ed="#B"/>quae realiter distinguitur licet 
           <lb ed="#B"/>forte non sit dicendum ea differre et 
-          <lb ed="#B"/>haec ut videtur propter verbum <ref><name>damasceni</name> eodem 
+          <lb ed="#B"/>haec ut videtur propter verbum <ref xml:id="jhb-l1q10-Rd1e1172"><name xml:id="jhb-l1q10-Nd1e1173">damasceni</name> eodem 
           <lb ed="#B"/>libro capitulo 5o</ref> ubi dicit si vero differentia 
           <lb ed="#B"/>est meis ubi est perfectio quasi ve<lb ed="#B" break="no"/>lit 
           dicere quod gradus differre denuit 
@@ -526,14 +526,14 @@
           <lb ed="#B"/>altera vel utraque quae ab invicem 
           <lb ed="#B"/>differre dicuntur
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1190">
           // Contra ista potest 
           <lb ed="#B"/>argui et primo contra conclusionem per auctorita<lb ed="#B" break="no"/>tes 
-          primo <name>augustini</name> contra maximinum haereticum 
+          primo <name xml:id="jhb-l1q10-Nd1e1196">augustini</name> contra maximinum haereticum 
           <lb ed="#B"/>ubi dicut si potes deum patrem 
           <lb ed="#B"/>concedere simplicem et tamen esse 
           <lb ed="#B"/>sapientem bonum etiam quae <del rend="expunctuation">nu</del>
-          <lb ed="#B"/><unclear>emimerat</unclear> ibi <name>augustinus</name> quinto magis 
+          <lb ed="#B"/><unclear>emimerat</unclear> ibi <name xml:id="jhb-l1q10-Nd1e1211">augustinus</name> quinto magis 
           <lb ed="#B"/>unus deus potest esse sipmlex 
           <lb ed="#B"/>et tum trinitas haec ratio vel consequentia nihil 
           <lb ed="#B"/>valeret nisi foret aliqua distinctio 
@@ -541,9 +541,9 @@
           <lb ed="#B"/>solum supposita divina essentia 
           <lb ed="#B"/>aeterna distinguuntur
         </p>
-        <p> 
+        <p xml:id="jhb-l1q10-d1e1227"> 
           2o potest argui per 
-          <lb ed="#B"/>auctoritatem <name>damasceni</name> libro primo capitulo 3 Quae<lb ed="#B" break="no"/>cumque 
+          <lb ed="#B"/>auctoritatem <name xml:id="jhb-l1q10-Nd1e1231">damasceni</name> libro primo capitulo 3 Quae<lb ed="#B" break="no"/>cumque 
           dicimus de deo affirmare non 
           <lb ed="#B"/>necessariam ipsius sed ea quae sunt circa 
           <lb ed="#B"/>eius <seg type="correction">nat<del rend="expunctuation">a</del>uram</seg> ostendunt et enim 
@@ -551,7 +551,7 @@
           <lb ed="#B"/>et si quaecumque dixeris non naturam 
           <lb ed="#B"/>dicis dei sed ea quae sunt circa naturam
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1253">
           <cb ed="#B" n="b"/>
           <lb ed="#B"/>// 3o ad idem arguitur auctoritate augustini 
           <lb ed="#B"/>8 de trinitate capitulo primo ubi probat quod duae
@@ -561,7 +561,7 @@
           <lb ed="#B"/>si non esset aliqua distinctio ex natura 
           <lb ed="#B"/>rei inter <unclear>manitudinem</unclear> et vita<lb ed="#B" break="no"/>tem 
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1277">
           // Contra primum corollarium si deus 
           <lb ed="#B"/>foret inmense simplex aut 
           <lb ed="#B"/>igitur divisibiliter aut indivisibiliter non potest 
@@ -574,7 +574,7 @@
           anichilo essentia divina quam cre<lb ed="#B" break="no"/>atura 
           quod est falsum 
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1304">
           // Contra primam 
           <lb ed="#B"/>partem illius corollarii quia sapientia 
           <lb ed="#B"/>in communi non est iustitia in communi igitur nec 
@@ -583,9 +583,9 @@
           <lb ed="#B"/>tollit diffinitionem propriam rei a<lb ed="#B" break="no"/>licuius 
           ut videtur 
         </p>
-        <p> 
+        <p xml:id="jhb-l1q10-d1e1320"> 
           // Contra 2m corollarium 
-          <lb ed="#B"/>arguitur primo ex dictis <ref><name>iacobi 
+          <lb ed="#B"/>arguitur primo ex dictis <ref xml:id="jhb-l1q10-Rd1e1324"><name xml:id="jhb-l1q10-Nd1e1325">iacobi 
           <lb ed="#B"/>de viterbio</name> 3o quodlibet</ref> quaestio 7 quae non 
           <lb ed="#B"/>sunt sinonima significant diversas res vel 
           <lb ed="#B"/>eandem 2m diversos modos si<lb ed="#B" break="no"/>gnificandi 
@@ -602,18 +602,18 @@
           <lb ed="#B"/>malum culpae intelligat et nullo modo 
           <lb ed="#B"/>velit
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1363">
           // 3o contra idem ex dictis 
           <pb ed="#B" n="78-r"/>
           <cb ed="#B" n="a"/>
-          <lb ed="#B"/><ref><name>Alponsi</name> in ista distinctione quaestione una articulo 2o 
+          <lb ed="#B"/><ref xml:id="jhb-l1q10-Rd1e1370"><name xml:id="jhb-l1q10-Nd1e1371">Alponsi</name> in ista distinctione quaestione una articulo 2o 
           <lb ed="#B"/>conclusionis 4e corollario</ref> quae necessitant intellectum 
           <lb ed="#B"/>ad actus essentialiter distinctos di<lb ed="#B" break="no"/>stinguuntur 
           2m rationem sive concep<lb ed="#B" break="no"/>tibiliter 
           sed perfectiones divinae sunt huius 
           <lb ed="#B"/>igitur etc
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1386">
           // Contra 3m corollarium sapientiae 
           <lb ed="#B"/>divinae ut sic non repugnat non 
           <lb ed="#B"/>iustitia igitur <unclear>aliundo</unclear> igitur sapientia ali<lb ed="#B" break="no"/>quo 
@@ -622,30 +622,30 @@
           <lb ed="#B"/>alius deus igitur etc de aliis rationibus 
           <lb ed="#B"/>videbitur in principiis
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1404">
           // Ad ista respon<lb ed="#B" break="no"/>deo 
           et primo ad auctoritates et primo ad 
           <lb ed="#B"/>primam dico primo si reciperetur ad 
           <lb ed="#B"/><unclear>unguoem</unclear> probaretur non solum di<lb ed="#B" break="no"/>stinctio 
           formalis sed etiam realis 
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1416">
           <lb ed="#B"/>2o dico quod vult dicere 2m formam 
           <lb ed="#B"/>vocis videntur aliqua significare circa 
-          <lb ed="#B"/>essentiam divinam sic respondet <name>gregorius</name>
+          <lb ed="#B"/>essentiam divinam sic respondet <name xml:id="jhb-l1q10-Nd1e1424">gregorius</name>
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1427">
           dico 
           <lb ed="#B"/>3o quod non loquitur de significiatione Sed de modo 
-          <lb ed="#B"/>significationis sic respondet <name>alphonsus</name> ad alias 
+          <lb ed="#B"/>significationis sic respondet <name xml:id="jhb-l1q10-Nd1e1433">alphonsus</name> ad alias 
           <lb ed="#B"/>auctoritates dico quod tantum sunt contra cum <unclear>sicud</unclear> contra me 
           <lb ed="#B"/>quia consimiliter probaretur quod tanta vel maiore 
           <lb ed="#B"/>esset distinctio perfectionem sicud suppositorum consimiliter 
           <lb ed="#B"/>autem intelligatur ostendit thomas de 
-          <lb ed="#B"/>argentis distinctione 6 quod prima Et <name>gregorius</name> in ista di<lb ed="#B" break="no"/>stinctione 
-          et <name>alphonsus</name> similiter 
+          <lb ed="#B"/>argentis distinctione 6 quod prima Et <name xml:id="jhb-l1q10-Nd1e1448">gregorius</name> in ista di<lb ed="#B" break="no"/>stinctione 
+          et <name xml:id="jhb-l1q10-Nd1e1453">alphonsus</name> similiter 
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1456">
           Ad rationem 
           <lb ed="#B"/>contra primum corollarium cum quaeritur aut per indivisibile 
           <lb ed="#B"/>vel divisibile distat etc posset primo 
@@ -653,13 +653,13 @@
           <lb ed="#B"/>intrinseca sed extrinseca scilicet omnium cre<lb ed="#B" break="no"/>aturarum 
           possibile vel actualem 
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1470">
           2o potest dici negando istam consequentiam 
           <lb ed="#B"/>distant indivisibiliter igitur infinite 
           <lb ed="#B"/>minus quia distat per indivisibile 
           <lb ed="#B"/>quod est inmensus etc
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1479">
           // Ad rationem contra 
           <lb ed="#B"/>primam partem primi corollarii sapientia 
           <lb ed="#B"/>in communi non est iustitia in communi igitur 
@@ -670,7 +670,7 @@
           <lb ed="#B"/>consequentiam rationes negationis allibi di<lb ed="#B" break="no"/>centur 
           causa principiis quam rationibus aliis
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1499">
           <lb ed="#B"/>// Ad rationem 2m corollarium cum arguitur 
           <lb ed="#B"/>quod non sunt sinomina etc concesso toto 
           <lb ed="#B"/>antecedente non sequitur propositum nam non sequitur haec 
@@ -681,7 +681,7 @@
           est antichristus potest esse et tamen non 
           <lb ed="#B"/>sequitur quod significatum sit verum et falsum
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1521">
           <lb ed="#B"/>// ad 2am rationem contra idem cum arguitur 
           <lb ed="#B"/>quod si esset verum etc sequitur quod intellectiva 
           <lb ed="#B"/>divina formaliter esset volitiva 
@@ -694,7 +694,7 @@
           <lb ed="#B"/>non est actus respectu sortis peccare vel 
           <lb ed="#B"/>mali culpae
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1547">
           // ad 3m contra idem corollarium 
           <lb ed="#B"/>nego tam maiorem quam minorem 
           <lb ed="#B"/>quia non esset quod omne illud quod necessi<lb ed="#B" break="no"/>tat 
@@ -703,7 +703,7 @@
           ab uti nec etiam perfectio divina 
           <lb ed="#B"/>necessita ad dispositionem conceptus
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1563">
           // Ad 
           <lb ed="#B"/>rationem contra 3m corollarium nego simpliciter 
           <lb ed="#B"/>maiorem quia sapientia divina non 
@@ -711,26 +711,26 @@
           <lb ed="#B"/>quod est melius esse quam non esse simpliciter 
           <lb ed="#B"/>sub uno intellectu
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1577">
           // 3a conclusio solus 
           <lb ed="#B"/>deus est simplex in fine simplicitatis 
           <lb ed="#B"/>carens omni modo compositionis probatur 
           <lb ed="#B"/>praeiacens istius quia semper simplex 
           <lb ed="#B"/>praeponendus est compositum et minus com<lb ed="#B" break="no"/>positum 
-          magis composito 2m <ref>augustinum de 
+          magis composito 2m <ref xml:id="jhb-l1q10-Rd1e1590">augustinum de 
           <lb ed="#B"/>quantitate animae capitulo 12</ref> igitur illa praeia<lb ed="#B" break="no"/>cens 
           vera 
         </p>
-        <p>
-          Ad idem est <name><unclear>Brinli</unclear></name> 5
+        <p xml:id="jhb-l1q10-d1e1598">
+          Ad idem est <name xml:id="jhb-l1q10-Nd1e1600"><unclear>Brinli</unclear></name> 5
           <lb ed="#B"/>ad Eugenium dicens inter omnia quae unum 
           <pb ed="#B" n="78-v"/>
           <cb ed="#B" n="a"/>
           <lb ed="#B"/>dicuntur artem tenet unitas divinae 
           <lb ed="#B"/>trinitatis
         </p>
-        <p>
-          Ad idem est <ref><name>hugo</name> in commento caelestis 
+        <p xml:id="jhb-l1q10-d1e1615">
+          Ad idem est <ref xml:id="jhb-l1q10-Rd1e1617"><name xml:id="jhb-l1q10-Nd1e1618">hugo</name> in commento caelestis 
           <lb ed="#B"/>Ierarchiae capitulo 6</ref> ubi ostendit quod unitas 
           <lb ed="#B"/>divina non solum debet dici monas sed 
           <lb ed="#B"/>evas etiam quod sonat unitatem 
@@ -744,14 +744,14 @@
           <lb ed="#B"/>creaturae convenire non possunt quare 
           <lb ed="#B"/>etc
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1648">
           // primum corollarium quascumque formas 
           <lb ed="#B"/>vel species datas potest deus eas fa<lb ed="#B" break="no"/>cere 
           in superioremaliquam unitive con<lb ed="#B" break="no"/>fluere
           patet cum quaelibet talis non sit in<lb ed="#B" break="no"/>mutabilitatis 
           esse sumi 
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1659">
           // 2m corollarium 
           <lb ed="#B"/>inpossibile est aliquam speciem totam sui 
           <lb ed="#B"/>generis vel aliquod individuum totam 
@@ -760,17 +760,17 @@
           <lb ed="#B"/>vel cum alio in superiorem semper con<lb ed="#B" break="no"/>fluere 
           unitive
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1675">
           // 3m corollarium impossibile 
           <lb ed="#B"/>est aliquam speciem causa simplicem esse 
           <lb ed="#B"/>quod actui elicito vel habitui infusio 
           <lb ed="#B"/>subiective non possit sub esse patet 
           <lb ed="#B"/>quia sic solus deus simplex 
           <lb ed="#B"/>esse potest Ista omnia dicta saltem 
-          <lb ed="#B"/>in virtute conforma sunt <name>domini Aegidii</name>
-          <lb ed="#B"/>in ista distinctione et <name>hugolinis</name> in eadem
+          <lb ed="#B"/>in virtute conforma sunt <name xml:id="jhb-l1q10-Nd1e1690">domini Aegidii</name>
+          <lb ed="#B"/>in ista distinctione et <name xml:id="jhb-l1q10-Nd1e1694">hugolinis</name> in eadem
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1698">
           // contra 
           <lb ed="#B"/>ista simul arguo per auctoritates aliquas 
           <lb ed="#B"/>quas recitat dominus Aegidius contra 
@@ -778,26 +778,26 @@
           <lb ed="#B"/>ubi dicitur intelligentia est substantia quae 
           <lb ed="#B"/>non dividitur
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1714">
           // 3o de anima dicitur in<lb ed="#B" break="no"/>tellectus 
           est simplex per mixtus inma<lb ed="#B" break="no"/>terialis
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1721">
           // 3a conclusio haec est ratio principalis 
-          <lb ed="#B"/>3a quae fundatur super dictis <name>damasceni</name> 
-          libro 2o capitulo 12 ut dicit <name>Aegidius</name>
+          <lb ed="#B"/>3a quae fundatur super dictis <name xml:id="jhb-l1q10-Nd1e1725">damasceni</name> 
+          libro 2o capitulo 12 ut dicit <name xml:id="jhb-l1q10-Nd1e1727">Aegidius</name>
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1730">
           ad 
           <cb ed="#B" n="b"/>
-          <lb ed="#B"/>primam acutoritatem dicitur quod intelligentia 
+          <lb ed="#B"/>primam auctoritatem dicitur quod intelligentia 
           <lb ed="#B"/>non dividitur verum est quantum ad partes 
           <lb ed="#B"/>naturae quia non habet partes vel quantum ad 
           <lb ed="#B"/>durationem quia est tota simul vel 3o 
           <lb ed="#B"/>quantum ad numerum quia non sunt plures 
           <lb ed="#B"/>numero in specie
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1748">
           // ad 2am auctoritatem dicit 
           <lb ed="#B"/>ipse quod intellectus est simplex etc 
           <lb ed="#B"/>verum est primo quia non est virtus 
@@ -806,7 +806,7 @@
           <lb ed="#B"/>cum omnis creatura sit aliquo modo 
           <lb ed="#B"/>composita
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1764">
           // Ad 3am rationem quae fuit 
           <lb ed="#B"/>facta in principio quaestionis cum dicitur 
           <lb ed="#B"/>quod aliquod citra deum sit simplex si 
@@ -814,7 +814,7 @@
           <lb ed="#B"/>et tunc ad probationem quia correspon<lb ed="#B" break="no"/>det 
           esse <sic>punctale</sic> igitur nego consequentiam 
         </p>
-        <p>
+        <p xml:id="jhb-l1q10-d1e1781">
           <lb ed="#B"/>// Ad 2m si anima non simplex est 
           <lb ed="#B"/>sequitur quod habet per eos consequentia non est formalis 
           <lb ed="#B"/>quia solum ex hoc dicitur res omnino 

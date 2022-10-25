@@ -51,7 +51,7 @@
     <body>
       <div xml:id="jhb-l1q11">
         <head xml:id="jhb-l1q11-Hd1e104">Librum 1, Quaestio 11 [Clm 26711 Transcription]</head>
-        <p>
+        <p xml:id="jhb-l1q11-d1e93">
           <lb ed="#B" n="64"/>unc ad distinctionem 
           perso<lb ed="#B" n="65" break="no"/>narum accedamus etc Ista uneclusione 
           <lb ed="#B" n="66"/>distinctio ad praecedentem 
@@ -101,7 +101,7 @@
           <lb ed="#B" n="26"/>aeternitatem ex od 3o dominus regna 
           <lb ed="#B" n="27"/>bit maeterinum et ultra
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e200">
           / 2o principaliter spit  
           <lb ed="#B" n="28"/>verbum nascitur de patre igitur verbum  
           <lb ed="#B" n="29"/>non est coaeternum patri assumptum patet  
@@ -126,7 +126,7 @@
           <lb ed="#B" n="46"/>int aliqud erat atquam esset quae 
           <lb ed="#B" n="47"/>consequentia similis inesse esse videtur
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e250">
           / 3o prncipaer 
           <lb ed="#B" n="48"/>aeternitas non est mensurativa prigbitur  
           <lb ed="#B" n="49"/>quaestio falsa consequentia non assumptum arguitur quia  
@@ -158,7 +158,7 @@
           <lb ed="#B" n="75"/>ser vel signum est eius propria mensura 
           <lb ed="#B" n="76"/>igitur etc
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e315">
           / non summo a mensuram pro 
           <lb ed="#B" n="77"/>duativa aliqua distantia domini 
           <lb ed="#B" n="78"/>sa quia secundum augustinus in libro de vera  
@@ -173,7 +173,7 @@
           <lb ed="#B" n="3"/>super simplicem in partibilem 
           immuta<lb ed="#B" n="4" break="no"/>biliter veram
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e344">
           / 2m corollarium contra modum  
           <lb ed="#B" n="5"/>loquendi doctoris subtilis in multis  
           <lb ed="#B" n="6"/>locis unicum est praecise signum aeternitatis  
@@ -190,7 +190,7 @@
           <lb ed="#B" n="17"/>cuiuscumque cuius ipsa aeternitas est poosten  
           <lb ed="#B" n="18"/>tiva
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e377">
           / 3m corollarium est informa domini 
           <lb ed="#B" n="19"/>Egidii libro primo distinctione 19 parte 3a quaestione 2a  
           <lb ed="#B" n="20"/>et dubio 2 o aeternitatis non habet  
@@ -205,7 +205,7 @@
           di<lb ed="#B" n="29" break="no"/>stinguitur sed taliter non comparantur alia coin 
           <lb ed="#B" n="30"/>ad suas mensuas igitur corollarium verum
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e406">
           / contra  
           <lb ed="#B" n="31"/>conclusionem si contrusio esset vera sequeretur quod  
           <lb ed="#B" n="32"/>in divisibilis mensura foret propria 
@@ -215,7 +215,7 @@
           <lb ed="#B" n="36"/>aeternum et cum suum velle sic facere 
           <lb ed="#B" n="37"/>suum facere esset aeternum
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e424">
           / 2o sequitur quod  
           <lb ed="#B" n="38"/>duo contradictiora in 4 aeternitas sunt siml  
           <lb ed="#B" n="39"/>vera probatur quia modo non vult vrium  
@@ -230,7 +230,7 @@
           <lb ed="#B" n="46"/>quae neccessarium foret unum sicut 
           re<lb ed="#B" n="47" break="no"/>liquum
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e453">
           / Contra primum corollarium simplicius  
           <lb ed="#B" n="48"/>est indivisibile indivisibiliter esse  
           <lb ed="#B" n="49"/>quam solum omnio et omninmo in dividbale  
@@ -240,7 +240,7 @@
           <lb ed="#B" n="53"/>esse igitur totum non verum consequentia satis non  
           <lb ed="#B" n="54"/>simliter et antecedens
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e471">
           / contra 2m corollarium videtur  
           <lb ed="#B" n="55"/>esse textus Iohannis ubi dicitur de 
           <lb ed="#B" n="56"/>spiritu sancto quaecumque audiet lequetur  
@@ -251,7 +251,7 @@
           <lb ed="#B" n="61"/>clarifiate quam habii praesens quam mundus  
           <lb ed="#B" n="62"/>fieret
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e492">
           / contra 3m corollarium videtur esse dictum  
           <lb ed="#B" n="63"/>superius allegatum boetee quo dicitur  
           <lb ed="#B" n="64"/>quod sicut nunc temporis causat tempus sic  
@@ -259,7 +259,7 @@
           <lb ed="#B" n="66"/>igitur videtur quod eadem comparatione 
           co<lb ed="#B" n="67" break="no"/>pentur et per consequens corollarium falsum
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e505">
           / Ad ista 
           <lb ed="#B" n="68"/>respondeo et primo ad primum tamen arguitur  
           <lb ed="#B" n="69"/>quod aeternitas esset mensura cuiuslibet  
@@ -277,7 +277,7 @@
           <lb ed="#B" n="81"/>sicut videtur circa 2m deo dante  
           <lb ed="#B" n="82"/>non sto in prima responsione
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e540">
           / Ad 2m  
           <lb ed="#B" n="83"/>cum dicitur quod sequeretur quod contradictioni ent  
           <!--80r.xml-->
@@ -306,7 +306,7 @@
           <lb ed="#B" n="21"/>divinae sed potius ab extrinseco quia  
           <lb ed="#B" n="22"/>res posita est inesse
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e599">
           ¶ Ad rationem  
           <lb ed="#B" n="23"/>contra primum corollarium cum arguitur quod 
           simpli<lb ed="#B" n="24" break="no"/>titas cuis sit indivisibile etc nego  
@@ -314,7 +314,7 @@
           <lb ed="#B" n="26"/>aeque est simplex unum sicut 
           re<lb ed="#B" n="27" break="no"/>liquando
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e612">
           / Ad rationes contra 2m corollarium responde 
           <lb ed="#B" n="28"/>augustinus omilis 45 super Iohannes ostendens  
           <lb ed="#B" n="29"/>quod varater dicimus de deo fuit  
@@ -338,7 +338,7 @@
           <lb ed="#B" n="45"/>habitualiter haec est si fuisset tempus ante  
           <lb ed="#B" n="46"/>mundum habuisset clarem in illo
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e660">
           ¶ 4o  
           <lb ed="#B" n="47"/>potest dici quod si recipitur tempus pro quantum  
           <lb ed="#B" n="48"/>que ymaginaria successione possibili  
@@ -347,7 +347,7 @@
           <lb ed="#B" n="51"/>talia verificantur possunt pro talibus signinis  
           <lb ed="#B" n="52"/>illius ymaginarii sunccessus
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e677">
           ¶ Ad  
           <lb ed="#B" n="53"/>rationem contra 3m corollarium et rationes principales  
           <lb ed="#B" n="54"/>in principio factas cum dicitur quod nunc  
@@ -367,12 +367,12 @@
           <lb ed="#B" n="68"/>ostendit dominus Egidius libro primo distinctione 
           <lb ed="#B" n="69"/>8 parte 3 quaestione 3 
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e716">
           Ad dictum augustini dicitur  
           <lb ed="#B" n="70"/>quod non lquitur de aeterinitate simple  
           <lb ed="#B" n="71"/>sed de aeternitatem particitata 
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e723">
           Ad 3m cum dicitur  
           <lb ed="#B" n="72"/>quod verbum fit ultra aeternitatem 
           respon<lb ed="#B" n="73" break="no"/>det doctor profundus quod aeternitas  
@@ -412,7 +412,7 @@
           <lb ed="#B" n="22"/>liter debet intelligi cum dicitur dominus  
           <lb ed="#B" n="23"/>regnabit maeternum etc
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e806">
           / conclusio 2a ubi  
           <lb ed="#B" n="24"/>aeterni nastci vel generatio cum omni aeternitatis  
           <lb ed="#B" n="25"/>proprio mensuratur signo carente  
@@ -443,7 +443,7 @@
           <lb ed="#B" n="48"/>distinctione 3 parte 3 quaestione 2 ubi has proprietates  
           <lb ed="#B" n="49"/>ponit informa
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e869">
           / primum corollarium contra  
           <lb ed="#B" n="50"/>doctorem subtilem libro primo  
           <lb ed="#B" n="51"/>distinctione 12 quaestione 2a inodi 
@@ -460,7 +460,7 @@
           <lb ed="#B" n="62"/>primum corollarium expresse ponitur in littera  
           <lb ed="#B" n="63"/>istinctione 1stine capitulo primo
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e902">
           / 2m corollarium contra eundem  
           <lb ed="#B" n="64"/>ibidem prima persona non est prius  
           <lb ed="#B" n="65"/>fecundam respectu 3ae quod 2a probatur ex  
@@ -490,7 +490,7 @@
           <lb ed="#B" n="5"/>erat probandum sequitur ad oppinionem  
           
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e962">
           <lb ed="#B" n="6"/>/ 3m corollarium responsivum ad quaestionem pater  
           <lb ed="#B" n="7"/>communicando filio coaeternitatem ex  
           <lb ed="#B" n="8"/>cludit a se respectu illius omnium mensura 
@@ -498,7 +498,7 @@
           <lb ed="#B" n="10"/>est ibi omnino prioritas pratest priori  
           <lb ed="#B" n="11"/>tatem originis vel causalem
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e978">
           ¶ Contra  
           <lb ed="#B" n="12"/>ista dicta est 2a ratio principalis facta  
           <lb ed="#B" n="13"/>in pede quaestionis 2o sic generatio filii  
@@ -509,7 +509,7 @@
           <lb ed="#B" n="18"/>est ipsemet filius habens patrem  
           <lb ed="#B" n="19"/>casamquam productivum principium
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e998">
           / Contra  
           <lb ed="#B" n="20"/>primum corollarium et 2m simul sic qualis  
           <lb ed="#B" n="21"/>per se ordo realis est inter aliqua  
@@ -529,7 +529,7 @@
           <lb ed="#B" n="35"/>est si eius nasci non est natum esse  
           <lb ed="#B" n="36"/>sed sic est in proposito igitur etc
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e1037">
           / Ad 2m in 
           prin<lb ed="#B" n="37" break="no"/>cipali cum dicitur quod talis est habitu 
           <lb ed="#B" n="38"/>do etc dico quod verum est ubi genitum  
@@ -552,7 +552,7 @@
           <lb ed="#B" n="53"/>de li principio ac etiam duatioe  
           <lb ed="#B" n="54"/>sed contentor de prima 
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e1083">
           Ad 3am principaliter 
           <lb ed="#B" n="55"/>conta corollarium cum arguitur qualis est ordo inter  
           <lb ed="#B" n="56"/>alia etc quamvis plura dicipossent  
@@ -580,7 +580,7 @@
           <lb ed="#B" n="78"/>et causaliter formaliter mensura sit omnis  
           <lb ed="#B" n="79"/>entitatis creatae
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e1140">
           / 2a pars conclusionis probatur  
           <lb ed="#B" n="80"/>quia millae creaturae competunt 
           pro<lb ed="#B" n="81" break="no"/>prietates aeternitatis quae sunt ut dictum  
@@ -590,9 +590,9 @@
           <lb ed="#B" n="1"/>sin 2a conclusione in variabilitas interia 
           <lb ed="#B" n="2"/>bilitas simultas igitur etc
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e1159">
           / primum  
-          <lb ed="#B" n="3"/>corollarium contra <name>Iohannem de marchia</name> quod  
+          <lb ed="#B" n="3"/>corollarium contra <name xml:id="jhb-l1q11-Nd1e1163">Iohannem de marchia</name> quod  
           <lb ed="#B" n="4"/>prima suarum determinationem argiculo primo 
           so<lb ed="#B" n="5" break="no"/>lutione primi articulo 9na 2am conclusionem nota  
           <lb ed="#B" n="6"/>semper mensura rei formalis est menm 
@@ -601,7 +601,7 @@
           <lb ed="#B" n="9"/>sua formalis et tamen non ei propiortiorner  
           <lb ed="#B" n="10"/>adaequatur
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e1181">
           / 2m corollarium contra eundem in 
           <lb ed="#B" n="11"/>bidem maioris perfectionis formaltur  
           <lb ed="#B" n="12"/>est deo totam creabilium 
@@ -620,7 +620,7 @@
           <lb ed="#B" n="25"/>est continere alterius consequentia nota antecedens est  
           <lb ed="#B" n="26"/>suum ut supra patuit in 3a distinctione
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e1218">
           / 3m corollarium  
           <lb ed="#B" n="27"/>contra eundem in eadem responsione  
           <lb ed="#B" n="28"/>deus non est immensus formaliter  
@@ -654,7 +654,7 @@
           <lb ed="#B" n="54"/>giam et tunc minor est falsa quia sic  
           <lb ed="#B" n="55"/>ens dicitur de deo et creaturis
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e1288">
           Ad secundam  
           <lb ed="#B" n="56"/>rationem quae fuit 3a principalis dico  
           <lb ed="#B" n="57"/>ad primum quod licet inter deum et 
@@ -671,7 +671,7 @@
           <lb ed="#B" n="68"/>rebus quaentis sed hoc non inpredit quoniam  
           <lb ed="#B" n="69"/>significatum deo competere possit
         </p>
-        <p>
+        <p xml:id="jhb-l1q11-d1e1321">
           Ad rationem  
           <lb ed="#B" n="70"/>conta collarium ico primo quod quilibet prilosephis  
           <lb ed="#B" n="71"/>ponens deum esse virtetis finite  
