@@ -52,123 +52,143 @@
       <div xml:id="jhb-l1q11">
         <head xml:id="jhb-l1q11-Hd1e104">Librum 1, Quaestio 11 [Clm 26711 Transcription]</head>
         <p xml:id="jhb-l1q11-d1e93">
-          <lb ed="#B" n="64"/>unc ad distinctionem 
-          perso<lb ed="#B" n="65" break="no"/>narum accedamus etc Ista uneclusione 
+          <lb ed="#B" n="64"/>Nunc ad distinctionem 
+          perso<lb ed="#B" n="65" break="no"/>narum accedamus etc Ista 9 
           <lb ed="#B" n="66"/>distinctio ad praecedentem 
-          con<lb ed="#B" n="67" break="no"/>tinuatur postquam magister determinavit  
+          con<lb ed="#B" n="67" break="no"/>tinuatur postquam <name xml:id="jhb-l1q11-Nd1e103">magister</name> determinavit  
           <lb ed="#B" n="68"/>de generatione divina in se nunc incipit  
-          <lb ed="#B" n="69"/>tractare degignentis et geniti est  
-          <lb ed="#B" n="70"/>trina dapnatione et dividitur in duas  
+          <lb ed="#B" n="69"/>tractare de gignentis et geniti aet<lb ed="#B" n="70" break="no"/>terna 
+          dampnatione et dividitur in duas  
           <lb ed="#B" n="71"/>partes principales quia primo tractat  
-          <lb ed="#B" n="72"/>de coaeternitate geniti et gingentis  
-          <lb ed="#B" n="73"/>quo ad eus existentiam intrinsecam  
-          <lb ed="#B" n="74"/>/2o quantum ad signifiniem evuctiativam  
+          <lb ed="#B" n="72"/>de coaeternitate geniti et <sic>gingnentis</sic>  
+          <lb ed="#B" n="73"/>quo ad eius existentiam intrinsecam
+          <lb ed="#B" n="74"/><pc type="virgula">//</pc> 2o quantum ad significationem <sic>enuncciativam</sic>
           <lb ed="#B" n="75"/>extrinsecam tunc 2a pars est ibi hic  
-          <lb ed="#B" n="76"/>quaeri potest prima pars principalis 
-          di<lb ed="#B" n="77" break="no"/>iuditur in quatuor partes nam primo  
-          <lb ed="#B" n="78"/>magister distinctionem personarum vaciter  
-          <lb ed="#B" n="79"/>ponit 2o aeternam duationem aeternam  
+          <lb ed="#B" n="76"/>quaeri potest
+        </p>
+        <p xml:id="jhb-l1q11-d1e132">
+          prima pars principalis 
+          di<lb ed="#B" n="77" break="no"/>viditur in quatuor partes nam primo  
+          <lb ed="#B" n="78"/>magister distinctionem personarum veraciter
+          <lb ed="#B" n="79"/>ponit 2o aeternam damnationem <del rend="expunctuation">aeternam</del>
           <lb ed="#B" n="80"/>aequaliter ipsis tribuit 3o ex dictis  
-          <lb ed="#B" n="81"/>haereticorum pertinacits obiat quiato  
+          <lb ed="#B" n="81"/>haereticorum pertinaciter obicit quarto  
           <!--79r.xml-->
           <pb ed="#B" n="79-r"/>
           <cb ed="#B" n="a"/>
-          <lb ed="#B" n="1"/>praesumptionem oppositorum sangacitur 
-          refel<lb ed="#B" n="2" break="no"/>lite tunc 2a pars est ibi genitus enim  
-          <lb ed="#B" n="3"/>3o ibi hoc incontra 4 ibi sed quare  
-          <lb ed="#B" n="4"/>anmae Et tunc sequitur 2a pars principalis  
+          <lb ed="#B" n="1"/>praesumptionem oppositorum sagaciter  
+          refel<lb ed="#B" n="2" break="no"/>lit tunc 2a pars est ibi <quote xml:id="jhb-l1q11-Qd1e159">genitus enim</quote>  
+          <lb ed="#B" n="3"/>3o ibi <quote xml:id="jhb-l1q11-Qd1e163">hoc inquit</quote> 4o ibi <quote xml:id="jhb-l1q11-Qd1e165" source="http://scta.info/resource/pll1d9c3-d1e3477@1-4">Sed <sic>quare</sic>  
+          <lb ed="#B" n="4"/>a me</quote>
+        </p>
+        <p xml:id="jhb-l1q11-d1e173">
+          Et tunc sequitur 2a pars principalis  
           <lb ed="#B" n="5"/>quae dividitur in tres partes quia  
-          <lb ed="#B" n="6"/>primo movet dispisitialem sententiam 2o  
-          <lb ed="#B" n="7"/>docet doctorum scriptuam variam  
-          <lb ed="#B" n="8"/>et eorum concordiam et 3o tenet consusem  
+          <lb ed="#B" n="6"/>primo movet <unclear>disputabilem</unclear> sententiam 2o  
+          <lb ed="#B" n="7"/>docet doctorum scripturam variam  
+          <lb ed="#B" n="8"/>et eorum concordiam et 3o tenet conclusionem  
           <lb ed="#B" n="9"/>veram docendam vel credendam  
-          <lb ed="#B" n="10"/>2a pars est ibi sed ne tanti 3a ibi 
-          <lb ed="#B" n="11"/>dicamus filium etc et haec est sententia  
-          <lb ed="#B" n="12"/>trum pater communicando verbo  
+          <lb ed="#B" n="10"/>2a pars est ibi <quote xml:id="jhb-l1q11-Qd1e190">sed ne tanti</quote> 3a ibi 
+          <lb ed="#B" n="11"/><quote xml:id="jhb-l1q11-Qd1e193">dicamus filium</quote> etc et haec est sententia
+        </p>
+        <p xml:id="jhb-l1q11-d1e196">
+          <lb ed="#B" n="12"/>utrum pater communicando verbo  
           <lb ed="#B" n="13"/>coaeternitatem excludat  
-          <lb ed="#B" n="14"/>a se respectu illius omnem mensura 
-          <lb ed="#B" n="15"/>tivam prioritatem quod non quia pater  
+          <lb ed="#B" n="14"/>a se respectu illius omnem mensura<lb ed="#B" n="15" break="no"/>tivam 
+          prioritatem
+        </p>
+        <p>
+          quod non quia pater  
           <lb ed="#B" n="16"/>non communicat filio aeternitatem nec  
           <lb ed="#B" n="17"/>coaeternitatem igitur quaestio falsa consequentia patet  
-          <lb ed="#B" n="18"/>assumptum probatur tum primo quia es  
-          <lb ed="#B" n="19"/>trinitas est mensura sed verbum est  
-          <lb ed="#B" n="20"/>inmensum 2o quia aeternitas  
-          <lb ed="#B" n="21"/>est facta secundum augustinum 83 quaestione deus est  
-          <lb ed="#B" n="22"/>auctor aeternitatis et 2m boecum  
-          <lb ed="#B" n="23"/>nunc fluens facit tempus nunc stans et  
-          <lb ed="#B" n="24"/>nitatem sed verbum non factum igitur non  
+          <lb ed="#B" n="18"/>assumptum probatur cum primo quia ae<lb ed="#B" n="19" break="no"/>ternitas 
+          est mensura sed verbum est  
+          <lb ed="#B" n="20"/>inmensum <pc type="virgula">//</pc> 2o quia aeternitas  
+          <lb ed="#B" n="21"/>est facta secundum <ref>augustinum 83 quaestione</ref> deus est  
+          <lb ed="#B" n="22"/>auctor aeternitatis et 2m boetium 
+          <lb ed="#B" n="23"/>nunc fluens facit tempus nunc stans aet<lb ed="#B" n="24" break="no"/>nitatem 
+          sed verbum non factum igitur non 
           <lb ed="#B" n="25"/>aeternum 3o quia verbum est supra  
-          <lb ed="#B" n="26"/>aeternitatem ex od 3o dominus regna 
-          <lb ed="#B" n="27"/>bit maeterinum et ultra
+          <lb ed="#B" n="26"/>aeternitatem <ref>exodo 3o</ref> dominus regna<lb ed="#B" n="27" break="no"/>bit 
+          in aeternum et ultra
         </p>
         <p xml:id="jhb-l1q11-d1e200">
-          / 2o principaliter spit  
-          <lb ed="#B" n="28"/>verbum nascitur de patre igitur verbum  
+          <pc type="virgula">//</pc> 2o principaliter sic  
+          <lb ed="#B" n="28"/>verbum nascitur de patre igitur verbum
           <lb ed="#B" n="29"/>non est coaeternum patri assumptum patet  
           <lb ed="#B" n="30"/>et consequentia probatur primo per beatum augustinum  
-          <lb ed="#B" n="31"/>quaestione 39 83 qustione ubi augustinus dicit  
+          <lb ed="#B" n="31"/>quaestione 39 83 questionibus ubi augustinus dicit  
           <lb ed="#B" n="32"/>qui semper nascitur non dum est vel  
-          <lb ed="#B" n="33"/>numquodm natus erit aliud est enim na 
-          <lb ed="#B" n="34"/>sci aliud natum esse 2o quia  
+          <lb ed="#B" n="33"/>numquam natus erit aliud est enim na<lb ed="#B" n="34" break="no"/>sci 
+          aliud natum esse <pc type="virgula">//</pc> 2o quia  
           <lb ed="#B" n="35"/>videtur quod aequalis debeat esse 
-          habi<lb ed="#B" n="36" break="no"/>tudo generationis respectu sui trinum qualis  
+          habi<lb ed="#B" n="36" break="no"/>tudo generationis respectu sui trini qualis  
           <lb ed="#B" n="37"/>est habitudo corruptionis respectu sui  
           <lb ed="#B" n="38"/>sed terminus corruptionis habebit non  
           <lb ed="#B" n="39"/>esse post esse igitur terminus generationis 
-          habe<lb ed="#B" n="40" break="no"/>bit esse post non esse 3o quia pater  
+          habe<lb ed="#B" n="40" break="no"/>bit esse post non esse <pc type="virgula">//</pc> 3o quia pater 
           <!--79r.xml-->
           <cb ed="#B" n="b"/>
           <lb ed="#B" n="41"/>generando filium est principium ipsius  
-          <lb ed="#B" n="42"/>secundum augustinus 5 de trinitate capitulo 14 igitur verbum  
+          <lb ed="#B" n="42"/>secundum <ref>augustinus 5 de trinitate capitulo 14</ref> igitur verbum  
           <lb ed="#B" n="43"/>non est sibi coaeternum consequentia videtur  
           <lb ed="#B" n="44"/>esse augustinus de mortalitate animae  
-          <lb ed="#B" n="45"/>capitulo 13 nulla se ipsam facit vel greitias  
-          <lb ed="#B" n="46"/>int aliqud erat atquam esset quae 
-          <lb ed="#B" n="47"/>consequentia similis inesse esse videtur
+          <lb ed="#B" n="45"/>capitulo 13 nulla se ipsam facit vel ging<lb ed="#B" n="46" break="no"/>nit 
+          aliquid erat antequam esset quae 
+          <lb ed="#B" n="47"/>consequentia similis <unclear>inesse</unclear> esse videtur
         </p>
         <p xml:id="jhb-l1q11-d1e250">
-          / 3o prncipaer 
-          <lb ed="#B" n="48"/>aeternitas non est mensurativa prigbitur  
-          <lb ed="#B" n="49"/>quaestio falsa consequentia non assumptum arguitur quia  
+          <pc type="virgula">//</pc> 3o principaliter
+          <lb ed="#B" n="48"/>aeternitas non est mensurativa igitur
+          <lb ed="#B" n="49"/>quaestio falsa consequentia nota assumptum <pc type="virgula">/</pc> arguitur quia  
           <lb ed="#B" n="50"/>cum deus sit aeternitas sequitur quod deus  
-          <lb ed="#B" n="51"/>foret sui vel rerum aeterna innsura  
+          <lb ed="#B" n="51"/>foret sui vel rerum aeterna mensura  
           <lb ed="#B" n="52"/>sed hoc non potest dici cum non sint  
-          <lb ed="#B" n="53"/>proportialia 2o cum mensurae proprie 
-          compe<lb ed="#B" n="54" break="no"/>tat quantum 2m commnentirem ideo meritur sed  
-          <lb ed="#B" n="55"/>quantitas aeternitati non competit igitur  
-          <lb ed="#B" n="56"/>etc 3o mensurare dicit replicationem  
-          <lb ed="#B" n="57"/>sed aeternitas non est replicabilis igitur  
+          <lb ed="#B" n="53"/>proportionalia 2o cum mensurae proprie 
+          compe<lb ed="#B" n="54" break="no"/>tat quantum 2m <ref><name>commentatorem</name> 10 metaphysicae</ref> sed  
+          <lb ed="#B" n="55"/><unclear>quantitas</unclear> aeternitati non competit igitur  
+          <lb ed="#B" n="56"/>etc <pc type="virgula">/</pc> 3o mensurare dicit replicationem  
+          <lb ed="#B" n="57"/>sed aeternitas non est replicabilis igitur 
           <lb ed="#B" n="58"/>non est mensurativa igitur quaestio falsa quod  
-          <lb ed="#B" n="59"/>erat probandum In oppositum est magister  
-          <lb ed="#B" n="60"/>in litera praesentis distinctionis ubi quem plura 
-          <lb ed="#B" n="61"/>bus auctoritatibus efficienter probat prima  
+          <lb ed="#B" n="59"/>erat probandum
+        </p>
+        <p>
+          In oppositum est magister  
+          <lb ed="#B" n="60"/>in litera praesentis distinctionis ubi quem pluri<lb ed="#B" n="61" break="no"/>bus 
+          auctoritatibus efficienter probat
+        </p>
+        <p>
+          prima  
           <lb ed="#B" n="62"/>conclusio summa substantia divina essentialiter  
           <lb ed="#B" n="63"/>est sua aeternitas et quaelibet eius  
           <lb ed="#B" n="64"/>mensura ista conclusio est expresse de mente  
-          <lb ed="#B" n="65"/>venerabilis anselmus monogion capitulo 24 ubi ait  
-          <lb ed="#B" n="66"/>summa substantia constat sive principali  
-          <lb ed="#B" n="67"/>et sine fine esse nec habere praeteri 
-          <lb ed="#B" n="68"/>tum nec futurum ponit ibi totam  
-          <lb ed="#B" n="69"/>conclusionem primum corollarium tota aeternitas  
+          <lb ed="#B" n="65"/><ref><name>venerabilis anselmus</name> monologion capitulo 24</ref> ubi ait  
+          <lb ed="#B" n="66"/>summa substantia constat sine principio  
+          <lb ed="#B" n="67"/>et sine fine esse nec habere praeteri<lb ed="#B" n="68" break="no"/>tum 
+          nec futurum ponit ibi totam  
+          <lb ed="#B" n="69"/>conclusionem
+        </p>
+        <p>
+          <pc type="virgula">//</pc> primum corollarium tota aeternitas  
           <lb ed="#B" n="70"/>eius instanti non est multiplicior nec  
           <lb ed="#B" n="71"/>eius aliquo signo probatur sic nam 
-          <lb ed="#B" n="72"/>substantia summa est eius quaelibet in 
-          <lb ed="#B" n="73"/>sua igitur quaelibet eius mensura es  
-          <lb ed="#B" n="74"/>sibi tottaliter adaequata sed quodlibet 
-          <lb ed="#B" n="75"/>ser vel signum est eius propria mensura 
+          <lb ed="#B" n="72"/>substantia summa est eius quaelibet me<lb ed="#B" n="73" break="no"/>sura 
+          igitur quaelibet eius mensura est
+          <lb ed="#B" n="74"/>sibi totaliter adaequata sed quodlibet 
+          <lb ed="#B" n="75"/>instans vel signum est eius propria mensura 
           <lb ed="#B" n="76"/>igitur etc
         </p>
         <p xml:id="jhb-l1q11-d1e315">
-          / non summo a mensuram pro 
-          <lb ed="#B" n="77"/>duativa aliqua distantia domini 
-          <lb ed="#B" n="78"/>sa quia secundum augustinus in libro de vera  
-          <lb ed="#B" n="79"/>innocentia circa finem ipsa aeterni 
-          <lb ed="#B" n="80"/>tas absque diversitate mensurae  
+          <pc type="virgula">/</pc> non summo aut mensuram pro<lb ed="#B" n="77" break="no"/>durativa aliqua distantia divi<lb ed="#B" n="78" break="no"/>sa 
+          quia secundum augustinum in libro de vera  
+          <lb ed="#B" n="79"/>innocentia circa finem ipsa aeterni<lb ed="#B" n="80" break="no"/>tas 
+          absque diversitate mensurae  
           <lb ed="#B" n="81"/>est sed intelligo permensuram aequaelem  
           <!--79v.xml-->
           <pb ed="#B" n="79-v"/>
           <cb ed="#B" n="a"/>
-          <lb ed="#B" n="1"/>cum deo duativa per manentiam in de 
+          <!-- left off 10/26/22 -->
+          <lb ed="#B" n="1"/>cum deo durativa per manentiam in de 
           <lb ed="#B" n="2"/>pendentem sive principio et fine  
           <lb ed="#B" n="3"/>super simplicem in partibilem 
           immuta<lb ed="#B" n="4" break="no"/>biliter veram
