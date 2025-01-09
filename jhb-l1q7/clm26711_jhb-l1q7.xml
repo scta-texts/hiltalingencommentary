@@ -120,10 +120,10 @@
           <pc ana="#pilcrow"/>Prima conclusio nulla omnino 
           <lb ed="#B"/>res in eodem supposito ac esse natura<lb ed="#B"/>li 
           potest se ipsam producere nec a se 
-          <lb ed="#B"/>causari vel originari probatur conclusio per <name>beatum 
-          <lb ed="#B"/>augustinum</name> primo <title>de trinitate</title> capitulo primo ubi dicit 
-          <lb ed="#B"/>nulla omnino res est quae se ipsam 
-          <lb ed="#B"/>gignat
+          <lb ed="#B"/>causari vel originari probatur conclusio per <ref xml:id="jhb-l1q7-Ru78y8u" corresp="#jhb-l1q7-Qgh7hh7"><name>beatum 
+          <lb ed="#B"/>augustinum</name> primo <title>de trinitate</title> capitulo primo</ref> ubi dicit 
+          <lb ed="#B"/><quote xml:id="jhb-l1q7-Qgh7hh7" source="http://scta.info/resource/adt-l1-d1e11@133-143">nulla omnino res est quae se ipsam 
+          <lb ed="#B"/>gignat</quote>
         </p>
         <p xml:id="jhb-l1q7-d1e4033">
           <pc ana="#pilcrow"/>primum corollarium essentia divina non 
