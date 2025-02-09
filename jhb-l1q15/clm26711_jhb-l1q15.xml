@@ -133,18 +133,18 @@
             </p>
             <p xml:id="jhb-l1q15-d1e281">
               Ad  
-              <lb ed="#B" n="84"/>oppositum arguitur ex dictis <name xml:id="jhb-l1q15-Nd1e285">augustinus</name> positis  
+              <lb ed="#B" n="84"/>oppositum arguitur ex dictis <ref xml:id="jhb-l1q15-Rjjjccc" corresp="#jhb-l1q15-Qcnjjjj"><name xml:id="jhb-l1q15-Nd1e285">augustinus</name></ref> positis  
               <!--94r.xml-->
               <pb ed="#B" n="94-r"/>
               <cb ed="#B" n="a"/>
-              <lb ed="#B" n="1"/>in <ref xml:id="jhb-l1q15-Rd1e297">littera distinctione istius capitulo 10</ref> ubi dicit in 
-              <lb ed="#B" n="2"/>fine tunc unicumque mittitur cum a 
+              <lb ed="#B" n="1"/>in <ref xml:id="jhb-l1q15-Rd1e297" corresp="#jhb-l1q15-Qcnjjjj" target="http://scta.info/resource/pll1d15c7-d1e3489@79-105">littera distinctione istius capitulo 10</ref> ubi dicit in 
+              <lb ed="#B" n="2"/>fine <quote xml:id="jhb-l1q15-Qcnjjjj" source="http://scta.info/resource/adt-l4-d1e640@24-50">tunc unicumque mittitur cum a 
               <lb ed="#B" n="3"/>quoquam cognoscitur atque percipitur  
               <lb ed="#B" n="4"/>quantum cognosci et percipi potest procaptu  
               <lb ed="#B" n="5"/>vel proficientis in deum perfecte in deo  
-              <lb ed="#B" n="6"/>naturae rationalis Et <ref xml:id="jhb-l1q15-Rd1e311">capitulo 12</ref> Cum ex parte cuius  
-              <lb ed="#B" n="7"/>que mente percipitur mitti quidem dicitur  
-              <lb ed="#B" n="8"/>ad idem est <ref xml:id="jhb-l1q15-Rd1e318">primum capitulum distinctione 16 primi</ref> <pc type="virgula">//</pc>
+              <lb ed="#B" n="6"/>naturae rationalis</quote> Et <ref xml:id="jhb-l1q15-Rd1e311" target="http://scta.info/resource/pll1d15c8-d1e3515@7-15" corresp="#jhb-l1q15-Qry5uuu">capitulo 12</ref> <quote xml:id="jhb-l1q15-Qry5uuu" source="http://scta.info/resource/adt-l4-d1e640@181-191">Cum ex parte cuius  
+              <lb ed="#B" n="7"/>que mente percipitur mitti quidem dicitur</quote>  
+              <lb ed="#B" n="8"/>ad idem est <ref xml:id="jhb-l1q15-Rd1e318" target="http://scta.info/resource/pl-l1d16c1"><!-- target precise -->primum capitulum distinctione 16 primi</ref> <pc type="virgula">//</pc>
             </p>
           </div>
           <div xml:id="jhb-l1q15-Dd1e326">
