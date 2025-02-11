@@ -140,13 +140,13 @@
                   ¶ prima conclusio solus spiritus sanctus  
                   <lb ed="#B" n="72"/>proprietate suae originis accipit ut
                   do<lb ed="#B" n="73" break="no"/>num et donabilis sit haec conclusio est beati 
-                  <lb ed="#B" n="74"/><ref xml:id="jhb-l1q20-Rd1e281"><name xml:id="jhb-l1q20-Nd1e282">augustini</name> 15 de trinitate capitulo 17</ref> non frustra  
+                  <lb ed="#B" n="74"/><ref xml:id="jhb-l1q20-Rd1e281" corresp="#jhb-l1q20-Qc1n1yy"><name xml:id="jhb-l1q20-Nd1e282">augustini</name> 15 de trinitate capitulo 17</ref> <quote xml:id="jhb-l1q20-Qc1n1yy" source="http://scta.info/resource/adt-l15-d1e1886@3-19">non frustra  
                   <lb ed="#B" n="75"/>in hac trinitate non dicitur verbum dei  
                   <lb ed="#B" n="76"/>nisi filius nec dicitur donum dei nisi 
-                  <lb ed="#B" n="77"/>spiritus sanctus et <ref xml:id="jhb-l1q20-Rd1e293">4 de trinitate capitulo 14</ref> sicut  
+                  <lb ed="#B" n="77"/>spiritus sanctus</quote> et <ref xml:id="jhb-l1q20-Rd1e293" corresp="#jhb-l1q20-Qcn1d2d">4 de trinitate capitulo 14</ref> <quote xml:id="jhb-l1q20-Qcn1d2d" source="http://scta.info/resource/adt-l4-d1e643@51-79">sicut  
                   <lb ed="#B" n="78"/>natum esse est filio a patre esse ita 
                   <lb ed="#B" n="79"/>spiritum sanctum donum dei esse est a patre et  
-                  <lb ed="#B" n="80"/>filio procedere
+                  <lb ed="#B" n="80"/>filio procedere</quote>
                 </p>
                 <p xml:id="jhb-l1q20-d1e303">
                   ¶ Item <ref xml:id="jhb-l1q20-Rd1e305">5 de trinitate capitulo 5</ref> et  
