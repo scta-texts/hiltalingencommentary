@@ -3550,12 +3550,12 @@
           </p>
           <p xml:id="jhbl1q2-d1e8033">
             <pc ana="#pilcrow"/>Quantum ad primum 
-            <lb ed="#B" n="29"/>horum est opinio <ref><name ref="#Ockham">olkcam</name> quaestione 9 prologi 
-            <lb ed="#B" n="30"/><unclear>2</unclear> <pc ana="#punctus"/></ref> in aliis pluribus locis quod differentia est 
+            <lb ed="#B" n="29"/>horum est opinio <ref xml:id="jhb-l1q2-Rabc123"><name ref="#Ockham">olkcam</name> quaestione 9 prologi 
+            <lb ed="#B" n="30"/>et <pc ana="#punctus"/> in aliis pluribus locis</ref> quod <quote xml:id="jhb-l1q2-Q123abc">differentia est 
             <lb ed="#B" n="31"/>inter subiectum scientiae et obiectum quia subiectum 
             <lb ed="#B" n="32"/>scientiae est subiectum conclusionis scitae <pc ana="#virgula"/> obiectum autem 
             <lb ed="#B" n="33"/>est illud quod scitur et <choice><orig>inmediate</orig><reg>immediate</reg></choice> terminat 
-            <lb ed="#B" n="34"/>ipsum actum sciendi et huius conclusio scita
+            <lb ed="#B" n="34"/>ipsum actum sciendi et huius conclusio scita</quote>
           </p>
           <p xml:id="jhbl1q2-d1e8044">
             <lb ed="#B" n="35"/>Ista positio satis est famosa quod subiectum 
