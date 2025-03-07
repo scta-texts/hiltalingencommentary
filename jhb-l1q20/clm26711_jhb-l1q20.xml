@@ -54,8 +54,8 @@
         <div xml:id="jhb-l1q20-Dd1e100">
           <head xml:id="jhb-l1q20-Hd1e102">Circa textum</head>
           <p xml:id="jhb-l1q20-d1e105">
-            <lb ed="#B" n="18"/>Praeterea diligenter
-            conside<lb ed="#B" n="19" break="no"/>randum est Ista distinctio 
+            <lb ed="#B" n="18"/><quote xml:id="jhb-l1q20-Qssjghj" source="http://scta.info/resource/pll1d18c2-d1e3475@1-4" type="lemma">Praeterea diligenter
+            conside<lb ed="#B" n="19" break="no"/>randum est</quote> Ista distinctio 
             <lb ed="#B" n="20"/>ad praecedentes continuatur post  
             <lb ed="#B" n="21"/>quam magister determinavit de
             processio<lb ed="#B" n="22" break="no"/>ne spiritus sancti temporali nunc tractat de 
@@ -149,14 +149,14 @@
                   <lb ed="#B" n="80"/>filio procedere</quote>
                 </p>
                 <p xml:id="jhb-l1q20-d1e303">
-                  ¶ Item <ref xml:id="jhb-l1q20-Rd1e305">5 de trinitate capitulo 5</ref> et  
-                  <lb ed="#B" n="81"/>habentur verba a <ref xml:id="jhb-l1q20-Rd1e310"><name xml:id="jhb-l1q20-Nd1e311">magistro</name> in ista distinctione</ref> ipsa 
+                  ¶ Item <ref xml:id="jhb-l1q20-Rd1e305" corresp="#jhb-l1q20-Qdj1vbn">5 de trinitate capitulo 5</ref> et  
+                  <lb ed="#B" n="81"/>habentur verba a <ref xml:id="jhb-l1q20-Rd1e310" corresp="#jhb-l1q20-Qdj1vbn" target="http://scta.info/resource/pll1d18c2-d1e3521@45-63"><name xml:id="jhb-l1q20-Nd1e311">magistro</name> in ista distinctione</ref> <quote xml:id="jhb-l1q20-Qdj1vbn" source="http://scta.info/resource/adt-l5-d1e740@211-223">ipsa 
                   <lb ed="#B" n="82"/>relatio non apparet in hoc nomine spiritus  
                   <lb ed="#B" n="83"/>apparet autem dicitur donum dei donum 
                   <!--108r.xml-->
                   <pb ed="#B" n="108-r"/>
                   <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>enim est patris et filii multae sunt  
+                  <lb ed="#B" n="1"/>enim est patris et filii</quote> multae sunt  
                   <lb ed="#B" n="2"/>auctoritates conclusionem hanc satis
                   suffci<lb ed="#B" n="3" break="no"/>cientis probantis
                 </p>
