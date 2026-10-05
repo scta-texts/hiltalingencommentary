@@ -1,0 +1,107 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-05T00:57:28Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-ancestors-v1",
+    "source_commit": "87107dd",
+    "generation_method": "hierarchical",
+    "scope": "Ancestors of interpreted items only: Liber I Prologus (jhb-l1prol, 1 of 1 items), with partial entries for Liber I and the whole work. The EDF has no Liber I Distinctio 37 (it jumps from d.36 to d.38) and no Book II, so those were not generated; other divs have no interpreted children and are omitted.",
+    "source_structure": "~/Projects/scta/scta-projectfiles/jhb-projectdata.xml"
+  },
+  "jhb-l1prol": {
+    "summary": "The Prologue to Book I of John Hiltalingen of Basel's Sentences commentary consists of a single question (Book I q.2), which by its author's own statement handles the whole prologue: whether a wayfarer can perfectly know the sincere truth of the Christian faith by human reason without special divine illumination and the foundation of Catholic faith. Hiltalingen answers that, under God's ordained power, this is impossible. He first reports three disagreements on illumination: among philosophers, between philosophers and Christian doctors, and among theologians, with Henry of Ghent and Hugolino requiring a special illumination and Scotus, Thomas of Strasbourg and Gregory of Rimini denying it. He then defines truth, the Christian 'sect', reason, illumination, faith and the adherence of faith. Five conclusions follow. The Christian law binds every rational creature and excludes all error. No wayfarer has perfect intuitive knowledge of any sincere truth, yet theology surpasses every other science by knowing things in God. Faith is as certain as demonstration but less evident than theology, and is its precondition. Faith or supernatural light gives assertive knowledge, though by absolute power faith could exist without explicit belief. Christian truth is had only through miracles, testimony and infused light. Long articles of objections and replies use the prologue to engage the main fourteenth-century debates on theology as a science. He argues against Holcot that faith is never contrary to true reason. He sets out an Egidian account of God as theology's subject under the ratio of the greatest conceivable good. He rejects both Ockham's and Gregory of Rimini's accounts of the object of science, in favor of a semantics on which propositions can signify what is nothing, and he defends the evidential force of miracles against Brinkel's sensory skepticism.",
+    "claims": [
+      "Under the ordinary order no wayfarer can know the sincere truth of Christianity without special illumination and faith.",
+      "Theology knows more perfectly than any other created science, though no wayfarer has perfect intuitive knowledge.",
+      "Faith is as certain as demonstration but less evident than theology, and it precedes theology.",
+      "No true reason or science contradicts the faith.",
+      "Miracles, testimony and infused light are the only adequate grounds of Christian truth.",
+      "The object of science is the significate of the conclusion, not a Gregorian complexe significabile."
+    ],
+    "concepts": [
+      "special illumination",
+      "faith and reason",
+      "certitude vs. evidence",
+      "theology as science",
+      "subject and object of theology",
+      "complexe significabile",
+      "miracles",
+      "ordained vs. absolute power",
+      "Henry of Ghent",
+      "Gregory of Rimini",
+      "Giles of Rome"
+    ],
+    "_metadata": {
+      "level": "prologus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jhb-l1q2"
+      ],
+      "partial": false,
+      "coverage": "1 of 1 direct children have interpretations",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-05T00:57:28Z",
+      "source_commit": "87107dd",
+      "source_structure": "~/Projects/scta/scta-projectfiles/jhb-projectdata.xml"
+    }
+  },
+  "jhb-liber1": {
+    "summary": "Partial summary: of Book I's 34 direct divisions, only the Prologue (jhb-l1prol) has been interpreted, so this entry describes only that part of Book I and says nothing about the principium or distinctions 1–47. The Prologue's one question argues that under the ordinary order the sincere truth of Christianity cannot be known by human reason without special divine illumination and faith. Along the way it establishes the universality of the Christian law, the superiority of theology over other sciences despite the wayfarer's lack of perfect intuitive knowledge, faith's equality with demonstration in certitude but inferiority to theology in evidence, the sufficiency of miracles, testimony and infused light as grounds of faith, and, in extended replies, positions against Holcot, Ockham, Gregory of Rimini and Brinkel on faith and reason, the subject and object of theology, and the significates of propositions.",
+    "claims": [
+      "(Prologue) Under the ordinary order, Christian truth cannot be known without special illumination and faith.",
+      "(Prologue) No true reason contradicts the faith.",
+      "(Prologue) Faith equals demonstration in certitude but falls below theology in evidence."
+    ],
+    "concepts": [
+      "special illumination",
+      "faith and reason",
+      "theology as science",
+      "certitude vs. evidence",
+      "complexe significabile",
+      "miracles"
+    ],
+    "_metadata": {
+      "level": "liber",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jhb-l1prol"
+      ],
+      "partial": true,
+      "coverage": "1 of 34 direct children have interpretations",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-05T00:57:28Z",
+      "source_commit": "87107dd",
+      "source_structure": "~/Projects/scta/scta-projectfiles/jhb-projectdata.xml"
+    }
+  },
+  "hiltalingencommentary": {
+    "summary": "Partial summary: the work's only direct child in the EDF is Book I, and only Book I's Prologue has been interpreted, so this entry rests entirely on that one question and does not characterize the commentary as a whole. In the Prologue, John Hiltalingen of Basel, an Augustinian Hermit following Giles of Rome, argues that the sincere truth of the Christian faith cannot be known by the wayfarer through reason alone, without special divine illumination and faith, under God's ordained power. He situates this within extensive debate with Henry of Ghent, Scotus, Gregory of Rimini, Holcot, Ockham, Thomas of Strasbourg and Brinkel on illumination, the relation of faith, theology and science, the subject and object of theology, and the evidential role of miracles.",
+    "claims": [
+      "(Prologue) Under the ordinary order, Christian truth cannot be known without special illumination and faith.",
+      "(Prologue) Theology is a science superior to others, presupposing faith."
+    ],
+    "concepts": [
+      "special illumination",
+      "faith and reason",
+      "theology as science",
+      "Augustinian school"
+    ],
+    "_metadata": {
+      "level": "work",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "jhb-liber1"
+      ],
+      "partial": true,
+      "coverage": "1 of 1 direct children have interpretations; that child is partial (1 of 34 divisions)",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-05T00:57:28Z",
+      "source_commit": "87107dd",
+      "source_structure": "~/Projects/scta/scta-projectfiles/jhb-projectdata.xml"
+    }
+  }
+}
