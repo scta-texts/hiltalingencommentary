@@ -370,7 +370,7 @@
             <head xml:id="jhbl1q2-Hd1e3933">Prima ratio ad oppositum</head>
             <p xml:id="jhbl1q2-d1e3936">
               <pc ana="#pilcrow"/>Ad oppositum arguitur sic primo 
-              <lb ed="#B" n="71"/>auctoritate <ref><title ref="#Icor">1 corinthios</title> 2o</ref> <quote ana="Icor2_6">sapientiam loquimur 
+              <lb ed="#B" n="71"/>auctoritate <ref><title ref="#Icor">1 corinthios</title> 2o</ref> <quote source="http://scta.info/resource/Icor2_6@1-5">sapientiam loquimur 
               <lb ed="#B" n="72"/>inter perfectos</quote> ubi <ref><title>glossa</title></ref> quae non est 
               <lb ed="#B" n="73"/>humana ratione comprehensibilis
             </p>
@@ -398,11 +398,11 @@
             <!-- Gracilis uses this whole section in his ad oppositum -->
             <p xml:id="jhbl1q2-d1e4037">
               <pc ana="#pilcrow"/>Ad idem est <ref><name ref="#Paul">apostolus</name> <title ref="#IIcor">2o corinthios</title> 
-              <lb ed="#B" n="3"/>3o</ref> <quote ana="#IIcor3_5">non <choice><sic>sumus</sic><corr>simus</corr></choice> sufficientes</quote>
+              <lb ed="#B" n="3"/>3o</ref> <quote source="http://scta.info/resource/IIcor3_5@1-4">non <choice><sic>sumus</sic><corr>simus</corr></choice> sufficientes</quote>
             </p>
             <p xml:id="jhbl1q2-d1e4068">
               <pc ana="#pilcrow"/>Et <ref>primo 
-              <lb ed="#B" n="4"/>eorum <choice><sic>13</sic></choice><corr>12</corr></ref> <quote ana="#Icor12_3">nemo potest dicere <sic>domine Ihesu</sic> 
+              <lb ed="#B" n="4"/>eorum <choice><sic>13</sic></choice><corr>12</corr></ref> <quote source="http://scta.info/resource/Icor12_3@15-22">nemo potest dicere <sic>domine Ihesu</sic> 
               <lb ed="#B" n="5"/>nisi in spiritu</quote> super quo <pc ana="#virgula"/> <name ref="#Ambrose">Ambrosus</name> <unclear><num>viii</num></unclear> 
               <lb ed="#B" n="6"/>a quotumque dicatur a spiritu sancto est ad 
               <lb ed="#B" n="7"/>idem allegat <ref><name ref="#HenryOfGhent">sollempnis</name> parte 1 
@@ -446,7 +446,7 @@
               <lb ed="#B" n="27"/>probatur per <ref><name ref="#Augustine">augustinum</name> in <title>de utilitate credendi</title> 
               <lb ed="#B" n="28"/>capitulo 26</ref> <pc ana="#virgula"/> ad idem est <ref><name ref="#RichardOfStVictor">Ry</name> in prologo 
               <lb ed="#B" n="29"/>libro <title ref="#RichardOfStVictor_deTrinitate">de trinitate</title></ref> et <name ref="#Augustine">augustinus</name> super illud <seg type="correction">psalmi<del rend="expunctuated">s</del></seg> 
-              <lb ed="#B" n="30"/>Ex ore infantium <!-- probably quote here --> Et allegat <ref><name ref="#HugolinoOfOrvieto">hugolinus</name> 
+              <lb ed="#B" n="30"/><quote source="http://scta.info/resource/ps8_3@1-3">Ex ore infantium</quote> <!-- probably quote here --> Et allegat <ref><name ref="#HugolinoOfOrvieto">hugolinus</name> 
               <lb ed="#B" n="31"/>quaestione 2 prologi articulo 2o conclusione prima</ref>
             </p>
           </div>
@@ -596,7 +596,7 @@
               <lb ed="#B" n="43"/>notificando declarabo et primo istum 
               <lb ed="#B" n="44"/>terminum veritas qui terminus tripliciter potest 
               <lb ed="#B" n="45"/><choice><orig>summi</orig><reg>sumi</reg></choice> et tot modis solet usitari primo 
-              <lb ed="#B" n="46"/>incomplexe ut salvator <title ref="#io">ioannes</title> <quote ana="io14_6">Ego 
+              <lb ed="#B" n="46"/>incomplexe ut salvator <title ref="#io">ioannes</title> <quote source="http://scta.info/resource/io14_6@4-10">Ego 
               <lb ed="#B" n="47"/>sum via veritas et vita</quote> Et <name ref="#Augustine">augustinus</name> 
               <lb ed="#B" n="48"/>primo et 2o <title ref="#Soliloquiorum"><sic>solliloquiorum</sic></title> et <title ref="#DeVeraReligione">de vera 
               <lb ed="#B" n="49"/>religione</title> ubi dicit quod <unclear>verum</unclear> est illud 
@@ -870,7 +870,7 @@
               <lb ed="#B" n="68"/>creatura obligatur ad dilectionem 
               <lb ed="#B" n="69"/>dei et proximi igitur et ad legem nostrae 
               <lb ed="#B" n="70"/>sectae antecedens satis est notum et consequentia 
-              <lb ed="#B" n="71"/>patet quia <quote ana="#mt22_40">in <choice><orig>hiis</orig><reg>his</reg></choice> duobus mandatis 
+              <lb ed="#B" n="71"/>patet quia <quote source="http://scta.info/resource/mt22_40@1-9">in <choice><orig>hiis</orig><reg>his</reg></choice> duobus mandatis 
               <lb ed="#B" n="72"/>tota lex pendet et prophetae</quote> <ref><title ref="#mt">matthaeus</title> 22o</ref>
             </p>
             <p xml:id="jhbl1q2-d1e5211">
@@ -988,7 +988,7 @@
               prima pars 
               <lb ed="#B" n="71"/>istius conclusionis est <ref><name>magistri hermanum 
               <lb ed="#B" n="72"/>de schilidicet</name> in postilla sua super 
-              <lb ed="#B" n="73"/>canticis capitulo 6</ref> super isto verbo <quote ana="#cant8_5"><!-- also in cant 3_6 -->quae est 
+              <lb ed="#B" n="73"/>canticis capitulo 6</ref> super isto verbo <quote source="http://scta.info/resource/cant8_5@1-5"><!-- also in cant 3_6 -->quae est 
               <lb ed="#B" n="74"/>ista quae ascendit</quote> etc Et <ref><name ref="#HugolinoOfOrvieto">magistri 
               <lb ed="#B" n="75"/>hugolino</name> quaestione 1 prologi articulo 3 circa principium</ref> 
               <lb ed="#B" n="76"/>ubi ponit quod cognitiones rerum 
@@ -1201,11 +1201,11 @@
             <p xml:id="jhbl1q2-d1e5650">
               prima pars patet 
               <lb ed="#B" n="62"/>ex conclusione 3a et probatur auctoritates 2ae eorum 
-              <lb ed="#B" n="63"/>3o fundamentum ad nemo potest ponere 
-              <lb ed="#B" n="64"/>etc Et <ref><title ref="#gal">ad gall</title> 5o</ref> <quote ana="#gal5_6">in christo ihesu neque 
+              <lb ed="#B" n="63"/>3o fundamentum ad <quote source="http://scta.info/resource/Icor3_11@4-6">nemo potest ponere</quote> 
+              <lb ed="#B" n="64"/>etc Et <ref><title ref="#gal">ad gall</title> 5o</ref> <quote source="http://scta.info/resource/gal5_6@2-12">in christo ihesu neque 
               <lb ed="#B" n="65"/>circumcisio aliquid valebit neque 
               <lb ed="#B" n="66"/>praeputium sed fides</quote> Item <ref><title ref="#rom">ad Romanos</title> 1</ref> et <ref><title ref="#hab">a<lb ed="#B" n="67" break="no"/>bacuc</title>
-              2o</ref> <quote ana="#rom1_17"> <!-- also habakkuk 2_4 -->iustus ex fide vivit</quote>
+              2o</ref> <quote source="http://scta.info/resource/rom1_17@14-18"> <!-- also habakkuk 2_4 -->iustus ex fide vivit</quote>
             </p>
             <p xml:id="jhbl1q2-d1e5691">
               <lb ed="#B" n="68"/><pc ana="#pilcrow"/>2a pars probatur per <name ref="#Augustine">augustinum</name> in epistola qua<lb ed="#B" n="69"/>dam 
@@ -1266,7 +1266,7 @@
               <lb ed="#B" n="25"/>aliqua tempore <choice><orig>nichil</orig><reg>nihil</reg></choice> credere igitur nec 
               <lb ed="#B" n="26"/>errat in credendo nec credit sicut 
               <lb ed="#B" n="27"/>Ecclesia romana credit ex quibus patet quod 
-              <lb ed="#B" n="28"/>christus cum dixit <quote ana="#mc16_16">qui non crediderit 
+              <lb ed="#B" n="28"/>christus cum dixit <quote source="http://scta.info/resource/mc16_16@8-12">qui non crediderit 
               <lb ed="#B" n="29"/>contempnitur</quote> <ref><title ref="#mc">marcus</title> ultima</ref> et <name ref="#Athanasius">athanaus</name> 
               <lb ed="#B" n="30"/>haec est fides katholica quam nisi quisque 
               <lb ed="#B" n="31"/>etc Recipiunt credere pro fide quam credere 
@@ -1303,10 +1303,10 @@
               <!-- reason for pagraph break a bit unclear; current reason is that there is a pilcrow in the text  -->
             <p xml:id="jhbl1q2-d1e5828">
               <pc ana="#pilcrow"/>Item <ref><title ref="#io">iohannes</title> 3o</ref> 
-              <lb ed="#B" n="51"/><quote ana="#io3_2">nemo potest haec signa facere quae tu</quote> etc 
-              <lb ed="#B" n="52"/>Item <title ref="#io">iohannes</title> 4 <quote ana="#io4_48">nisi videritis signa non 
-              <lb ed="#B" n="53"/>creditis</quote> Et <ref><title ref="#io">iohannes</title> 9</ref> <quote ana="#io9_32">a saeculo non est 
-              <lb ed="#B" n="54"/>auditum</quote> et <title ref="#mt">matthaeus</title> 27 <quote>vere filius dei 
+              <lb ed="#B" n="51"/><quote source="http://scta.info/resource/io3_2@16-23">nemo potest haec signa facere quae tu</quote> etc 
+              <lb ed="#B" n="52"/>Item <title ref="#io">iohannes</title> 4 <quote source="http://scta.info/resource/io4_48@6-12">nisi videritis signa non 
+              <lb ed="#B" n="53"/>creditis</quote> Et <ref><title ref="#io">iohannes</title> 9</ref> <quote source="http://scta.info/resource/io9_32@1-5">a saeculo non est 
+              <lb ed="#B" n="54"/>auditum</quote> et <title ref="#mt">matthaeus</title> 27 <quote source="http://scta.info/resource/mt27_54@19-23">vere filius dei 
               <lb ed="#B" n="55"/>erat iste</quote> Similiter verus <unclear>astro<lb ed="#B" n="56" break="no"/>nomus</unclear> 
               videns eclipsim in pleni<lb ed="#B" n="57"/>lunio 
               vel videns solem stationem 
@@ -1314,7 +1314,7 @@
               <lb ed="#B" n="59"/>idem confiteri sic naturalis <unclear>demonstratur <!-- really not sure here --></unclear> 
               <lb ed="#B" n="60"/>id est ratione caecorum illuminatione virginis 
               <lb ed="#B" n="61"/>per <unclear>tm?tione</unclear> ad hoc facit quod habetur <ref><title ref="#io">iohannes</title> 
-              <lb ed="#B" n="62"/>15</ref> <pc ana="#punctus"/> <quote ana="#io15_24">si opera non fecissem in eis 
+              <lb ed="#B" n="62"/>15</ref> <pc ana="#punctus"/> <quote source="http://scta.info/resource/io15_24@1-13">si opera non fecissem in eis 
               <lb ed="#B" n="63"/>quae nemo alius fecit peccatum non 
               <lb ed="#B" n="64"/>haberent</quote> igitur haec pars vera Sic arguitur <ref><name>hermi<lb ed="#B" n="65"/>canus</name> 
               in summa de quaestionibus hereme<lb ed="#B" n="66"/>norum 
@@ -1343,7 +1343,7 @@
               <pb ed="#B" n="19-r"/>
               <cb ed="#B" n="a"/>
               <lb ed="#B" n="1"/>rationis vel naturalis evidentiae patet <ref><title ref="#mt">matthaeus</title> 5</ref> 
-              <lb ed="#B" n="2"/><quote ana="#mt5_18">quia iota unum aut unus <sic>aperum</sic> non 
+              <lb ed="#B" n="2"/><quote source="http://scta.info/resource/mt5_18@10-18">quia iota unum aut unus <sic>aperum</sic> non 
               <lb ed="#B" n="3"/>praeteribit a lege</quote> Item <ref><title ref="#rom">ad romanos</title> 1</ref> et 
               <lb ed="#B" n="4"/>per <name ref="#HugolinoOfOrvieto">hugolinum</name> in quodam prologi <unclear>commentanti</unclear> super 
               <lb ed="#B" n="5"/><name ref="#Dionysius">dyonisium</name> <title ref="#deCoelestiHierarchia">de coelesti ierarchia</title>
@@ -1531,7 +1531,7 @@
             <pc ana="#pilcrow"/>3o circa eundem 
             <lb ed="#B" n="44"/>terminem haec descriptio non videtur descriptione 
             <lb ed="#B" n="45"/><name ref="#Paul">apostoli</name> convenire <ref><title ref="#hebr">ad hebraeos</title> 11</ref> ubi dicit 
-            <lb ed="#B" n="46"/><quote ana="#hebr11_1">fides est substantia</quote> etc igitur ipsa non est bene 
+            <lb ed="#B" n="46"/><quote source="http://scta.info/resource/hebr11_1@1-5">fides est substantia</quote> etc igitur ipsa non est bene 
             <lb ed="#B" n="47"/>data assumptum arguitur quia omne 
             <lb ed="#B" n="48"/>cognitive perceptum est apparens vel perceptio 
             <lb ed="#B" n="49"/>apparentium Sed fides <choice><orig>2m</orig><reg>secundum</reg></choice> apostoloum non est 
@@ -1565,11 +1565,11 @@
             <lb ed="#B" n="66"/>primam partem primae conclusionis lex nostrae 
             <lb ed="#B" n="67"/>sectae multis non est datae igitur multo<lb ed="#B" n="68"/>rum 
             non est obligatoria tenet consequentia per 
-            <lb ed="#B" n="69"/>dictum salvatoris <ref><title ref="#io">iohannes</title> 15</ref> <quote ana="#io15_22">Si non 
+            <lb ed="#B" n="69"/>dictum salvatoris <ref><title ref="#io">iohannes</title> 15</ref> <quote source="http://scta.info/resource/io15_22@1-10">Si non 
             <lb ed="#B" n="70"/>venissem locutus eis non fuissem 
             <lb ed="#B" n="71"/>peccatum non haberent</quote> antecedens arguitur per illud 
             <lb ed="#B" n="72"/><ref><title ref="#mt">matthaeus</title> 24</ref> ubi christus describit signa sui 
-            <lb ed="#B" n="73"/>ad ventus dicit <quote ana="#mt24_14">praedicabitur hoc <choice><orig>euvangelium</orig><reg>evangelium</reg></choice> 
+            <lb ed="#B" n="73"/>ad ventus dicit <quote source="http://scta.info/resource/mt24_14@2-16">praedicabitur hoc <choice><orig>euvangelium</orig><reg>evangelium</reg></choice> 
             <lb ed="#B" n="74"/>regni in universo orbe in testimonium 
             <lb ed="#B" n="75"/>omnibus gentibus et tunc erit con<lb ed="#B" n="76"/>summatio 
             saeculi</quote> Sed certum est quod <choice><orig>consu<lb ed="#B" n="77"/>matio</orig><reg>consu<lb ed="#B" n="77"/>mmatio</reg></choice> 
@@ -1876,7 +1876,7 @@
             <lb ed="#B" n="48"/>omnium igitur quilibet tenetur credere sicut 
             <lb ed="#B" n="49"/>ipsa credit maior est nota et minor habetur 
             <lb ed="#B" n="50"/><ref><title ref="#io">iohannes</title> <sic>22</sic></ref> ubi christus ad <name ref="#Peter">petrum</name> dixit 
-            <lb ed="#B" n="51"/><quote ana="#io1_42">tu vocaberis cephas</quote> quod idem est 
+            <lb ed="#B" n="51"/><quote source="http://scta.info/resource/io1_42@16-18">tu vocaberis cephas</quote> quod idem est 
             <lb ed="#B" n="52"/>quod caput igitur etc
           </p>
           <p xml:id="jhbl1q2-d1e6485">
@@ -2019,7 +2019,7 @@
             <lb ed="#B" n="70"/>Et sic sumitur prima quaestione 1 ecclesia <pc ana="#pilcrow"/>3o modo acci<lb ed="#B" n="71"/>pitur 
             pro praelatorum thearchita cu<lb ed="#B" n="72"/>ra 
             et pastorum ecclesiae praelatione 
-            <lb ed="#B" n="73"/>sic dixit christus <name ref="#Peter">petro</name> <ref><title ref="#mt">matthaeus</title> 18</ref> <quote ana="#mt18_16">si te 
+            <lb ed="#B" n="73"/>sic dixit christus <name ref="#Peter">petro</name> <ref><title ref="#mt">matthaeus</title> 18</ref> <quote source="http://scta.info/resource/mt18_16@1-5">si te 
             <lb ed="#B" n="74"/>non audierit</quote> dicit ecclesiae Ex hac 
             <lb ed="#B" n="75"/>distinctione patet quod non obstante 
             <lb ed="#B" n="76"/>quod christus est membrorum ecclesiae 2o modo est 
@@ -2042,7 +2042,7 @@
             <lb ed="#B" n="4"/>2o <choice><orig>aput</orig><reg>apud</reg></choice> latinos uno modo vocatur domus 
             <lb ed="#B" n="5"/>in qua deus a fidelibus colitur et ado<lb ed="#B" n="6"/>ratur 
             <pc ana="#virgula"/> sic dicebat <ref><name ref="#Paul">apostolus</name> <title ref="#Icor">primo ad corinthios</title> 
-            11</ref> <quote ana="#Icor11_22">aut ecclesiam dei contempnitis</quote> ad eum<lb ed="#B" n="7"/>dem 
+            11</ref> <quote source="http://scta.info/resource/Icor11_22@9-12">aut ecclesiam dei contempnitis</quote> ad eum<lb ed="#B" n="7"/>dem 
             sensum loquitur glossa <name ref="#Augustine">augustinus</name> ibidem aliis 
             <lb ed="#B" n="8"/><choice><orig>inportat</orig><reg>importat</reg></choice> hoc nomen ecclesia omnes 
             <lb ed="#B" n="9"/>presbyteros seu episcopos et reliquos mini<lb ed="#B" n="10"/>strantes 
@@ -2060,9 +2060,9 @@
             <lb ed="#B" n="19"/>fuit prima in posito huius dictionis 
             <lb ed="#B" n="20"/>et consuetus usus eius <choice><orig>aput</orig><reg>apud</reg></choice> apostolos in 
             <lb ed="#B" n="21"/>ecclesia primitiva ut patet <ref><title ref="#Icor">primae ad corinthios</title> 
-            <lb ed="#B" n="22"/>primo</ref> ubi dicitur <quote ana="#Icor1_2">ecclesiae quae est corinthi</quote> 
-            <lb ed="#B" n="23"/>etc <ref><title ref="#act">actuum</title> 20</ref> <quote ana="act20_28">attendite vobis et universo 
-            <lb ed="#B" n="24"/>gregi</quote> etc Item <ref><title><sic>ad phil</sic><!-- actually ephesians --></title> 5o</ref> <quote ana="#eph5_25">viri di<lb ed="#B" n="25"/>ligite 
+            <lb ed="#B" n="22"/>primo</ref> ubi dicitur <quote source="http://scta.info/resource/Icor1_2@1-5">ecclesiae quae est corinthi</quote> 
+            <lb ed="#B" n="23"/>etc <ref><title ref="#act">actuum</title> 20</ref> <quote source="http://scta.info/resource/act20_28@1-5">attendite vobis et universo 
+            <lb ed="#B" n="24"/>gregi</quote> etc Item <ref><title><sic>ad phil</sic><!-- actually ephesians --></title> 5o</ref> <quote source="http://scta.info/resource/eph5_25@1-8">viri di<lb ed="#B" n="25"/>ligite 
             uxores <choice><orig>sicud</orig><reg>sicut</reg></choice> christus ecclesiam</quote> Ex quibus 
             <lb ed="#B" n="26"/>patet quod hoc nomen sumpta ecclesia non solum 
             <lb ed="#B" n="27"/>verificatur de universitate fidelium sed etiam 
@@ -2433,8 +2433,8 @@
             <pc ana="#pilcrow"/>ad primam 
             <lb ed="#B" n="69"/>rationem contra primam conclusionem dico primo 
             <lb ed="#B" n="70"/>negando assumptum quod patet falsum per illud apostoli 
-            <lb ed="#B" n="71"/>numquid non audivit Et quid in omnem terram 
-            <lb ed="#B" n="72"/><unclear>exivit</unclear> sonus eorum etc <pc ana="#virgula"/> ad rationes <unclear>10</unclear> Et 
+            <lb ed="#B" n="71"/><quote source="http://scta.info/resource/rom10_18@3-13">numquid non audivit Et quid in omnem terram 
+            <lb ed="#B" n="72"/><unclear>exivit</unclear> sonus eorum</quote> etc <pc ana="#virgula"/> ad rationes <unclear>10</unclear> Et 
             <lb ed="#B" n="73"/>cum probatur de signis adventus christi 
             <lb ed="#B" n="74"/>dico primo quod ly tunc non debet teneri 
             <lb ed="#B" n="75"/><choice><orig>inmediate</orig><reg>immediate</reg></choice> subsequenter sive temporaliter <unclear>inte?a<lb ed="#B" n="76"/>eplatione</unclear> 
@@ -2445,7 +2445,7 @@
             <pc ana="#pilcrow"/>2o 
             <lb ed="#B" n="78"/>dico sicut <ref><name ref="#JohnKlenkok">iohannes de Clencok</name> in po<lb ed="#B" n="79"/>stilla 
             super <title ref="#act">actus apostolorum</title></ref> in illo capitulo 
-            <lb ed="#B" n="80"/>super illo verbo <quote ana="#act1_7">non est vestrum nosse 
+            <lb ed="#B" n="80"/>super illo verbo <quote source="http://scta.info/resource/act1_7@4-8">non est vestrum nosse 
             <lb ed="#B" n="81"/>tempora</quote> etc ubi adducit textum istius 
             <pb ed="#B" n="24-r"/>
             <cb ed="#B" n="a"/>
@@ -2647,9 +2647,9 @@
           </p>
           <p xml:id="jhbl1q2-d1e7219">
             <pc ana="#pilcrow"/>2o arguo per glossam su<lb ed="#B" n="65"/>perius 
-            ad corinthios primo non misit <del rend="strikethrough">p</del> baptizare 
+            ad corinthios primo <quote source="http://scta.info/resource/Icor1_17@3-17">non misit <del rend="strikethrough">p</del> baptizare 
             <lb ed="#B" n="66"/>sed euvangelizare non in sapientia verbi ut e<lb ed="#B" n="67"/>vacuetur 
-            crux christi ubi glossa <title>sapi<lb ed="#B" n="68"/>entia</title> 
+            crux christi</quote> ubi glossa <title>sapi<lb ed="#B" n="68"/>entia</title> 
             verbi est sapientia philosophorum quae 
             <lb ed="#B" n="69"/>sapientia verbi dicitur quia verbosos facit 
             <lb ed="#B" n="70"/>per istam enim sapientiam evacuatur Crux 
@@ -2705,9 +2705,9 @@
             vocatur ista scriptura quam publice 
             <lb ed="#B" n="24"/>in scriptis philosophi tradiderunt modo quid 
             <lb ed="#B" n="25"/>in prima invenitur verissimum est quia 
-            <lb ed="#B" n="26"/>sic in ipsa in dicitur quod <quote ana="#sir42_16">gloria domini plenum 
+            <lb ed="#B" n="26"/>sic in ipsa in dicitur quod <quote source="http://scta.info/resource/sir42_16@7-12">gloria domini plenum 
             <lb ed="#B" n="27"/>est opus eius</quote> <ref><title ana="#sir">ecclesiasticus</title> 42</ref> Et videtur quomodo 
-            <lb ed="#B" n="28"/>deus <quote ana="#sir1_10">effudit illam super omnia opera 
+            <lb ed="#B" n="28"/>deus <quote source="http://scta.info/resource/sir1_10@2-7">effudit illam super omnia opera 
             <lb ed="#B" n="29"/>sua</quote> <ref><title ana="#sir">ecclesiasticus</title> primo</ref> In 2a non solum verbum 
             <lb ed="#B" n="30"/>sed etiam sibi ipsis adversantur quare non 
             <lb ed="#B" n="31"/>mirum si nobis contrariantur Ex quibus 
@@ -2722,14 +2722,14 @@
             <lb ed="#B" n="37"/>crux christi dico per veram sapientiam nihil 
             <lb ed="#B" n="38"/>evacuatur christi sed per sapientiam quae non vero 
             <lb ed="#B" n="39"/>nomine sapientia sed abusive dicitur 2m quod 
-            <lb ed="#B" n="40"/>habetur in glossa <pc ana="#punctus"/> Super illo verbo 1 corinthios 1 <unclear>per<cb ed="#B" n="b"/><!--25rb--><lb ed="#B" n="41"/>dam</unclear> 
-            sapientiam <choice><sic>sapientum</sic><corr>sapientium</corr></choice> ubi glossa 
+            <lb ed="#B" n="40"/>habetur in glossa <pc ana="#punctus"/> Super illo verbo 1 corinthios 1 <quote source="http://scta.info/resource/Icor1_19@4-6"><unclear>per<cb ed="#B" n="b"/><!--25rb--><lb ed="#B" n="41"/>dam</unclear> 
+            sapientiam <choice><sic>sapientum</sic><corr>sapientium</corr></choice></quote> ubi glossa 
             <lb ed="#B" n="42"/>non vera sapientia perditur a divino sed falsi no<lb ed="#B" n="43"/>minis 
             scientia quam sibi thezaurisant 
             <lb ed="#B" n="44"/>ligne mendacii et deficiunt scrutan<lb ed="#B" n="45"/>tes 
             scrutinio hoc non est sapientia verorum 
-            <lb ed="#B" n="46"/>philosophorum sed falsorum quorum sapientia stulti<lb ed="#B" n="47"/>tia 
-            est <choice><orig>aput</orig><reg>apud</reg></choice> deum <ref><title ana="#Icor">1 corinthios</title> 3</ref>
+            <lb ed="#B" n="46"/>philosophorum sed falsorum quorum <quote source="http://scta.info/resource/Icor3_19@5-8">sapientia stulti<lb ed="#B" n="47"/>tia 
+            est <choice><orig>aput</orig><reg>apud</reg></choice> deum</quote> <ref><title ana="#Icor">1 corinthios</title> 3</ref>
           </p>
           <p xml:id="jhbl1q2-d1e7316">
             <pc ana="#virgula"/><pc ana="#virgula"/>per haec 

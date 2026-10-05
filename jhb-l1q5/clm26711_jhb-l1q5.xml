@@ -418,8 +418,8 @@
           <lb ed="#B"/>non movens ut spiritus sanctus <pc ana="#pilcrow"/>pro 4o 
           <lb ed="#B"/>in actione artificis concurrit ar<lb ed="#B"/>tifex 
           ars et finis <pc ana="#pilcrow"/>de 5o ait iohannes 
-          <quote xml:id="jhb-l1q5-Qd1e991" ana="#Iio5_7">tres sunt qui testimonium</quote> etc spiritus 
-          <lb ed="#B"/>sanctus ignis et aqua <!-- this could be a mistaken reference to Iio5_8 --> <pc ana="#pilcrow"/> pro 6o <quote xml:id="jhb-l1q5-Qd1e1000" ana="#sap11_21">omnia facta sunt 
+          <quote xml:id="jhb-l1q5-Qd1e991" source="http://scta.info/resource/Iio5_7@2-5">tres sunt qui testimonium</quote> etc spiritus 
+          <lb ed="#B"/>sanctus ignis et aqua <!-- this could be a mistaken reference to Iio5_8 --> <pc ana="#pilcrow"/> pro 6o <quote xml:id="jhb-l1q5-Qd1e1000" source="http://scta.info/resource/sap11_21@22-27">omnia facta sunt 
           <lb ed="#B"/>in numero pondere et mensura</quote> sapientia 9 c
         </p>
         <p xml:id="jhb-l1q5-d1e1007">
@@ -481,7 +481,7 @@
         </p>
         <p xml:id="jhb-l1q5-d1e1149">
           <pc ana="#pilcrow"/>contra conclusionem est <name>apostolus</name>
-          <lb ed="#B"/>roma 11 <quote xml:id="jhb-l1q5-Qd1e1158" ana="#rom11_33">incomprehensibilia sunt iu<lb ed="#B"/>dicia 
+          <lb ed="#B"/>roma 11 <quote xml:id="jhb-l1q5-Qd1e1158" source="http://scta.info/resource/rom11_33@9-16">incomprehensibilia sunt iu<lb ed="#B"/>dicia 
           eius et investigabiles viae 
           <lb ed="#B"/>eius</quote>
         </p>
@@ -602,7 +602,7 @@
           <lb ed="#B"/>re conclusio videtur vera sed quod sit receptiva 
           <lb ed="#B"/>communiter tenetur non indiget <unclear>magna</unclear>
           <lb ed="#B"/>probatione potest tamen probari primo 
-          <lb ed="#B"/>ex textu evvangelii lucis 16 <quote xml:id="jhb-l1q5-Qd1e1432" ana="#lc16_25"><sic>filii</sic> re<lb ed="#B"/>cordare</quote> 
+          <lb ed="#B"/>ex textu evvangelii lucis 16 <quote xml:id="jhb-l1q5-Qd1e1432" source="http://scta.info/resource/lc16_25@5-6"><sic>filii</sic> re<lb ed="#B"/>cordare</quote> 
           ubi loquitur ad animam sed hoc non fuit solum parabala sed 
           <lb ed="#B"/>etiam hystoria secundum <name>augustinum</name> 8 <title>super genesem</title> 
           <lb ed="#B"/>capitulo 7 ad idem est <name>venerabilis anselmus</name> <title>de con<lb ed="#B"/>ceptu 

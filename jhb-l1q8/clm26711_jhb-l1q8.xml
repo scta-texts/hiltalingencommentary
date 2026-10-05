@@ -166,8 +166,8 @@
           <lb ed="#B"/>amore divinus non dimisit <unclear>deum</unclear>
           <lb ed="#B"/><seg type="correction"><metamark>b</metamark>sine <metamark>a</metamark>esse</seg> <unclear>germine</unclear> huic conclusioni videtur 
           <lb ed="#B"/>pater consentire in 3o dicens 
-          <lb ed="#B"/>hic est filius mens dilectus 
-          <lb ed="#B"/>in quo michi bene conplacui
+          <lb ed="#B"/><quote source="http://scta.info/resource/mt3_17@7-15">hic est filius mens dilectus 
+          <lb ed="#B"/>in quo michi bene conplacui</quote>
         </p>
         <p xml:id="jhb-l1q8-d1e435">
           <lb ed="#B"/><pc ana="#pilcrow"/>primum corollarium pater sine frecundi<lb ed="#B"/>tas 

@@ -417,11 +417,11 @@
           <lb ed="#B"/>satis nota est ut videtur
         </p>
         <p xml:id="jhb-l1q9-d1e1008">
-          <pc ana="#pilcrow"/>2o sic fi<lb ed="#B"/>lius 
+          <pc ana="#pilcrow"/>2o sic <quote source="http://scta.info/resource/io5_19@5-16">fi<lb ed="#B"/>lius 
           a se non potest facere quidquam nisi 
           <pb ed="#B" n="73-r"/>
           <cb ed="#B" n="a"/>
-          <lb ed="#B"/>quod viderit patrem facientem taliter hoc 
+          <lb ed="#B"/>quod viderit patrem facientem</quote> taliter hoc 
           <lb ed="#B"/>sed hoc est dependere ab aliqua causa 
           <lb ed="#B"/>igitur conclusio falsa prima pars est nota et 2a 
           <lb ed="#B"/>etiam videtur evidens igitur sequitur quod fi<lb ed="#B"/>lius 
@@ -460,7 +460,7 @@
         </p>
         <p xml:id="jhb-l1q9-d1e1109">
           contra 2m corollarium est 
-          <lb ed="#B"/>dictum lucis 2o <quote xml:id="jhb-l1q9-Qd1e1113" ana="#lc2_49">in hiis quae patris 
+          <lb ed="#B"/>dictum lucis 2o <quote xml:id="jhb-l1q9-Qd1e1113" source="http://scta.info/resource/lc2_49@12-19">in hiis quae patris 
           <lb ed="#B"/>mei sunt opportet me</quote> igitur sed haec distinctio 
           <lb ed="#B"/>oportet necessitatem inportat igitur non libere 
           <lb ed="#B"/>agit verbum ut videtur
@@ -548,7 +548,7 @@
           <pc ana="#pilcrow"/>ad ratione contra 
           <pb ed="#B" n="73-v"/>
           <cb ed="#B" n="a"/>
-          <lb ed="#B"/>2m corollarium cum arguit per illud <title>lucis</title> 2o <quote xml:id="jhb-l1q9-Qd1e1313" ana="#lc2_49">in 
+          <lb ed="#B"/>2m corollarium cum arguit per illud <title>lucis</title> 2o <quote xml:id="jhb-l1q9-Qd1e1313" source="http://scta.info/resource/lc2_49@12-15">in 
           <lb ed="#B"/>hiis quae patris</quote> etc dico primo quod ly 
           <lb ed="#B"/><mentioned>oportet</mentioned> non notat neccessitatem sed congru<lb ed="#B"/>itatem 
           2o dico quod si notat neccesi<lb ed="#B"/>tatem 

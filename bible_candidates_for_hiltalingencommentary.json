@@ -1,0 +1,1562 @@
+{
+  "jhb-l1q2": {
+    "jhbl1q2-d1e4193": [
+      {
+        "candidate_id": "mt21_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "text cites 'psalmi'; encoded with ps8_3"
+      },
+      {
+        "candidate_id": "ps8_3",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "jhbl1q2-d1e5193": [
+      {
+        "candidate_id": "mt22_40",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "jhbl1q2-d1e5318": [
+      {
+        "candidate_id": "cant6_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "MS reads 'ascendit' not 'progreditur'"
+      },
+      {
+        "candidate_id": "cant3_6",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "identical incipit; legacy encoding (and MS context) uses cant8_5"
+      },
+      {
+        "candidate_id": "cant8_5",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "converted from legacy @ana; identical incipit in Cant 3:6"
+      }
+    ],
+    "jhbl1q2-d1e5650": [
+      {
+        "candidate_id": "gal3_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "same phrase but MS cites Rom 1 / Hab 2; encoded with rom1_17"
+      },
+      {
+        "candidate_id": "gal5_6",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor3_11",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "range covers verse incipit; MS gives 'nemo potest ponere etc'"
+      },
+      {
+        "candidate_id": "rom1_17",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "MS cites Rom 1 and Hab 2"
+      }
+    ],
+    "jhbl1q2-d1e5828": [
+      {
+        "candidate_id": "io15_24",
+        "intersectionCount": 10,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io9_32",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io3_2",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io4_48",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "MS omits 'et prodigia' and reorders"
+      },
+      {
+        "candidate_id": "mt27_54",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "jhbl1q2-d1e5893": [
+      {
+        "candidate_id": "mt5_18",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "jhbl1q2-d1e6132": [
+      {
+        "candidate_id": "mt24_14",
+        "intersectionCount": 10,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io15_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "jhbl1q2-d1e6466": [
+      {
+        "candidate_id": "io1_42",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS cites 'iohannes 22'"
+      }
+    ],
+    "jhbl1q2-d1e6674": [
+      {
+        "candidate_id": "act20_28",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph5_25",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS cites 'ad phil 5'"
+      },
+      {
+        "candidate_id": "Icor1_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "jhbl1q2-d1e7051": [
+      {
+        "candidate_id": "ps18_5",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "psalm quoted via Rom 10:18 ('per illud apostoli'); encoded with rom10_18"
+      },
+      {
+        "candidate_id": "rom10_18",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "cited as 'apostoli'"
+      }
+    ],
+    "jhbl1q2-d1e7063": [
+      {
+        "candidate_id": "act1_7",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "jhbl1q2-d1e7219": [
+      {
+        "candidate_id": "Icor1_17",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "jhbl1q2-d1e7273": [
+      {
+        "candidate_id": "sir43_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase 'super omnia opera sua'; MS cites Eccli 1"
+      },
+      {
+        "candidate_id": "sir1_10",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sir42_16",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "jhbl1q2-d1e7295": [
+      {
+        "candidate_id": "Icor3_19",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "paraphrase; range covers 'stultitia est apud Deum'"
+      },
+      {
+        "candidate_id": "Icor1_19",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "jhbl1q2-d1e8145": [
+      {
+        "candidate_id": "iudic6_38",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "common phrase 'est ita et' only"
+      }
+    ],
+    "jhbl1q2-d1e8994": [
+      {
+        "candidate_id": "io11_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "common phrase 'non est in eo' only"
+      },
+      {
+        "candidate_id": "is1_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "common phrase only"
+      },
+      {
+        "candidate_id": "sir40_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "common phrase only"
+      }
+    ],
+    "jhbl1q2-d1e9349": [
+      {
+        "candidate_id": "IIchr6_36",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "Anselm quotation, 'est homo qui non' overlap only"
+      }
+    ],
+    "jhbl1q2-d1e9433": [
+      {
+        "candidate_id": "IIchr32_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'usque ad mortem' only"
+      },
+      {
+        "candidate_id": "IIreg20_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'usque ad mortem' only"
+      },
+      {
+        "candidate_id": "ap2_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'usque ad mortem' only"
+      },
+      {
+        "candidate_id": "is38_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'usque ad mortem' only"
+      }
+    ],
+    "jhbl1q2-d1e9748": [
+      {
+        "candidate_id": "IIreg5_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'quod non sit Deus' only"
+      }
+    ],
+    "jhbl1q2-d1e3936": [
+      {
+        "candidate_id": "Icor2_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "converted from legacy @ana encoding"
+      }
+    ],
+    "jhbl1q2-d1e4037": [
+      {
+        "candidate_id": "IIcor3_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "converted from legacy @ana encoding"
+      }
+    ],
+    "jhbl1q2-d1e4068": [
+      {
+        "candidate_id": "Icor12_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "converted from legacy @ana encoding"
+      }
+    ],
+    "jhbl1q2-d1e4636": [
+      {
+        "candidate_id": "io14_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "converted from legacy @ana encoding"
+      }
+    ],
+    "jhbl1q2-d1e5767": [
+      {
+        "candidate_id": "mc16_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "converted from legacy @ana encoding"
+      }
+    ],
+    "jhbl1q2-d1e6085": [
+      {
+        "candidate_id": "hebr11_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "converted from legacy @ana encoding"
+      }
+    ],
+    "jhbl1q2-d1e6605": [
+      {
+        "candidate_id": "mt18_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "converted from legacy @ana encoding"
+      }
+    ],
+    "jhbl1q2-d1e6641": [
+      {
+        "candidate_id": "Icor11_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "converted from legacy @ana encoding"
+      }
+    ]
+  },
+  "jhb-l1q3": {
+    "jhb-l1q3-d1e122": [
+      {
+        "candidate_id": "io3_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'in Deo sunt' only"
+      }
+    ],
+    "jhb-l1q3-d1e393": [
+      {
+        "candidate_id": "IIreg20_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'nihil est quod non' only"
+      }
+    ],
+    "jhb-l1q3-d1e4214": [
+      {
+        "candidate_id": "neh2_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'non est pars' only"
+      }
+    ],
+    "jhb-l1q3-d1e4706": [
+      {
+        "candidate_id": "IIcor11_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "allusion inside existing Peter Lombard quotation (pl-l4d30c1)"
+      }
+    ],
+    "jhb-l1q3-d1e4766": [
+      {
+        "candidate_id": "ps118_112",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS reading corrupted ('ad satis iustis')"
+      }
+    ],
+    "jhb-l1q3-d1e5498": [
+      {
+        "candidate_id": "ps123_1",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "lemma of Augustine's Enarr. (MS: 'psalmum 133'); phrase repeated in 123:2"
+      },
+      {
+        "candidate_id": "ps123_2",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "identical phrase; encoded with ps123_1 (psalm incipit)"
+      }
+    ]
+  },
+  "jhb-l1q4": {
+    "jhb-l1q4-d1e215": [
+      {
+        "candidate_id": "is51_6",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS cites 'ysa 57'; MS 'firmus' for 'fumus'"
+      },
+      {
+        "candidate_id": "is63_17",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hab2_11",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt11_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "MS cites 'matthaeus 5'"
+      }
+    ],
+    "jhb-l1q4-d1e276": [
+      {
+        "candidate_id": "eph6_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'ita ut in ipso' only"
+      },
+      {
+        "candidate_id": "qoh4_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'unus est et secundum' only"
+      }
+    ],
+    "jhb-l1q4-d1e369": [
+      {
+        "candidate_id": "sir24_31",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS cites 'Ecclesiastes 24' (= Ecclesiasticus)"
+      },
+      {
+        "candidate_id": "rom15_4",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "qoh6_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "MS omits 'et quid pauper'"
+      },
+      {
+        "candidate_id": "qoh7_13",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      }
+    ],
+    "jhb-l1q4-d1e561": [
+      {
+        "candidate_id": "mt5_18",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "IItim3_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "MS cites 'primo thioteum 3'"
+      },
+      {
+        "candidate_id": "gal5_20",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "tit3_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "glossa lemma; MS cites '1 ad thimoteus 3'"
+      }
+    ],
+    "jhb-l1q4-d1e1398": [
+      {
+        "candidate_id": "io1_18",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "jhb-l1q4-d1e1689": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "trinitarian formula only"
+      }
+    ],
+    "jhb-l1q4-d1e1912": [
+      {
+        "candidate_id": "io21_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only"
+      },
+      {
+        "candidate_id": "io8_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared phrase only"
+      },
+      {
+        "candidate_id": "io5_32",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "MS cites 'Iohannes 11'"
+      }
+    ],
+    "jhb-l1q4-d1e2017": [
+      {
+        "candidate_id": "Iio5_7",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS includes 'in caelo' (Comma Johanneum), absent from corpus text"
+      }
+    ],
+    "jhb-l1q4-d1e2324": [
+      {
+        "candidate_id": "dan4_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'generationem et generationem' from Damascene, not a verse"
+      },
+      {
+        "candidate_id": "is60_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "is61_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "ps101_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "ps101_25",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "ps105_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "ps118_90",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "ps134_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "ps145_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "ps78_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "ps88_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "ps88_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "ps99_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      }
+    ],
+    "jhb-l1q4-d1e2622": [
+      {
+        "candidate_id": "Ith1_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'in spiritu sancto' only"
+      },
+      {
+        "candidate_id": "lc3_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "mt3_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      }
+    ],
+    "jhb-l1q4-d1e3281": [
+      {
+        "candidate_id": "sap1_4",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ]
+  },
+  "jhb-l1q5": {
+    "jhb-l1q5-d1e963": [
+      {
+        "candidate_id": "Iio5_7",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sap11_21",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase; MS cites 'sapientia 9'"
+      }
+    ],
+    "jhb-l1q5-d1e1149": [
+      {
+        "candidate_id": "rom11_33",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "jhb-l1q5-d1e1390": [
+      {
+        "candidate_id": "lc16_25",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "converted from legacy @ana encoding"
+      }
+    ]
+  },
+  "jhb-l1q6": {
+    "jhb-l1q6-d1e1455": [
+      {
+        "candidate_id": "is36_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase is Ps 2:7, already encoded as ps2_7"
+      },
+      {
+        "candidate_id": "ps2_7",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ]
+  },
+  "jhb-l1q7": {
+    "jhb-l1q7-d1e1175": [
+      {
+        "candidate_id": "IIchr18_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'quod verum est' only"
+      },
+      {
+        "candidate_id": "Ireg22_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'quod verum est' only"
+      }
+    ]
+  },
+  "jhb-l1q8": {
+    "jhb-l1q8-d1e376": [
+      {
+        "candidate_id": "lc9_35",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded with mt3_17"
+      },
+      {
+        "candidate_id": "mc9_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded with mt3_17"
+      },
+      {
+        "candidate_id": "mt17_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "near-identical; MS cites ch. 3, encoded with mt3_17"
+      },
+      {
+        "candidate_id": "mt3_17",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS reads 'in 3o'; 'bene' as in Mt 17:5"
+      }
+    ],
+    "jhb-l1q8-d1e647": [
+      {
+        "candidate_id": "lc2_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'secundum quod dictum est' only"
+      },
+      {
+        "candidate_id": "rom4_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'secundum quod dictum est' only"
+      }
+    ]
+  },
+  "jhb-l1q9": {
+    "jhb-l1q9-d1e1008": [
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "unattributed, word order varied"
+      }
+    ],
+    "jhb-l1q9-d1e1109": [
+      {
+        "candidate_id": "lc2_49",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "jhb-l1q9-d1e1778": [
+      {
+        "candidate_id": "ex8_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'pro te et pro' only"
+      },
+      {
+        "candidate_id": "lev9_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'pro te et pro' only"
+      }
+    ],
+    "jhb-l1q9-d1e1299": [
+      {
+        "candidate_id": "lc2_49",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "converted from legacy @ana encoding"
+      }
+    ]
+  },
+  "jhb-l1q10": {
+    "jhb-l1q10-d1e834": [
+      {
+        "candidate_id": "prov30_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'et tamen non est' only"
+      }
+    ],
+    "jhb-l1q10-d1e1015": [
+      {
+        "candidate_id": "IIsam7_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'omne quod est in' only"
+      },
+      {
+        "candidate_id": "Iio2_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'omne quod est in' only"
+      }
+    ]
+  },
+  "jhb-l1q12": {
+    "jhb-l1q12-d1e1323": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "trinitarian names only"
+      }
+    ],
+    "jhb-l1q12-d1e1430": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "trinitarian names only"
+      }
+    ],
+    "jhb-l1q12-d1e1728": [
+      {
+        "candidate_id": "Isam17_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'supra dictum est' only"
+      },
+      {
+        "candidate_id": "hebr4_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'supra dictum est' only"
+      }
+    ],
+    "jhb-l1q12-d1e1777": [
+      {
+        "candidate_id": "tit3_5",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "multi-verse quote with tit3_6; MS corrupt ('planarum re gulationis')"
+      },
+      {
+        "candidate_id": "tit3_6",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "multi-verse quote with tit3_5"
+      },
+      {
+        "candidate_id": "io15_26",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io16_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc24_49",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io20_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "MS cites 'Iohannes 2'; preceding 'inflavit' left outside quote"
+      }
+    ],
+    "jhb-l1q12-d1e1850": [
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "MS cites 'Iohannes 3'"
+      }
+    ],
+    "jhb-l1q12-d1e2478": [
+      {
+        "candidate_id": "iob9_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'quod ita sit' only"
+      }
+    ]
+  },
+  "jhb-l1q13": {
+    "jhb-l1q13-d1e642": [
+      {
+        "candidate_id": "esd1_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'est Deus qui est' only"
+      }
+    ]
+  },
+  "jhb-l1q14": {
+    "jhb-l1q14-d1e779": [
+      {
+        "candidate_id": "ps50_12",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "within Augustine quotation"
+      },
+      {
+        "candidate_id": "eph2_10",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "jhb-l1q14-d1e820": [
+      {
+        "candidate_id": "Icor12_11",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "jhb-l1q14-d1e1132": [
+      {
+        "candidate_id": "cant7_10",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "'et ad' overlap only"
+      },
+      {
+        "candidate_id": "io14_23",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "jhb-l1q15": {
+    "jhb-l1q15-d1e689": [
+      {
+        "candidate_id": "qoh9_1",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "jhb-l1q15-d1e851": [
+      {
+        "candidate_id": "phil4_6",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "jhb-l1q15-d1e1111": [
+      {
+        "candidate_id": "Icor11_28",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ]
+  },
+  "jhb-l1q16": {
+    "jhb-l1q16-d1e1276": [
+      {
+        "candidate_id": "act17_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'quia hic est' only"
+      }
+    ]
+  },
+  "jhb-l1q17": {
+    "jhb-l1q17-d1e272": [
+      {
+        "candidate_id": "Icor15_10",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "jhb-l1q17-d1e416": [
+      {
+        "candidate_id": "qoh8_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'non est in hominis' only"
+      }
+    ],
+    "jhb-l1q17-d1e744": [
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'filii Dei sumus' is Rom 8:16, already encoded"
+      },
+      {
+        "candidate_id": "rom8_16",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom8_9",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "jhb-l1q17-d1e1006": [
+      {
+        "candidate_id": "act19_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'si Spiritus Sanctus est' only"
+      }
+    ],
+    "jhb-l1q17-d1e1323": [
+      {
+        "candidate_id": "io13_1",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "jhb-l1q17-d1e1417": [
+      {
+        "candidate_id": "ez1_12",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ]
+  },
+  "jhb-l1q18": {
+    "jhb-l1q18-d1e707": [
+      {
+        "candidate_id": "prov30_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'et tamen non est' only"
+      }
+    ]
+  },
+  "jhb-l1q21": {
+    "jhb-l1q21-d1e392": [
+      {
+        "candidate_id": "IIreg20_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'nichil est quod non' only"
+      }
+    ],
+    "jhb-l1q21-d1e888": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "trinitarian names only (Augustine quotation)"
+      }
+    ]
+  },
+  "jhb-l1q22": {
+    "jhb-l1q22-d1e361": [
+      {
+        "candidate_id": "io11_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'non est in eo' only"
+      },
+      {
+        "candidate_id": "is1_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "sir40_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      }
+    ],
+    "jhb-l1q22-d1e552": [
+      {
+        "candidate_id": "io11_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'non est in eo' only"
+      },
+      {
+        "candidate_id": "is1_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "sir40_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      }
+    ]
+  },
+  "jhb-l1q26": {
+    "l1q26-l1q26-d1e174": [
+      {
+        "candidate_id": "ios18_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'non est inter' only"
+      }
+    ],
+    "l1q26-l1q26-d1e401": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "trinitarian names only"
+      }
+    ],
+    "l1q26-l1q26-d1e753": [
+      {
+        "candidate_id": "IIreg20_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'omnia quae sunt in' only"
+      },
+      {
+        "candidate_id": "IIreg20_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "Isam9_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      }
+    ],
+    "l1q26-l1q26-d1e778": [
+      {
+        "candidate_id": "hebr1_3",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS corrupt ('sfigura substantiaeius scilicet patris prioritas omnia')"
+      }
+    ]
+  },
+  "jhb-l1q27": {
+    "jhb-l1q27-d1e583": [
+      {
+        "candidate_id": "Icor1_24",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "'praedicamus' from 1:23"
+      }
+    ],
+    "jhb-l1q27-d1e612": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "trinitarian names only"
+      }
+    ]
+  },
+  "jhb-l1q28": {
+    "jhb-l1q28-d1e219": [
+      {
+        "candidate_id": "IIchr25_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'scriptum est in libro' only"
+      },
+      {
+        "candidate_id": "IIchr35_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "IIreg14_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "IIreg23_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "IIsam1_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "act7_42",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "esd6_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "ier25_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "ios8_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "lc3_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "sir23_29",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "within Augustine quotation; Augustine's Old Latin wording"
+      }
+    ],
+    "jhb-l1q28-d1e243": [
+      {
+        "candidate_id": "IIreg20_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "IIreg20_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "iob28_28",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'ipsa est sapientia' only"
+      },
+      {
+        "candidate_id": "Isam9_19",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "'omnia quae sunt in' only (Augustine quotation)"
+      }
+    ],
+    "jhb-l1q28-d1e397": [
+      {
+        "candidate_id": "iob32_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'eo quod non' only"
+      }
+    ],
+    "jhb-l1q28-d1e548": [
+      {
+        "candidate_id": "hebr4_13",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "jhb-l1q28-d1e725": [
+      {
+        "candidate_id": "Iio4_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'et nunc' overlap only"
+      }
+    ]
+  },
+  "jhb-l1q29": {
+    "jhb-l1q29-d1e269": [
+      {
+        "candidate_id": "iac5_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "same phrase; encoded with mt5_37"
+      },
+      {
+        "candidate_id": "mt5_37",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "within Augustine quotation"
+      }
+    ],
+    "jhb-l1q29-d1e972": [
+      {
+        "candidate_id": "prov30_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'et tamen non est' only"
+      }
+    ]
+  },
+  "jhb-l1q30": {
+    "jhb-l1q30-d1e307": [
+      {
+        "candidate_id": "mt26_53",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "jhb-l1q31": {
+    "jhb-l1q31-d1e171": [
+      {
+        "candidate_id": "ps68_29",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites 'psalmo 64'"
+      }
+    ],
+    "jhb-l1q31-d1e208": [
+      {
+        "candidate_id": "rom8_29",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "within Augustine quotation"
+      }
+    ],
+    "jhb-l1q31-d1e344": [
+      {
+        "candidate_id": "ps138_5",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS cites 'psalmos 128'"
+      }
+    ],
+    "jhb-l1q31-d1e589": [
+      {
+        "candidate_id": "Iio2_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'et non est' only"
+      },
+      {
+        "candidate_id": "mc12_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      },
+      {
+        "candidate_id": "sir35_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      }
+    ],
+    "jhb-l1q31-d1e650": [
+      {
+        "candidate_id": "ex32_32",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "paraphrase ('libro vite'); preceding 'dimitte eis noxam hanc' from 32:31-32 left outside"
+      },
+      {
+        "candidate_id": "is4_3",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "jhb-l1q32": {
+    "jhb-l1q32-d1e309": [
+      {
+        "candidate_id": "rom9_13",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "jhb-l1q32-d1e818": [
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom9_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase 'non est currentis'"
+      }
+    ],
+    "jhb-l1q32-d1e1048": [
+      {
+        "candidate_id": "iudic11_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'est contra eum in' only"
+      }
+    ]
+  },
+  "jhb-l1q33": {
+    "jhb-l1q33-d1e599": [
+      {
+        "candidate_id": "sap7_27",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "jhb-l1q33-d1e714": [
+      {
+        "candidate_id": "ps13_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "identical in Ps 52:1"
+      },
+      {
+        "candidate_id": "ps52_1",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "identical incipit; encoded with ps13_1"
+      }
+    ],
+    "jhb-l1q33-d1e803": [
+      {
+        "candidate_id": "prov30_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'et tamen non est' only"
+      }
+    ],
+    "jhb-l1q33-d1e864": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "trinitarian names only"
+      }
+    ]
+  },
+  "jhb-l1q34": {
+    "jhb-l1q34-d1e194": [
+      {
+        "candidate_id": "col1_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared 'per ipsum et in ipso'; MS cites Rom 11"
+      },
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor12_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "jhb-l1q34-d1e466": [
+      {
+        "candidate_id": "ps148_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "identical phrase; encoded with ps32_9"
+      },
+      {
+        "candidate_id": "ps32_9",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS attributes to Genesis 1 (cf. 'dixit... et factum est'); wording matches Ps 32:9 / 148:5"
+      }
+    ]
+  },
+  "jhb-l1q35": {
+    "jhb-l1q35-d1e505": [
+      {
+        "candidate_id": "Iio3_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'non est de Deo' only"
+      }
+    ],
+    "jhb-l1q35-d1e855": [
+      {
+        "candidate_id": "ios7_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'in eodem loco' only"
+      },
+      {
+        "candidate_id": "num9_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'in eodem loco' only"
+      }
+    ],
+    "jhb-l1q35-d1e1041": [
+      {
+        "candidate_id": "IIsam7_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'non est similis' only"
+      },
+      {
+        "candidate_id": "io15_25",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "glossa lemma; MS cites 'Iohannes 5'"
+      },
+      {
+        "candidate_id": "ps16_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "lemma of Augustine's commentary"
+      }
+    ]
+  },
+  "jhb-l1q36": {
+    "jhb-l1q36-d1e1088": [
+      {
+        "candidate_id": "act13_40",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'quod dictum est in' only"
+      },
+      {
+        "candidate_id": "lc2_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "phrase only"
+      }
+    ]
+  }
+}

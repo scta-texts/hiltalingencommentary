@@ -125,9 +125,9 @@
           <lb ed="#B" n="22"/>aliter sciunt creata quam creanda nec  
           <lb ed="#B" n="23"/>enim eius sapientiae aliquid accessit  
           <lb ed="#B" n="24"/>et infra ita et scriptum est in libro  
-          <lb ed="#B" n="25"/>ecclesiastico antquam creantur omnia non sunt  
+          <lb ed="#B" n="25"/>ecclesiastico <quote source="http://scta.info/resource/sir23_29@4-12">antquam creantur omnia non sunt  
           <lb ed="#B" n="26"/>illi sic et postquam consummata sunt  
-          <lb ed="#B" n="27"/>sic ea nota sunt et non aliter igitur quaestio  
+          <lb ed="#B" n="27"/>sic ea nota sunt</quote> et non aliter igitur quaestio  
           <lb ed="#B" n="28"/>vera
         </p>
         <p xml:id="jhb-l1q28-d1e243">
@@ -291,7 +291,7 @@
         </p>
         <p xml:id="jhb-l1q28-d1e548">
           ¶ Ad idem est apostolus ad hebraeos 4  
-          <lb ed="#B" n="65"/>omnia nuda et aperta sunt oculis eius  
+          <lb ed="#B" n="65"/><quote source="http://scta.info/resource/hebr4_13@10-17">omnia nuda et aperta sunt oculis eius</quote>  
           <lb ed="#B" n="66"/>pro hac conclusione sunt duae propositiones alexandri  
           <lb ed="#B" n="67"/>in de memoria rerum difficilium po 16 
           <lb ed="#B" n="68"/>qua dicit substantia simplex et inpermixta  
