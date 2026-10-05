@@ -54,23 +54,23 @@
         <p xml:id="jhb-l1q9-d1e3851">
           <lb ed="#B"/>Hic quaeri solet etc ista 7a 
           <lb ed="#B"/>distinctio ad <seg type="correction">praece<del>n</del>dentem</seg> 
-          <lb ed="#B"/>continuatur quia <name>magister</name> tractavit 
+          <lb ed="#B"/>continuatur quia <name xml:id="jhb-l1q9-Nd1e106">magister</name> tractavit 
           <lb ed="#B"/>divina et aeterna generatione quantum ad modum 
           <lb ed="#B"/>et formam nunc incipit tractare de 
           <lb ed="#B"/>ea quantum ad generandi potentiam et dividitur 
-          <lb ed="#B"/>in duas partes 2m quod <name>magister</name> de ista 
+          <lb ed="#B"/>in duas partes 2m quod <name xml:id="jhb-l1q9-Nd1e117">magister</name> de ista 
           <lb ed="#B"/>potentia generandi duas movet quaestiones 
-          <lb ed="#B"/>nam primo quaerit <name>magister</name> an potentia generan<lb ed="#B"/>di 
+          <lb ed="#B"/>nam primo quaerit <name xml:id="jhb-l1q9-Nd1e124">magister</name> an potentia generan<lb ed="#B"/>di 
           conveniat patri aeterno 2o an haec 
           <lb ed="#B"/>reperiatur in filio tunc 2a pars incipit 
           <lb ed="#B"/>ibi <pc type="virgula"/> item quaeritur a quibusdam prima 
-          <lb ed="#B"/>dividitur in tres partes quia primo <name>magister</name> 
+          <lb ed="#B"/>dividitur in tres partes quia primo <name xml:id="jhb-l1q9-Nd1e137">magister</name> 
           <lb ed="#B"/>movet quaestionem 2o ponit suam 
-          <lb ed="#B"/>determinationem 3o ex dictis <name>augustini</name> recitat 
+          <lb ed="#B"/>determinationem 3o ex dictis <name xml:id="jhb-l1q9-Nd1e143">augustini</name> recitat 
           <lb ed="#B"/>cuiusdam obiectionis evadationem tunc 
           <lb ed="#B"/>2a pars est ibi Cui <unclear>v?sucie</unclear> 3a ibi 
           <lb ed="#B"/>sed vehementer 2a pars principalis dividitur 
-          <lb ed="#B"/>in duas partes quia <name>magister</name> movet 
+          <lb ed="#B"/>in duas partes quia <name xml:id="jhb-l1q9-Nd1e156">magister</name> movet 
           <lb ed="#B"/>quaestionem et ponit eius responsionem 2o 
           <lb ed="#B"/>suae responsionis ostendit explanationem 
           <pb ed="#B" n="71-v"/>
@@ -91,7 +91,7 @@
           <lb ed="#B"/>est deus ipsum est omne quod est me<lb ed="#B"/>lius 
           esse quam non esse simpliciter cum 
           <lb ed="#B"/>sit quo magis cogitari non possit 
-          <lb ed="#B"/>2m <name>venerabilis anselmus</name> <title>proslogion</title> pluribus capitulis
+          <lb ed="#B"/>2m <name xml:id="jhb-l1q9-Nd1e204">venerabilis anselmus</name> <title>proslogion</title> pluribus capitulis
         </p>
         <p xml:id="jhb-l1q9-d1e3977">
           <lb ed="#B"/><pc type="pilcrow"/>2o sic ratio suppositalis nullam 
@@ -99,7 +99,7 @@
           <lb ed="#B"/>dicere verbum consequentia patet assumptum probatur 
           <lb ed="#B"/>cum primo quia in divinis foret alia 
           <lb ed="#B"/>bonitas quam essentialis cuius oppositum te<lb ed="#B"/>net 
-          <name>doctor sollempnis</name> primo capitulo quaestione prima
+          <name xml:id="jhb-l1q9-Nd1e225">doctor sollempnis</name> primo capitulo quaestione prima
         </p>
         <p xml:id="jhb-l1q9-d1e3997">
           <lb ed="#B"/><pc type="pilcrow"/>2o quia tunc non producere augeret 
@@ -114,12 +114,12 @@
           <pc type="pilcrow"/>3o nulla est 
           <lb ed="#B"/>potentia generativa in deo igitur quaestio falsa antecedens 
           <lb ed="#B"/>probatur primo rationibus <sic>verronis</sic> quas 
-          <lb ed="#B"/>recitat <name>thomas de argentis</name> in ista 
-          <lb ed="#B"/>distinctione quaestione una articulo 4o Et <name>gregorius</name> 
+          <lb ed="#B"/>recitat <name xml:id="jhb-l1q9-Nd1e261">thomas de argentis</name> in ista 
+          <lb ed="#B"/>distinctione quaestione una articulo 4o Et <name xml:id="jhb-l1q9-Nd1e265">gregorius</name> 
           <lb ed="#B"/>eadem distinctio quaestio 1 articulo primo quia foret 
           <lb ed="#B"/>praecisa relatio quod est falsum <pc type="virgula"/> 2o potest idem 
           <lb ed="#B"/>antecedens argui rationibus quas recitat 
-          <lb ed="#B"/><name>gregorius</name> ubi supra
+          <lb ed="#B"/><name xml:id="jhb-l1q9-Nd1e277">gregorius</name> ubi supra
         </p>
         <p xml:id="jhb-l1q9-d1e4053">
           <lb ed="#B"/>In oppositum arguitur 
@@ -173,7 +173,7 @@
           <lb ed="#B"/>ex hoc igitur hoc erit et est ponendum
         </p>
         <p xml:id="jhb-l1q9-d1e4180">
-          <lb ed="#B"/><pc type="pilcrow"/>primum corollarium contra <name>doctorem sub<lb ed="#B"/>tilem</name> 
+          <lb ed="#B"/><pc type="pilcrow"/>primum corollarium contra <name xml:id="jhb-l1q9-Nd1e407">doctorem sub<lb ed="#B"/>tilem</name> 
           6 de libro primo tantae perfectionis 
           <lb ed="#B"/>et patris dicere quantae est suae essentiale 
           <lb ed="#B"/>intelligere probatur quia est inmensae 
@@ -196,7 +196,7 @@
           <lb ed="#B"/>non ponit cuilibet dignitas <unclear>prae?vationem</unclear>
           <pb ed="#B" n="72-r"/>
           <cb ed="#B" n="a"/>
-          <lb ed="#B"/>illud corollarium est expressa sententia <ref xml:id="jhb-l1q9-Rd1e4239"><name>A<lb ed="#B"/>gidii 
+          <lb ed="#B"/>illud corollarium est expressa sententia <ref xml:id="jhb-l1q9-Rd1e4239"><name xml:id="jhb-l1q9-Nd1e461">A<lb ed="#B"/>gidii 
           doctoris nostri</name> in libro primo distinctione 4 par<lb ed="#B"/>te 
           prima quaestioen 2 in solutione primi
           <lb ed="#B"/>argumenti principalis</ref> ubi dicit aliquid 
@@ -219,7 +219,7 @@
         </p>
         <p xml:id="jhb-l1q9-d1e4287">
           Ex hiis mediis 
-          <lb ed="#B"/>videtur arguere <name>magister iohannes de bracl</name> 
+          <lb ed="#B"/>videtur arguere <name xml:id="jhb-l1q9-Nd1e512">magister iohannes de bracl</name> 
           <lb ed="#B"/>articulo 2o sui symboli quia ex hiis 
           <lb ed="#B"/>4or concludit quod actio est in deo igitur 
           <lb ed="#B"/>aliquid agitur cum non agit deus 
@@ -231,7 +231,7 @@
         </p>
         <p xml:id="jhb-l1q9-d1e4312">
           <pc type="pilcrow"/>2o contra istam partem arguitur 
-          <lb ed="#B"/>rationibus prioris generalis <name>nostri magistri 
+          <lb ed="#B"/>rationibus prioris generalis <name xml:id="jhb-l1q9-Nd1e538">nostri magistri 
           <lb ed="#B"/>hugolini</name> quaestione prima circa distinctionem 4am 6am 
           <lb ed="#B"/>conclusione prima sic inpossibile est esse naturam 
           <lb ed="#B"/>intellectualem <unclear>independentem</unclear> et eam non 
@@ -243,7 +243,7 @@
           <lb ed="#B"/>sui totaliter comprehensum quam memoriae 
           <lb ed="#B"/>infinite sed finite non repungnat 
           <lb ed="#B"/>igitur nec infinite et habetur propositum ratio 
-          <lb ed="#B"/>fundatur super uno dicto <name>beati augustini</name> libro 
+          <lb ed="#B"/>fundatur super uno dicto <name xml:id="jhb-l1q9-Nd1e569">beati augustini</name> libro 
           <lb ed="#B"/>de <unclear>comm?itione</unclear> verae vitae ubi dicit quod 
           <lb ed="#B"/>tamen mens seipsum cogitat quasi mentem 
           <cb ed="#B" n="b"/>
@@ -296,7 +296,7 @@
           <lb ed="#B"/>aequale vel convincat se per productionem 
           <lb ed="#B"/>nam antecedens de essentia divina et spiritu sancto 
           <lb ed="#B"/>habet quilibet fidelis concedere et consequentiam 
-          <lb ed="#B"/>constanter negare Ex quo patet <name>ma<lb ed="#B"/>gister
+          <lb ed="#B"/>constanter negare Ex quo patet <name xml:id="jhb-l1q9-Nd1e688">ma<lb ed="#B"/>gister
           Johannem de braculis</name> nichil 
           <lb ed="#B"/>concludere omnino
         </p>
@@ -343,7 +343,7 @@
         <p xml:id="jhb-l1q9-d1e4587">
           <pc type="virgula"/>ad prima rationem contra 2am 
           <lb ed="#B"/>partem neganda est consequentia secundum quod patet ex 
-          <lb ed="#B"/>dictis <name>domini aegidii</name> corollario 3o conclusionis 
+          <lb ed="#B"/>dictis <name xml:id="jhb-l1q9-Nd1e806">domini aegidii</name> corollario 3o conclusionis 
         </p>
         <p xml:id="jhb-l1q9-d1e4600">
           <pc type="virgula"/><pc type="virgula"/>ad 
@@ -373,17 +373,17 @@
           praesupponeret et eo indigeret quod 
           <lb ed="#B"/>est falsum patet consequentia virtute istius propositio<lb ed="#B"/>nis 
           <unclear>prae</unclear> falsitatem aut consequenter expresse ponit 
-          <lb ed="#B"/><name ref="#Augustine">augustinus</name> in libro de vera innocentia circa 
+          <lb ed="#B"/><name xml:id="jhb-l1q9-Nd1e875" ref="#Augustine">augustinus</name> in libro de vera innocentia circa 
           <lb ed="#B"/>finem ubi dicit quibusdam aeter<lb ed="#B"/>nis 
           potest esse aliqua distantia ipsa aut 
           <lb ed="#B"/>aeternitas absque diversitate naturae est 
-          <lb ed="#B"/>pro 2a parte conclusionis istius est <name ref="#Lombard">magister</name> in<lb ed="#B"/>fra 
+          <lb ed="#B"/>pro 2a parte conclusionis istius est <name xml:id="jhb-l1q9-Nd1e887" ref="#Lombard">magister</name> in<lb ed="#B"/>fra 
           distinctione 43 capitulo 3o dicens <quote xml:id="jhb-l1q9-Qd1e4684" source="http://scta.info/resource/pll1d43c1-d1e3525">exactionis 
           <lb ed="#B"/>verbum non proprie dicitur de deo</quote>
         </p>
         <p xml:id="jhb-l1q9-d1e939">
           primum 
-          <lb ed="#B"/>corollarium contra <name>scotum</name> in conclusione ubi supra distinc<lb ed="#B"/>tione 
+          <lb ed="#B"/>corollarium contra <name xml:id="jhb-l1q9-Nd1e902">scotum</name> in conclusione ubi supra distinc<lb ed="#B"/>tione 
           2a quam repugngnat verbo intrinseca 
           <lb ed="#B"/>ab aliqua dependentia causa incompossibilis 
           <lb ed="#B"/>est ei alicuius praeexigentia patet quia 
@@ -417,7 +417,7 @@
           <lb ed="#B"/>satis nota est ut videtur
         </p>
         <p xml:id="jhb-l1q9-d1e1008">
-          <pc ana="#pilcrow"/>2o sic <quote source="http://scta.info/resource/io5_19@5-16">fi<lb ed="#B"/>lius 
+          <pc ana="#pilcrow"/>2o sic <quote xml:id="jhb-l1q9-Qd1e970" source="http://scta.info/resource/io5_19@5-16">fi<lb ed="#B"/>lius 
           a se non potest facere quidquam nisi 
           <pb ed="#B" n="73-r"/>
           <cb ed="#B" n="a"/>
@@ -454,7 +454,7 @@
           <lb ed="#B"/>non minus prima persona est potens 
           <lb ed="#B"/>respectu 2ae quam foret si filius deus di<lb ed="#B"/>stinctus 
           persona et natura esset 
-          <lb ed="#B"/>sed tunc 2m <name>richardum</name> primo <title>de trinitate</title> capitulo 
+          <lb ed="#B"/>sed tunc 2m <name xml:id="jhb-l1q9-Nd1e1055">richardum</name> primo <title>de trinitate</title> capitulo 
           <lb ed="#B"/>ultimo pater posset facere eum nulli 
           <lb ed="#B"/>potentem igitur et nunc
         </p>
@@ -533,7 +533,7 @@
           a patre sed cum dicitur sed si filius fo<lb ed="#B"/>ret 
           a patre distinctus deus natura 
           <lb ed="#B"/>et persona posset ipsum facere nulli 
-          <lb ed="#B"/>potentem dico quod non nec ratio <name>richardui</name>
+          <lb ed="#B"/>potentem dico quod non nec ratio <name xml:id="jhb-l1q9-Nd1e1231">richardui</name>
           <lb ed="#B"/>valet pro hoc nec etiam declaratio doctoris 
           <lb ed="#B"/>subtilis distinctione 2a primi sententiarum
         </p>
@@ -558,11 +558,11 @@
         </p>
         <p xml:id="jhb-l1q9-d1e1335">
           <pc ana="#pilcrow"/>Ad rationem 
-          <lb ed="#B"/>contra 3m corollarium dico primo cum <name>hylario</name> 
+          <lb ed="#B"/>contra 3m corollarium dico primo cum <name xml:id="jhb-l1q9-Nd1e1289">hylario</name> 
           <lb ed="#B"/>quod filius est per se et non a se 2o di<lb ed="#B"/>co 
           quod differt dicere hoc est in se et 
           <lb ed="#B"/>hoc est per se et hoc est a se secundum quod 
-          <lb ed="#B"/>dicit <name ana="#JordonOfSaxony">lector iordanus de saxonia</name> 
+          <lb ed="#B"/>dicit <name xml:id="jhb-l1q9-Nd1e1300" ana="#JordonOfSaxony">lector iordanus de saxonia</name> 
           <lb ed="#B"/>super illo 10 primo medius autem stetit
           <lb ed="#B"/>etc nam accidens est in se non per se su<lb ed="#B"/>ppositum 
           per se et tamen solus deus 
@@ -625,7 +625,7 @@
           <lb ed="#B"/>probatur per 2am partem conclusionis quia haec 
           <lb ed="#B"/>salva huius fide tenetur sed contra hoc 
           <lb ed="#B"/>arguit et <unclear>significanter</unclear> contra illud corollarium primo 
-          <lb ed="#B"/>rationibus <name>sancti thomae</name> parte prima quaestione 
+          <lb ed="#B"/>rationibus <name xml:id="jhb-l1q9-Nd1e1433">sancti thomae</name> parte prima quaestione 
           <lb ed="#B"/>41 articulo 6 primo sic relationes eius<lb ed="#B"/>dem 
           speciei non possunt multiplicari 
           <lb ed="#B"/>nisi 2m materialem distinctionem sed illa 
@@ -634,7 +634,7 @@
         </p>
         <p xml:id="jhb-l1q9-d1e1504">
           <pc ana="#pilcrow"/>2o contra 
-          <lb ed="#B"/>idem est ratio <name>aureoli</name> in ista distinctione quaestione 2a 
+          <lb ed="#B"/>idem est ratio <name xml:id="jhb-l1q9-Nd1e1453">aureoli</name> in ista distinctione quaestione 2a 
           <lb ed="#B"/>articulo 3 praecisa ratio quare pater non potest alium 
           <lb ed="#B"/>filium generare est quia ista filiatio huius 
           <lb ed="#B"/>filii est tota quidditas subsistens 
@@ -644,7 +644,7 @@
         </p>
         <p xml:id="jhb-l1q9-d1e1528">
           <pc ana="#pilcrow"/>3o contra idem est ratio 
-          <name>ockam</name> distinctione ista <unclear>a</unclear> quaestione 3 articulo 2 quia
+          <name xml:id="jhb-l1q9-Nd1e1474">ockam</name> distinctione ista <unclear>a</unclear> quaestione 3 articulo 2 quia
           <lb ed="#B"/>non possunt esse plures relationes eius<lb ed="#B"/>dem 
           omnino in eodem fundamento 
           <lb ed="#B"/>nisi propter diversitatem absolutorum sed in 
@@ -653,7 +653,7 @@
         </p>
         <p xml:id="jhb-l1q9-d1e1550">
           <pc ana="#pilcrow"/>4o contra 
-          <lb ed="#B"/>idem est ratio <name>doctoris sollempnis</name> 6 quoli<lb ed="#B"/>bet 
+          <lb ed="#B"/>idem est ratio <name xml:id="jhb-l1q9-Nd1e1496">doctoris sollempnis</name> 6 quoli<lb ed="#B"/>bet 
           quaestione prima quia actus adaequatus 
           <lb ed="#B"/>principio productivo et semper stans non 
           <lb ed="#B"/>compatitur secum alium actum eiusdem 
@@ -661,7 +661,7 @@
           <lb ed="#B"/>actus generationis paternae igitur corollarium falsum
         </p>
         <p xml:id="jhb-l1q9-d1e1571">
-          <lb ed="#B"/><pc ana="#pilcrow"/>5o contra idem est ratio <name>doctoris subtilis</name> 
+          <lb ed="#B"/><pc ana="#pilcrow"/>5o contra idem est ratio <name xml:id="jhb-l1q9-Nd1e1515">doctoris subtilis</name> 
           <lb ed="#B"/>in suo quolibet quaestione 2aquia si possunt 
           <lb ed="#B"/>esse plures productiones eiusdem rationis 
           <lb ed="#B"/>igitur et infinite sed quidquid esse potest
@@ -670,7 +670,7 @@
           <lb ed="#B"/>ibi est igitur infinite ibi forent generatio<lb ed="#B"/>nes
         </p>
         <p xml:id="jhb-l1q9-d1e1595">
-          <pc ana="#virgula"/><pc ana="#virgula"/>6o contra hoc est ratio <name>doctoris 
+          <pc ana="#virgula"/><pc ana="#virgula"/>6o contra hoc est ratio <name xml:id="jhb-l1q9-Nd1e1538">doctoris 
           <lb ed="#B"/>nostri hugolini</name> in ista <unclear>a</unclear> distinctione quaestione 2 conclusione 
           <lb ed="#B"/>2 quia producere plures notitias 
           <lb ed="#B"/>in divinis est simpliciter inpossibile ex 
@@ -684,7 +684,7 @@
         </p>
         <p xml:id="jhb-l1q9-d1e1629">
           <pc ana="#virgula"/><pc ana="#virgula"/>alia 
-          <lb ed="#B"/>contra idem est ratio <name>bonsilantis</name> hoc suo 
+          <lb ed="#B"/>contra idem est ratio <name xml:id="jhb-l1q9-Nd1e1573">bonsilantis</name> hoc suo 
           <lb ed="#B"/>primo in illa quaestione qua quaerit utrum potentia 
           <lb ed="#B"/>generandi sit in filio ubi sic ar<lb ed="#B"/>guit 
           pater non potest alia notitia 
@@ -694,7 +694,7 @@
           antecedens probatur cum primo quia 
           <lb ed="#B"/>pater nunc infinitissime novit se 
           <lb ed="#B"/>tanta sapientia quanta est ipsa sua 
-          <lb ed="#B"/>essentia ut probatur per <ref xml:id="jhb-l1q9-Rd1e1661" target="http://scta.info/resource/adt-l15"><name>augustinum</name> 15 de trinitate 
+          <lb ed="#B"/>essentia ut probatur per <ref xml:id="jhb-l1q9-Rd1e1661" target="http://scta.info/resource/adt-l15"><name xml:id="jhb-l1q9-Nd1e1598">augustinum</name> 15 de trinitate 
           <lb ed="#B"/>capitulo 14o</ref>
         </p>
         <p xml:id="jhb-l1q9-d1e1669">
@@ -713,7 +713,7 @@
         </p>
         <p xml:id="jhb-l1q9-d1e1704">
           Istud 
-          <lb ed="#B"/>idem posset esse processus <name>aegidii</name> 
+          <lb ed="#B"/>idem posset esse processus <name xml:id="jhb-l1q9-Nd1e1642">aegidii</name> 
           <lb ed="#B"/>libro primo distinctione 7 quaestione ultimo ubi dat 
           <lb ed="#B"/>differentiam inter verbum nostrum et divinum 
           <lb ed="#B"/>prima quia verbum divinum semper 
@@ -761,23 +761,23 @@
         </p>
         <p xml:id="jhb-l1q9-d1e1806">
           tum 2o propter minorem quam ne<lb ed="#B"/>gareret 
-          sibi <name>doctor noster inventius 
+          sibi <name xml:id="jhb-l1q9-Nd1e1744">doctor noster inventius 
           <lb ed="#B"/>iacobus de viterbio</name> qui ponetur 
           <lb ed="#B"/>plura absoluta in divinis scilicet modos 
           <lb ed="#B"/>absolutos
         </p>
         <p xml:id="jhb-l1q9-d1e1821">
           Tum 3o quia 2m quod di<lb ed="#B"/>cit 
-          <name>dominus alphonsus</name> non videntur 
+          <name xml:id="jhb-l1q9-Nd1e1758">dominus alphonsus</name> non videntur 
           <lb ed="#B"/>magis incompossibiles tales plures re<lb ed="#B"/>lationes 
           in eodedm finito quam plura 
           <lb ed="#B"/>accidentia eiusdem rationis in eodem 
-          <lb ed="#B"/>subiecto sed hoc concedit <name>ockam</name> in ea<lb ed="#B"/>dem 
+          <lb ed="#B"/>subiecto sed hoc concedit <name xml:id="jhb-l1q9-Nd1e1769">ockam</name> in ea<lb ed="#B"/>dem 
           quaestione igitur etc
         </p>
         <p xml:id="jhb-l1q9-d1e1843">
           Solutio 4ae 
-          <lb ed="#B"/>rationis quae est <name>doctoris sollempnis</name> 
+          <lb ed="#B"/>rationis quae est <name xml:id="jhb-l1q9-Nd1e1778">doctoris sollempnis</name> 
           <lb ed="#B"/>de actu adaequato dico quod non 
           <lb ed="#B"/>valet quia cum pluralitas productorum 2m 
           <lb ed="#B"/>aliquos eiusdem rationis proveniat
@@ -796,7 +796,7 @@
         </p>
         <p xml:id="jhb-l1q9-d1e1883">
           5a 
-          <lb ed="#B"/>ratio <name>doctoris subtilis</name> non concludit 
+          <lb ed="#B"/>ratio <name xml:id="jhb-l1q9-Nd1e1817">doctoris subtilis</name> non concludit 
           <lb ed="#B"/>quia ista consequentia non est formalis 
           <lb ed="#B"/>possunt esse duo igitur et infinit quia 
           <lb ed="#B"/>nec sequitur hic in creaturis iste potest 
@@ -824,7 +824,7 @@
           <lb ed="#B"/>primo quod non dixi assertive sed dixi 
           <lb ed="#B"/>primo quod non dixi assertive sed dixi 
           <lb ed="#B"/>quod aliqui ponerent et verum est sicud 
-          <lb ed="#B"/>patet parte prima <name>sancti thomae</name> quod 41 
+          <lb ed="#B"/>patet parte prima <name xml:id="jhb-l1q9-Nd1e1877">sancti thomae</name> quod 41 
           <lb ed="#B"/>articulo 64o ratione 
         </p>
         <p xml:id="jhb-l1q9-d1e1955">
@@ -834,7 +834,7 @@
           <lb ed="#B"/>esset in divinis
         </p>
         <p xml:id="jhb-l1q9-d1e1965">
-          Ad rationes <name>bonsiml<lb ed="#B"/>antes</name> 
+          Ad rationes <name xml:id="jhb-l1q9-Nd1e1894">bonsiml<lb ed="#B"/>antes</name> 
           quae 7o loco sunt posita 
           <lb ed="#B"/>potest dici ad primam cum dicit pater 
           <cb ed="#B" n="b"/>
@@ -857,7 +857,7 @@
           3o dicitur quod si sumitur 
           <lb ed="#B"/>antecedens pro notitia in qua et non solum 
           <lb ed="#B"/>etiam proponit quod deberet probare 
-          <lb ed="#B"/>nam secundum <name>augustinum</name> pater omnia novit 
+          <lb ed="#B"/>nam secundum <name xml:id="jhb-l1q9-Nd1e1942">augustinum</name> pater omnia novit 
           <lb ed="#B"/>in se et omnia novit in verbo verbum 
           <lb ed="#B"/>igitur est notitia in qua pater novit 
           <lb ed="#B"/>diere igitur pater non potest alia notitia 
@@ -869,7 +869,7 @@
           <lb ed="#B"/>facta
         </p>
         <p xml:id="jhb-l1q9-d1e2039">
-          Ad dicta <name>domini Aegidii</name> potest primo 
+          Ad dicta <name xml:id="jhb-l1q9-Nd1e1967">domini Aegidii</name> potest primo 
           <lb ed="#B"/>dici quod ibi non intendit probare nisi 
           <lb ed="#B"/>differentiam verbi dei et nostri et sufficienter haec 
           <lb ed="#B"/>ostendit

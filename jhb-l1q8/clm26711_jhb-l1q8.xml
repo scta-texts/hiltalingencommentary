@@ -55,7 +55,7 @@
           <lb ed="#B"/>Praeterea quaeri solet etc Ista est 
           <lb ed="#B"/>6a distinctio huius primi libri 
           <lb ed="#B"/>quae ad praecedentia sic continuatur 
-          <lb ed="#B"/>postquam <name ref="#Lombard">magister</name> tractavit numerum generationis 
+          <lb ed="#B"/>postquam <name xml:id="jhb-l1q8-Nd1e103" ref="#Lombard">magister</name> tractavit numerum generationis 
           <lb ed="#B"/>quantum ad generans et genitum nunc 
           <lb ed="#B"/>in ista parte incipit tractare quantum 
           <lb ed="#B"/>ad generationis modum ad dividitur in tres 
@@ -73,7 +73,7 @@
           <lb ed="#B"/>et solvit instantiam tunc pars est ibi 
           <lb ed="#B"/>sed circa hoc opponitur tunc sequitur 3a pars principalis 
           <lb ed="#B"/>quae essentiam dividitur in duas partes 
-          <lb ed="#B"/>nam <name>magister</name> circa declarationem ponit 
+          <lb ed="#B"/>nam <name xml:id="jhb-l1q8-Nd1e145">magister</name> circa declarationem ponit 
           <lb ed="#B"/>intentionem suam 2o concludit de<lb ed="#B"/>clarationem 
           esse veram tunc 2a pars est 
           <lb ed="#B"/>ibi dicamus quia pater sicut sapi<lb ed="#B"/>ens 
@@ -88,15 +88,15 @@
           <lb ed="#B"/>est fecunda igitur quaestio falsa consequentia 
           <lb ed="#B"/>plana assumptum arguitur cum primo quia 
           <lb ed="#B"/>naturaliter est per modum naturae est fecunda 
-          <lb ed="#B"/>2m <name>damascenus</name> libro primo capitulo 8 quia generatio 
-          <lb ed="#B"/>est opus naturae et <name>richardus</name> 6 <title>de 
+          <lb ed="#B"/>2m <name xml:id="jhb-l1q8-Nd1e179">damascenus</name> libro primo capitulo 8 quia generatio 
+          <lb ed="#B"/>est opus naturae et <name xml:id="jhb-l1q8-Nd1e184">richardus</name> 6 <title>de 
           <lb ed="#B"/>trinitate</title> capitulo nichil itaque ubi est iuxta 
           <lb ed="#B"/>donum largiens gratiae Sed totum iuxta 
           <lb ed="#B"/>proprietatem exigentis naturae cum 2o quia 
           <lb ed="#B"/>verbi productio non est voluntatis operatio 
           <lb ed="#B"/>sed conplacere est actus voluntatis 
           <cb ed="#B" n="b"/>
-          <lb ed="#B"/>secundum <name ref="#Anselm">anselmum</name> <title>de conceptu virginali</title> capitulo 10 
+          <lb ed="#B"/>secundum <name xml:id="jhb-l1q8-Nd1e204" ref="#Anselm">anselmum</name> <title>de conceptu virginali</title> capitulo 10 
           <lb ed="#B"/>cum 3o causa naturaliter est actu 
           <lb ed="#B"/>producens quam ipse potest esse producens 
           <lb ed="#B"/>vel etiam memoria creata sed hoc 
@@ -112,8 +112,8 @@
         <p xml:id="jhb-l1q8-d1e256">
           <lb ed="#B"/><pc ana="#pilcrow"/>3o sic memoria nec est libere nec 
           <lb ed="#B"/>naturaliter determinata igitur quaestio falsa consequentia 
-          <lb ed="#B"/>tenet antecedens arguitur primo per <name ref="#Augustine">augustinum</name> <title>&gt;ad 
-          <lb ed="#B"/>orosium</title> quaestione 8 2a auctoritate <name>hylari</name> libro 
+          <lb ed="#B"/>tenet antecedens arguitur primo per <name xml:id="jhb-l1q8-Nd1e249" ref="#Augustine">augustinum</name> <title>&gt;ad 
+          <lb ed="#B"/>orosium</title> quaestione 8 2a auctoritate <name xml:id="jhb-l1q8-Nd1e258">hylari</name> libro 
           <lb ed="#B"/>2o <title>de synodum</title> capitulo 2o si quis dicat quod 
           <lb ed="#B"/>pater naturali necessitate ductus genuit 
           <lb ed="#B"/>filium anathema sic 2o quia de<lb ed="#B"/>terminari 
@@ -137,7 +137,7 @@
           <lb ed="#B"/>sed ista sonant inperfectionem igitur etc.
         </p>
         <p xml:id="jhb-l1q8-d1e325">
-          <lb ed="#B"/><pc ana="#pilcrow"/>In oppositum videtur <name>beatus augustinus</name> 15 <title>de trinitate</title> 
+          <lb ed="#B"/><pc ana="#pilcrow"/>In oppositum videtur <name xml:id="jhb-l1q8-Nd1e312">beatus augustinus</name> 15 <title>de trinitate</title> 
           capitulo 2o pater generat et est pater natura 
           <lb ed="#B"/>et 9 <title>de trinitate</title> capitulo ultimo partum mentis praecedit 
           <lb ed="#B"/>appetitus quidam Item 9 <title>de trinitate<!-- dbcheck against de civitate --></title> 
@@ -147,8 +147,8 @@
         </p>
         <p xml:id="jhb-l1q8-d1e355">
           <pc ana="#pilcrow"/>Ad idem videtur esse 
-          <lb ed="#B"/>determinatio <name ref="#Lombard">magistri</name> et significanter in fine 
-          <lb ed="#B"/>destinationis allegans verba <name ref="#Augustine">augustini</name> 
+          <lb ed="#B"/>determinatio <name xml:id="jhb-l1q8-Nd1e340" ref="#Lombard">magistri</name> et significanter in fine 
+          <lb ed="#B"/>destinationis allegans verba <name xml:id="jhb-l1q8-Nd1e345" ref="#Augustine">augustini</name> 
           <lb ed="#B"/>super <title ref="#eph">epistola ad ephesios</title>
         </p>
         <p xml:id="jhb-l1q8-d1e376">
@@ -161,12 +161,12 @@
           <lb ed="#B"/><title>richardus</title> 6 <title>de trinitate</title> capitulo 7 dicentis inge<lb ed="#B"/>nitum 
           velle de se habere conformem 
           <lb ed="#B"/>atque condignum idem videtur mihi quod 
-          <lb ed="#B"/>gignere ad idem videtur esse <name ref="#Dionysius">dy<lb ed="#B"/>onisius</name> 
+          <lb ed="#B"/>gignere ad idem videtur esse <name xml:id="jhb-l1q8-Nd1e382" ref="#Dionysius">dy<lb ed="#B"/>onisius</name> 
           de divinis nominibus dicens 
           <lb ed="#B"/>amore divinus non dimisit <unclear>deum</unclear>
           <lb ed="#B"/><seg type="correction"><metamark>b</metamark>sine <metamark>a</metamark>esse</seg> <unclear>germine</unclear> huic conclusioni videtur 
           <lb ed="#B"/>pater consentire in 3o dicens 
-          <lb ed="#B"/><quote source="http://scta.info/resource/mt3_17@7-15">hic est filius mens dilectus 
+          <lb ed="#B"/><quote xml:id="jhb-l1q8-Qd1e404" source="http://scta.info/resource/mt3_17@7-15">hic est filius mens dilectus 
           <lb ed="#B"/>in quo michi bene conplacui</quote>
         </p>
         <p xml:id="jhb-l1q8-d1e435">
@@ -193,8 +193,8 @@
           incommutabile verbum nullo modo 
           <lb ed="#B"/>prius producere voluit quam ipsum 
           <lb ed="#B"/>producit vel produxit patet quia tunc 
-          <lb ed="#B"/>voluntate antecedente contra <name ref="#Augustine">augustinum</name> <title>ad oro<lb ed="#B"/>sium</title> 
-          <lb ed="#B"/>quaestione 8 2 <name>magistrum</name> in littera et conclusionem 
+          <lb ed="#B"/>voluntate antecedente contra <name xml:id="jhb-l1q8-Nd1e466" ref="#Augustine">augustinum</name> <title>ad oro<lb ed="#B"/>sium</title> 
+          <lb ed="#B"/>quaestione 8 2 <name xml:id="jhb-l1q8-Nd1e476">magistrum</name> in littera et conclusionem 
           <lb ed="#B"/>hic positam quia hoc diceret 
           <lb ed="#B"/>imperfectionem
         </p>
@@ -207,22 +207,22 @@
           <lb ed="#B"/>productivum et per consquens verbum poterit 
           <cb ed="#B" n="b"/>
           <lb ed="#B"/>esse indifferenter vel non esse quod est 
-          <lb ed="#B"/>falsum ratio est <name ref="#Aquinas">sancti thomae</name> parte prima 
+          <lb ed="#B"/>falsum ratio est <name xml:id="jhb-l1q8-Nd1e506" ref="#Aquinas">sancti thomae</name> parte prima 
           <lb ed="#B"/>quaestione 41 articulo 2o
         </p>
         <p xml:id="jhb-l1q8-d1e541">
-          Et inducit <name>thomas 
+          Et inducit <name xml:id="jhb-l1q8-Nd1e515">thomas 
           <lb ed="#B"/>de argentis</name> eam contra eum quia 
           <lb ed="#B"/>tunc sequitur quod spiritus sanctus posset aliter 
           <lb ed="#B"/>esse cum voluntas eius sic principium pro<lb ed="#B"/>ductivum 
-          sed sine dubio <name>doctor sanctus</name> 
-          <lb ed="#B"/>in ista parte non fuit a <name>thomam</name> 
+          sed sine dubio <name xml:id="jhb-l1q8-Nd1e526">doctor sanctus</name> 
+          <lb ed="#B"/>in ista parte non fuit a <name xml:id="jhb-l1q8-Nd1e531">thomam</name> 
           <lb ed="#B"/>bene intellectus sicut patet per totum 2m 
           <lb ed="#B"/>articulum 2m
         </p>
         <p xml:id="jhb-l1q8-d1e568">
           <pc ana="#pilcrow"/>2o contra primum et 2m 
-          <lb ed="#B"/>corollarium arguitur auctoritate una <name>richardus</name> 6 <title>de 
+          <lb ed="#B"/>corollarium arguitur auctoritate una <name xml:id="jhb-l1q8-Nd1e544">richardus</name> 6 <title>de 
           <lb ed="#B"/>trinitate</title> capitulo 7 in fine ubi dicit quamvis 
           <lb ed="#B"/>utrique filius scilicet et spiritus sanctus a patre 
           <lb ed="#B"/>sit est tamen alius et alius modus 
@@ -233,10 +233,10 @@
           <lb ed="#B"/>modus procedendi unius et alterius <pc type="virgula">/</pc><pc type="virgula">/</pc>
         </p>
         <p xml:id="jhb-l1q8-d1e604">
-          Contra 3m corollarium est sententia <name>doctoris 
+          Contra 3m corollarium est sententia <name xml:id="jhb-l1q8-Nd1e575">doctoris 
           <lb ed="#B"/>subtilis</name> in ista 6 distinctione 
           <lb ed="#B"/>quaestione unica et confirmatur <unclear>voluntas</unclear> secundum 
-          <name ref="#Augustine">augustinum</name> 
+          <name xml:id="jhb-l1q8-Nd1e584" ref="#Augustine">augustinum</name> 
           <lb ed="#B"/>11 <title>de trinitate</title> capitulo 8 copulant actionem cogitantis 
           <lb ed="#B"/>cum memoria adhuc quod proles gignatur 
           <lb ed="#B"/>sed sic complacere est perfectius igitur debet 
@@ -244,7 +244,7 @@
         </p>
         <p xml:id="jhb-l1q8-d1e633">
           <pc ana="#pilcrow"/>ad idem videtur facere 
-          <lb ed="#B"/>dictum <name>augustini</name> supra in pede quaestionis 
+          <lb ed="#B"/>dictum <name xml:id="jhb-l1q8-Nd1e606">augustini</name> supra in pede quaestionis 
           <lb ed="#B"/>allegatum partum mentis praecedit 
           <lb ed="#B"/>appetitus
         </p>
@@ -257,7 +257,7 @@
           intelligitur primo modo sic est vera 
           <lb ed="#B"/>et alia pars antecedentis falsa Si 2o modo si prima 
           <lb ed="#B"/>pars est falsa et 2a vera Et sic si<lb ed="#B"/>militer 
-          respondeo ad 2m quod autem <name>richardus</name> 
+          respondeo ad 2m quod autem <name xml:id="jhb-l1q8-Nd1e639">richardus</name> 
           <lb ed="#B"/>sic intellexit patet per eum in principio 
           <lb ed="#B"/>illius cui ubi dicit quod utriusque per<lb ed="#B"/>sonae 
           productio procedit de voluntate
@@ -267,20 +267,20 @@
           <lb ed="#B"/><unclear>intelligentur</unclear> principare secundum quod dictum est igitur 
           <lb ed="#B"/>complacenter et coexigitive qua<lb ed="#B"/>liter 
           autem ista differant satis pu<lb ed="#B"/>lchre 
-          ostendit <name>doctor subtilis</name> 
+          ostendit <name xml:id="jhb-l1q8-Nd1e664">doctor subtilis</name> 
           <lb ed="#B"/>dicens hac 6 quaestione unica articulo 2o
         </p>
         <p xml:id="jhb-l1q8-d1e708">
           <pc ana="#pilcrow"/>ad 
           <lb ed="#B"/>3m non credo auctoritati doctoris in 
           <lb ed="#B"/>ista parte sed oppositum credo sicut 
-          <lb ed="#B"/>satis sufficienter ostendit <name ref="#Rimini">gregorius</name> 
+          <lb ed="#B"/>satis sufficienter ostendit <name xml:id="jhb-l1q8-Nd1e679" ref="#Rimini">gregorius</name> 
           in ista 6 distinctione quaestione unica 
           <lb ed="#B"/>articulo 2o ad rationem igitur cum arguitur vo<lb ed="#B"/>luntas 
           <lb ed="#B"/>copulat etc concedo et cum 
           <lb ed="#B"/>dicitur hoc est perfectionis <pc type="virgula">/</pc> nota 
           <lb ed="#B"/>quod duplex est actus elicitus 
-          <lb ed="#B"/>et perceptus patet per <name>augustinum</name> 11 <title>de trinitate</title> capitulo 
+          <lb ed="#B"/>et perceptus patet per <name xml:id="jhb-l1q8-Nd1e699">augustinum</name> 11 <title>de trinitate</title> capitulo 
           13 prius potest esse in nobis sine <unclear>com<lb ed="#B"/>placione</unclear> 
           voluntatis sed non <unclear>2s</unclear> talis igitur 
           <lb ed="#B"/>conplacentia contingit propter obiec<lb ed="#B"/>talem 
@@ -290,13 +290,13 @@
           <lb ed="#B"/>potest ibi esse tlais distnatia obiec<lb ed="#B"/>talis 
           quare complacentia in deo non 
           <lb ed="#B"/>habet locum per istum modum sed tunc 
-          <lb ed="#B"/>adhuc videtur stare dictum <name>augustini</name> partum 
+          <lb ed="#B"/>adhuc videtur stare dictum <name xml:id="jhb-l1q8-Nd1e728">augustini</name> partum 
           <lb ed="#B"/>mentis <unclear>c</unclear> dico quod loquitur de partu 
           <lb ed="#B"/>mentis nostrae sicut patet ex textu se<lb ed="#B"/>quenti
         </p>
         <p xml:id="jhb-l1q8-d1e783">
           <pc ana="#pilcrow"/>aliam responsionem ponit 
-          <lb ed="#B"/><name ref="#BonsemblantesBaduarius">bonsimblant</name> in ista distinctione 
+          <lb ed="#B"/><name xml:id="jhb-l1q8-Nd1e744" ref="#BonsemblantesBaduarius">bonsimblant</name> in ista distinctione 
           <lb ed="#B"/>quam dimitto etc
         </p>
         <p xml:id="jhb-l1q8-d1e794">
@@ -304,7 +304,7 @@
           <lb ed="#B"/>omnis actus patris aeternalis est 
           <lb ed="#B"/>actus <unclear>notionalis</unclear> probatur quia aliter 
           <lb ed="#B"/>sequitur quod actus praedestinationis 
-          <lb ed="#B"/><name ref="#Peter">petri</name> esset actus notionalis quod 
+          <lb ed="#B"/><name xml:id="jhb-l1q8-Nd1e764" ref="#Peter">petri</name> esset actus notionalis quod 
           <lb ed="#B"/>dicere est frustra dicere nec verum
         </p>
         <p xml:id="jhb-l1q8-d1e815">
@@ -360,7 +360,7 @@
           <lb ed="#B"/>igitur et in ipso maior probatur quia ipse 
           <lb ed="#B"/>est amore sui ipsius et est amor 
           <lb ed="#B"/>amborum duorum sicut dicit infra 
-          <lb ed="#B"/><name>magister</name> in isto primo et minor esset nota 
+          <lb ed="#B"/><name xml:id="jhb-l1q8-Nd1e888">magister</name> in isto primo et minor esset nota 
           <lb ed="#B"/>igitur etc
         </p>
         <p xml:id="jhb-l1q8-d1e941">
@@ -380,7 +380,7 @@
         <p xml:id="jhb-l1q8-d1e979">
           <pc ana="#pilcrow"/>Ad ista respondeo et quia 
           <lb ed="#B"/>difficilia sunt <unclear>appodiabo</unclear> me ad 
-          <lb ed="#B"/>dicta doctoris unde <name ref="#Anselm">venerabilis anselmus</name> <title>monologion</title>
+          <lb ed="#B"/>dicta doctoris unde <name xml:id="jhb-l1q8-Nd1e939" ref="#Anselm">venerabilis anselmus</name> <title>monologion</title>
           <lb ed="#B"/>62 capitulo usque ad 65 haec plane 
           <lb ed="#B"/>tractat et solvit bene in principio 
           <lb ed="#B"/>62i dubii in esse non debet quod pater 
@@ -404,7 +404,7 @@
           <lb ed="#B"/>et una substantia quae dicitur consequitur non 
           <lb ed="#B"/>ibi esse plura verba sed unum dedu<lb ed="#B"/>cit 
           hoc usque ad 65 capitulo <unclear>??</unclear> idem est 
-          <name ref="#HenryOfGhent">doctor sollempnis</name> parte prima articulo 39o 
+          <name xml:id="jhb-l1q8-Nd1e1000" ref="#HenryOfGhent">doctor sollempnis</name> parte prima articulo 39o 
           <lb ed="#B"/>quaestione 8 ubi quaerit utrum in deo sit 
           <lb ed="#B"/>aliqua actio manens intra non 
           <lb ed="#B"/>terminata ad extra ubi ponit differentiam 
@@ -428,7 +428,7 @@
         <p xml:id="jhb-l1q8-d1e1102">
           <pc ana="#pilcrow"/>pro solutione tamen eorum 
           <lb ed="#B"/>est etiam notandum illud quod <del rend="expunctuation">acc</del> 
-          <lb ed="#B"/>ait <name ref="#Aquinas">sanctus thomas</name> quaestione 4 <title>de veritate</title> 
+          <lb ed="#B"/>ait <name xml:id="jhb-l1q8-Nd1e1060" ref="#Aquinas">sanctus thomas</name> quaestione 4 <title>de veritate</title> 
           <lb ed="#B"/>articulo 2o dicens in divinis invenimus 
           <lb ed="#B"/>quaedam quae originem impor<lb ed="#B"/>tant 
           non 2m rem sed 2m rationem tantum 
@@ -479,7 +479,7 @@
           <lb ed="#B"/>quod pater neccessario suum verbum producit
           <pb ed="#B" n="71-r"/>
           <cb ed="#B" n="a"/>
-          <lb ed="#B"/>vel produxit contra <name>augustinum</name> <title>ad orosium</title> quaestione 8 
+          <lb ed="#B"/>vel produxit contra <name xml:id="jhb-l1q8-Nd1e1181">augustinum</name> <title>ad orosium</title> quaestione 8 
           <lb ed="#B"/>ut supra in quovis pede fuit ad<lb ed="#B"/>uctum 
           patet consequentia quia non est possibile 
           <lb ed="#B"/>non producere ipsum igitur neccesse quia haec 
@@ -489,8 +489,8 @@
           <pc ana="#pilcrow"/>Contra primum corollarium si hoc esset 
           <lb ed="#B"/>verum sequeretur quod pater aliqualiter in<lb ed="#B"/>digeret 
           filio quod est falsum sicut probat 
-          <lb ed="#B"/><name ref="#Rimini">gregorius</name> distinctione <del rend="expunctuation">6</del> hac 6 quaestione unica articulo primo 
-          <lb ed="#B"/>sed tamen ipsum concedit <name ref="#Aureoli">aureolus</name> distinctione 
+          <lb ed="#B"/><name xml:id="jhb-l1q8-Nd1e1210" ref="#Rimini">gregorius</name> distinctione <del rend="expunctuation">6</del> hac 6 quaestione unica articulo primo 
+          <lb ed="#B"/>sed tamen ipsum concedit <name xml:id="jhb-l1q8-Nd1e1219" ref="#Aureoli">aureolus</name> distinctione 
           <lb ed="#B"/>6 quaestione prima articulo primo propositione 2a <pc type="virgula">/</pc><pc type="virgula">/</pc>
         </p>
         <p xml:id="jhb-l1q8-d1e1289">
@@ -511,7 +511,7 @@
         </p>
         <p xml:id="jhb-l1q8-d1e1321">
           <pc ana="#pilcrow"/>Ad idem proce<lb ed="#B"/>ssus 
-          <name>doctoris inventini Iacobi de 
+          <name xml:id="jhb-l1q8-Nd1e1267">doctoris inventini Iacobi de 
             <lb ed="#B"/>viterbo</name> quaestione 16 de divinis praedicamentis 
           <lb ed="#B"/>puncto primo et 2o 5 principalis 
           <lb ed="#B"/>ubi <sic>ubi</sic> in primo puncto ostendit quod in 
@@ -535,8 +535,8 @@
         </p>
         <p xml:id="jhb-l1q8-d1e1377">
           <pc type="virgula">/</pc><pc type="virgula">/</pc>Ad ista 
-          <lb ed="#B"/>respondeo ad primum concedo consequens ad <name ref="#Augustine">augustinum</name> 
-          <lb ed="#B"/><name ref="#HilaryOfPoitiers">hilarium</name> dico quod intelligunt de <choice><orig>neccessitate</orig><reg>necessitate</reg></choice> 
+          <lb ed="#B"/>respondeo ad primum concedo consequens ad <name xml:id="jhb-l1q8-Nd1e1323" ref="#Augustine">augustinum</name> 
+          <lb ed="#B"/><name xml:id="jhb-l1q8-Nd1e1327" ref="#HilaryOfPoitiers">hilarium</name> dico quod intelligunt de <choice><orig>neccessitate</orig><reg>necessitate</reg></choice> 
           <cb ed="#B" n="b"/> <!-- 71rb -->
           <lb ed="#B"/>coactionis vel indigentiae sed non ine<lb ed="#B"/>vitabiliter 
           vel indigentiae summendo 
@@ -545,7 +545,7 @@
         <p xml:id="jhb-l1q8-d1e1412">
           <pc ana="#pilcrow"/>Ad 
           <lb ed="#B"/>2m nego consequens rationes solvuntur 
-          <lb ed="#B"/>per <name ref="#Rimini">gregorium</name> ubi est dictum et etiam per <name ref="#BonsemblantesBaduarius">bon<lb ed="#B"/>simlantem</name> 
+          <lb ed="#B"/>per <name xml:id="jhb-l1q8-Nd1e1355" ref="#Rimini">gregorium</name> ubi est dictum et etiam per <name xml:id="jhb-l1q8-Nd1e1358" ref="#BonsemblantesBaduarius">bon<lb ed="#B"/>simlantem</name> 
           in ista 6 distinctione satis sufficienter 
           <lb ed="#B"/>ideo nec eas recito nec solvo
         </p>

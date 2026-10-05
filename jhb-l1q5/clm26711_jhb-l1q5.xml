@@ -54,7 +54,7 @@
           <lb ed="#B" n="57"/>Apostolus namque etc ista est 3a distinc<lb ed="#B"/>tio 
           istius libri primi quae potest ad 
           <lb ed="#B"/>praecedentem sic <unclear>continu??</unclear> post<lb ed="#B"/>quam 
-          in praecedenti dicit <name ref="#Lombard">magister</name> probavit 
+          in praecedenti dicit <name xml:id="jhb-l1q5-Nd1e106" ref="#Lombard">magister</name> probavit 
           naturae divinae unitatem et personarum trinitatem 
           per auctoritates sacrae scripturae nunc in ista inten<lb ed="#B"/>dit 
           hoc idem probare rationibus congru<lb ed="#B"/>is 
@@ -98,7 +98,7 @@
           et arguitur 
           <lb ed="#B"/>primo quod non quia intellectiva non est 
           <lb ed="#B"/>formaliter activa erog quaestio falsa tenet consequentia antecedens probatur 
-          <lb ed="#B"/>per <name>Iohannem de marchia</name> quaestione 2a suarum de<lb ed="#B"/>terminationem 
+          <lb ed="#B"/>per <name xml:id="jhb-l1q5-Nd1e225">Iohannem de marchia</name> quaestione 2a suarum de<lb ed="#B"/>terminationem 
           conclusione 4a ubi dicit nulla 
           <lb ed="#B"/>potentia vitalis intellectualis substantiae 
           in creaturis est activa formaliter 
@@ -128,9 +128,9 @@
         </p>
         <p xml:id="jhb-l1q5-d1e303">
           <note type="marginal-note" place="margin-left">oppositum</note>
-          <pc ana="#pilcrow"/>In oppositum est <name ref="#Lombard">magister</name> in 
+          <pc ana="#pilcrow"/>In oppositum est <name xml:id="jhb-l1q5-Nd1e298" ref="#Lombard">magister</name> in 
           <lb ed="#B"/>littera probans quaestionem esse veram per dicta 
-          <lb ed="#B"/><name>augustinus</name> in multis locis
+          <lb ed="#B"/><name xml:id="jhb-l1q5-Nd1e304">augustinus</name> in multis locis
         </p>
         <p xml:id="jhb-l1q5-d1e320">
           <note type="marginal-note" place="margin-left">prima conclusio</note>
@@ -145,7 +145,7 @@
           <lb ed="#B"/>sic est perceptiva aut quia activum 
           <lb ed="#B"/>est ex eo Superius adesse intellectualiter 
           <lb ed="#B"/>vitale primum non inpedit quia 2m 
-          <lb ed="#B"/><name ref="#Aristotle">philosophum</name> ideo anima est activa actum 
+          <lb ed="#B"/><name xml:id="jhb-l1q5-Nd1e337" ref="#Aristotle">philosophum</name> ideo anima est activa actum 
           <cb ed="#B" n="b"/>
           <lb ed="#B"/>vitalium quia est vita corporis
         </p>
@@ -398,7 +398,7 @@
           <lb ed="#B"/>omnis divinus ternarius in creaturis suum 
           <lb ed="#B"/>proprium habet vestigium ista conclusio quantum ad eius 
           <lb ed="#B"/>materiam deducitur a quodam veniali 
-          <lb ed="#B"/><unclear>vio</unclear> licet non magistro <name>micahe de massa</name>
+          <lb ed="#B"/><unclear>vio</unclear> licet non magistro <name xml:id="jhb-l1q5-Nd1e900">micahe de massa</name>
           <cb ed="#B" n="b"/>
           <lb ed="#B"/>quaestione prima distinctione 4 sui primi sententiarum nam 
           <lb ed="#B"/>in deo est ternarius secundum proprietatem continue
@@ -434,18 +434,18 @@
           <pc ana="#pilcrow"/>primum corollarium nihil tam <unclear>obiecto</unclear> 
           <lb ed="#B"/>est in universo quam reali creaturae 
           <lb ed="#B"/>ad divina non possit manudctio ista 
-          <lb ed="#B"/>est in forma <name>ysidorus</name> primo de summo 
+          <lb ed="#B"/>est in forma <name xml:id="jhb-l1q5-Nd1e1004">ysidorus</name> primo de summo 
           <lb ed="#B"/>bono <unclear>t</unclear>
         </p>
         <p xml:id="jhb-l1q5-d1e1046">
           <pc ana="#pilcrow"/>4o ubi dicit dixerunt anti<lb ed="#B"/>qui 
           quod nihil tam obiectum est quod non 
-          <lb ed="#B"/>habeat sensus in divina pro hoc est <name>hugo</name>
+          <lb ed="#B"/>habeat sensus in divina pro hoc est <name xml:id="jhb-l1q5-Nd1e1019">hugo</name>
           <lb ed="#B"/>libro primo et 2o de tribus diebus vel 
           <lb ed="#B"/>de tribus invisibilibus ad idem est 
           <lb ed="#B"/>magister in illa 3a distinctio probans hoc per tex<lb ed="#B"/>tum 
           apostoli et augustini scitis diffuse et dominus 
-          <lb ed="#B"/><name>aegidius</name> etiam prolixe hoc dedu<lb ed="#B"/>cit
+          <lb ed="#B"/><name xml:id="jhb-l1q5-Nd1e1031">aegidius</name> etiam prolixe hoc dedu<lb ed="#B"/>cit
         </p>
         <p xml:id="jhb-l1q5-d1e1073">
           <pc ana="#pilcrow"/><lb ed="#B"/>3m corollarium quaelibet creatura 
@@ -464,7 +464,7 @@
         <p xml:id="jhb-l1q5-d1e1104">
           <lb ed="#B"/><pc ana="#pilcrow"/>3m corollarium omnis intellectus concipi<lb ed="#B"/>ens 
           aliquod creatum format con<lb ed="#B"/>ceptum 
-          soli deo proprium probatur per auctoritates <name>augustinus</name> 9 <title>de trinitatis</title> capitulo <unclear>1</unclear> dico 
+          soli deo proprium probatur per auctoritates <name xml:id="jhb-l1q5-Nd1e1075">augustinus</name> 9 <title>de trinitatis</title> capitulo <unclear>1</unclear> dico 
           <lb ed="#B"/>bonus animus duo dico scilicet bonus 
           <lb ed="#B"/>et animus igitur format conceptum bonitatis 
           <lb ed="#B"/>sed iste non potest esse deo et creaturae 
@@ -480,7 +480,7 @@
           rationem
         </p>
         <p xml:id="jhb-l1q5-d1e1149">
-          <pc ana="#pilcrow"/>contra conclusionem est <name>apostolus</name>
+          <pc ana="#pilcrow"/>contra conclusionem est <name xml:id="jhb-l1q5-Nd1e1112">apostolus</name>
           <lb ed="#B"/>roma 11 <quote xml:id="jhb-l1q5-Qd1e1158" source="http://scta.info/resource/rom11_33@9-16">incomprehensibilia sunt iu<lb ed="#B"/>dicia 
           eius et investigabiles viae 
           <lb ed="#B"/>eius</quote>
@@ -559,7 +559,7 @@
         <p xml:id="jhb-l1q5-d1e1315">
           <pc ana="#pilcrow"/>3a distinctio quod fore concipere 
           <lb ed="#B"/>contingit dupliciter perceptibiliter vel 
-          <lb ed="#B"/>imperceptibiliter <del>d <!-- unclear --></del> patet per <name>augustinum</name> in <title>de trinitate</title> 
+          <lb ed="#B"/>imperceptibiliter <del>d <!-- unclear --></del> patet per <name xml:id="jhb-l1q5-Nd1e1282">augustinum</name> in <title>de trinitate</title> 
           <lb ed="#B"/>c 8
         </p>
         <p xml:id="jhb-l1q5-d1e1337">
@@ -597,15 +597,15 @@
           <cb ed="#B" n="a"/>
           <lb ed="#B"/>voluntas sed consequentia probatur quia voluntas 
           <lb ed="#B"/>est una mens una substantia una 
-          <lb ed="#B"/>vita sed <name>augustinus</name> ut habetur in littera 
+          <lb ed="#B"/>vita sed <name xml:id="jhb-l1q5-Nd1e1366">augustinus</name> ut habetur in littera 
           <lb ed="#B"/>distinctionis 3o primi sententiarum qua 
           <lb ed="#B"/>re conclusio videtur vera sed quod sit receptiva 
           <lb ed="#B"/>communiter tenetur non indiget <unclear>magna</unclear>
           <lb ed="#B"/>probatione potest tamen probari primo 
           <lb ed="#B"/>ex textu evvangelii lucis 16 <quote xml:id="jhb-l1q5-Qd1e1432" source="http://scta.info/resource/lc16_25@5-6"><sic>filii</sic> re<lb ed="#B"/>cordare</quote> 
           ubi loquitur ad animam sed hoc non fuit solum parabala sed 
-          <lb ed="#B"/>etiam hystoria secundum <name>augustinum</name> 8 <title>super genesem</title> 
-          <lb ed="#B"/>capitulo 7 ad idem est <name>venerabilis anselmus</name> <title>de con<lb ed="#B"/>ceptu 
+          <lb ed="#B"/>etiam hystoria secundum <name xml:id="jhb-l1q5-Nd1e1390">augustinum</name> 8 <title>super genesem</title> 
+          <lb ed="#B"/>capitulo 7 ad idem est <name xml:id="jhb-l1q5-Nd1e1396">venerabilis anselmus</name> <title>de con<lb ed="#B"/>ceptu 
           virginali</title> capitulo 4o in membris 
           <lb ed="#B"/>corporis nichil delete nihchil de<lb ed="#B"/>lectatur nisi anima et voluntas rationalis
         </p>
@@ -618,7 +618,7 @@
           <lb ed="#B"/>obiectum talis actus est principium effecti<lb ed="#B"/>vum 
           <seg type="correction">par<subst><del>tila</del><add>tiale</add></subst></seg> secundum quod parvi in quaestio<lb ed="#B"/>ne 
           primae distinctionis et probatur 
-          <lb ed="#B"/>9 <title>de trinitate</title> capitulo 13 ubi <name>augustinus</name> omnis 
+          <lb ed="#B"/>9 <title>de trinitate</title> capitulo 13 ubi <name xml:id="jhb-l1q5-Nd1e1440">augustinus</name> omnis 
           <lb ed="#B"/>res quam cognoscimus <unclear>cong?at</unclear> in 
           <lb ed="#B"/>nobis notitiam sui sed cum hoc habet 
           ipsam anima principium et causam 
@@ -642,7 +642,7 @@
           <lb ed="#B"/>repraesentativa probatur quia est ibi 
           <lb ed="#B"/>essentialis unitas et causalis trinitas 
           <lb ed="#B"/>igitur corollarium verum consequentia et antecedens patent 
-          <lb ed="#B"/>ex dictis <name>augustinis</name> et <name>magistri</name> in littera 
+          <lb ed="#B"/>ex dictis <name xml:id="jhb-l1q5-Nd1e1497">augustinis</name> et <name xml:id="jhb-l1q5-Nd1e1499">magistri</name> in littera 
           <lb ed="#B"/>praesentis distinctionis 3ae primi <choice><sic>li<lb ed="#B"/>beri</sic><corr>li<lb ed="#B"/>bri</corr></choice>
         </p>
         <p xml:id="jhb-l1q5-d1e1576">
@@ -719,12 +719,12 @@
           minus veram puto ideo sto in prima
         </p>
         <p xml:id="jhb-l1q5-d1e1736">
-          <lb ed="#B"/><pc ana="#pilcrow"/>ad 3m dico secundum quod dicit <name>thomas 
+          <lb ed="#B"/><pc ana="#pilcrow"/>ad 3m dico secundum quod dicit <name xml:id="jhb-l1q5-Nd1e1677">thomas 
           <lb ed="#B"/>de argentis</name> ista distinctione 3a articulo 
-          <lb ed="#B"/>primo quaestione 2a Et <name>bonsilant</name> quaestione 3 articulo 
+          <lb ed="#B"/>primo quaestione 2a Et <name xml:id="jhb-l1q5-Nd1e1684">bonsilant</name> quaestione 3 articulo 
           <lb ed="#B"/>2 ymago tripliciter sumitur uno modo 
           <lb ed="#B"/>penes ipsam anima et eius potentias 
-          <lb ed="#B"/>praecise sic <name ref="#Augustine">augstinus</name> 14 <title>de trinitate</title> capitulo 3o <unclear>abs?t</unclear> 
+          <lb ed="#B"/>praecise sic <name xml:id="jhb-l1q5-Nd1e1693" ref="#Augustine">augstinus</name> 14 <title>de trinitate</title> capitulo 3o <unclear>abs?t</unclear> 
           ut cum animae natura sit inmor<lb ed="#B"/>talis 
           ut ab initio quo creata 
           <lb ed="#B"/>est umqum de esse desistat illud 
@@ -734,7 +734,7 @@
           <pc ana="#pilcrow"/>2o modo sumitur 
           <lb ed="#B"/>ymago non solum pro potentiis 
           <lb ed="#B"/>secundum pro potentia actibus informatis 
-          <lb ed="#B"/>et sic loquitur de ymagine <name>augustinus</name> 
+          <lb ed="#B"/>et sic loquitur de ymagine <name xml:id="jhb-l1q5-Nd1e1719">augustinus</name> 
           <lb ed="#B"/>eodem modo 14 capitulo 8
         </p>
         <p xml:id="jhb-l1q5-d1e1793">
@@ -742,7 +742,7 @@
           cum tales actus et habitus 
           <lb ed="#B"/>habet respectu divini obiecti aeterni et inmensi 
           <lb ed="#B"/>creatoris et factoris sui et et sic loquitur 
-          <lb ed="#B"/><name ref="#Augustine">augustinus</name> capitulo 13 ibidem et sic patet quid 
+          <lb ed="#B"/><name xml:id="jhb-l1q5-Nd1e1736" ref="#Augustine">augustinus</name> capitulo 13 ibidem et sic patet quid 
           <lb ed="#B"/>dicendum ad totam quaestionem
         </p>
       </div>

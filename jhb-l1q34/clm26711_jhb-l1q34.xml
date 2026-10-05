@@ -109,8 +109,8 @@
           hono<lb ed="#B" n="16" break="no"/>rem perfecte patet quia melius esset 
           <lb ed="#B" n="17"/>talia non esse quod esse igitur quaestio falsa 
           <lb ed="#B" n="18"/>In oppositum arguitur per illud apostoli ad  
-          <lb ed="#B" n="19"/>Romano 11 <quote source="http://scta.info/resource/rom11_36@2-10">Ex ipso et per ipsum et in ipso sunt  
-          <lb ed="#B" n="20"/>omnia</quote> et primo Cortto 12 <quote source="http://scta.info/resource/Icor12_6@9-12">operat omnia  
+          <lb ed="#B" n="19"/>Romano 11 <quote xml:id="jhb-l1q34-Qd1e212" source="http://scta.info/resource/rom11_36@2-10">Ex ipso et per ipsum et in ipso sunt  
+          <lb ed="#B" n="20"/>omnia</quote> et primo Cortto 12 <quote xml:id="jhb-l1q34-Qd1e217" source="http://scta.info/resource/Icor12_6@9-12">operat omnia  
           <lb ed="#B" n="21"/>in omnibus</quote> et augustinus enchiridion 11 us  
           <lb ed="#B" n="22"/>omnipotens non nisi volens quid quam  
           <lb ed="#B" n="23"/>facit igitur quaestio vera
@@ -253,7 +253,7 @@
           <lb ed="#B" n="41"/>ydealiter raespeontans et nos fective 
           ap<lb ed="#B" n="42" break="no"/>plicans patet quia 2m augustinum 11 conf
           <lb ed="#B" n="43"/>capitulo qa non aliter facit quodcumque facit  
-          <lb ed="#B" n="44"/>quam dicendo Et gense primo <quote source="http://scta.info/resource/ps32_9@2-6">dixit  
+          <lb ed="#B" n="44"/>quam dicendo Et gense primo <quote xml:id="jhb-l1q34-Qd1e492" source="http://scta.info/resource/ps32_9@2-6">dixit  
           <lb ed="#B" n="45"/>et facta sunt</quote> sed tale dicere aeque primo  
           <lb ed="#B" n="46"/>competit Et facta sunt utraque potentiae  
           <lb ed="#B" n="47"/>simul consuative praectite igitur corollarium  

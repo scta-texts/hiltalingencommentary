@@ -368,7 +368,7 @@
                 <lb ed="#B" n="13"/>spiritu dei agentur hii filii sunt</quote>  
                 <lb ed="#B" n="14"/>ubi notanter apostolus dicit spiritum non  
                 <lb ed="#B" n="15"/>spiritum solum ¶ ultima particula patet  
-                <lb ed="#B" n="16"/>ex illo dicto apostoli <quote source="http://scta.info/resource/rom8_9@17-27">qui spiritum christi non  
+                <lb ed="#B" n="16"/>ex illo dicto apostoli <quote xml:id="jhb-l1q17-Qd1e828" source="http://scta.info/resource/rom8_9@17-27">qui spiritum christi non  
                 <lb ed="#B" n="17"/>habet hic non est eius</quote>
               </p>
             </div>
@@ -477,7 +477,7 @@
                 <!--101r.xml-->
                 <pb ed="#B" n="101-r"/>
                 <cb ed="#B" n="a"/>
-                  <lb ed="#B" n="1"/>pro nobis</quote> <quote source="http://scta.info/resource/n6MsPi-14wdDm-d1e1062" synch="240-256">quid inquit <name xml:id="jhb-l1q17-Nd1e1060">augustinus</name> est <quote source="http://scta.info/resource/rom8_27">ipse  
+                  <lb ed="#B" n="1"/>pro nobis</quote> <quote xml:id="jhb-l1q17-Qd1e1084" source="http://scta.info/resource/n6MsPi-14wdDm-d1e1062" synch="240-256">quid inquit <name xml:id="jhb-l1q17-Nd1e1060">augustinus</name> est <quote xml:id="jhb-l1q17-Qd1e1089" source="http://scta.info/resource/rom8_27">ipse  
                 <lb ed="#B" n="2"/>spiritus interpellat pro sanctis</quote> nisi ipsa 
                 <lb ed="#B" n="3"/>caritas quae in te per spiritum sanctum <unclear>facta</unclear> est</quote>
                 <lb ed="#B" n="4"/>igitur illa caritas non est spiritus aliter  
@@ -650,7 +650,7 @@
                 in<lb ed="#B" n="32" break="no"/>clinat et operatur potentia solum operatur  
                 <lb ed="#B" n="33"/>sed spiritus sanctus non movet actualiter  
                 <lb ed="#B" n="34"/>nisi quando vult mentem operari secundum quod  
-                <lb ed="#B" n="35"/>potest haberi ex illo <ref xml:id="jhb-l1q17-Rd1e1458">ezekiel primo</ref> <quote source="http://scta.info/resource/ez1_12">>ubi
+                <lb ed="#B" n="35"/>potest haberi ex illo <ref xml:id="jhb-l1q17-Rd1e1458">ezekiel primo</ref> <quote xml:id="jhb-l1q17-Qd1e1500" source="http://scta.info/resource/ez1_12">&gt;ubi
                 e<lb ed="#B" n="36" break="no"/>rat impetus spiritus illuc
                 gradie<lb ed="#B" n="37" break="no"/>bantur</quote> igitur sequitur corollarium
               </p>
